@@ -193,4 +193,4 @@ These companies are known for asking advanced graph problems in specific roles:
 
 SCC questions are a high-risk, high-reward topic. Solidify your foundation with targeted practice.
 
-[Practice all Strongly Connected Component questions on CodeJeet](/topic/strongly-connected-component)
+[Practice all Strongly Connected Component questions on TidyBit](/topic/strongly-connected-component)

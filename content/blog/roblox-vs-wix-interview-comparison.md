@@ -6,7 +6,7 @@ category: "tips"
 tags: ["roblox", "wix", "comparison"]
 ---
 
-When preparing for technical interviews at specific companies, understanding their question patterns is crucial for efficient study. Both Roblox and Wix have a total of 56 tagged questions on CodeJeet, but their difficulty distributions and focal topics differ, signaling distinct engineering priorities. This comparison breaks down their profiles to help you strategize your preparation.
+When preparing for technical interviews at specific companies, understanding their question patterns is crucial for efficient study. Both Roblox and Wix have a total of 56 tagged questions on TidyBit, but their difficulty distributions and focal topics differ, signaling distinct engineering priorities. This comparison breaks down their profiles to help you strategize your preparation.
 
 ## Question Volume and Difficulty
 
@@ -73,4 +73,4 @@ If you are aiming for **front-end, full-stack, or web infrastructure roles**, st
 
 For a generalist preparing for both types of companies, begin with the **common core**: drill problems on Arrays, Strings, and Hash Tables until you are extremely proficient. This foundation will serve for either company. Then, branch out based on your specific interview schedule: practice Math problems for Roblox or DFS/tree problems for Wix.
 
-For more detailed question lists, visit the [Roblox](/company/roblox) and [Wix](/company/wix) company pages on CodeJeet.
+For more detailed question lists, visit the [Roblox](/company/roblox) and [Wix](/company/wix) company pages on TidyBit.

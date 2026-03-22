@@ -93,4 +93,4 @@ Conversely, if Twitter is your primary target, after mastering the core topics, 
 
 Ultimately, the overlap makes dual preparation efficient. Mastering the common algorithms will serve you well, while being mindful of Walmart's DP depth and Twitter's design focus will allow you to tailor your final review.
 
-For specific question lists and patterns, visit the CodeJeet pages for [Walmart Labs](/company/walmart-labs) and [Twitter](/company/twitter).
+For specific question lists and patterns, visit the TidyBit pages for [Walmart Labs](/company/walmart-labs) and [Twitter](/company/twitter).

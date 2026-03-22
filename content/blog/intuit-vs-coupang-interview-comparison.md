@@ -122,4 +122,4 @@ Once comfortable with Intuit's spectrum, transition to **Coupang**. Your core sk
 
 In essence, preparing for Intuit builds the comprehensive toolkit needed to tackle Coupang's more concentrated and immediately challenging interview.
 
-For detailed question lists, visit the Intuit and Coupang pages on CodeJeet: [Intuit Interview Questions](/company/intuit) | [Coupang Interview Questions](/company/coupang)
+For detailed question lists, visit the Intuit and Coupang pages on TidyBit: [Intuit Interview Questions](/company/intuit) | [Coupang Interview Questions](/company/coupang)

@@ -189,4 +189,4 @@ Enumeration is a staple at companies that deeply assess algorithmic fundamentals
 3.  **Master Duplicate Handling:** A major pitfall in medium problems. Learn to sort inputs and skip identical choices at the same decision level (e.g., `if i > start and nums[i] == nums[i-1]: continue`).
 4.  **Time Complexity Analysis:** Be ready to explain the O() of your enumeration. It's typically O(branching_factor^depth \* work_per_node). Understanding this helps you justify your approach and identify optimization opportunities.
 
-[Practice all Enumeration questions on CodeJeet](/topic/enumeration)
+[Practice all Enumeration questions on TidyBit](/topic/enumeration)

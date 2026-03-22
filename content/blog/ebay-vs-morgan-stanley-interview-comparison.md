@@ -115,5 +115,5 @@ Then, pivot to **eBay**. This transition requires adding depth in Sorting-based 
 
 Ultimately, preparing for Morgan Stanley builds a robust algorithmic foundation, while adapting for eBay requires extending that foundation into different problem-solving patterns.
 
-- Practice eBay questions: [CodeJeet eBay Interview Questions](/company/ebay)
-- Practice Morgan Stanley questions: [CodeJeet Morgan Stanley Interview Questions](/company/morgan-stanley)
+- Practice eBay questions: [TidyBit eBay Interview Questions](/company/ebay)
+- Practice Morgan Stanley questions: [TidyBit Morgan Stanley Interview Questions](/company/morgan-stanley)

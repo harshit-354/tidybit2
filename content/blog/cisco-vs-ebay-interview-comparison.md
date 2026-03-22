@@ -98,4 +98,4 @@ However, if you are preparing broadly, tackle **Cisco's question list first**. I
 
 Ultimately, a strong foundation in the shared topics will get you most of the way. Then, allocate final review time to the specific patterns favored by your target company.
 
-For detailed question lists, visit the Cisco and eBay pages on CodeJeet: [/company/cisco](/company/cisco) and [/company/ebay](/company/ebay).
+For detailed question lists, visit the Cisco and eBay pages on TidyBit: [/company/cisco](/company/cisco) and [/company/ebay](/company/ebay).

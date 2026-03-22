@@ -114,6 +114,6 @@ Build your DP skills progressively. Follow this order to solidify understanding 
 3.  **Classic 2D DP:** 0/1 Knapsack, Longest Common Subsequence (learn tabulation on grids).
 4.  **String DP:** Edit Distance, Longest Palindromic Subsequence.
 5.  **Interval & Advanced:** Matrix Chain Multiplication, Partition Equal Subset Sum.
-6.  **Huawei-Specific Practice:** Finally, solve problems tagged for Huawei on platforms like CodeJeet, focusing on the problem types outlined above.
+6.  **Huawei-Specific Practice:** Finally, solve problems tagged for Huawei on platforms like TidyBit, focusing on the problem types outlined above.
 
 [Practice Dynamic Programming at Huawei](/company/huawei/dynamic-programming)

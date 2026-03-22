@@ -107,4 +107,4 @@ A structured approach is non-negotiable. Here is a focused plan.
 
 Mastering these patterns and executing a disciplined study plan will build the muscle memory needed to perform under interview pressure.
 
-[Browse all Paytm questions on CodeJeet](/company/paytm)
+[Browse all Paytm questions on TidyBit](/company/paytm)

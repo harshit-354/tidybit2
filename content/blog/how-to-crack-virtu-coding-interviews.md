@@ -71,7 +71,7 @@ public boolean isPalindrome(String s) {
 ## Preparation Strategy — 4-6 Week Study Plan
 
 **Weeks 1-2: Foundation & Core Topics**
-Dedicate this phase exclusively to Strings and Math. Solve 30-40 Easy problems from these categories on CodeJeet. For each problem, write the solution in your primary language, then immediately re-implement it in a second language. This reinforces syntax and logic. Focus on patterns: two-pointers, sliding window for strings, and modulo/bit manipulation for math.
+Dedicate this phase exclusively to Strings and Math. Solve 30-40 Easy problems from these categories on TidyBit. For each problem, write the solution in your primary language, then immediately re-implement it in a second language. This reinforces syntax and logic. Focus on patterns: two-pointers, sliding window for strings, and modulo/bit manipulation for math.
 
 **Weeks 3-4: Speed & Accuracy Drills**
 Shift to timed practice. Aim to solve 2-3 Easy problems in a 45-minute block, mimicking a phone screen. Prioritize Virtu’s tagged questions. For each problem, practice verbalizing your thought process before writing code. After solving, analyze your code for edge cases (empty strings, negative numbers, integer overflow) and refactor for clarity.
@@ -92,4 +92,4 @@ Conduct at least 3 mock interviews with a peer or using a platform. Simulate the
 
 Success in Virtu’s interviews hinges on demonstrating consistent, reliable coding skill on the fundamentals. Systematic practice on the core topics will build the muscle memory and confidence needed to perform under pressure.
 
-[Browse all Virtu questions on CodeJeet](/company/virtu)
+[Browse all Virtu questions on TidyBit](/company/virtu)

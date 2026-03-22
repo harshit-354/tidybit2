@@ -13,7 +13,7 @@ For fresher hiring, the process typically involves the InfyTQ certification exam
 
 ## By the Numbers
 
-Infosys has **158 questions** in the CodeJeet database, with a difficulty profile that is more demanding than you might expect:
+Infosys has **158 questions** in the TidyBit database, with a difficulty profile that is more demanding than you might expect:
 
 - **Easy: 42 questions (27%)** — About a quarter of the pool. A reasonable warmup set, but Infosys is not purely a basics-testing company.
 - **Medium: 82 questions (52%)** — The largest segment. Medium problems dominate the interview experience.
@@ -601,4 +601,4 @@ public class FastIOExample {
 
 </div>
 
-[Browse all Infosys questions on CodeJeet](/company/infosys)
+[Browse all Infosys questions on TidyBit](/company/infosys)

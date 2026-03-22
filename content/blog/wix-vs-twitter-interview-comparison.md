@@ -122,4 +122,4 @@ Once comfortable, transition to **Twitter** preparation. This shift requires two
 
 Effectively, preparing for Wix builds your algorithmic core, while preparing for Twitter adds a layer of advanced problem-solving and design on top of that core. If interviewing for both, this sequential approach is efficient. If you have only one target, focus intensely on its specific profile: algorithmic depth and trees for Wix, versus high difficulty and design for Twitter.
 
-For a deeper dive into each company's question list, visit the [Wix](/company/wix) and [Twitter](/company/twitter) pages on CodeJeet.
+For a deeper dive into each company's question list, visit the [Wix](/company/wix) and [Twitter](/company/twitter) pages on TidyBit.

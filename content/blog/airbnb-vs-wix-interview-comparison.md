@@ -6,7 +6,7 @@ category: "tips"
 tags: ["airbnb", "wix", "comparison"]
 ---
 
-When preparing for technical interviews, company-specific question patterns reveal what each organization prioritizes in their hiring process. Airbnb and Wix, while both being prominent tech companies, show distinct differences in their question banks on CodeJeet. Understanding these differences can help you allocate your study time effectively.
+When preparing for technical interviews, company-specific question patterns reveal what each organization prioritizes in their hiring process. Airbnb and Wix, while both being prominent tech companies, show distinct differences in their question banks on TidyBit. Understanding these differences can help you allocate your study time effectively.
 
 ## Question Volume and Difficulty
 
@@ -149,5 +149,5 @@ For a generalist preparing for both or similar companies, **start with the share
 
 Explore the specific question lists to tailor your practice:
 
-- [Airbnb Questions on CodeJeet](/company/airbnb)
-- [Wix Questions on CodeJeet](/company/wix)
+- [Airbnb Questions on TidyBit](/company/airbnb)
+- [Wix Questions on TidyBit](/company/wix)

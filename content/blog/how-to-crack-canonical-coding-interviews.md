@@ -114,4 +114,4 @@ A focused, consistent plan is more effective than cramming. Follow this roadmap:
 
 Mastering these fundamentals, practicing with focus, and adopting a precise, communicative approach will give you a significant advantage in Canonical's coding interviews.
 
-[Browse all Canonical questions on CodeJeet](/company/canonical)
+[Browse all Canonical questions on TidyBit](/company/canonical)

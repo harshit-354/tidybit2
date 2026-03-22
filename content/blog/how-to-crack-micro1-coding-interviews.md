@@ -107,4 +107,4 @@ public int firstUniqChar(String s) {
 
 Mastering these focused patterns and executing this deliberate plan will position you strongly for the Micro1 interview loop. Consistency beats cramming every time.
 
-[Browse all Micro1 questions on CodeJeet](/company/micro1)
+[Browse all Micro1 questions on TidyBit](/company/micro1)

@@ -82,4 +82,4 @@ Given the high density of Hard problems, a superficial review won't suffice. You
 
 Success in Hulu's interviews comes from targeted, depth-first preparation. Master the core patterns, grind through Hard problems, and polish your communication.
 
-[Browse all Hulu questions on CodeJeet](/company/hulu)
+[Browse all Hulu questions on TidyBit](/company/hulu)

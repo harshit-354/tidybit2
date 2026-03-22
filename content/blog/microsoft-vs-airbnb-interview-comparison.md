@@ -88,4 +88,4 @@ At Airbnb, this might be embedded in a problem about merging overlapping booking
 
 In essence, Microsoft preparation is about building a wide, strong foundation. Airbnb preparation is about specializing and polishing. A strategy of studying Microsoft's patterns first, then drilling into Airbnb's specific list, is highly efficient.
 
-For targeted practice, visit the Microsoft question list at [https://www.codejeet.com/company/microsoft](https://www.codejeet.com/company/microsoft) and the Airbnb list at [https://www.codejeet.com/company/airbnb](https://www.codejeet.com/company/airbnb).
+For targeted practice, visit the Microsoft question list at [https://www.tidybit.com/company/microsoft](https://www.tidybit.com/company/microsoft) and the Airbnb list at [https://www.tidybit.com/company/airbnb](https://www.tidybit.com/company/airbnb).

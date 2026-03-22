@@ -109,4 +109,4 @@ If your goal is to interview at **both**, prepare for **Goldman Sachs first**. I
 
 If you are only targeting one company, tailor your deep dive accordingly: drill into DP and a wide variety of Medium problems for Goldman Sachs; for LinkedIn, prioritize graph theory, DFS/BFS, tree problems, and the curated Medium list.
 
-For targeted practice, visit the [Goldman Sachs question list](/company/goldman-sachs) and the [LinkedIn question list](/company/linkedin) on CodeJeet.
+For targeted practice, visit the [Goldman Sachs question list](/company/goldman-sachs) and the [LinkedIn question list](/company/linkedin) on TidyBit.

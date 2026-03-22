@@ -198,4 +198,4 @@ class Trie {
 3.  **Practice Trie Implementation Blindfolded.** Given its prominence, you must be able to write a Trie class, including insert and search, quickly and without errors. This is a high-yield investment.
 4.  **Test with Edge Cases.** Explicitly run your code through examples like empty input, single-element arrays, large values, and duplicate entries. This demonstrates thoroughness.
 
-Mastering these patterns and practicing under timed conditions will build the confidence and skill needed to succeed. For targeted practice, [Browse all Zscaler questions on CodeJeet](/company/zscaler).
+Mastering these patterns and practicing under timed conditions will build the confidence and skill needed to succeed. For targeted practice, [Browse all Zscaler questions on TidyBit](/company/zscaler).

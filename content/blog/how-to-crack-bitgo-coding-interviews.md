@@ -163,4 +163,4 @@ Given the difficulty curve, a superficial one-week cram is insufficient. Follow 
 
 Success in a Bitgo interview is a function of deliberate, pattern-focused practice under realistic conditions. Start with the fundamentals, ramp up the difficulty, and simulate the real environment until the process is automatic.
 
-[Browse all Bitgo questions on CodeJeet](/company/bitgo)
+[Browse all Bitgo questions on TidyBit](/company/bitgo)

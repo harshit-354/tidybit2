@@ -85,5 +85,5 @@ Start with **Microsoft**. Its larger question bank provides a more comprehensive
 
 Once comfortable with the core patterns from Microsoft's list, you can efficiently transition to Apple's specific questions. Focus on Apple's Medium and Hard problems to understand any nuances in their problem selection or presentation. This two-step approach—build a wide foundation with Microsoft's extensive list, then refine and specialize with Apple's—is the most efficient path if you are targeting both companies.
 
-For targeted practice, visit the Microsoft and Apple question lists on CodeJeet: [Microsoft Interview Questions](/company/microsoft) | [Apple Interview Questions](/company/apple)
+For targeted practice, visit the Microsoft and Apple question lists on TidyBit: [Microsoft Interview Questions](/company/microsoft) | [Apple Interview Questions](/company/apple)
 ```

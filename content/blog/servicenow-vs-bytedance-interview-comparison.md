@@ -80,4 +80,4 @@ Switch focus to **ByteDance** once your fundamentals are strong and you need to 
 
 Ultimately, the strong topic overlap makes preparing for one beneficial for the other. Start with the broader foundation ServiceNow's list provides, then drill into the depth emphasized by ByteDance.
 
-For specific company question lists, visit the CodeJeet pages for [ServiceNow](/company/servicenow) and [ByteDance](/company/bytedance).
+For specific company question lists, visit the TidyBit pages for [ServiceNow](/company/servicenow) and [ByteDance](/company/bytedance).

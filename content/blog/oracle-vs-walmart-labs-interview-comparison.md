@@ -87,4 +87,4 @@ Once comfortable with the Walmart Labs scope, transition to Oracle preparation b
 
 This sequential approach is efficient. You build a strong, confident foundation with the narrower list, then scale up to the broader, deeper list without having to learn entirely new domains.
 
-For targeted question lists and more details, visit the Oracle and Walmart Labs pages on CodeJeet: [Oracle Interview Questions](/company/oracle) | [Walmart Labs Interview Questions](/company/walmart-labs)
+For targeted question lists and more details, visit the Oracle and Walmart Labs pages on TidyBit: [Oracle Interview Questions](/company/oracle) | [Walmart Labs Interview Questions](/company/walmart-labs)

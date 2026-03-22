@@ -115,4 +115,4 @@ Recursion is a universal concept, but some top tech companies emphasize it more 
 
 Mastering these patterns and strategies turns recursion from a confusing concept into a reliable problem-solving tool. The only way to build the necessary intuition is through deliberate practice.
 
-[Practice all Recursion questions on CodeJeet](/topic/recursion)
+[Practice all Recursion questions on TidyBit](/topic/recursion)

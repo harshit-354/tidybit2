@@ -91,4 +91,4 @@ A focused, consistent plan is non-negotiable.
 
 Mastering these patterns and this strategy will transform the interview from a mystery into a series of solvable, practical challenges. Your preparation should mirror the job: systematic, detail-oriented, and focused on execution.
 
-[Browse all Riot Games questions on CodeJeet](/company/riot-games)
+[Browse all Riot Games questions on TidyBit](/company/riot-games)

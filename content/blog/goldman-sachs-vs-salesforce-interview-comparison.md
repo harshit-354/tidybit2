@@ -144,4 +144,4 @@ After solidifying your foundation with Goldman-style problems, transition to Sal
 
 This sequential approach—breadth and speed with Goldman, then depth and optimization with Salesforce—efficiently builds the comprehensive skill set required to succeed in both interview processes.
 
-For detailed question lists and patterns, visit the [Goldman Sachs](/company/goldman-sachs) and [Salesforce](/company/salesforce) company pages on CodeJeet.
+For detailed question lists and patterns, visit the [Goldman Sachs](/company/goldman-sachs) and [Salesforce](/company/salesforce) company pages on TidyBit.

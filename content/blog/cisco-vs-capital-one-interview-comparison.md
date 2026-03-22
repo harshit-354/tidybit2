@@ -136,4 +136,4 @@ Prepare for **Capital One first**. Its more concentrated question pool on core t
 
 Starting with Capital One's profile creates a manageable stepping stone to the more comprehensive challenge posed by Cisco.
 
-For detailed question lists and patterns, visit the Cisco and Capital One pages on CodeJeet: [Cisco Interview Questions](/company/cisco) | [Capital One Interview Questions](/company/capital-one)
+For detailed question lists and patterns, visit the Cisco and Capital One pages on TidyBit: [Cisco Interview Questions](/company/cisco) | [Capital One Interview Questions](/company/capital-one)

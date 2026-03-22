@@ -160,4 +160,4 @@ Shift focus to **Snowflake** after you are confident with arrays, strings, and b
 
 Ultimately, IBM's pattern offers a broader foundational drill, while Snowflake's demands deeper dives into specific advanced topics. Strengthening your fundamentals with IBM-style questions will make tackling Snowflake's more specialized and difficult problems significantly more manageable.
 
-For detailed question lists and trends, visit the CodeJeet pages for [IBM](/company/ibm) and [Snowflake](/company/snowflake).
+For detailed question lists and trends, visit the TidyBit pages for [IBM](/company/ibm) and [Snowflake](/company/snowflake).

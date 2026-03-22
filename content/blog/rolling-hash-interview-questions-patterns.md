@@ -133,4 +133,4 @@ This topic is a favorite at companies dealing with large-scale text data, search
 
 Mastering rolling hash means you can efficiently solve string matching problems that stump others. It's a high-leverage skill for top-tier interviews.
 
-[Practice all Rolling Hash questions on CodeJeet](/topic/rolling-hash)
+[Practice all Rolling Hash questions on TidyBit](/topic/rolling-hash)

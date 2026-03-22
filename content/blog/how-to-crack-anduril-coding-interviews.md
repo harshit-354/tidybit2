@@ -166,4 +166,4 @@ public class Solution {
 
 Your goal is to make solving Medium-difficulty Array, String, and Matrix traversal problems feel automatic. That fluency creates the mental bandwidth to handle the tricky twists Anduril interviewers will add.
 
-[Browse all Anduril questions on CodeJeet](/company/anduril)
+[Browse all Anduril questions on TidyBit](/company/anduril)

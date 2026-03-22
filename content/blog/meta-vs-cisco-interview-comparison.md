@@ -79,4 +79,4 @@ Your preparation priority should be dictated by your timeline and target compani
 
 **The Efficient Strategy:** A hybrid approach is often best. Start by solidifying the **shared fundamentals** (Array, String, Hash Table). Then, integrate **Cisco's focus** (Two Pointers practice) and **Meta's focus** (Math problems) into your study plan. This builds a versatile skill set. Ultimately, prioritize the company you are interviewing with sooner.
 
-For targeted practice, visit the CodeJeet pages for [Meta](/company/meta) and [Cisco](/company/cisco).
+For targeted practice, visit the TidyBit pages for [Meta](/company/meta) and [Cisco](/company/cisco).

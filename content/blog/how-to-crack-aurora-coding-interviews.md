@@ -84,4 +84,4 @@ Given the high density of Hard problems, a superficial approach will fail. Follo
 
 Targeted, deep practice on the core topics of Array, Tree, DFS, and Design, with a mindset geared toward complex problem-solving, is your formula for success in an Aurora interview.
 
-[Browse all Aurora questions on CodeJeet](/company/aurora)
+[Browse all Aurora questions on TidyBit](/company/aurora)

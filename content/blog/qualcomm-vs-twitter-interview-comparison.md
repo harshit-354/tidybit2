@@ -6,7 +6,7 @@ category: "tips"
 tags: ["qualcomm", "twitter", "comparison"]
 ---
 
-When preparing for technical interviews at major tech companies, understanding their specific question patterns and focus areas is crucial for efficient study. Qualcomm and Twitter (now X) represent two distinct types of tech employers—one a hardware and semiconductor giant and the other a social media software platform—which is reflected in their interview question libraries on CodeJeet. While both emphasize core data structures, their distribution of difficulty and specific topic emphasis differ significantly, guiding how you should prioritize your preparation.
+When preparing for technical interviews at major tech companies, understanding their specific question patterns and focus areas is crucial for efficient study. Qualcomm and Twitter (now X) represent two distinct types of tech employers—one a hardware and semiconductor giant and the other a social media software platform—which is reflected in their interview question libraries on TidyBit. While both emphasize core data structures, their distribution of difficulty and specific topic emphasis differ significantly, guiding how you should prioritize your preparation.
 
 ## Question Volume and Difficulty
 
@@ -118,4 +118,4 @@ Your preparation priority should be dictated by your foundational strength and t
 
 Ultimately, a combined strategy is effective. Use Qualcomm's question set to solidify your algorithmic basics and problem-solving speed. Then, use Twitter's question set to push into more complex scenarios and integrate system design thinking. This progression mirrors a typical learning curve, making you broadly interview-ready.
 
-For detailed question lists, visit the [Qualcomm](/company/qualcomm) and [Twitter](/company/twitter) pages on CodeJeet.
+For detailed question lists, visit the [Qualcomm](/company/qualcomm) and [Twitter](/company/twitter) pages on TidyBit.

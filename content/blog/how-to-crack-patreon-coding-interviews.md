@@ -96,4 +96,4 @@ Weeks 5-6: **Mock Interviews and Refinement.** Conduct at least 6-8 timed mock i
 
 Success in Patreon interviews comes from consistent, focused practice on high-probability topics and polished problem-solving communication.
 
-[Browse all Patreon questions on CodeJeet](/company/patreon)
+[Browse all Patreon questions on TidyBit](/company/patreon)

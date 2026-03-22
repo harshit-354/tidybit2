@@ -110,4 +110,4 @@ A structured approach is necessary to cover the breadth and depth required.
 
 Mastering these patterns and approaching problems systematically will give you the confidence to tackle Pinterest's challenging interview loop.
 
-[Browse all Pinterest questions on CodeJeet](/company/pinterest)
+[Browse all Pinterest questions on TidyBit](/company/pinterest)

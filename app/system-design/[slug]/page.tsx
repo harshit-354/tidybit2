@@ -102,12 +102,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
           return {
             title: `${title} - System Design Interview`,
             description: `Learn ${title} for system design interviews. In-depth guide with diagrams, examples, and video explanations.`,
-            alternates: { canonical: `https://codejeet.com/system-design/${slug}` },
+            alternates: { canonical: `https://tidybit.com/system-design/${slug}` },
             openGraph: {
-              title: `${title} - System Design Interview | CodeJeet`,
+              title: `${title} - System Design Interview | TidyBit`,
               description: `Learn ${title} for system design interviews. In-depth guide with diagrams and examples.`,
               type: "article",
-              url: `https://codejeet.com/system-design/${slug}`,
+              url: `https://tidybit.com/system-design/${slug}`,
             },
           };
         }
@@ -219,7 +219,7 @@ export default async function SystemDesignDetailPage({
           data={videoObjectJsonLd({
             name: `${pageTitle} - System Design`,
             description: `System design interview guide: ${pageTitle}. Learn key concepts with visual explanations.`,
-            thumbnailUrl: `https://codejeet.com/og-image.png`,
+            thumbnailUrl: `https://tidybit.com/og-image.png`,
             embedUrl,
           })}
         />

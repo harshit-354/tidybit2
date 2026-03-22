@@ -340,7 +340,7 @@ A focused 6-week plan is effective. This assumes you have a baseline knowledge o
 
 - **Weeks 1-2: Foundation & Core Topics.** Dedicate this time exclusively to **Array, String, and Hash Table**. Solve 15-20 problems on each topic, mixing easy and medium. Do not just solve—analyze time/space complexity and practice verbalizing your thought process aloud.
 - **Weeks 3-4: Advanced Patterns & Practice.** Move to **Sorting-based problems and Dynamic Programming**. For DP, start with classical problems (Fibonacci, coin change, longest common subsequence) before tackling variations. Begin mixing topics in your practice sessions.
-- **Week 5: Company-Specific & Mock Interviews.** Solve all the **easy and medium eBay-tagged questions** on platforms like CodeJeet. Time yourself strictly. Schedule at least 3-4 mock interviews with a peer or mentor, simulating the real environment with video and a shared editor.
+- **Week 5: Company-Specific & Mock Interviews.** Solve all the **easy and medium eBay-tagged questions** on platforms like TidyBit. Time yourself strictly. Schedule at least 3-4 mock interviews with a peer or mentor, simulating the real environment with video and a shared editor.
 - **Week 6: Review & Polish.** Revisit problems you found difficult. Focus on your weak spots. Practice a few hard problems from the top topics to build stamina. In the final days, shift to conceptual review and rest.
 
 ### Implementing the Strategy: A Sample Practice Problem
@@ -402,4 +402,4 @@ public int maxProfit(int[] prices) {
 
 Success in an eBay interview comes from methodical preparation on their favored topics and consistent practice communicating your solutions. Focus on the medium-difficulty core, and you'll be well-positioned to handle the challenges they present.
 
-[Browse all eBay questions on CodeJeet](/company/ebay)
+[Browse all eBay questions on TidyBit](/company/ebay)

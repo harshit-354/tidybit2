@@ -87,4 +87,4 @@ A structured approach is more effective than random practice. Follow this plan.
 
 Success in a Qualcomm interview is built on precise execution of high-frequency patterns. Target your practice, communicate your logic, and solidify your fundamentals.
 
-[Browse all Qualcomm questions on CodeJeet](/company/qualcomm)
+[Browse all Qualcomm questions on TidyBit](/company/qualcomm)

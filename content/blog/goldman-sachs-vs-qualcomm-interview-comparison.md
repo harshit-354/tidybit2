@@ -135,4 +135,4 @@ Shift to **Goldman Sachs** after mastering the fundamentals. The larger volume a
 
 Ultimately, a strong grasp of Arrays, Strings, and efficient problem-solving will serve you for both. Prioritize based on your interview timeline and the need to build from fundamentals to advanced topics.
 
-For specific question lists, visit the [Goldman Sachs](/company/goldman-sachs) and [Qualcomm](/company/qualcomm) pages on CodeJeet.
+For specific question lists, visit the [Goldman Sachs](/company/goldman-sachs) and [Qualcomm](/company/qualcomm) pages on TidyBit.

@@ -97,7 +97,7 @@ This pattern is essential for many MongoDB-style problems involving direct strin
 
 1.  **Foundation:** Begin with basic two-pointer and hash map problems (e.g., valid palindrome, valid anagram).
 2.  **Core Patterns:** Move to sliding window problems and more complex parsing simulations.
-3.  **MongoDB-Specific:** Finally, tackle the actual string questions from MongoDB's tagged list on platforms like CodeJeet. This ensures you apply learned patterns to their specific problem style.
+3.  **MongoDB-Specific:** Finally, tackle the actual string questions from MongoDB's tagged list on platforms like TidyBit. This ensures you apply learned patterns to their specific problem style.
 
 Focus on writing clean, correct code first, then optimize. Remember to discuss your approach and complexity.
 

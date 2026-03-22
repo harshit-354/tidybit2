@@ -155,4 +155,4 @@ This topic is favored by companies dealing with massive-scale data systems, real
 
 Mastering these patterns turns a seemingly obscure topic into a reliable strength for your system design and algorithmic interviews.
 
-[Practice all Reservoir Sampling questions on CodeJeet](/topic/reservoir-sampling)
+[Practice all Reservoir Sampling questions on TidyBit](/topic/reservoir-sampling)

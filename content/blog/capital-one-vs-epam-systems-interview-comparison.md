@@ -83,4 +83,4 @@ Prepare for **Capital One** after solidifying your fundamentals, as its question
 
 Ultimately, your study priority should align with your interview schedule and the job role. For a software engineering services role requiring robust implementation skills, focus on Epam. For a tech-centric role within finance that may involve quantitative or algorithmic challenges, prioritize Capital One's patterns.
 
-For detailed question lists, visit the [Capital One](/company/capital-one) and [Epam Systems](/company/epam-systems) pages on CodeJeet.
+For detailed question lists, visit the [Capital One](/company/capital-one) and [Epam Systems](/company/epam-systems) pages on TidyBit.

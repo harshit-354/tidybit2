@@ -6,7 +6,7 @@ category: "tips"
 tags: ["roblox", "hard", "interview prep"]
 ---
 
-Hard Roblox interview questions are designed to test advanced problem-solving, system design, and deep algorithmic knowledge. These 12 Hard problems (out of 56 total on CodeJeet) typically involve complex data structure manipulation, optimization, and sometimes multi-step reasoning that mirrors real-world engineering challenges at scale. Expect to encounter problems that are a step above standard LeetCode Mediums, requiring not just a working solution but an optimal one under tight constraints.
+Hard Roblox interview questions are designed to test advanced problem-solving, system design, and deep algorithmic knowledge. These 12 Hard problems (out of 56 total on TidyBit) typically involve complex data structure manipulation, optimization, and sometimes multi-step reasoning that mirrors real-world engineering challenges at scale. Expect to encounter problems that are a step above standard LeetCode Mediums, requiring not just a working solution but an optimal one under tight constraints.
 
 ## Common Patterns
 

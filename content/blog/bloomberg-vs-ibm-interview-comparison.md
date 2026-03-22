@@ -121,4 +121,4 @@ Prepare for **Bloomberg first** only if you are already comfortable with medium-
 
 Ultimately, if interviewing for both, start with IBM's fundamentals. That foundation will directly apply to the easier spectrum of Bloomberg's questions. Then, ramp up difficulty and breadth by tackling Bloomberg's extensive Medium and Hard problems to reach the required performance level.
 
-For dedicated question lists, visit the CodeJeet pages for [Bloomberg](/company/bloomberg) and [IBM](/company/ibm).
+For dedicated question lists, visit the TidyBit pages for [Bloomberg](/company/bloomberg) and [IBM](/company/ibm).

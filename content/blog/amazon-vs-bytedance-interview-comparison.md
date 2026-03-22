@@ -84,4 +84,4 @@ Once that foundation is set, **expand to Amazon-specific preparation**. Use the 
 
 **Final Strategy:** Build depth on core algorithms, then expand breadth. The skills are transferable, but the preparation scope is not. A strong ByteDance-ready candidate is well-positioned to tackle a significant portion of Amazon's question pool, while the reverse is less efficiently true.
 
-For further study, visit the CodeJeet pages for [Amazon](/company/amazon) and [ByteDance](/company/bytedance).
+For further study, visit the TidyBit pages for [Amazon](/company/amazon) and [ByteDance](/company/bytedance).

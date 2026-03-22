@@ -520,4 +520,4 @@ public class LIS {
 
 **Master a Few Problems Deeply.** Breadth is useful, but depth is critical. For each major topic, have 2-3 problems you can solve perfectly in your sleep. This deep mastery builds the confidence and pattern recognition needed to tackle unseen variations. For Arrays, master Kadane's Algorithm and the Dutch National Flag problem. For DP, master the Knapsack and Longest Common Subsequence. For Graphs, master DFS-based topological sort and BFS for shortest path in unweighted graphs.
 
-[Browse all Flipkart questions on CodeJeet](/company/flipkart)
+[Browse all Flipkart questions on TidyBit](/company/flipkart)

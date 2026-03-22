@@ -127,4 +127,4 @@ Top-tier companies favor these problems because they test fundamental algorithmi
 
 Merge sort questions are less about sorting and more about wielding a powerful algorithmic strategy. Internalize the patterns, and you'll turn a category of hard problems into structured, solvable exercises.
 
-[Practice all Merge Sort questions on CodeJeet](/topic/merge-sort)
+[Practice all Merge Sort questions on TidyBit](/topic/merge-sort)

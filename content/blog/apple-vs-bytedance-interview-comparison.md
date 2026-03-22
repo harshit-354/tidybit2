@@ -39,4 +39,4 @@ Given the overlap, the strategic choice depends on your timeline and interview g
 
 **The Pragmatic Approach:** Start with the **shared core topics (Array, String, Hash Table, DP)**. Solve a mix of Easy and Medium problems from a general LeetCode list to build fluency. Then, integrate company-specific question lists to familiarize yourself with each company's flavor and problem-solving expectations.
 
-For targeted practice, visit the company pages on CodeJeet: [Apple Interview Questions](/company/apple) | [ByteDance Interview Questions](/company/bytedance)
+For targeted practice, visit the company pages on TidyBit: [Apple Interview Questions](/company/apple) | [ByteDance Interview Questions](/company/bytedance)

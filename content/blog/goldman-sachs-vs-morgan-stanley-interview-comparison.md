@@ -84,4 +84,4 @@ Your preparation strategy should be sequential and cumulative.
 
 In summary, build your foundation with the targeted Morgan Stanley list, then scale up your endurance and depth with the comprehensive Goldman Sachs set. This approach efficiently covers the shared technical core while preparing you for the full spectrum of difficulty.
 
-For specific question lists and patterns, visit the [Goldman Sachs](/company/goldman-sachs) and [Morgan Stanley](/company/morgan-stanley) pages on CodeJeet.
+For specific question lists and patterns, visit the [Goldman Sachs](/company/goldman-sachs) and [Morgan Stanley](/company/morgan-stanley) pages on TidyBit.

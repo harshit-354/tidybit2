@@ -91,5 +91,5 @@ Prepare for **Meta first** if you are building a broad foundation for the FAANG-
 
 Ultimately, Flipkart preparation is a deep dive into a few high-impact areas, while Meta preparation is a marathon of broad algorithmic fluency. Strengthen your fundamentals with Meta's scope, then sharpen your advanced optimization skills with Flipkart's focus.
 
-- Practice Meta questions: [CodeJeet Meta Interview Questions](/company/meta)
-- Practice Flipkart questions: [CodeJeet Flipkart Interview Questions](/company/flipkart)
+- Practice Meta questions: [TidyBit Meta Interview Questions](/company/meta)
+- Practice Flipkart questions: [TidyBit Flipkart Interview Questions](/company/flipkart)

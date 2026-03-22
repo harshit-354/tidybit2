@@ -80,4 +80,4 @@ Your preparation order should be dictated by your target company and the transfe
 
 Regardless of order, use the shared core topics (Array, DP, String) as your anchor. Solidify those, then branch out to Greedy for DE Shaw or deepen Hash Table mastery for Intuit.
 
-For more detailed company-specific question lists and guides, visit the CodeJeet pages for [DE Shaw](/company/de-shaw) and [Intuit](/company/intuit).
+For more detailed company-specific question lists and guides, visit the TidyBit pages for [DE Shaw](/company/de-shaw) and [Intuit](/company/intuit).

@@ -130,4 +130,4 @@ Your preparation strategy should be dictated by your experience level and target
 
 Ultimately, the shared foundation is key. Mastering the overlapping topics of Array, String, and Hash Table will serve you well for either company. You can then branch out to specialize in Two Pointers for TCS-style interviews or DFS and advanced graph problems for LinkedIn-style interviews.
 
-For more detailed company-specific question lists, visit the CodeJeet pages for [TCS](/company/tcs) and [LinkedIn](/company/linkedin).
+For more detailed company-specific question lists, visit the TidyBit pages for [TCS](/company/tcs) and [LinkedIn](/company/linkedin).

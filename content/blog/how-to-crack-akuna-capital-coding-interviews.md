@@ -95,4 +95,4 @@ A structured, intensive approach is required to tackle Akuna's difficulty curve.
 
 Success in an Akuna Capital coding interview is a function of targeted, high-difficulty practice and precise execution. Focus your energy on the patterns that matter most.
 
-[Browse all Akuna Capital questions on CodeJeet](/company/akuna-capital)
+[Browse all Akuna Capital questions on TidyBit](/company/akuna-capital)

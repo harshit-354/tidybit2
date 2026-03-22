@@ -89,7 +89,7 @@ Weeks 1-2: **Foundation Reinforcement.** Dedicate this phase to core data struct
 
 Weeks 3-4: **Advanced Pattern Mastery.** This is the core of your preparation. Focus intensely on Dynamic Programming. Break it down: start with 1D DP (Fibonacci, climbing stairs), move to 2D DP (LCS, knapsack), and tackle DP on strings and partitions. Simultaneously, practice Trie-based problems and complex array/string manipulations. Aim for 1 hard and 2 medium problems daily.
 
-Weeks 5-6: **Company-Specific Mock Interviews.** Use the final stretch for simulation. Source Buyhatke-specific questions from platforms like CodeJeet. Practice in a timed, 45-minute session, verbally explaining your approach as you code. Conduct at least 3-4 full mock interviews per week. Review every mistake in detail, focusing on optimization and edge cases you missed.
+Weeks 5-6: **Company-Specific Mock Interviews.** Use the final stretch for simulation. Source Buyhatke-specific questions from platforms like TidyBit. Practice in a timed, 45-minute session, verbally explaining your approach as you code. Conduct at least 3-4 full mock interviews per week. Review every mistake in detail, focusing on optimization and edge cases you missed.
 
 ## Key Tips
 
@@ -100,4 +100,4 @@ Weeks 5-6: **Company-Specific Mock Interviews.** Use the final stretch for simul
 
 Targeted, disciplined practice on these high-weight topics is your most reliable path to success. Start with the hardest patterns first and simulate the real environment relentlessly.
 
-[Browse all Buyhatke questions on CodeJeet](/company/buyhatke)
+[Browse all Buyhatke questions on TidyBit](/company/buyhatke)

@@ -87,4 +87,4 @@ Your choice depends on your interview timeline and strengths.
 
 **General Strategy:** Regardless of order, begin with the **shared foundation: Array and Hash Table** problems. Achieve fluency here. Then, branch into each company's specialty: DP/Sorting for PhonePe, and String/DFS for DoorDash. This approach ensures you build the most transferable skills first.
 
-For dedicated question lists and patterns, visit the CodeJeet pages for [PhonePe](/company/phonepe) and [DoorDash](/company/doordash).
+For dedicated question lists and patterns, visit the TidyBit pages for [PhonePe](/company/phonepe) and [DoorDash](/company/doordash).

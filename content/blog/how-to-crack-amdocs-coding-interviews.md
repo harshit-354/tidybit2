@@ -106,4 +106,4 @@ A focused, consistent plan is more effective than cramming. Follow this roadmap.
 
 Mastering the pattern of transforming array sum problems with prefix sum is your biggest leverage point for the Amdocs interview. Combine this with structured practice on medium problems, and you'll be well-equipped to succeed.
 
-[Browse all Amdocs questions on CodeJeet](/company/amdocs)
+[Browse all Amdocs questions on TidyBit](/company/amdocs)

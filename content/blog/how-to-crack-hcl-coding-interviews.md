@@ -108,4 +108,4 @@ A structured approach is key to covering the necessary ground without burnout.
 
 Success in HCL interviews is about consistent, broad preparation on fundamentals, not niche knowledge. Build muscle memory on the core topics, practice clear communication, and you'll be well-positioned to succeed.
 
-[Browse all HCL questions on CodeJeet](/company/hcl)
+[Browse all HCL questions on TidyBit](/company/hcl)

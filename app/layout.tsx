@@ -16,24 +16,24 @@ const jakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://codejeet.com"),
+  metadataBase: new URL("https://tidybit.com"),
   title: {
-    default: "CodeJeet - Company-wise LeetCode Interview Questions",
-    template: "%s | CodeJeet",
+    default: "TidyBit - Company-wise LeetCode Interview Questions",
+    template: "%s | TidyBit",
   },
   description:
     "Browse 17,000+ company-wise LeetCode DSA interview questions from 660+ companies. " +
     "Filter by company, topic, and difficulty. Practice smarter for your next tech interview.",
   openGraph: {
     type: "website",
-    siteName: "CodeJeet",
+    siteName: "TidyBit",
     locale: "en_US",
     images: [{ url: "/og-image.png", width: 1200, height: 630 }],
   },
   twitter: {
     card: "summary_large_image",
-    site: "@codejeet",
-    creator: "@codejeet",
+    site: "@tidybit",
+    creator: "@tidybit",
   },
   robots: { index: true, follow: true },
 };

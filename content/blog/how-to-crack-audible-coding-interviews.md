@@ -105,4 +105,4 @@ A focused, consistent plan beats cramming. Adjust the timeline based on your sta
 
 Mastering these core patterns and executing them clearly under mild time pressure is the formula for success in an Audible coding interview. The path is well-defined: focus on the fundamentals, communicate effectively, and practice deliberately.
 
-[Browse all Audible questions on CodeJeet](/company/audible)
+[Browse all Audible questions on TidyBit](/company/audible)

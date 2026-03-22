@@ -116,4 +116,4 @@ public int longestSubstringKDistinct(String s, int k) {
 
 Master these patterns, follow the plan, and you'll be ready to handle the curveballs.
 
-[Browse all Qualtrics questions on CodeJeet](/company/qualtrics)
+[Browse all Qualtrics questions on TidyBit](/company/qualtrics)

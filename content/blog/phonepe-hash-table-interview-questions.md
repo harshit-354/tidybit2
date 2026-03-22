@@ -75,6 +75,6 @@ Tackle problems in this sequence to build competence systematically:
 1.  **Fundamentals:** Two Sum, Valid Anagram.
 2.  **Frequency Patterns:** Top K Frequent Elements, Group Anagrams, First Unique Character in a String.
 3.  **Advanced Mapping:** LRU Cache (implement from scratch), Subarray Sum Equals K.
-4.  **PhonePe Specific:** Solve all 24 hash table problems tagged for PhonePe on CodeJeet. Focus on the problems with the highest frequency reports.
+4.  **PhonePe Specific:** Solve all 24 hash table problems tagged for PhonePe on TidyBit. Focus on the problems with the highest frequency reports.
 
 [Practice Hash Table at PhonePe](/company/phonepe/hash-table)

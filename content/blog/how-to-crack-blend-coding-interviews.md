@@ -92,7 +92,7 @@ public int subarraySum(int[] nums, int k) {
 
 - Shift to solving random medium problems that combine topics (e.g., arrays + hash table + binary search).
 - Start timing yourself. Aim for 20-25 minutes to understand, solve, and test a problem.
-- Spend at least 50% of this period working on actual **Blend-tagged problems** on platforms like CodeJeet. This acclimates you to their problem style and difficulty curve.
+- Spend at least 50% of this period working on actual **Blend-tagged problems** on platforms like TidyBit. This acclimates you to their problem style and difficulty curve.
 
 **Weeks 5-6: Simulation & Refinement**
 
@@ -108,4 +108,4 @@ public int subarraySum(int[] nums, int k) {
 
 Cracking Blend’s interview is a matter of focused, pattern-based practice on medium-difficulty problems. Build fluency in the core topics, integrate them seamlessly, and communicate your thinking clearly.
 
-[Browse all Blend questions on CodeJeet](/company/blend)
+[Browse all Blend questions on TidyBit](/company/blend)

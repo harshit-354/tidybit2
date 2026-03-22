@@ -113,6 +113,6 @@ Build your proficiency in this logical sequence:
 1.  **Master the Template:** Start with basic tree level-order traversal and simple graph BFS.
 2.  **Grid Shortest Path:** Solve several "shortest path in a binary matrix" or "knight moves" problems. This solidifies handling 2D directions and obstacles.
 3.  **State-Space Problems:** Tackle classic problems like Word Ladder. This trains you to build the graph implicitly.
-4.  **Snowflake-Specific Practice:** Finally, work through the actual BFS problems tagged for Snowflake on CodeJeet. This exposes you to their exact problem style and difficulty.
+4.  **Snowflake-Specific Practice:** Finally, work through the actual BFS problems tagged for Snowflake on TidyBit. This exposes you to their exact problem style and difficulty.
 
 [Practice Breadth-First Search at Snowflake](/company/snowflake/breadth-first-search)

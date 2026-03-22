@@ -160,4 +160,4 @@ If you are an **experienced coder or specifically targeting top-tier quantitativ
 
 Ultimately, a solid strategy is to build a foundation with Infosys-style questions and then ramp up the difficulty with DE Shaw's curated set. Mastering the common core topics first ensures you are prepared for any interview, while the distinctive focus areas allow you to tailor your final preparation to the specific company's profile.
 
-For targeted practice, visit the Infosys question bank at [CodeJeet/company/infosys](/company/infosys) and the DE Shaw question bank at [CodeJeet/company/de-shaw](/company/de-shaw).
+For targeted practice, visit the Infosys question bank at [TidyBit/company/infosys](/company/infosys) and the DE Shaw question bank at [TidyBit/company/de-shaw](/company/de-shaw).

@@ -128,4 +128,4 @@ If targeting **Capital One**, after solidifying the shared core, shift focus to 
 
 Ultimately, the overlap is substantial. A robust study plan covering core data structures, Medium-difficulty problem-solving, and the specific emphasis for your target company (DP for Morgan Stanley, advanced problems for Capital One) will position you well.
 
-For further company-specific question practice, visit the CodeJeet pages for [Capital One](/company/capital-one) and [Morgan Stanley](/company/morgan-stanley).
+For further company-specific question practice, visit the TidyBit pages for [Capital One](/company/capital-one) and [Morgan Stanley](/company/morgan-stanley).

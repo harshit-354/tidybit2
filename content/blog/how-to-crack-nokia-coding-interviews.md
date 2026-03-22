@@ -121,4 +121,4 @@ A structured approach is key. Here’s a week-by-week plan.
 
 Success in a Nokia interview is built on consistent, correct application of core computer science principles. Target the high-frequency topics, practice communicating your process, and ensure your foundational code is rock solid.
 
-[Browse all Nokia questions on CodeJeet](/company/nokia)
+[Browse all Nokia questions on TidyBit](/company/nokia)

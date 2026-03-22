@@ -143,4 +143,4 @@ Week 6: **Integration and Review.** Conduct mock interviews focusing on the comb
 
 Success at Applied Intuition requires translating algorithmic mastery into solutions for spatial and logistical problems. Target your practice, build pattern recognition, and communicate your process clearly.
 
-[Browse all Applied Intuition questions on CodeJeet](/company/applied-intuition)
+[Browse all Applied Intuition questions on TidyBit](/company/applied-intuition)

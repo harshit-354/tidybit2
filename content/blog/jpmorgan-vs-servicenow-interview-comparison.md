@@ -10,7 +10,7 @@ When preparing for technical interviews at major tech and finance companies, und
 
 ## Question Volume and Difficulty
 
-Both companies have a substantial and identical total volume of 78 questions in their respective tagged question banks on CodeJeet. However, the distribution of difficulty levels is markedly different.
+Both companies have a substantial and identical total volume of 78 questions in their respective tagged question banks on TidyBit. However, the distribution of difficulty levels is markedly different.
 
 **JPMorgan** questions are skewed significantly toward easier and medium problems. Their breakdown is approximately **25 Easy, 45 Medium, and 8 Hard** questions. This suggests their technical screening often focuses on assessing solid foundational knowledge, clean code, and problem-solving clarity under typical interview constraints. The relatively low proportion of Hard questions indicates that while they may test advanced concepts, the primary gate is competency with standard algorithms.
 

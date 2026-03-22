@@ -107,4 +107,4 @@ Conduct at least 5-7 mock interviews with peers or using interview simulation se
 
 Targeted, disciplined practice on these core patterns is how you build the muscle memory needed to perform under interview pressure. Start with the fundamentals, pressure-test your skills, and refine your communication.
 
-[Browse all Sigmoid questions on CodeJeet](/company/sigmoid)
+[Browse all Sigmoid questions on TidyBit](/company/sigmoid)

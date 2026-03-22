@@ -6,7 +6,7 @@ category: "tips"
 tags: ["tcs", "ebay", "comparison"]
 ---
 
-When preparing for technical interviews, understanding company-specific patterns is crucial for efficient study. TCS (Tata Consultancy Services) and eBay represent two distinct ends of the software engineering interview spectrum—one a massive global services firm and the other a focused e-commerce tech company. Their question banks on CodeJeet reflect this difference, with TCS's list being significantly larger and broader, while eBay's is more compact and concentrated. A strategic comparison helps candidates prioritize their preparation effectively.
+When preparing for technical interviews, understanding company-specific patterns is crucial for efficient study. TCS (Tata Consultancy Services) and eBay represent two distinct ends of the software engineering interview spectrum—one a massive global services firm and the other a focused e-commerce tech company. Their question banks on TidyBit reflect this difference, with TCS's list being significantly larger and broader, while eBay's is more compact and concentrated. A strategic comparison helps candidates prioritize their preparation effectively.
 
 ## Question Volume and Difficulty
 

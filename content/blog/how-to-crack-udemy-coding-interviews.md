@@ -94,4 +94,4 @@ public int[] twoSum(int[] nums, int target) {
 
 Success in Udemy's interviews comes from disciplined, pattern-focused practice and clear communication. Build the muscle memory for core algorithms so you can focus on problem-solving during the interview.
 
-[Browse all Udemy questions on CodeJeet](/company/udemy)
+[Browse all Udemy questions on TidyBit](/company/udemy)

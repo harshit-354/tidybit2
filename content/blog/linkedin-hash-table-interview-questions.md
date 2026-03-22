@@ -84,7 +84,7 @@ This pattern is foundational. Practice variations like **Two Sum II (sorted inpu
 1. **Fundamentals**: Two Sum, First Unique Character, Valid Anagram.
 2. **Frequency Maps**: Top K Frequent Elements, Group Anagrams.
 3. **Advanced Patterns**: LRU Cache, Insert Delete GetRandom O(1).
-4. **LinkedIn-Specific**: Solve all 33 hash table problems on CodeJeet, focusing on their most frequent questions.
+4. **LinkedIn-Specific**: Solve all 33 hash table problems on TidyBit, focusing on their most frequent questions.
 
 Prioritize problems that combine hash tables with other structures (linked lists, heaps) to handle LinkedIn’s system design nuances.
 

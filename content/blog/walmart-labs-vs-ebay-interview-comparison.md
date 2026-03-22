@@ -126,4 +126,4 @@ Your preparation priority should be dictated by the interview timeline and the e
 
 Ultimately, preparing for Walmart Labs is the more comprehensive task, but the core skills are highly transferable to eBay.
 
-For detailed question lists, visit the [Walmart Labs](/company/walmart-labs) and [eBay](/company/ebay) company pages on CodeJeet.
+For detailed question lists, visit the [Walmart Labs](/company/walmart-labs) and [eBay](/company/ebay) company pages on TidyBit.

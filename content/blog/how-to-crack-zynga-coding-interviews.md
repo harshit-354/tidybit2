@@ -109,4 +109,4 @@ A focused, topic-based plan is more effective than random practice.
 
 Mastering these core topics and demonstrating clear, iterative problem-solving will give you a significant advantage in a Zynga coding interview.
 
-[Browse all Zynga questions on CodeJeet](/company/zynga)
+[Browse all Zynga questions on TidyBit](/company/zynga)

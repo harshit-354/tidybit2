@@ -10,7 +10,7 @@ When preparing for technical interviews, understanding company-specific patterns
 
 ## Question Volume and Difficulty
 
-The most striking difference is sheer volume. Google has a documented **2,217 questions** on CodeJeet, dwarfing Snapchat's **99 questions**. This reflects Google's longer interview history, larger hiring scale, and the extensive reporting from candidates.
+The most striking difference is sheer volume. Google has a documented **2,217 questions** on TidyBit, dwarfing Snapchat's **99 questions**. This reflects Google's longer interview history, larger hiring scale, and the extensive reporting from candidates.
 
 The difficulty distribution also tells a story:
 
@@ -168,6 +168,6 @@ public int shortestPathBinaryMatrix(int[][] grid) {
 
 Prepare for **Google first**. Here's why: Google's interview is a superset of fundamental algorithmic knowledge. Mastering the core topics (Arrays, Strings, Hash Tables, DP, Graphs, Trees) to the depth required for Google will make you exceptionally well-prepared for Snapchat's focused problem set. The reverse is not true. Preparing only for Snapchat's high-concentration BFS and system-focused problems may leave gaps in DP and other advanced algorithms critical for Google.
 
-Your preparation path should be: 1) Build a rock-solid foundation using a general LeetCode/CodeJeet study plan. 2) Deep-dive into Google's frequent topics, especially Dynamic Programming. 3) Closer to a Snapchat interview, pivot to practicing their specific, often graph/BFS-heavy questions and brush up on system design fundamentals relevant to real-time systems.
+Your preparation path should be: 1) Build a rock-solid foundation using a general LeetCode/TidyBit study plan. 2) Deep-dive into Google's frequent topics, especially Dynamic Programming. 3) Closer to a Snapchat interview, pivot to practicing their specific, often graph/BFS-heavy questions and brush up on system design fundamentals relevant to real-time systems.
 
 For detailed question lists and patterns, visit the company pages: [Google Interview Questions](/company/google) | [Snapchat Interview Questions](/company/snapchat)

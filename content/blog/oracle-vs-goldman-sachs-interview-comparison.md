@@ -82,4 +82,4 @@ A practical approach is to **prepare for Goldman Sachs first**. Its slightly sma
 
 In essence, the interview landscapes are more similar than different. A candidate well-prepared for Goldman Sachs is already 80% prepared for Oracle, and vice-versa. The final step is targeted practice with each company's unique problem set to adapt to any subtle contextual differences.
 
-For detailed question lists and patterns, visit the Oracle and Goldman Sachs pages on CodeJeet: [Oracle Interview Questions](/company/oracle) | [Goldman Sachs Interview Questions](/company/goldman-sachs)
+For detailed question lists and patterns, visit the Oracle and Goldman Sachs pages on TidyBit: [Oracle Interview Questions](/company/oracle) | [Goldman Sachs Interview Questions](/company/goldman-sachs)

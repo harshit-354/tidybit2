@@ -118,7 +118,7 @@ private void backtrack(List<List<Integer>> res, List<Integer> path, int[] nums, 
 
 ## Preparation Strategy — A 4-6 Week Study Plan
 
-Weeks 1-2: **Foundation.** Dedicate this period to Easy problems on Arrays and Strings. Use platforms like CodeJeet to solve 50-70 problems. Aim for speed and 100% correctness. Simultaneously, refresh core SQL.
+Weeks 1-2: **Foundation.** Dedicate this period to Easy problems on Arrays and Strings. Use platforms like TidyBit to solve 50-70 problems. Aim for speed and 100% correctness. Simultaneously, refresh core SQL.
 
 Weeks 3-4: **Depth.** Target the Hard problems. Focus intensely on Backtracking patterns (permutations, subsets, N-Queens) and Trie implementation. Solve 15-20 challenging problems. Begin integrating system design fundamentals, especially for data-intensive applications.
 
@@ -131,4 +131,4 @@ Weeks 5-6: **Integration and Mock Interviews.** Solve complete Zoom-specific que
 3.  **Consider Scale:** Even in coding questions, briefly mention how your solution might scale with data volume. This bridges the gap to system design and shows foresight.
 4.  **Test Your Code:** Always run through a small test case verbally or using the provided runner. Check for edge cases (empty input, large values) and correct them immediately.
 
-Mastering this focused approach will position you strongly for Zoom's selective process. For targeted practice, [Browse all Zoom questions on CodeJeet](/company/zoom).
+Mastering this focused approach will position you strongly for Zoom's selective process. For targeted practice, [Browse all Zoom questions on TidyBit](/company/zoom).

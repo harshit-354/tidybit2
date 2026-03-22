@@ -113,6 +113,6 @@ public int minDistance(String word1, String word2) {
 1.  **Foundations:** Climbing Stairs, House Robber, Coin Change (counting ways), Fibonacci.
 2.  **Core 1D/2D:** Longest Increasing Subsequence, 0/1 Knapsack, Longest Common Subsequence, Edit Distance.
 3.  **String & Partition DP:** Palindromic Substrings, Word Break, Partition Equal Subset Sum.
-4.  **D. E. Shaw Specific:** Once comfortable, systematically practice the 39 tagged DP problems on CodeJeet. Focus on deriving the recurrence yourself before looking at solutions.
+4.  **D. E. Shaw Specific:** Once comfortable, systematically practice the 39 tagged DP problems on TidyBit. Focus on deriving the recurrence yourself before looking at solutions.
 
 [Practice Dynamic Programming at DE Shaw](/company/de-shaw/dynamic-programming)

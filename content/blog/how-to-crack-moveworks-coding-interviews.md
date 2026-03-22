@@ -144,4 +144,4 @@ Given the high difficulty curve, a structured, intensive plan is required.
 
 The path to succeeding in a Moveworks coding interview is built on mastering a focused set of advanced topics and developing the resilience to tackle high-difficulty problems head-on. Start with the fundamentals, integrate them under pressure, and practice specifically for their style.
 
-[Browse all Moveworks questions on CodeJeet](/company/moveworks)
+[Browse all Moveworks questions on TidyBit](/company/moveworks)

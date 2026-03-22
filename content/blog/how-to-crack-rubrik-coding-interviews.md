@@ -99,4 +99,4 @@ Week 6: **Simulation & Review.** Conduct at least 3-5 full mock interviews under
 
 Targeted, disciplined practice on the right patterns is what separates candidates who struggle from those who succeed at Rubrik.
 
-[Browse all Rubrik questions on CodeJeet](/company/rubrik)
+[Browse all Rubrik questions on TidyBit](/company/rubrik)

@@ -126,4 +126,4 @@ Once comfortable with Epam's pattern, shift focus to **Nutanix**. Dedicate signi
 
 In summary, use Epam's pattern to solidify your fundamentals, then use Nutanix's pattern to push your problem-solving into more complex domains.
 
-For specific question lists, visit the Nutanix and Epam Systems pages on CodeJeet: [/company/nutanix](/company/nutanix) and [/company/epam-systems](/company/epam-systems).
+For specific question lists, visit the Nutanix and Epam Systems pages on TidyBit: [/company/nutanix](/company/nutanix) and [/company/epam-systems](/company/epam-systems).

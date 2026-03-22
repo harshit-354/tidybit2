@@ -6,7 +6,7 @@ category: "tips"
 tags: ["yahoo", "expedia", "comparison"]
 ---
 
-When preparing for technical interviews, understanding a company's specific focus areas can dramatically increase your efficiency. Yahoo and Expedia, while both major tech companies, show distinct patterns in their interview question libraries on CodeJeet. A targeted analysis of volume, difficulty, and topic prevalence reveals clear strategic differences in their technical assessment styles.
+When preparing for technical interviews, understanding a company's specific focus areas can dramatically increase your efficiency. Yahoo and Expedia, while both major tech companies, show distinct patterns in their interview question libraries on TidyBit. A targeted analysis of volume, difficulty, and topic prevalence reveals clear strategic differences in their technical assessment styles.
 
 ## Question Volume and Difficulty
 
@@ -93,4 +93,4 @@ Your preparation priority should be dictated by your interview timeline and foun
 
 Ultimately, the significant overlap in top topics means core preparation for one benefits the other. Mastering Array, String, and Hash Table problems is non-negotiable for both. The strategic difference is in the fourth pillar: drill Sorting techniques for Yahoo, and practice Greedy strategies for Expedia.
 
-For a complete list of questions, visit the [Yahoo question list](/company/yahoo) and the [Expedia question list](/company/expedia) on CodeJeet.
+For a complete list of questions, visit the [Yahoo question list](/company/yahoo) and the [Expedia question list](/company/expedia) on TidyBit.

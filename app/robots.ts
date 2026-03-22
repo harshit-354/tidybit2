@@ -36,6 +36,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: "/",
       },
     ],
-    sitemap: "https://codejeet.com/sitemap.xml",
+    sitemap: "https://tidybit.com/sitemap.xml",
   };
 }

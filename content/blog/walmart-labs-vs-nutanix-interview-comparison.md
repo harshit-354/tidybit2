@@ -109,4 +109,4 @@ If you are interviewing at both companies, **prioritize preparation for Walmart 
 
 If you are only targeting one company, tailor your approach: drill DP problems for Walmart Labs and ensure graph/tree traversal is second nature for Nutanix. In both cases, a strong command of the three overlapping core topics is non-negotiable.
 
-For detailed question lists and patterns, visit the Walmart Labs and Nutanix pages on CodeJeet: [Walmart Labs Interview Questions](/company/walmart-labs) | [Nutanix Interview Questions](/company/nutanix)
+For detailed question lists and patterns, visit the Walmart Labs and Nutanix pages on TidyBit: [Walmart Labs Interview Questions](/company/walmart-labs) | [Nutanix Interview Questions](/company/nutanix)

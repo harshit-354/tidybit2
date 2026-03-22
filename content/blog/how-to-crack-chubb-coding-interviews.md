@@ -116,4 +116,4 @@ Revisit all problems you struggled with. Solve Chubb-specific questions from you
 
 Mastering these patterns and executing this focused plan will systematically prepare you for the specific challenges of a Chubb coding interview.
 
-[Browse all Chubb questions on CodeJeet](/company/chubb)
+[Browse all Chubb questions on TidyBit](/company/chubb)

@@ -99,7 +99,7 @@ A structured approach is non-negotiable. Here is a focused 4-week plan (extend t
 **Week 4: Integration, Mock Interviews, and Disney-Specific Prep**
 
 - **Goal:** Simulate the real interview environment.
-- **Action:** Stop topic-specific studying. Each day, pick 2-3 random Medium problems under timed conditions (30-40 minutes each). Practice verbalizing your thought process out loud. In the final days, solve every Disney-tagged problem you can find on platforms like CodeJeet to acclimate to their style.
+- **Action:** Stop topic-specific studying. Each day, pick 2-3 random Medium problems under timed conditions (30-40 minutes each). Practice verbalizing your thought process out loud. In the final days, solve every Disney-tagged problem you can find on platforms like TidyBit to acclimate to their style.
 
 ## Key Tips
 
@@ -110,4 +110,4 @@ A structured approach is non-negotiable. Here is a focused 4-week plan (extend t
 
 The path to passing Disney's technical interview is one of consistent, focused practice on the fundamentals. By mastering the core topics of Strings, Arrays, Hash Tables, and Sliding Window patterns, and by honing your communication, you can turn their preference for Medium-difficulty questions into your greatest advantage.
 
-[Browse all Disney questions on CodeJeet](/company/disney)
+[Browse all Disney questions on TidyBit](/company/disney)

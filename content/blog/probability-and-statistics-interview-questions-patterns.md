@@ -166,4 +166,4 @@ These questions are particularly common at firms with strong quantitative, data-
 
 Build fluency by applying these patterns to concrete problems.
 
-[Practice all Probability and Statistics questions on CodeJeet](/topic/probability-and-statistics)
+[Practice all Probability and Statistics questions on TidyBit](/topic/probability-and-statistics)

@@ -92,4 +92,4 @@ A structured approach is non-negotiable. This plan assumes 2-3 hours of focused 
 
 Mastering these patterns and executing this disciplined strategy will significantly increase your confidence and performance. For targeted practice, explore the specific problems Info Edge has asked.
 
-[Browse all Info Edge questions on CodeJeet](/company/info-edge)
+[Browse all Info Edge questions on TidyBit](/company/info-edge)

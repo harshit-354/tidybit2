@@ -35,7 +35,7 @@ A targeted 4-6 week plan is more effective than months of unstructured study.
 
 **Weeks 3-4: Advanced Patterns & Depth.** Dive into Dynamic Programming and Stack. For DP, begin with fundamental problems (Fibonacci, climbing stairs) before moving to medium challenges like Coin Change, Longest Increasing Subsequence, and 0/1 Knapsack. For Stack, master the classic templates for problems like Daily Temperatures (next greater element), Valid Parentheses, and Decode String. During this phase, mix in problems from other common topics like Trees (Binary Tree Inorder Traversal) and Graphs (Number of Islands) to maintain breadth.
 
-**Weeks 5-6: Simulation & Integration.** This is mock interview time. Use the ServiceNow-tagged problems on platforms like CodeJeet. Solve 2-3 problems back-to-back within a 60-minute window to simulate the real interview pressure. Focus intensely on the Medium-difficulty questions. For each problem, practice verbalizing your thought process before you write a single line of code. Record yourself to identify gaps in communication. Review problems you've solved before but explain them as if to a new interviewer.
+**Weeks 5-6: Simulation & Integration.** This is mock interview time. Use the ServiceNow-tagged problems on platforms like TidyBit. Solve 2-3 problems back-to-back within a 60-minute window to simulate the real interview pressure. Focus intensely on the Medium-difficulty questions. For each problem, practice verbalizing your thought process before you write a single line of code. Record yourself to identify gaps in communication. Review problems you've solved before but explain them as if to a new interviewer.
 
 ## Key Tips
 
@@ -202,4 +202,4 @@ public int coinChange(int[] coins, int amount) {
 
 Success in a ServiceNow interview hinges on a balanced mastery of core data structures, practiced communication, and the ability to methodically break down Medium-difficulty problems. Focus your preparation, simulate the environment, and prioritize clean, explainable code. Remember, the goal is not just to find a solution, but to demonstrate a clear, logical, and efficient problem-solving process that aligns with writing maintainable software in a professional setting.
 
-[Browse all ServiceNow questions on CodeJeet](/company/servicenow)
+[Browse all ServiceNow questions on TidyBit](/company/servicenow)

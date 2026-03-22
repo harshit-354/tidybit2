@@ -112,4 +112,4 @@ A structured approach is key to covering the high-frequency topics.
 
 Success in Groww's interviews hinges on systematic preparation across their favored topics and demonstrating clean, logical coding under pressure. Focus on mastering Medium problems, and you'll be well-prepared.
 
-[Browse all Groww questions on CodeJeet](/company/groww)
+[Browse all Groww questions on TidyBit](/company/groww)

@@ -578,4 +578,4 @@ A focused 4-6 week plan is essential. Assume you have a foundational knowledge o
 
 Targeted, consistent practice on the right topics is the most reliable path to success. Start with the core areas, build up to Hard problems, and simulate the real environment as closely as possible.
 
-[Browse all PhonePe questions on CodeJeet](/company/phonepe)
+[Browse all PhonePe questions on TidyBit](/company/phonepe)

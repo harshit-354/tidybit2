@@ -187,4 +187,4 @@ Bitmask questions are favored by companies that design complex systems, optimize
 
 Bitmask problems test your ability to think about state compactly and manipulate it efficiently. While the topic is niche, its appearance is a strong signal of a challenging interview.
 
-[Practice all Bitmask questions on CodeJeet](/topic/bitmask)
+[Practice all Bitmask questions on TidyBit](/topic/bitmask)

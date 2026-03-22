@@ -81,4 +81,4 @@ If you have interviews at both companies, **preparing for Adobe first is a strat
 
 Ultimately, depth in fundamentals matters more than company-specific lists. Use the topic distributions to identify weak spots in your knowledge, not to predict exact questions.
 
-For focused practice, visit the Adobe question list at [/company/adobe](https://codejeet.com/company/adobe) and the PayPal list at [/company/paypal](https://codejeet.com/company/paypal).
+For focused practice, visit the Adobe question list at [/company/adobe](https://tidybit.com/company/adobe) and the PayPal list at [/company/paypal](https://tidybit.com/company/paypal).

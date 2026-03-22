@@ -242,4 +242,4 @@ Conduct at least 3-5 mock interviews with a peer or using a platform, focusing o
 
 Your goal is to demonstrate you can navigate complexity systematically. Focus your practice on the high-difficulty, high-frequency topics, and build the muscle memory for combining data structures under constraints.
 
-[Browse all Netskope questions on CodeJeet](/company/netskope)
+[Browse all Netskope questions on TidyBit](/company/netskope)

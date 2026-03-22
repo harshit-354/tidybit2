@@ -73,6 +73,6 @@ public int[] twoSum(int[] nums, int target) {
 1.  **Master Fundamentals:** Start with pure frequency counting (LeetCode 242: Valid Anagram) and the Two Sum pattern.
 2.  **Handle Complexity:** Move to problems where the hash table stores more complex data, like lists or other objects (LeetCode 49: Group Anagrams, LeetCode 1: Two Sum variants).
 3.  **Combine with Other Structures:** Practice problems where a hash table works in tandem with a linked list (LRU Cache) or a heap (Top K Frequent Elements).
-4.  **Simulate Rubrik Problems:** Finally, practice the specific hash table questions tagged for Rubrik on platforms like CodeJeet to familiarize yourself with their style and difficulty.
+4.  **Simulate Rubrik Problems:** Finally, practice the specific hash table questions tagged for Rubrik on platforms like TidyBit to familiarize yourself with their style and difficulty.
 
 [Practice Hash Table at Rubrik](/company/rubrik/hash-table)

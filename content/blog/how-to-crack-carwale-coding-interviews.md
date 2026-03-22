@@ -89,11 +89,11 @@ public boolean isValid(String s) {
 
 A focused, consistent plan is more effective than months of unstructured study.
 
-**Weeks 1-2: Foundation & Core Topics.** Dedicate each day to one of the five key topics (String, Array, Hash Table, Stack, Simulation). For each, solve 8-10 problems ranging from Easy to Medium. Use platforms like CodeJeet to filter by company and topic. The goal is pattern recognition—understand _why_ a hash table solves a particular string problem, or when a stack is necessary.
+**Weeks 1-2: Foundation & Core Topics.** Dedicate each day to one of the five key topics (String, Array, Hash Table, Stack, Simulation). For each, solve 8-10 problems ranging from Easy to Medium. Use platforms like TidyBit to filter by company and topic. The goal is pattern recognition—understand _why_ a hash table solves a particular string problem, or when a stack is necessary.
 
 **Weeks 3-4: Mixed Practice & Speed.** Stop solving by topic. Start doing timed, random Medium problems that combine concepts (e.g., a simulation that uses arrays and hash tables). Participate in mock interviews. This phase builds the mental agility needed for the actual interview where the problem category isn't labeled for you.
 
-**Weeks 5-6: Company-Specific Drill and Polish.** Exclusively solve Carwale-tagged problems on CodeJeet. Re-solve any you struggled with. Practice verbalizing your thought process aloud as you code. Focus intensely on edge cases and writing production-ready code: meaningful variable names, proper error checks (e.g., empty input), and clean formatting.
+**Weeks 5-6: Company-Specific Drill and Polish.** Exclusively solve Carwale-tagged problems on TidyBit. Re-solve any you struggled with. Practice verbalizing your thought process aloud as you code. Focus intensely on edge cases and writing production-ready code: meaningful variable names, proper error checks (e.g., empty input), and clean formatting.
 
 ## Key Tips
 
@@ -104,4 +104,4 @@ A focused, consistent plan is more effective than months of unstructured study.
 
 Mastering these patterns and executing this focused strategy will position you strongly for Carwale's coding interviews. The path to success is built on consistent, deliberate practice of the fundamentals they value most.
 
-[Browse all Carwale questions on CodeJeet](/company/carwale)
+[Browse all Carwale questions on TidyBit](/company/carwale)

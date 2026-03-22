@@ -7,14 +7,13 @@ import { Press_Start_2P } from "next/font/google";
 const pixel = Press_Start_2P({ subsets: ["latin"], weight: "400" });
 
 const LOGO_LETTERS = [
-  { char: "c", color: "#4285F4" },
-  { char: "o", color: "#EA4335" },
+  { char: "t", color: "#4285F4" },
+  { char: "i", color: "#EA4335" },
   { char: "d", color: "#FBBC05" },
-  { char: "e", color: "#34A853" },
-  { char: "j", color: "#FF6D00" },
-  { char: "e", color: "#00BCD4" },
-  { char: "e", color: "#A259FF" },
-  { char: "t", color: "#FF4081" },
+  { char: "y", color: "#34A853" },
+  { char: "b", color: "#FF6D00" },
+  { char: "i", color: "#00BCD4" },
+  { char: "t", color: "#A259FF" },
 ];
 
 const NAV_LINKS = [

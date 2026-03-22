@@ -23,7 +23,7 @@ Individual problems do not matter. Patterns do. If you understand the two pointe
 9. Dynamic programming
 10. Backtracking
 
-For each pattern, study the concept first, then solve 5-8 problems that use it. Do not move on until the current one feels comfortable. CodeJeet organizes problems by [topic](/dashboard) to make this easy.
+For each pattern, study the concept first, then solve 5-8 problems that use it. Do not move on until the current one feels comfortable. TidyBit organizes problems by [topic](/dashboard) to make this easy.
 
 Let's look at concrete examples for the first few patterns to illustrate their core templates.
 
@@ -531,4 +531,4 @@ You are ready when you can: identify the correct pattern within 2 minutes, solve
 
 **Ignoring communication.** Practice explaining your approach out loud. In interviews, how you communicate matters as much as the answer. Use the **"Think Aloud"** method: narrate your thought process as you break down the problem, consider edge cases, and choose a pattern.
 
-Use the [CodeJeet dashboard](/dashboard) to find problems by topic and company. Strategic practice always beats aimless grinding.
+Use the [TidyBit dashboard](/dashboard) to find problems by topic and company. Strategic practice always beats aimless grinding.

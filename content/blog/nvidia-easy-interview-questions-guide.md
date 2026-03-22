@@ -8,7 +8,7 @@ tags: ["nvidia", "easy", "interview prep"]
 
 # Easy NVIDIA Interview Questions: Strategy Guide
 
-NVIDIA’s “Easy” problems—34 out of 137 total on CodeJeet—are designed to assess fundamental programming fluency and logical clarity. These questions typically involve straightforward array/string manipulation, basic data structure operations, or simple mathematical reasoning. They are not trick questions; they test whether you can write clean, correct, and efficient code under minimal pressure. Expect to see problems that mirror common coding fundamentals, often serving as a warm-up or a filter for basic competency before moving to more complex topics.
+NVIDIA’s “Easy” problems—34 out of 137 total on TidyBit—are designed to assess fundamental programming fluency and logical clarity. These questions typically involve straightforward array/string manipulation, basic data structure operations, or simple mathematical reasoning. They are not trick questions; they test whether you can write clean, correct, and efficient code under minimal pressure. Expect to see problems that mirror common coding fundamentals, often serving as a warm-up or a filter for basic competency before moving to more complex topics.
 
 ## Common Patterns
 

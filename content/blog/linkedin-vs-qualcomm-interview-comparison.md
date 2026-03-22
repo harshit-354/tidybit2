@@ -125,4 +125,4 @@ Then, transition to **LinkedIn**. Use the advanced patterns (DFS, complex Hash T
 
 Ultimately, your priority should align with your target company. For a software engineering role in a product-driven environment, prioritize LinkedIn's profile. For roles closer to systems, embedded, or telecommunications software, Qualcomm's focus is more directly relevant.
 
-For specific question lists, visit the CodeJeet pages for [LinkedIn](/company/linkedin) and [Qualcomm](/company/qualcomm).
+For specific question lists, visit the TidyBit pages for [LinkedIn](/company/linkedin) and [Qualcomm](/company/qualcomm).

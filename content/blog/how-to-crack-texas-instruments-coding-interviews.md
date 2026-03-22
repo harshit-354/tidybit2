@@ -138,4 +138,4 @@ Given the difficulty curve, a rigorous, focused plan is required.
 
 Success in a Texas Instruments interview requires moving beyond simply solving problems to demonstrating deep, intuitive mastery of core algorithmic patterns under pressure. Focus your energy on the high-difficulty, high-frequency topics, and practice until the patterns become automatic.
 
-[Browse all Texas Instruments questions on CodeJeet](/company/texas-instruments)
+[Browse all Texas Instruments questions on TidyBit](/company/texas-instruments)

@@ -107,4 +107,4 @@ Once comfortable with fundamentals, pivot to **TikTok**'s list. The high concent
 
 Ultimately, Bloomberg's list is a better generalist starting point, while TikTok's list is a targeted tool for elevating your problem-solving to a higher tier of difficulty. Prioritize based on your interview timeline and the specific company's known focus.
 
-For targeted practice, visit the CodeJeet pages for [Bloomberg](/company/bloomberg) and [TikTok](/company/tiktok).
+For targeted practice, visit the TidyBit pages for [Bloomberg](/company/bloomberg) and [TikTok](/company/tiktok).

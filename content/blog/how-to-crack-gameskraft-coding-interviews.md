@@ -96,7 +96,7 @@ You need a concentrated, high-intensity plan. Allocate at least 2-3 hours daily.
 
 **Weeks 3-4: Advanced Patterns & Hard Problems.** Dive deep into hard problems. Focus on patterns: DP variations (knapsack, LCS, LIS), advanced graph algorithms (Dijkstra, topological sort with twists), and heap-based optimizations (merge K sorted lists, median finder). Solve at least 30-40 hard problems, prioritizing those tagged with Gameskraft's top topics. Analyze the solution thoroughly if stuck—understanding the insight is more important than just getting the "Accepted" verdict.
 
-**Weeks 5-5.5: Company-Specific & Mock Interviews.** Solve every available Gameskraft problem on platforms like CodeJeet. This acclimatizes you to their problem style and difficulty. In the final 3-4 days, conduct at least 4-5 timed mock interviews (90 minutes each) with a peer or mentor. Simulate the real environment: explain your thought process aloud, write code on a whiteboard or shared doc, and discuss time/space complexity.
+**Weeks 5-5.5: Company-Specific & Mock Interviews.** Solve every available Gameskraft problem on platforms like TidyBit. This acclimatizes you to their problem style and difficulty. In the final 3-4 days, conduct at least 4-5 timed mock interviews (90 minutes each) with a peer or mentor. Simulate the real environment: explain your thought process aloud, write code on a whiteboard or shared doc, and discuss time/space complexity.
 
 **Week 6: Final Review & Weakness Targeting.** In the final week, stop learning new topics. Review your notes and the solutions to problems you found most challenging. Re-implement 10-15 of the toughest problems you've solved from memory. Target your specific weaknesses—perhaps state transition in DP or recursion with memoization—and solve a few more problems in that area.
 
@@ -110,4 +110,4 @@ You need a concentrated, high-intensity plan. Allocate at least 2-3 hours daily.
 
 Your goal is to demonstrate you can be entrusted with the architectural challenges of building a high-scale gaming platform. Focus on depth over breadth, and precision over speed in your practice.
 
-[Browse all Gameskraft questions on CodeJeet](/company/gameskraft)
+[Browse all Gameskraft questions on TidyBit](/company/gameskraft)

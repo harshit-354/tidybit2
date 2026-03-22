@@ -111,4 +111,4 @@ Prepare for **Twitter first** if you already have a strong algorithmic foundatio
 
 Ultimately, the shared focus on Array, String, and Hash Table problems means preparation for one significantly benefits the other. Start with the company whose difficulty curve best matches your current skill level to build momentum.
 
-For targeted practice, visit the JPMorgan question list at [/company/jpmorgan](https://codejeet.com/company/jpmorgan) and the Twitter question list at [/company/twitter](https://codejeet.com/company/twitter).
+For targeted practice, visit the JPMorgan question list at [/company/jpmorgan](https://tidybit.com/company/jpmorgan) and the Twitter question list at [/company/twitter](https://tidybit.com/company/twitter).

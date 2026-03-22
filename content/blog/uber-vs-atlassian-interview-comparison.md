@@ -145,4 +145,4 @@ If you are interviewing at both, **start with Uber preparation**. Here’s why:
 
 In short, use Uber prep to build your algorithmic engine, then tune it for Atlassian's specific track.
 
-For detailed question lists and patterns, visit the Uber and Atlassian question hubs: [CodeJeet Uber Questions](/company/uber) | [CodeJeet Atlassian Questions](/company/atlassian)
+For detailed question lists and patterns, visit the Uber and Atlassian question hubs: [TidyBit Uber Questions](/company/uber) | [TidyBit Atlassian Questions](/company/atlassian)

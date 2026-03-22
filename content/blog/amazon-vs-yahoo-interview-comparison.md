@@ -10,7 +10,7 @@ When preparing for technical interviews, understanding company-specific patterns
 
 ## Question Volume and Difficulty
 
-The sheer volume of reported questions sets these companies apart. Amazon's list of **1,938 questions** dwarfs Yahoo's **64**. This disparity reflects Amazon's immense hiring scale, standardized looping process, and the extensive candidate feedback available on platforms like CodeJeet.
+The sheer volume of reported questions sets these companies apart. Amazon's list of **1,938 questions** dwarfs Yahoo's **64**. This disparity reflects Amazon's immense hiring scale, standardized looping process, and the extensive candidate feedback available on platforms like TidyBit.
 
 The difficulty distribution further highlights the difference:
 
@@ -81,4 +81,4 @@ You should **prepare for Amazon first**. Its question bank is vast and covers a 
 
 If you are interviewing with both, use Amazon preparation as your comprehensive baseline. In the final days before a Yahoo interview, shift to reviewing their specific, smaller question list to familiarize yourself with their exact problem style, which tends to be more straightforward.
 
-For detailed question lists and patterns, visit the Amazon and Yahoo pages on CodeJeet: [/company/amazon](/company/amazon) and [/company/yahoo](/company/yahoo).
+For detailed question lists and patterns, visit the Amazon and Yahoo pages on TidyBit: [/company/amazon](/company/amazon) and [/company/yahoo](/company/yahoo).

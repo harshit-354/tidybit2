@@ -89,4 +89,4 @@ Your choice depends on your timeline and goals. **Prepare for Amazon first if yo
 
 Ultimately, the shared core topics are your anchor. Build strong fundamentals there, then expand for Amazon's volume or specialize for Airbnb's focus.
 
-For targeted practice, visit the CodeJeet question banks for [Amazon](/company/amazon) and [Airbnb](/company/airbnb).
+For targeted practice, visit the TidyBit question banks for [Amazon](/company/amazon) and [Airbnb](/company/airbnb).

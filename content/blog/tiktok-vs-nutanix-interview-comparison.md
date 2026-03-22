@@ -83,4 +83,4 @@ Then, move to **TikTok**. Use the established core skills and expand into the hi
 
 Ultimately, Nutanix preparation is a deep dive into algorithmic rigor, while TikTok preparation is a marathon of pattern recognition across a vast problem set. Mastering the core topics first makes the broader challenge manageable.
 
-For specific question lists and frequency data, visit the CodeJeet pages for [TikTok](/company/tiktok) and [Nutanix](/company/nutanix).
+For specific question lists and frequency data, visit the TidyBit pages for [TikTok](/company/tiktok) and [Nutanix](/company/nutanix).

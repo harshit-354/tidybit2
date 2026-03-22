@@ -87,4 +87,4 @@ The strategic choice depends on your goals and timeline.
 
 In essence, Microsoft interviews test for **strong, reliable software engineering fundamentals**. Citadel interviews test for **exceptional, optimized problem-solving under constraints**. Use Microsoft's breadth to build your foundation, and Citadel's depth to sharpen your peak performance.
 
-For focused practice, visit the CodeJeet pages for [Microsoft](/company/microsoft) and [Citadel](/company/citadel).
+For focused practice, visit the TidyBit pages for [Microsoft](/company/microsoft) and [Citadel](/company/citadel).

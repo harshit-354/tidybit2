@@ -118,4 +118,4 @@ If you are already **comfortable with Easy and common Medium problems** and are 
 
 Ultimately, a robust preparation for either company will involve mastering Arrays and Strings. The key differentiator is the secondary skill set: efficient traversal and ordering for IBM versus optimal lookup and state optimization for Walmart Labs.
 
-For further details on each company's specific question trends, visit the CodeJeet pages for [IBM](/company/ibm) and [Walmart Labs](/company/walmart-labs).
+For further details on each company's specific question trends, visit the TidyBit pages for [IBM](/company/ibm) and [Walmart Labs](/company/walmart-labs).

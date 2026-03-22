@@ -116,4 +116,4 @@ A structured approach is key. Don't just solve problems randomly.
 3.  **Test with Edge Cases Proactively.** Before declaring a problem solved, walk through small cases, empty inputs, large values, and off-by-one scenarios. Verbally state what you're testing as you do it.
 4.  **Communicate Your State.** Think out loud. If you're stuck, articulate what you're considering and why a certain approach might not work. This turns a silent struggle into a collaborative problem-solving session, which is highly valued.
 
-[Browse all Two Sigma questions on CodeJeet](/company/two-sigma)
+[Browse all Two Sigma questions on TidyBit](/company/two-sigma)

@@ -89,4 +89,4 @@ A structured, topic-focused approach is more effective than random practice.
 
 Mastering these patterns and strategies will build the muscle memory and confidence needed to perform under the unique pressure of a GitHub interview. The process tests your ability to be a reliable, communicative engineer—exactly the kind of contributor they value on their platform.
 
-[Browse all GitHub questions on CodeJeet](/company/github)
+[Browse all GitHub questions on TidyBit](/company/github)

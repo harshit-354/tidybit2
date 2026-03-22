@@ -98,4 +98,4 @@ A focused, consistent plan is more effective than cramming. Adjust based on your
 
 Success in Airtel's coding interviews comes from methodical preparation on their core topics and demonstrating clear, efficient problem-solving under pressure. Start with the patterns, build consistency, and simulate the real environment.
 
-[Browse all Airtel questions on CodeJeet](/company/airtel)
+[Browse all Airtel questions on TidyBit](/company/airtel)

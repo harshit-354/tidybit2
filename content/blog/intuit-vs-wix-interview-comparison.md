@@ -6,7 +6,7 @@ category: "tips"
 tags: ["intuit", "wix", "comparison"]
 ---
 
-When preparing for technical interviews at major tech companies, understanding their specific question patterns and focus areas is crucial for efficient study. Intuit and Wix, while both established technology companies, show distinct profiles in their coding interview question libraries on CodeJeet. Intuit's list is larger and more challenging, while Wix's is more compact with a slightly different emphasis. This comparison breaks down the key differences to help you prioritize your preparation.
+When preparing for technical interviews at major tech companies, understanding their specific question patterns and focus areas is crucial for efficient study. Intuit and Wix, while both established technology companies, show distinct profiles in their coding interview question libraries on TidyBit. Intuit's list is larger and more challenging, while Wix's is more compact with a slightly different emphasis. This comparison breaks down the key differences to help you prioritize your preparation.
 
 ## Question Volume and Difficulty
 

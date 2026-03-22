@@ -131,4 +131,4 @@ Transition to **Yandex preparation** after solidifying the core. The larger volu
 
 Ultimately, mastering the shared core topics provides significant overlap. Prioritize based on your target industry and use the distinct focus areas—Two Pointers for Yandex, Math for Capital One—to direct your final, company-specific deep dives.
 
-For specific question lists and patterns, visit the CodeJeet pages for [Yandex](/company/yandex) and [Capital One](/company/capital-one).
+For specific question lists and patterns, visit the TidyBit pages for [Yandex](/company/yandex) and [Capital One](/company/capital-one).

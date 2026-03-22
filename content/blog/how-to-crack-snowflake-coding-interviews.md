@@ -475,7 +475,7 @@ public class DPExamples {
 
 Aim for a focused 6-week plan. This assumes you already have a baseline in data structures.
 
-**Weeks 1-2: Foundation & Core Topics.** Dedicate this phase to Arrays, Strings, and Hash Tables. Solve 15-20 problems per topic, mixing Easy and Medium. Ensure you can implement all common operations and patterns from memory. Use platforms like CodeJeet to filter Snowflake questions by these tags.
+**Weeks 1-2: Foundation & Core Topics.** Dedicate this phase to Arrays, Strings, and Hash Tables. Solve 15-20 problems per topic, mixing Easy and Medium. Ensure you can implement all common operations and patterns from memory. Use platforms like TidyBit to filter Snowflake questions by these tags.
 
 During this phase, practice implementing fundamental operations like in-place array reversal, string anagram checks, and frequency counting with hash maps. For example, reversing an array in-place is a common test of understanding pointers and array manipulation.
 
@@ -817,4 +817,4 @@ For example, when asked to find all pairs in an array that sum to a target, you 
 
 **Simulate the Data Platform Context.** When solving a problem, occasionally ask yourself, "How would this operate on a massive dataset?" This mindset can guide you toward efficient, scalable solutions and shows alignment with Snowflake's core business. For instance, if a problem involves sorting, consider if an external sort or distributed algorithm would be needed for data that doesn't fit in memory.
 
-[Browse all Snowflake questions on CodeJeet](/company/snowflake)
+[Browse all Snowflake questions on TidyBit](/company/snowflake)

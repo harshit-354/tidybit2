@@ -122,4 +122,4 @@ The strategic choice depends on your timeline and interview schedule.
 
 Ultimately, the significant overlap in core topics means preparation for one company substantially benefits the other. The difference is one of depth and specific emphasis: **PhonePe demands greater depth on advanced algorithmic patterns (especially Sorting and DP), while ServiceNow requires broad, solid proficiency with a particular eye for String manipulation.**
 
-For detailed question lists and patterns, visit the CodeJeet pages for [PhonePe](/company/phonepe) and [ServiceNow](/company/servicenow).
+For detailed question lists and patterns, visit the TidyBit pages for [PhonePe](/company/phonepe) and [ServiceNow](/company/servicenow).

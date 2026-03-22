@@ -139,4 +139,4 @@ public class EventSimulator {
 
 Success at Valve hinges on demonstrating you can translate a set of rules or a design into clean, efficient, and runnable code. Focus on the core patterns, master the simulation, and practice articulating your process.
 
-[Browse all Valve questions on CodeJeet](/company/valve)
+[Browse all Valve questions on TidyBit](/company/valve)

@@ -164,4 +164,4 @@ Once comfortable with Accenture's scope, transition to **Zoho preparation**. Thi
 
 Effectively, preparing for Zoho will cover nearly all the technical ground needed for Accenture, plus the extra DP topic. The reverse is not true. Therefore, a logical sequence is to build core proficiency with Accenture's problem set, then extend your capability to meet Zoho's more rigorous demands.
 
-For targeted practice, visit the Zoho question bank and Accenture question bank on CodeJeet.
+For targeted practice, visit the Zoho question bank and Accenture question bank on TidyBit.

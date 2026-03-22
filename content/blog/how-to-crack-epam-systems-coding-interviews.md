@@ -95,4 +95,4 @@ A structured approach is non-negotiable. This plan assumes 15-20 hours of focuse
 
 Success in an Epam Systems interview is about consistent, clear, and correct application of core computer science principles. Focus on the high-percentage topics, practice communicating your process, and you'll be well-prepared.
 
-[Browse all Epam Systems questions on CodeJeet](/company/epam-systems)
+[Browse all Epam Systems questions on TidyBit](/company/epam-systems)

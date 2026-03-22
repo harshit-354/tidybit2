@@ -122,4 +122,4 @@ If you are an **experienced engineer aiming for Twitter or similar top-tier firm
 
 Ultimately, EPAM's list serves as an excellent foundation. The skills mastered there are prerequisites for Twitter's more advanced questions. A robust strategy is to build core competency with EPAM-style questions, then layer on the complexity and design focus required for Twitter.
 
-For more detailed question lists, visit the Twitter and EPAM Systems pages on CodeJeet: [/company/twitter](/company/twitter), [/company/epam-systems](/company/epam-systems).
+For more detailed question lists, visit the Twitter and EPAM Systems pages on TidyBit: [/company/twitter](/company/twitter), [/company/epam-systems](/company/epam-systems).

@@ -107,4 +107,4 @@ A focused, topic-driven approach will cover everything you need.
 
 Success in Mindtree's coding interview is a test of disciplined fundamentals. By methodically practicing their high-frequency topics and focusing on error-free execution, you can demonstrate the reliable coding ability they are looking for.
 
-[Browse all Mindtree questions on CodeJeet](/company/mindtree)
+[Browse all Mindtree questions on TidyBit](/company/mindtree)

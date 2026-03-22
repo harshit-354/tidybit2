@@ -124,4 +124,4 @@ public int longestSubstringKDistinct(String s, int k) {
 
 Success in Faire's interviews requires targeted, high-intensity practice on the specific combination of topics and difficulty they favor. Build your foundation, then pressure-test it with integrated Hard problems.
 
-[Browse all Faire questions on CodeJeet](/company/faire)
+[Browse all Faire questions on TidyBit](/company/faire)

@@ -119,4 +119,4 @@ If your target is **PayPal**, drill deeply into the core topics and Sorting algo
 
 For candidates interviewing at both, begin with the PayPal-focused core and sorting practice. This builds a strong base. Then, expand your study to include Amazon's requirements by adding extensive DP practice and working through a larger volume of problems to build stamina and pattern recognition.
 
-For further company-specific question lists and trends, visit the CodeJeet pages for [Amazon](/company/amazon) and [PayPal](/company/paypal).
+For further company-specific question lists and trends, visit the TidyBit pages for [Amazon](/company/amazon) and [PayPal](/company/paypal).

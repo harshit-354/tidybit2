@@ -125,4 +125,4 @@ public class Knapsack {
 
 Consistent, topic-focused practice is the key to handling Zepto's Medium-heavy question bank.
 
-[Browse all Zepto questions on CodeJeet](/company/zepto)
+[Browse all Zepto questions on TidyBit](/company/zepto)

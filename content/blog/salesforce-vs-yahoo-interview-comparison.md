@@ -82,4 +82,4 @@ You should prepare for **Salesforce** first only if it is your primary target. T
 
 In summary, use Yahoo preparation to build a strong foundation. Use Salesforce preparation to reach an advanced, interview-ready level of algorithmic proficiency. Tailor your study plan to the company that best matches your current skill level and career goals.
 
-For more detailed question lists, visit the [Salesforce](/company/salesforce) and [Yahoo](/company/yahoo) pages on CodeJeet.
+For more detailed question lists, visit the [Salesforce](/company/salesforce) and [Yahoo](/company/yahoo) pages on TidyBit.

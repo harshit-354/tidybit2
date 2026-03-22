@@ -131,4 +131,4 @@ A structured approach is necessary to cover the breadth and depth required.
 3.  **Write Production-Ready Code.** Use meaningful variable names, include brief comments for complex logic, and always handle edge cases (empty input, single element, large values). Check for off-by-one errors, especially in array and string indices.
 4.  **Test with Your Own Cases.** After coding, don't wait for the interviewer. Walk through your solution with a small, valid test case, a corner case (like an empty string), and a larger case to verify logic and bounds.
 
-Mastering this focused approach will allow you to efficiently navigate the core challenges of a Box interview. For targeted practice, [Browse all Box questions on CodeJeet](/company/box).
+Mastering this focused approach will allow you to efficiently navigate the core challenges of a Box interview. For targeted practice, [Browse all Box questions on TidyBit](/company/box).

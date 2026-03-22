@@ -85,4 +85,4 @@ Your preparation priority should align with your interview timeline and the comp
 
 In essence, Roblox preparation builds a robust foundation, while PhonePe preparation demands advanced specialization. A strong candidate for either will have Arrays and Hash Tables down cold.
 
-For more detailed question lists and patterns, visit the CodeJeet pages for [PhonePe](/company/phonepe) and [Roblox](/company/roblox).
+For more detailed question lists and patterns, visit the TidyBit pages for [PhonePe](/company/phonepe) and [Roblox](/company/roblox).

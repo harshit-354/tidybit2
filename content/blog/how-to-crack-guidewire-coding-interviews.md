@@ -100,4 +100,4 @@ public int[] twoSum(int[] nums, int target) {
 
 Mastering these Medium-difficulty patterns through disciplined practice is the most reliable path to success in a Guidewire coding interview.
 
-[Browse all Guidewire questions on CodeJeet](/company/guidewire)
+[Browse all Guidewire questions on TidyBit](/company/guidewire)

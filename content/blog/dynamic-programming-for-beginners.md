@@ -774,7 +774,7 @@ public class MinPathSum {
 
 **Advanced:** 11. Longest Increasing Subsequence - O(n²) and O(n log n) solutions 12. Burst Balloons - Interval DP with tricky recurrence
 
-Find DP problems tagged by company on the [CodeJeet dashboard](/dashboard). DP is especially popular at [Amazon](/company/amazon), [Google](/company/google), and [Microsoft](/company/microsoft).
+Find DP problems tagged by company on the [TidyBit dashboard](/dashboard). DP is especially popular at [Amazon](/company/amazon), [Google](/company/google), and [Microsoft](/company/microsoft).
 
 ## Common Mistakes
 

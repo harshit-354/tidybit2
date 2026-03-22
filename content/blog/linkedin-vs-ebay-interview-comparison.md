@@ -137,4 +137,4 @@ Once comfortable with eBay's patterns, transition to **LinkedIn** preparation. T
 
 Ultimately, eBay serves as an excellent stepping stone. Mastering its list creates a robust platform for tackling the more extensive and challenging landscape of a LinkedIn technical interview.
 
-For specific question lists, visit the CodeJeet pages for [LinkedIn](/company/linkedin) and [eBay](/company/ebay).
+For specific question lists, visit the TidyBit pages for [LinkedIn](/company/linkedin) and [eBay](/company/ebay).

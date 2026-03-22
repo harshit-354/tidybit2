@@ -113,4 +113,4 @@ After building competency with Adobe-style questions, tailor your final preparat
 
 Focus your study on the shared core, then branch out to the company-specific emphasis areas.
 
-For more detailed question lists, visit the Adobe and JPMorgan pages on CodeJeet: [/company/adobe](/company/adobe) and [/company/jpmorgan](/company/jpmorgan).
+For more detailed question lists, visit the Adobe and JPMorgan pages on TidyBit: [/company/adobe](/company/adobe) and [/company/jpmorgan](/company/jpmorgan).

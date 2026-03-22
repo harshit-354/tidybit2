@@ -151,4 +151,4 @@ Your preparation order should be guided by your timeline and the breadth of your
 
 In essence, begin with the company whose preparation style best matches your overall goals: focused depth (Coupang) or broad foundational strength (LinkedIn).
 
-For more detailed question lists, visit the [LinkedIn](/company/linkedin) and [Coupang](/company/coupang) pages on CodeJeet.
+For more detailed question lists, visit the [LinkedIn](/company/linkedin) and [Coupang](/company/coupang) pages on TidyBit.

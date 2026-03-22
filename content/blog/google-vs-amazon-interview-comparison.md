@@ -116,4 +116,4 @@ If you must prioritize, use this guideline: If your goal is to pass the most tec
 
 Ultimately, the best preparation is holistic. Solidify your core skills, then practice contextualizing them—whether for algorithmic depth (Google) or scalable, practical implementation (Amazon).
 
-For targeted practice, visit the CodeJeet question banks: [Google Interview Questions](/company/google) | [Amazon Interview Questions](/company/amazon)
+For targeted practice, visit the TidyBit question banks: [Google Interview Questions](/company/google) | [Amazon Interview Questions](/company/amazon)

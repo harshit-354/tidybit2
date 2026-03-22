@@ -75,6 +75,6 @@ This pattern uses a hash map to track the most recent index of each character an
 
 ## Recommended Practice Order
 
-Start with basic operations and palindrome problems to build confidence. Move to anagram detection and simple sliding window problems. Then, tackle more complex sliding window applications and pattern matching algorithms (practice implementing KMP). Finally, attempt dynamic programming problems on strings, like edit distance or interleaving strings. Consistently solve problems on platforms like CodeJeet, focusing on Flipkart's tagged questions to understand their specific style and difficulty curve.
+Start with basic operations and palindrome problems to build confidence. Move to anagram detection and simple sliding window problems. Then, tackle more complex sliding window applications and pattern matching algorithms (practice implementing KMP). Finally, attempt dynamic programming problems on strings, like edit distance or interleaving strings. Consistently solve problems on platforms like TidyBit, focusing on Flipkart's tagged questions to understand their specific style and difficulty curve.
 
 [Practice String at Flipkart](/company/flipkart/string)

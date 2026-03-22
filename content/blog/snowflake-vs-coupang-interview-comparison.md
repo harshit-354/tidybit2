@@ -6,7 +6,7 @@ category: "tips"
 tags: ["snowflake", "coupang", "comparison"]
 ---
 
-When preparing for technical interviews at top tech companies, understanding the specific patterns and expectations of each employer is crucial. Both Snowflake and Coupang are known for rigorous coding assessments, but their question banks on CodeJeet reveal distinct profiles in volume, difficulty, and focus. This comparison analyzes their tagged questions to help you strategize your preparation.
+When preparing for technical interviews at top tech companies, understanding the specific patterns and expectations of each employer is crucial. Both Snowflake and Coupang are known for rigorous coding assessments, but their question banks on TidyBit reveal distinct profiles in volume, difficulty, and focus. This comparison analyzes their tagged questions to help you strategize your preparation.
 
 ## Question Volume and Difficulty
 

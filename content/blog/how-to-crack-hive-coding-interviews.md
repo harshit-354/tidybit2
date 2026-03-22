@@ -140,4 +140,4 @@ Given the difficulty curve, a superficial one-week cram session will not suffice
 
 Your goal is to demonstrate you can navigate complexity with a structured, analytical approach. Focus your practice on the intersection of Matrix traversal and Dynamic Programming, and prepare to discuss your solutions at a high level.
 
-[Browse all Hive questions on CodeJeet](/company/hive)
+[Browse all Hive questions on TidyBit](/company/hive)

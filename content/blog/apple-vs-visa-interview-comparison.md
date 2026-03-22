@@ -127,4 +127,4 @@ Prepare for **Apple first** only if you are already strong in core data structur
 
 Ultimately, your choice should align with your target role and current skill level. Solidify fundamentals with Visa's scope, then deepen your algorithmic thinking with Apple's challenges.
 
-For dedicated question lists, visit the [Apple](/company/apple) and [Visa](/company/visa) pages on CodeJeet.
+For dedicated question lists, visit the [Apple](/company/apple) and [Visa](/company/visa) pages on TidyBit.

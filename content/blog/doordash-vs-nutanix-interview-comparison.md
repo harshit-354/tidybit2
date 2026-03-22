@@ -73,4 +73,4 @@ If you are only targeting Nutanix, you can focus more efficiently. Prioritize a 
 
 In summary, use the DoorDash list to push your limits and the Nutanix list to solidify your core. The overlap makes dual preparation efficient, with DoorDash serving as the more comprehensive training ground.
 
-For specific question lists, visit the CodeJeet pages for [DoorDash](/company/doordash) and [Nutanix](/company/nutanix).
+For specific question lists, visit the TidyBit pages for [DoorDash](/company/doordash) and [Nutanix](/company/nutanix).

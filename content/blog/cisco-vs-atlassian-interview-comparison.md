@@ -81,4 +81,4 @@ If your goal is to interview at both, **prepare for Atlassian first**. The inten
 
 Ultimately, Atlassian's profile is more concentrated, making it an efficient starting point. Cisco's broader and slightly more difficult range requires extending that core competency with additional pattern recognition and optimization practice.
 
-For detailed company-specific question lists and trends, visit the CodeJeet pages for [Cisco](/company/cisco) and [Atlassian](/company/atlassian).
+For detailed company-specific question lists and trends, visit the TidyBit pages for [Cisco](/company/cisco) and [Atlassian](/company/atlassian).

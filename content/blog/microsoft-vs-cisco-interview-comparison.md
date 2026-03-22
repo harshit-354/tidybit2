@@ -123,4 +123,4 @@ The order of preparation should be guided by your timeline and the companies' re
 
 In practice, a hybrid approach is effective: use Cisco's list as a targeted set of problems to solidify fundamentals, then expand into Microsoft's list to build the depth and stamina needed for its more demanding interviews. Regardless of the order, consistent practice on the core overlapping topics is the key to success at both.
 
-For detailed question lists and patterns, visit the CodeJeet pages for [Microsoft](/company/microsoft) and [Cisco](/company/cisco).
+For detailed question lists and patterns, visit the TidyBit pages for [Microsoft](/company/microsoft) and [Cisco](/company/cisco).

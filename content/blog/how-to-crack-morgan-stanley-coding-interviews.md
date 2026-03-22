@@ -87,4 +87,4 @@ A structured approach is non-negotiable. Here is a focused plan.
 
 Success in a Morgan Stanley coding interview is built on precise execution of fundamentals, not theoretical genius. Master the core patterns, communicate your logic clearly, and structure your preparation to match their demonstrated focus on Medium-difficulty array, string, and hash table problems.
 
-[Browse all Morgan Stanley questions on CodeJeet](/company/morgan-stanley)
+[Browse all Morgan Stanley questions on TidyBit](/company/morgan-stanley)

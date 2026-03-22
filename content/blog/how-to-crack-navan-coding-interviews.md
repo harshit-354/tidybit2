@@ -213,11 +213,11 @@ class LRUCache {
 
 ## Preparation Strategy — A 4-6 Week Study Plan
 
-**Weeks 1-2: Foundation & Core Topics.** Spend 60-90 minutes daily. Use a platform like CodeJeet to systematically cover the top topics. Start with Hash Tables and Strings, then move to Linked Lists. For each topic, solve 8-10 Medium problems. Understand the underlying pattern, don't just memorize solutions. Implement the LRU Cache from scratch until you can do it without reference.
+**Weeks 1-2: Foundation & Core Topics.** Spend 60-90 minutes daily. Use a platform like TidyBit to systematically cover the top topics. Start with Hash Tables and Strings, then move to Linked Lists. For each topic, solve 8-10 Medium problems. Understand the underlying pattern, don't just memorize solutions. Implement the LRU Cache from scratch until you can do it without reference.
 
 **Weeks 3-4: Pattern Integration & Mock Interviews.** Increase to 2 hours daily. Focus on problems that combine topics (e.g., a String problem solved with a Hash Table and a sliding window). Solve 1-2 Hard problems per week, focusing on the patterns Navan uses (like complex list manipulations or advanced system design for a data structure). Begin weekly mock interviews with a peer or using a timed platform to simulate pressure.
 
-**Weeks 5-6: Refinement & Company-Specific Practice.** Target 90 minutes daily of focused review. Use the last week for active recall—re-solve your previously marked challenging problems. Dedicate significant time to Navan’s tagged questions on CodeJeet. Practice clearly explaining your thought process out loud as you code, as this is a critical part of Navan's collaborative interview style.
+**Weeks 5-6: Refinement & Company-Specific Practice.** Target 90 minutes daily of focused review. Use the last week for active recall—re-solve your previously marked challenging problems. Dedicate significant time to Navan’s tagged questions on TidyBit. Practice clearly explaining your thought process out loud as you code, as this is a critical part of Navan's collaborative interview style.
 
 ## Key Tips
 
@@ -228,4 +228,4 @@ class LRUCache {
 
 Success in a Navan interview hinges on deep, practical mastery of Medium-difficulty algorithms and the ability to articulate your problem-solving journey. Focus your preparation on their high-frequency topics, and you'll be well-equipped to handle their challenging question mix.
 
-[Browse all Navan questions on CodeJeet](/company/navan)
+[Browse all Navan questions on TidyBit](/company/navan)

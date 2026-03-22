@@ -650,4 +650,4 @@ public class TreeTraversal {
 
 5.  **Practice under time pressure.** With only about 40 minutes for the coding portion, you need to be efficient. Aim to solve a medium problem in under 20 minutes during practice so you have buffer for the real interview. Use a timer and simulate the interview environment.
 
-[Browse all Amazon questions on CodeJeet](/company/amazon)
+[Browse all Amazon questions on TidyBit](/company/amazon)

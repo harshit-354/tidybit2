@@ -92,13 +92,13 @@ public boolean hasCycle(ListNode head) {
 
 A focused, topic-driven plan is optimal given HPE’s question profile.
 
-**Weeks 1-2: Foundation.** Dedicate each day to one of the five core topics. For each topic, learn the fundamental data structure or concept, then practice 3-5 easy problems to build fluency. Use resources like CodeJeet’s HPE question list to find relevant problems.
+**Weeks 1-2: Foundation.** Dedicate each day to one of the five core topics. For each topic, learn the fundamental data structure or concept, then practice 3-5 easy problems to build fluency. Use resources like TidyBit’s HPE question list to find relevant problems.
 
 **Weeks 3-4: Pattern Integration and Medium Problems.** Shift to solving medium problems that combine concepts (e.g., backtracking on arrays, recursion on linked lists). This week is about recognizing which pattern to apply. Time yourself to mimic interview conditions.
 
 **Week 5: Mock Interviews and Review.** Conduct at least 3-5 mock interviews, focusing on problems in the Easy-Medium range. Practice verbalizing your thought process from problem analysis to edge-case consideration. Record yourself to improve communication clarity.
 
-**Week 6: Final Polish and Company-Specific Prep.** Revisit all previously solved problems to ensure you can code them quickly from scratch. Solve every HPE-tagged problem on CodeJeet. Focus on writing production-ready code: meaningful variable names, consistent formatting, and clear comments.
+**Week 6: Final Polish and Company-Specific Prep.** Revisit all previously solved problems to ensure you can code them quickly from scratch. Solve every HPE-tagged problem on TidyBit. Focus on writing production-ready code: meaningful variable names, consistent formatting, and clear comments.
 
 ## Key Tips
 
@@ -110,4 +110,4 @@ A focused, topic-driven plan is optimal given HPE’s question profile.
 
 Success in an HPE coding interview hinges on solid fundamentals, consistent execution, and clear communication. Target the high-frequency topics, practice under timed conditions, and approach each problem methodically.
 
-[Browse all HPE questions on CodeJeet](/company/hpe)
+[Browse all HPE questions on TidyBit](/company/hpe)

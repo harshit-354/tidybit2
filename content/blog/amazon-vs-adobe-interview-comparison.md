@@ -106,4 +106,4 @@ Once this foundation is strong, **expand your preparation to target Amazon's spe
 
 In essence, Adobe's curriculum is a strong subset of Amazon's. Efficient preparation for Adobe naturally progresses into preparation for Amazon, but not necessarily the other way around. Focus on core algorithms and efficient problem-solving first, then layer on the additional complexity and breadth required for Amazon.
 
-For dedicated question lists and further details, visit the CodeJeet pages for [Amazon](/company/amazon) and [Adobe](/company/adobe).
+For dedicated question lists and further details, visit the TidyBit pages for [Amazon](/company/amazon) and [Adobe](/company/adobe).

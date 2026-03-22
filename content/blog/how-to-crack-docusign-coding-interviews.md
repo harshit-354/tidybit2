@@ -122,4 +122,4 @@ A structured approach is non-negotiable. Here’s a focused plan.
 
 Mastering these core patterns and executing them cleanly under interview pressure is the most reliable path to success.
 
-[Browse all DocuSign questions on CodeJeet](/company/docusign)
+[Browse all DocuSign questions on TidyBit](/company/docusign)

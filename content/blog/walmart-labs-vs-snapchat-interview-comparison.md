@@ -166,4 +166,4 @@ Once comfortable, pivot to **Snapchat**. Use the foundational skills to tackle i
 
 Effectively, preparing for Walmart Labs builds your general competency, while preparing for Snapchat sharpens it to a high degree of specialization and difficulty.
 
-For targeted practice, visit the Walmart Labs question list and the Snapchat question list on CodeJeet.
+For targeted practice, visit the Walmart Labs question list and the Snapchat question list on TidyBit.

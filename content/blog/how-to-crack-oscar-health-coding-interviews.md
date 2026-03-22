@@ -103,4 +103,4 @@ Conduct at least 6-8 mock interviews simulating Oscar’s format—no Easy probl
 
 Success in an Oscar Health interview requires targeted preparation for high-complexity problems, with a sharp focus on string algorithms and dynamic programming. Practice under pressure, communicate clearly, and write robust code.
 
-[Browse all Oscar Health questions on CodeJeet](/company/oscar-health)
+[Browse all Oscar Health questions on TidyBit](/company/oscar-health)

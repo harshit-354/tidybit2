@@ -99,4 +99,4 @@ A structured approach is non-negotiable given the difficulty curve.
 
 Consistent, focused practice on high-difficulty problems across these key areas is the most reliable path to success. Start with the fundamentals, ramp up the intensity, and simulate the real environment as closely as possible.
 
-[Browse all Databricks questions on CodeJeet](/company/databricks)
+[Browse all Databricks questions on TidyBit](/company/databricks)

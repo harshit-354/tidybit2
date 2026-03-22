@@ -10,7 +10,7 @@ When preparing for technical interviews, understanding company-specific patterns
 
 ## Question Volume and Difficulty
 
-The most striking difference is the sheer number of questions. Oracle's tagged question bank on CodeJeet is **340 questions**, dwarfing DoorDash's **87 questions**. This volume makes Oracle's interview landscape broader and potentially less predictable.
+The most striking difference is the sheer number of questions. Oracle's tagged question bank on TidyBit is **340 questions**, dwarfing DoorDash's **87 questions**. This volume makes Oracle's interview landscape broader and potentially less predictable.
 
 The difficulty distribution further highlights their different approaches:
 

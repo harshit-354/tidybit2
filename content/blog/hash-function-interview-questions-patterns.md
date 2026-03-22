@@ -128,4 +128,4 @@ Top companies consistently include hash-based problems because they reflect real
 
 Hash function questions are a staple because they test foundational CS knowledge and practical optimization. The high proportion of Hard problems means you should prioritize depth over breadth—master the patterns, then combine them.
 
-[Practice all Hash Function questions on CodeJeet](/topic/hash-function)
+[Practice all Hash Function questions on TidyBit](/topic/hash-function)

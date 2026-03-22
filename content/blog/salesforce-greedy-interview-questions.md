@@ -92,7 +92,7 @@ Build competence progressively:
 
 1.  **Foundations:** Start with classic problems: Interval Scheduling (above), Minimum Number of Arrows to Burst Balloons, and Assign Cookies.
 2.  **Medium Variations:** Move to problems like Merge Intervals, Partition Labels, and Task Scheduler. These add slight twists to the core patterns.
-3.  **Salesforce-Specific:** Finally, practice directly from the curated list of Salesforce-tagged greedy problems on platforms like CodeJeet. This acclimates you to their problem style and difficulty level.
+3.  **Salesforce-Specific:** Finally, practice directly from the curated list of Salesforce-tagged greedy problems on platforms like TidyBit. This acclimates you to their problem style and difficulty level.
 
 Always verbalize your reasoning during practice. Explain why the greedy choice is safe and prove optimality, even if briefly. This is critical for the interview.
 

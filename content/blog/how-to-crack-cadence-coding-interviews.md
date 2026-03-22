@@ -82,4 +82,4 @@ For **Hash Tables**, the core pattern is using a map to store **prefix informati
 
 Success in a Cadence interview is about demonstrating methodical, efficient, and clean problem-solving with the tools that matter most in their domain. Build the foundation, then polish your performance.
 
-[Browse all Cadence questions on CodeJeet](/company/cadence)
+[Browse all Cadence questions on TidyBit](/company/cadence)

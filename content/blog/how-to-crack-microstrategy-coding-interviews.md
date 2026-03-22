@@ -95,7 +95,7 @@ A structured, topic-focused approach is necessary to cover the required ground e
 **Weeks 3-4: Core Topics & Pattern Recognition**
 
 - Days 15-21: Solidify **Stack** and **Two Pointers**. Solve problems like Valid Parentheses, Daily Temperatures (Stack), and Trapping Rain Water (Two Pointers/Stack).
-- Days 22-28: Begin mixed practice. Use the MicroStrategy question list on CodeJeet. Aim for 2-3 Medium problems daily, prioritizing the top topics. Focus on identifying the problem pattern within the first two minutes.
+- Days 22-28: Begin mixed practice. Use the MicroStrategy question list on TidyBit. Aim for 2-3 Medium problems daily, prioritizing the top topics. Focus on identifying the problem pattern within the first two minutes.
 
 **Weeks 5-6: Mock Interviews & Refinement**
 
@@ -112,4 +112,4 @@ A structured, topic-focused approach is necessary to cover the required ground e
 
 Mastering these core patterns and executing them flawlessly under interview conditions is the definitive path to success in a MicroStrategy coding interview.
 
-[Browse all MicroStrategy questions on CodeJeet](/company/microstrategy)
+[Browse all MicroStrategy questions on TidyBit](/company/microstrategy)

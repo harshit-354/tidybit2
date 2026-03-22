@@ -87,4 +87,4 @@ Your preparation priority should be guided by the breadth of the target company'
 
 Ultimately, a tiered approach is most efficient: master the intense focus of TikTok's core, then scale up to cover the extensive landscape of Meta's challenges.
 
-For specific question lists and patterns, visit the CodeJeet pages for [Meta](/company/meta) and [TikTok](/company/tiktok).
+For specific question lists and patterns, visit the TidyBit pages for [Meta](/company/meta) and [TikTok](/company/tiktok).

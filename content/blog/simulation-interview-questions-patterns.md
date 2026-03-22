@@ -234,4 +234,4 @@ Simulation questions are a staple at major tech companies because they mirror th
 
 Mastering simulation is about disciplined execution. The patterns are simple, but the precision required is high.
 
-[Practice all Simulation questions on CodeJeet](/topic/simulation)
+[Practice all Simulation questions on TidyBit](/topic/simulation)

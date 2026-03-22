@@ -171,7 +171,7 @@ class Trie {
 
 ## Preparation Strategy — A 4-6 Week Study Plan
 
-**Weeks 1-2: Foundation.** Grind Medium problems on the core topics: Array, DFS, and Bit Manipulation. Solve at least 15-20 problems per topic. Use platforms like CodeJeet to filter by company and difficulty. For Design, start reading engineering blogs about video streaming architectures.
+**Weeks 1-2: Foundation.** Grind Medium problems on the core topics: Array, DFS, and Bit Manipulation. Solve at least 15-20 problems per topic. Use platforms like TidyBit to filter by company and difficulty. For Design, start reading engineering blogs about video streaming architectures.
 
 **Weeks 3-4: Integration and Depth.** Focus on problems that combine topics, like DFS on a Trie or arrays with bit manipulation. Solve 2-3 Hard problems per week to build stamina. Dedicate time to object-oriented design; practice outlining classes, relationships, and key methods for systems like a playlist manager.
 
@@ -187,4 +187,4 @@ class Trie {
 
 Success in a Vimeo interview comes from targeted, consistent practice on their preferred problem domains and demonstrating clear, scalable engineering thinking.
 
-[Browse all Vimeo questions on CodeJeet](/company/vimeo)
+[Browse all Vimeo questions on TidyBit](/company/vimeo)

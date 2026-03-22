@@ -107,4 +107,4 @@ A focused, topic-driven approach is essential given the difficulty curve.
 
 Success in an NCR interview hinges on demonstrating methodical problem-solving for substantial algorithmic challenges. Focus your practice on their preferred topics, integrate patterns, and simulate the real conditions.
 
-[Browse all NCR questions on CodeJeet](/company/ncr)
+[Browse all NCR questions on TidyBit](/company/ncr)

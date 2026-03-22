@@ -127,4 +127,4 @@ Your preparation order should be dictated by your interview timeline and the tra
 
 **Strategic Approach:** Start with the shared core (Arrays, Strings, Hash Tables). Then, branch based on the company: dive deep into Math problems for Meta, and drill Dynamic Programming for ServiceNow. Regardless of order, use the smaller, focused ServiceNow list for targeted practice and the expansive Meta list for endurance training and exposure to edge cases.
 
-For detailed question lists and patterns, visit the CodeJeet pages for [Meta](/company/meta) and [ServiceNow](/company/servicenow).
+For detailed question lists and patterns, visit the TidyBit pages for [Meta](/company/meta) and [ServiceNow](/company/servicenow).

@@ -126,4 +126,4 @@ public int lengthOfLongestSubstring(String s) {
 
 Consistent, focused practice on the core patterns is what will get you through the WarnerMedia coding screen. Prioritize medium-difficulty problems across Arrays, Strings, and Hash Tables until you can solve them reliably.
 
-[Browse all WarnerMedia questions on CodeJeet](/company/warnermedia)
+[Browse all WarnerMedia questions on TidyBit](/company/warnermedia)

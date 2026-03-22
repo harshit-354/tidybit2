@@ -87,4 +87,4 @@ A structured approach is more effective than random practice.
 
 Success in HubSpot's coding interviews comes from methodical preparation focused on core patterns and clear, communicative problem-solving. Practice under timed conditions until the process feels routine.
 
-[Browse all HubSpot questions on CodeJeet](/company/hubspot)
+[Browse all HubSpot questions on TidyBit](/company/hubspot)

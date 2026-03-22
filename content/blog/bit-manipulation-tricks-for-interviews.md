@@ -762,4 +762,4 @@ public class HammingDistance {
 
 </div>
 
-Check the [CodeJeet dashboard](/dashboard) for bit manipulation problems by company. They appear at [Apple](/company/apple), [Amazon](/company/amazon), and [Google](/company/google).
+Check the [TidyBit dashboard](/dashboard) for bit manipulation problems by company. They appear at [Apple](/company/apple), [Amazon](/company/amazon), and [Google](/company/google).

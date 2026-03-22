@@ -13,7 +13,7 @@ The typical Adobe interview loop consists of a recruiter screen, an online asses
 
 ## By the Numbers
 
-Adobe's question bank on CodeJeet contains **227 questions**, giving you a substantial pool to train with. Here is how they break down by difficulty:
+Adobe's question bank on TidyBit contains **227 questions**, giving you a substantial pool to train with. Here is how they break down by difficulty:
 
 - **Easy: 68 questions (30%)** — A meaningful chunk, which is good news. Nail these to build momentum.
 - **Medium: 129 questions (57%)** — The bulk of what you will face. Most on-site coding rounds pull from this tier.
@@ -644,4 +644,4 @@ For senior roles, you might be asked about concurrency. Practice implementing th
 **System Design Fundamentals:**
 Even if you're not interviewing for a senior role, understanding basic system design principles can be beneficial. Practice designing scalable systems and be familiar with concepts like load balancing, caching strategies, and database indexing.
 
-[Browse all Adobe questions on CodeJeet](/company/adobe)
+[Browse all Adobe questions on TidyBit](/company/adobe)

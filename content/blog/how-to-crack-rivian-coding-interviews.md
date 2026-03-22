@@ -97,4 +97,4 @@ A structured plan is key to covering the necessary ground efficiently.
 3.  **Test Your Code Proactively.** Don't wait for the interviewer to ask. After writing your solution, walk through a standard test case, a edge case (empty input, single element, large value), and a case where your logic might fail. This shows thoroughness.
 4.  **Ask Clarifying Questions.** Before coding, confirm assumptions about input (size, sortedness, data types), output format, and edge cases. A simple question like "Can the input array be empty?" can prevent a major oversight.
 
-Mastering these patterns and strategies will position you strongly for Rivian's technical assessments. For a comprehensive list of problems asked at Rivian, [Browse all Rivian questions on CodeJeet](/company/rivian).
+Mastering these patterns and strategies will position you strongly for Rivian's technical assessments. For a comprehensive list of problems asked at Rivian, [Browse all Rivian questions on TidyBit](/company/rivian).

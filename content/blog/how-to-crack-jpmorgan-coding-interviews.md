@@ -496,7 +496,7 @@ Dedicate each day to one of the top five topics. Start with 2-3 Easy problems to
 - Evening: Solve subarray problems like "Product of Array Except Self" and "Subarray Sum Equals K"
 
 **Weeks 3-4: Pattern Recognition & Speed**
-Shift to mixed-topic practice. Use the company's question list on CodeJeet. Aim to solve 3-4 Medium problems daily under timed conditions (30-45 minutes each). The goal is to correctly identify the underlying pattern (e.g., "this is a sliding window problem using a hash map") within the first few minutes. Begin incorporating a few Hard problems from the top topics to stretch your thinking.
+Shift to mixed-topic practice. Use the company's question list on TidyBit. Aim to solve 3-4 Medium problems daily under timed conditions (30-45 minutes each). The goal is to correctly identify the underlying pattern (e.g., "this is a sliding window problem using a hash map") within the first few minutes. Begin incorporating a few Hard problems from the top topics to stretch your thinking.
 
 **Pattern Recognition Exercise:**
 Given a problem, try to categorize it within 2 minutes:
@@ -619,4 +619,4 @@ public class Fibonacci {
 
 Success in JPMorgan's coding interviews comes from consistent, focused practice on the core topics they care about most. Build a strong foundation, practice articulating your thoughts, and you'll be well-positioned to solve the problems they present.
 
-[Browse all JPMorgan questions on CodeJeet](/company/jpmorgan)
+[Browse all JPMorgan questions on TidyBit](/company/jpmorgan)

@@ -119,4 +119,4 @@ After establishing a strong base, pivot to **DE Shaw preparation**. This involve
 
 Use the Microsoft question set to build your breadth and the DE Shaw set to hone your depth and optimization skills.
 
-For more detailed company-specific guides and question lists, visit the CodeJeet pages for [Microsoft](/company/microsoft) and [DE Shaw](/company/de-shaw).
+For more detailed company-specific guides and question lists, visit the TidyBit pages for [Microsoft](/company/microsoft) and [DE Shaw](/company/de-shaw).

@@ -101,4 +101,4 @@ Allocate 60-70% of your time to hard problems, especially those involving graphs
 
 Master these patterns, follow the plan, and you'll be equipped to handle the algorithmic challenges Deliveroo presents.
 
-[Browse all Deliveroo questions on CodeJeet](/company/deliveroo)
+[Browse all Deliveroo questions on TidyBit](/company/deliveroo)

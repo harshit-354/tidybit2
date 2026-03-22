@@ -108,4 +108,4 @@ DFS is a universal tool, so it's favored by companies testing strong algorithmic
 
 Success with DFS questions comes from pattern recognition and precise implementation. Start with basic traversal, then systematically practice each pattern to build the instinct for when and how to apply this versatile algorithm.
 
-[Practice all Depth-First Search questions on CodeJeet](/topic/depth-first-search)
+[Practice all Depth-First Search questions on TidyBit](/topic/depth-first-search)

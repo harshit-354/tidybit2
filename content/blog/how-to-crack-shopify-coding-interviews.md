@@ -246,4 +246,4 @@ public class LRUCache {
 
 Mastering these patterns and adopting a disciplined practice schedule will position you strongly for Shopify’s rigorous interview process.
 
-[Browse all Shopify questions on CodeJeet](/company/shopify)
+[Browse all Shopify questions on TidyBit](/company/shopify)

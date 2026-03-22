@@ -91,4 +91,4 @@ Once comfortable, **expand your preparation to the Walmart Labs question bank.**
 
 Ultimately, a candidate well-prepared for Walmart Labs will likely cover most, if not all, of the ground needed for ServiceNow. The reverse is less true due to the volume and difficulty gap. Prioritize depth on the shared fundamental topics, then build breadth and tackle higher difficulty.
 
-For detailed company-specific question lists, visit the CodeJeet pages for [Walmart Labs](/company/walmart-labs) and [ServiceNow](/company/servicenow).
+For detailed company-specific question lists, visit the TidyBit pages for [Walmart Labs](/company/walmart-labs) and [ServiceNow](/company/servicenow).

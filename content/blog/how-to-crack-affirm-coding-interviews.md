@@ -86,4 +86,4 @@ A structured approach is non-negotiable. Here is a focused plan.
 
 Success in Affirm interviews comes from a blend of pattern recognition, clean implementation, and clear communication. Target your preparation on the high-frequency topics, drill the patterns until they are automatic, and practice articulating your reasoning.
 
-[Browse all Affirm questions on CodeJeet](/company/affirm)
+[Browse all Affirm questions on TidyBit](/company/affirm)

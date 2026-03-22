@@ -113,4 +113,4 @@ A structured approach is non-negotiable. Here’s a week-by-week plan.
 
 Success in Oyo interviews hinges on methodical preparation focused on Medium-difficulty problems across their favored topics. Build the muscle memory for core patterns, practice communicating your reasoning, and you'll be well-prepared.
 
-[Browse all Oyo questions on CodeJeet](/company/oyo)
+[Browse all Oyo questions on TidyBit](/company/oyo)

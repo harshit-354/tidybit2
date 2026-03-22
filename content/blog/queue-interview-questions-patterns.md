@@ -158,4 +158,4 @@ Queue problems are staples at companies where system efficiency and data streami
 
 Focus your practice on Medium and Hard problems to cover the 85% of questions that truly test your understanding.
 
-[Practice all Queue questions on CodeJeet](/topic/queue)
+[Practice all Queue questions on TidyBit](/topic/queue)

@@ -119,4 +119,4 @@ Prepare for **Microsoft first**. Its broader and deeper question pool covers a w
 
 A solid strategy is to build a foundation using the Microsoft question list, ensuring comfort with Medium-difficulty problems across all its core topics. Then, closer to a PayPal interview, refine your skills by practicing PayPal-specific questions, paying extra attention to sorting algorithms and their applications. This approach maximizes efficiency and builds the strongest overall problem-solving skills.
 
-For targeted practice, visit the Microsoft and PayPal question lists on CodeJeet: [/company/microsoft](/company/microsoft) and [/company/paypal](/company/paypal).
+For targeted practice, visit the Microsoft and PayPal question lists on TidyBit: [/company/microsoft](/company/microsoft) and [/company/paypal](/company/paypal).

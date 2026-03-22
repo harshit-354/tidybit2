@@ -88,4 +88,4 @@ A structured approach is essential given the difficulty curve.
 
 Consistent, focused practice on the right patterns is the most reliable path to success. Start with the fundamentals, pressure-test your skills with integrated problems, and hone your communication.
 
-[Browse all Cloudflare questions on CodeJeet](/company/cloudflare)
+[Browse all Cloudflare questions on TidyBit](/company/cloudflare)

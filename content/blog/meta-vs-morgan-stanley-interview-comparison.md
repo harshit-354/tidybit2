@@ -162,4 +162,4 @@ Once Meta's core patterns are solid, pivot to Morgan Stanley-specific preparatio
 
 In short, use Meta's breadth to build your generalist engine, then apply Morgan Stanley's focus to tune it for a finance-tech environment.
 
-For targeted practice, visit the CodeJeet pages for [Meta](/company/meta) and [Morgan Stanley](/company/morgan-stanley).
+For targeted practice, visit the TidyBit pages for [Meta](/company/meta) and [Morgan Stanley](/company/morgan-stanley).

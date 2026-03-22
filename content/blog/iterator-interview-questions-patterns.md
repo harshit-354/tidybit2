@@ -193,4 +193,4 @@ Top tech companies frequently ask these questions because they mirror internal c
 3.  **Practice in Multiple Languages:** Ensure you can implement an iterator in your interview language of choice. Know the interface (`Iterator` in Java, `__next__` in Python, `next()` in JavaScript).
 4.  **Connect to Real Systems:** When you solve a problem, think of a real use case (e.g., a Zigzag Iterator could model a round-robin load balancer fetching from multiple data sources). This helps in discussions.
 
-[Practice all Iterator questions on CodeJeet](/topic/iterator)
+[Practice all Iterator questions on TidyBit](/topic/iterator)

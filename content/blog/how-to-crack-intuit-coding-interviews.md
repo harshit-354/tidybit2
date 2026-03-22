@@ -463,7 +463,7 @@ A focused 6-week plan is ideal. Prioritize quality of practice over quantity; de
 
 **Weeks 1-2: Foundation & Core Topics.** Build depth in the top five topics. Dedicate days to Array/Hash Table combos, then String/Two Pointers combos. Spend at least 2-3 days solely on Dynamic Programming, starting with classic problems before tackling variations. Solve 2-3 problems daily, ensuring you can code a working solution under time constraints.
 
-**Weeks 3-4: Pattern Mastery & Company-Specific Practice.** Shift to solving mixed problems that combine topics. Actively practice on the [Intuit question list on CodeJeet](/company/intuit), simulating interview conditions. For each problem, articulate your thought process aloud. Identify your weak spots—is it recognizing DP states or implementing a flawless two-pointer loop? Return to those topics.
+**Weeks 3-4: Pattern Mastery & Company-Specific Practice.** Shift to solving mixed problems that combine topics. Actively practice on the [Intuit question list on TidyBit](/company/intuit), simulating interview conditions. For each problem, articulate your thought process aloud. Identify your weak spots—is it recognizing DP states or implementing a flawless two-pointer loop? Return to those topics.
 
 **Week 5: System Design & Behavioral.** Intuit values system design for mid-level and above roles. Practice designing scalable systems for scenarios like a transaction processing service or a user profile manager. For behavioral questions, prepare STAR (Situation, Task, Action, Result) stories that highlight ownership, impact on users, and navigating technical trade-offs.
 
@@ -478,4 +478,4 @@ A focused 6-week plan is ideal. Prioritize quality of practice over quantity; de
 
 Success with Intuit hinges on demonstrating structured problem-solving and an aptitude for building robust software. Master the medium, drill the core topics, and practice articulating your logic.
 
-[Browse all Intuit questions on CodeJeet](/company/intuit)
+[Browse all Intuit questions on TidyBit](/company/intuit)

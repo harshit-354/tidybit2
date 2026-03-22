@@ -142,4 +142,4 @@ These questions are favored by companies with complex routing, networking, or da
 
 Mastering this niche topic can give you a decisive edge in high-stakes interviews.
 
-[Practice all Eulerian Circuit questions on CodeJeet](/topic/eulerian-circuit)
+[Practice all Eulerian Circuit questions on TidyBit](/topic/eulerian-circuit)

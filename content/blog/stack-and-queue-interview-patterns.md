@@ -1115,6 +1115,6 @@ public int leastInterval(char[] tasks, int n) {
 
 **Priority Queue:** 8. Kth Largest Element in an Array 9. Merge K Sorted Lists 10. Find Median from Data Stream 11. Task Scheduler
 
-Explore problems by company on the [CodeJeet dashboard](/dashboard). Monotonic stack is popular at [Amazon](/company/amazon) and [Google](/company/google); priority queues at [Meta](/company/meta).
+Explore problems by company on the [TidyBit dashboard](/dashboard). Monotonic stack is popular at [Amazon](/company/amazon) and [Google](/company/google); priority queues at [Meta](/company/meta).
 
 To master these patterns, implement each algorithm from scratch without looking at the code examples. Start with the basic versions, then tackle the variations. For example, after implementing Valid Parentheses, try Minimum Remove to Make Valid Parentheses. After mastering Next Greater Element, try the circular array version. The key is to understand the underlying principles so you can adapt them to new problems.

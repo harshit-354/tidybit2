@@ -83,4 +83,4 @@ Your subsequent Twitter preparation then becomes a targeted refinement:
 
 In summary, use the extensive Salesforce problem set to build your algorithmic muscle. Then, pivot to master design principles and review Twitter's more focused question list. This approach maximizes the transferability of your preparation effort between the two interview processes.
 
-For detailed question lists, visit the Salesforce and Twitter pages on CodeJeet: [/company/salesforce](/company/salesforce) and [/company/twitter](/company/twitter).
+For detailed question lists, visit the Salesforce and Twitter pages on TidyBit: [/company/salesforce](/company/salesforce) and [/company/twitter](/company/twitter).

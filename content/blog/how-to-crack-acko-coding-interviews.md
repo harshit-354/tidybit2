@@ -113,4 +113,4 @@ For **Topological Sort**, know the Kahn's Algorithm (BFS using indegree) by hear
 
 Success at Acko requires demonstrating both breadth of skill and depth of analytical prowess. Target the extremes of their difficulty curve, and you will be prepared.
 
-[Browse all Acko questions on CodeJeet](/company/acko)
+[Browse all Acko questions on TidyBit](/company/acko)

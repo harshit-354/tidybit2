@@ -84,4 +84,4 @@ Your preparation order should be guided by topic commonality and career goals.
 
 In summary, build the common core, then branch based on the company-specific emphasis: DP for Intuit's optimization focus, and a broader set of sorting and medium-difficulty problems for PayPal's larger question bank.
 
-For detailed question lists, visit the [PayPal](/company/paypal) and [Intuit](/company/intuit) pages on CodeJeet.
+For detailed question lists, visit the [PayPal](/company/paypal) and [Intuit](/company/intuit) pages on TidyBit.

@@ -84,4 +84,4 @@ Then, pivot intensely to **Citadel**. Preparing for Citadel requires deepening y
 
 In short, Apple's interview is a marathon test of breadth and solid coding skill. Citadel's is a sprint of depth and peak performance under pressure. Build your endurance with the former, then train for your peak with the latter.
 
-For specific question lists and patterns, visit the CodeJeet pages for [Apple](/company/apple) and [Citadel](/company/citadel).
+For specific question lists and patterns, visit the TidyBit pages for [Apple](/company/apple) and [Citadel](/company/citadel).

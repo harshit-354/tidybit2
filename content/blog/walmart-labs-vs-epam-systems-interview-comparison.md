@@ -135,4 +135,4 @@ If you are **already comfortable with fundamentals** and are aiming for roles re
 
 Ultimately, the shared foundation in Array, String, and Hash Table problems means preparation for one company benefits the other. Begin with the core topics, then branch out into DP for Walmart Labs or deepen your Two Pointers technique for Epam.
 
-For more detailed question lists, visit the [Walmart Labs](/company/walmart-labs) and [Epam Systems](/company/epam-systems) pages on CodeJeet.
+For more detailed question lists, visit the [Walmart Labs](/company/walmart-labs) and [Epam Systems](/company/epam-systems) pages on TidyBit.

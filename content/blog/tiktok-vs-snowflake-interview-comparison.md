@@ -84,4 +84,4 @@ Prepare for **Snowflake first** if you are earlier in your interview preparation
 
 Ultimately, both require rigorous practice. Start with the company you are most interested in, but use the other's focus areas to identify and shore up your weaknesses. A strong candidate will be comfortable with the common topics and proficient in each company's specialty.
 
-For targeted practice, visit the CodeJeet pages for [TikTok](/company/tiktok) and [Snowflake](/company/snowflake).
+For targeted practice, visit the TidyBit pages for [TikTok](/company/tiktok) and [Snowflake](/company/snowflake).

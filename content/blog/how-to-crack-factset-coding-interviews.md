@@ -108,4 +108,4 @@ A focused, topic-driven plan beats random practice.
 
 Success in a FactSet coding interview is about disciplined preparation on the right material. Master the Medium-difficulty patterns, practice articulating your solutions, and you'll be well-equipped to perform.
 
-[Browse all FactSet questions on CodeJeet](/company/factset)
+[Browse all FactSet questions on TidyBit](/company/factset)

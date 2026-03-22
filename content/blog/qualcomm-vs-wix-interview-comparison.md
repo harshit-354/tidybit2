@@ -6,7 +6,7 @@ category: "tips"
 tags: ["qualcomm", "wix", "comparison"]
 ---
 
-When preparing for technical interviews at different companies, understanding their specific question patterns and focus areas is crucial for efficient study. Both Qualcomm and Wix have exactly 56 questions in their tagged databases on CodeJeet, but the distribution of difficulty and the technical topics they emphasize differ significantly. This comparison will analyze their question volume, difficulty breakdown, core topic overlap, and provide a strategic preparation order.
+When preparing for technical interviews at different companies, understanding their specific question patterns and focus areas is crucial for efficient study. Both Qualcomm and Wix have exactly 56 questions in their tagged databases on TidyBit, but the distribution of difficulty and the technical topics they emphasize differ significantly. This comparison will analyze their question volume, difficulty breakdown, core topic overlap, and provide a strategic preparation order.
 
 ## Question Volume and Difficulty
 
@@ -109,4 +109,4 @@ Your preparation priority should be guided by the company's focus and your own s
 
 A strategic hybrid approach is to **start with the shared foundation**: drill Array and String problems to fluency. Then, branch based on your target: add Two Pointers and Math practice for Qualcomm, or dive into Hash Table and DFS for Wix. Given the equal total volume but Wix's heavier Medium weighting, preparing thoroughly for Wix may create a broader, more challenging practice set that also covers Qualcomm's core needs, though you must then supplement with the specific Math and optimization patterns Qualcomm favors.
 
-For detailed question lists and patterns, visit the [Qualcomm](/company/qualcomm) and [Wix](/company/wix) company pages on CodeJeet.
+For detailed question lists and patterns, visit the [Qualcomm](/company/qualcomm) and [Wix](/company/wix) company pages on TidyBit.

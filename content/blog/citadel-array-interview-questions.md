@@ -94,6 +94,6 @@ public int longestSubarraySumAtMostK(int[] nums, int k) {
 2.  **Core Patterns:** Deep dive into Sliding Window (fixed and variable size) and Prefix Sum problems. These are Citadel staples.
 3.  **Combination Problems:** Practice problems that require a hash map alongside traversal (e.g., subarray sum equals k) or a heap (sliding window median).
 4.  **2D Arrays:** Move on to matrix traversal, rotation, and search problems.
-5.  **Citadel-Specific:** Finally, work through all 48 array problems tagged for Citadel on platforms like CodeJeet to acclimate to their style and difficulty.
+5.  **Citadel-Specific:** Finally, work through all 48 array problems tagged for Citadel on platforms like TidyBit to acclimate to their style and difficulty.
 
 [Practice Array at Citadel](/company/citadel/array)

@@ -122,4 +122,4 @@ If **Airbnb is your primary target**, you must layer on **intensive Dynamic Prog
 
 In summary, use Visa's profile to build a wide, solid base of competency. Use Airbnb's profile to deepen that knowledge with advanced optimization techniques and complex problem-solving.
 
-For focused practice, visit the Visa question list at [CodeJeet/company/visa](/company/visa) and the Airbnb list at [CodeJeet/company/airbnb](/company/airbnb).
+For focused practice, visit the Visa question list at [TidyBit/company/visa](/company/visa) and the Airbnb list at [TidyBit/company/airbnb](/company/airbnb).

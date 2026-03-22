@@ -94,4 +94,4 @@ Shift to full mock interviews. Use platforms that offer Cyntexa-tagged questions
 
 Your goal is to demonstrate consistent, structured problem-solving ability across Medium-difficulty challenges. Build the muscle memory for core patterns so you can adapt them under pressure.
 
-[Browse all Cyntexa questions on CodeJeet](/company/cyntexa)
+[Browse all Cyntexa questions on TidyBit](/company/cyntexa)

@@ -38,6 +38,6 @@ Your preparation priority should be guided by your target sector and the foundat
 
 **Prioritize Flipkart's profile if you are aiming for core software engineering roles at tech companies or if you are already comfortable with fundamentals.** Its larger volume and greater density of Medium and Hard problems, especially in Dynamic Programming, represent the typical benchmark for tech industry coding interviews. Preparing for Flipkart's standards will inherently cover the difficulty level expected at JPMorgan and many other firms. You should be prepared to not only solve problems but also discuss time/space complexity trade-offs and optimal solutions under pressure.
 
-In practice, a strong strategy is to use the **shared core topics (Array, String, Hash Table, Sorting)** as your bedrock. Achieve mastery here through platforms like CodeJeet. Then, layer on **Dynamic Programming and advanced graph algorithms** to meet the higher bar set by companies like Flipkart.
+In practice, a strong strategy is to use the **shared core topics (Array, String, Hash Table, Sorting)** as your bedrock. Achieve mastery here through platforms like TidyBit. Then, layer on **Dynamic Programming and advanced graph algorithms** to meet the higher bar set by companies like Flipkart.
 
-For detailed question lists and patterns, visit the CodeJeet pages for [Flipkart](/company/flipkart) and [JPMorgan](/company/jpmorgan).
+For detailed question lists and patterns, visit the TidyBit pages for [Flipkart](/company/flipkart) and [JPMorgan](/company/jpmorgan).

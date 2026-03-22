@@ -88,6 +88,6 @@ Tackle problems in this order to build confidence:
 1.  **Classic Foundations:** Start with simple interval scheduling (Meeting Rooms, Non-overlapping Intervals).
 2.  **Greedy on Sorted Arrays:** Move to problems like Assign Cookies or Minimum Number of Arrows to Burst Balloons.
 3.  **More Complex Selection:** Try Task Scheduler or problems requiring a priority queue (heap) to manage the greedy choice efficiently.
-4.  **Coupang-Specific:** Finally, practice the actual greedy problems tagged for Coupang on CodeJeet to familiarize yourself with their style and difficulty.
+4.  **Coupang-Specific:** Finally, practice the actual greedy problems tagged for Coupang on TidyBit to familiarize yourself with their style and difficulty.
 
 [Practice Greedy at Coupang](/company/coupang/greedy)

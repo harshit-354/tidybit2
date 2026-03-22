@@ -98,4 +98,4 @@ A focused, consistent plan is more effective than cramming.
 
 The GE Digital interview is a test of applied fundamentals. By mastering core data structures and patterns, and by focusing on clear communication, you can demonstrate the practical engineering skill they're looking for.
 
-[Browse all GE Digital questions on CodeJeet](/company/ge-digital)
+[Browse all GE Digital questions on TidyBit](/company/ge-digital)

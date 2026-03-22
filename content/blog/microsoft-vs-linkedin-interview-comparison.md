@@ -111,5 +111,5 @@ Your preparation priority should be dictated by your interview timeline and the 
 
 Ultimately, a strong candidate will be proficient in the overlapping core topics. Prioritize those, then branch out based on the company's specific technical emphasis: DP for Microsoft's optimization problems, and DFS/graph theory for LinkedIn's network-centric challenges.
 
-- Practice Microsoft questions: [CodeJeet /company/microsoft](/company/microsoft)
-- Practice LinkedIn questions: [CodeJeet /company/linkedin](/company/linkedin)
+- Practice Microsoft questions: [TidyBit /company/microsoft](/company/microsoft)
+- Practice LinkedIn questions: [TidyBit /company/linkedin](/company/linkedin)

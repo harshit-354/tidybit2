@@ -94,4 +94,4 @@ Database proficiency is universal, but it's a particular focus for companies man
 
 The goal is to make database logic a reflex. Start with the fundamentals, layer on complexity, and always connect the SQL to the real-world tables it would operate on.
 
-[Practice all Database questions on CodeJeet](/topic/database)
+[Practice all Database questions on TidyBit](/topic/database)

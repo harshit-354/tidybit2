@@ -83,6 +83,6 @@ public class FrequencyCounter {
 1.  **Basics:** Two Sum, First Unique Character, Valid Anagram.
 2.  **Frequency & Counting:** Top K Frequent Elements, Group Anagrams.
 3.  **Design & Advanced:** LRU Cache, Insert Delete GetRandom O(1).
-4.  **Swiggy-Specific Practice:** Solve all 14 tagged problems on CodeJeet, focusing on the domain context.
+4.  **Swiggy-Specific Practice:** Solve all 14 tagged problems on TidyBit, focusing on the domain context.
 
 [Practice Hash Table at Swiggy](/company/swiggy/hash-table)

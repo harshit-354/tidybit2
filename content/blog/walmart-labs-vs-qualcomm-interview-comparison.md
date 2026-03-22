@@ -79,10 +79,10 @@ public int[] twoSum(int[] nums, int target) {
 
 Your preparation priority should be guided by your target domain and the foundational nature of the topics.
 
-**Prepare for Walmart Labs first if:** You are aiming for roles in e-commerce, full-stack, or backend development. The large volume of Medium-difficulty questions means you need broad and consistent practice. Mastering **Hash Tables** and **Dynamic Programming** is non-negotiable. The extensive question pool also means practicing company-tagged questions on platforms like CodeJeet is highly beneficial.
+**Prepare for Walmart Labs first if:** You are aiming for roles in e-commerce, full-stack, or backend development. The large volume of Medium-difficulty questions means you need broad and consistent practice. Mastering **Hash Tables** and **Dynamic Programming** is non-negotiable. The extensive question pool also means practicing company-tagged questions on platforms like TidyBit is highly beneficial.
 
 **Prepare for Qualcomm first if:** You are targeting embedded systems, low-level software, or roles requiring strong mathematical aptitude. The focus on fundamentals (Easy problems) and techniques like **Two Pointers** provides a solid base. Excelling here ensures you pass the initial screens, after which you can dive into the domain-specific knowledge required for later rounds.
 
 A strategic approach is to **start with the shared core of Array and String problems**, then branch out based on your target. For Walmart Labs, prioritize Hash Table and Dynamic Programming. For Qualcomm, deepen your understanding of Two Pointers and mathematical problem-solving.
 
-For detailed question lists and patterns, visit the [Walmart Labs](/company/walmart-labs) and [Qualcomm](/company/qualcomm) pages on CodeJeet.
+For detailed question lists and patterns, visit the [Walmart Labs](/company/walmart-labs) and [Qualcomm](/company/qualcomm) pages on TidyBit.

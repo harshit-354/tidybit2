@@ -90,4 +90,4 @@ You should prepare for **Amazon first only if it is your primary target and your
 
 Ultimately, master the fundamentals—they are the shared language of both interviews.
 
-For specific question lists and trends, visit the Amazon and Epam Systems pages on CodeJeet: [/company/amazon](/company/amazon), [/company/epam-systems](/company/epam-systems).
+For specific question lists and trends, visit the Amazon and Epam Systems pages on TidyBit: [/company/amazon](/company/amazon), [/company/epam-systems](/company/epam-systems).

@@ -107,4 +107,4 @@ A structured plan is non-negotiable. Here is a focused 4-week plan; extend to 6 
 
 Mastering these patterns and executing this plan will position you strongly for Ripple's technical screen. Consistency and focused practice on medium-difficulty problems are your greatest allies.
 
-[Browse all Ripple questions on CodeJeet](/company/ripple)
+[Browse all Ripple questions on TidyBit](/company/ripple)

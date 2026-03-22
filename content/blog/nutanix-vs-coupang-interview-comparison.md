@@ -110,4 +110,4 @@ Prepare for **Nutanix first if you have a strong grasp of DP and want to broaden
 
 Ultimately, start with the company whose focus aligns with your weaker area to maximize your study efficiency. The shared foundation in Arrays, Strings, and Hash Tables means progress for one directly benefits the other.
 
-For specific question lists, visit the Nutanix and Coupang pages on CodeJeet: [/company/nutanix](/company/nutanix) and [/company/coupang](/company/coupang).
+For specific question lists, visit the Nutanix and Coupang pages on TidyBit: [/company/nutanix](/company/nutanix) and [/company/coupang](/company/coupang).

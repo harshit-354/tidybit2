@@ -136,4 +136,4 @@ Linked list questions are a staple at major tech companies, often appearing in e
 
 Build fluency with these patterns and you will approach linked list problems with a clear strategy.
 
-[Practice all Linked List questions on CodeJeet](/topic/linked-list)
+[Practice all Linked List questions on TidyBit](/topic/linked-list)

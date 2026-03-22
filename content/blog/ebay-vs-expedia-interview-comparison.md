@@ -93,4 +93,4 @@ A practical strategy is to:
 
 This approach builds a stronger foundation first, making subsequent preparation more efficient.
 
-For the full question lists and company-specific insights, visit the CodeJeet pages for [eBay](/company/ebay) and [Expedia](/company/expedia).
+For the full question lists and company-specific insights, visit the TidyBit pages for [eBay](/company/ebay) and [Expedia](/company/expedia).

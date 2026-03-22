@@ -121,5 +121,5 @@ Your choice depends on your priorities and timeline.
 
 In essence, preparing for Oracle is a superset of preparing for Wix. If your goal is general readiness, start with the Oracle pattern. If you need a focused, quicker win for a web company, start with Wix.
 
-- Practice Oracle questions: [CodeJeet Oracle Prep](/company/oracle)
-- Practice Wix questions: [CodeJeet Wix Prep](/company/wix)
+- Practice Oracle questions: [TidyBit Oracle Prep](/company/oracle)
+- Practice Wix questions: [TidyBit Wix Prep](/company/wix)

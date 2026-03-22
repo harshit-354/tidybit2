@@ -94,4 +94,4 @@ public int[] twoSum(int[] nums, int target) {
 
 Success in a Philips coding interview is a function of systematic preparation on these high-frequency topics and disciplined execution during the session.
 
-[Browse all Philips questions on CodeJeet](/company/philips)
+[Browse all Philips questions on TidyBit](/company/philips)

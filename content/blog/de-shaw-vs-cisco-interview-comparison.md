@@ -123,4 +123,4 @@ Your preparation order should be dictated by your target role and timeline.
 
 A strategic hybrid approach is to **build your foundation using Cisco's topic list** (Arrays, Strings, Hash Tables, Two Pointers), then **layer on DE Shaw's advanced topics** (Dynamic Programming, Greedy). This ensures you have the breadth for Cisco and the depth for DE Shaw.
 
-For targeted practice, visit the DE Shaw and Cisco question lists on CodeJeet: [DE Shaw Interview Questions](/company/de-shaw) | [Cisco Interview Questions](/company/cisco)
+For targeted practice, visit the DE Shaw and Cisco question lists on TidyBit: [DE Shaw Interview Questions](/company/de-shaw) | [Cisco Interview Questions](/company/cisco)

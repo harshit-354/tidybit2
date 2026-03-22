@@ -97,4 +97,4 @@ public int lengthOfLIS(int[] nums) {
 
 Mastering these patterns and this strategy will systematically prepare you for the rigor of a MathWorks interview. Focus on depth of understanding over breadth of solved problems.
 
-[Browse all MathWorks questions on CodeJeet](/company/mathworks)
+[Browse all MathWorks questions on TidyBit](/company/mathworks)

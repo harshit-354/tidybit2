@@ -105,4 +105,4 @@ A structured approach is key to covering the breadth and depth required.
 
 Mastering these patterns and practicing under constraints will prepare you for the core challenges of a Netflix coding interview.
 
-[Browse all Netflix questions on CodeJeet](/company/netflix)
+[Browse all Netflix questions on TidyBit](/company/netflix)

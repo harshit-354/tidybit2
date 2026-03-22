@@ -99,4 +99,4 @@ If you are **short on time** or are already comfortable with medium-level proble
 
 A strategic hybrid approach is to use **Adobe's extensive problem set for building core competency** and then **use Roblox's list for targeted, final-stage preparation** to acclimate to its particular difficulty weighting and math focus.
 
-For focused practice, visit the Adobe question list at [/company/adobe](https://codejeet.com/company/adobe) and the Roblox question list at [/company/roblox](https://codejeet.com/company/roblox).
+For focused practice, visit the Adobe question list at [/company/adobe](https://tidybit.com/company/adobe) and the Roblox question list at [/company/roblox](https://tidybit.com/company/roblox).

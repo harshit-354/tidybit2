@@ -111,4 +111,4 @@ A structured approach is key to covering the necessary ground efficiently.
 
 Mastering these core topics and patterns will position you strongly for Axon's interview. Consistent, focused practice on Medium problems is your most direct path to success.
 
-[Browse all Axon questions on CodeJeet](/company/axon)
+[Browse all Axon questions on TidyBit](/company/axon)

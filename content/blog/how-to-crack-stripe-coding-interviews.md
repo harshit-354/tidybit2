@@ -154,4 +154,4 @@ public class TaskScheduler {
 
 Mastering these focused areas and adopting a systematic, clarity-first approach will position you strongly for Stripe's technical assessment. For targeted practice, browse our curated list of problems directly from their interview loop.
 
-[Browse all Stripe questions on CodeJeet](/company/stripe)
+[Browse all Stripe questions on TidyBit](/company/stripe)

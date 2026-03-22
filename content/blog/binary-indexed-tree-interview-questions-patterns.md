@@ -124,4 +124,4 @@ This specialized topic is favored by companies that delve into system performanc
 3.  **Compare with Segment Trees:** Know when to use a BIT over a Segment Tree. BITs are simpler, use less memory, and have a smaller constant factor. However, Segment Trees are more flexible (handling any associative operation like min/max). In interviews, if a BIT can solve it, it's often the cleaner implementation.
 4.  **Target Your Practice:** Given the high difficulty skew, focus your initial practice on the Medium problems to build intuition. Then, systematically tackle the Hard problems, as they represent the realistic interview challenge. Trace through examples on paper to solidify your understanding.
 
-[Practice all Binary Indexed Tree questions on CodeJeet](/topic/binary-indexed-tree)
+[Practice all Binary Indexed Tree questions on TidyBit](/topic/binary-indexed-tree)

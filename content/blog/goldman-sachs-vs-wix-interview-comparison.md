@@ -164,4 +164,4 @@ If you are only targeting Wix, you can adopt a more focused strategy. Prioritize
 
 In summary, use the Goldman Sachs question set for depth and breadth of practice, and the Wix set for targeted review of application-centric patterns like DFS.
 
-For detailed question lists, visit the [Goldman Sachs](/company/goldman-sachs) and [Wix](/company/wix) company pages on CodeJeet.
+For detailed question lists, visit the [Goldman Sachs](/company/goldman-sachs) and [Wix](/company/wix) company pages on TidyBit.

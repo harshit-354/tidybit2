@@ -285,4 +285,4 @@ These questions are a hallmark of companies that delve into algorithmic depth an
 3.  **Start with the Interface.** Before coding the tree, write your class's public methods (`update`, `query`). This clarifies the data you need to store in each node and the merge operation (`+`, `min`, etc.).
 4.  **Practice with Progressive Difficulty.** Solve a classic Range Sum problem first. Then, solve the same problem with lazy propagation for range updates. Finally, tackle a Hard problem that disguises the pattern, like "Count of Smaller Numbers After Self" or "Skyline Problem."
 
-[Practice all Segment Tree questions on CodeJeet](/topic/segment-tree)
+[Practice all Segment Tree questions on TidyBit](/topic/segment-tree)

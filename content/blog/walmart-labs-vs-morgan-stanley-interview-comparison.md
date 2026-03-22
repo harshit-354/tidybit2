@@ -82,4 +82,4 @@ Once comfortable with the core topics, transition to **Walmart Labs**. Use its e
 
 In short: use Morgan Stanley's focused list to build your foundation, then use Walmart Labs' expansive list for advanced conditioning and breadth.
 
-For detailed question lists, visit the [Walmart Labs](/company/walmart-labs) and [Morgan Stanley](/company/morgan-stanley) pages on CodeJeet.
+For detailed question lists, visit the [Walmart Labs](/company/walmart-labs) and [Morgan Stanley](/company/morgan-stanley) pages on TidyBit.

@@ -84,4 +84,4 @@ A focused, consistent plan is essential. Here is a week-by-week breakdown.
 
 Clari’s interview is a test of consistent, communicative competency. By mastering Medium-difficulty problems on Trees, Arrays, Hash Tables, and Math, and by practicing your solution delivery, you can demonstrate the kind of reliable engineering skill they value.
 
-[Browse all Clari questions on CodeJeet](/company/clari)
+[Browse all Clari questions on TidyBit](/company/clari)

@@ -120,4 +120,4 @@ Your preparation order should be guided by your fundamentals and timeline.
 
 Ultimately, the significant overlap in core topics means preparation for one directly benefits the other. A robust strategy is to use Yandex's extensive Medium-question bank for breadth and pattern recognition, then sharpen your problem-solving edge with Roblox's more difficult set. Mastery of Arrays, Hash Tables, and Strings, supplemented with practice on Two Pointers and Math, will make you competitive for both.
 
-For specific question lists, visit the CodeJeet pages for [Yandex](/company/yandex) and [Roblox](/company/roblox).
+For specific question lists, visit the TidyBit pages for [Yandex](/company/yandex) and [Roblox](/company/roblox).

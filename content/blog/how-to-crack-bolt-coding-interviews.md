@@ -127,7 +127,7 @@ A focused, topic-driven approach is more effective than random practice.
 
 - **Weeks 1-2: Foundation.** Drill Easy problems on Hash Tables, Strings, and Arrays. Implement all basic data structures from scratch once. Solve at least 20-30 Easy problems until you can code them flawlessly in under 15 minutes.
 - **Weeks 3-4: Core Patterns.** Tackle Medium problems. Focus on one pattern per day: Sliding Window (with Hash Map), Two Pointers, Prefix Sum, and fundamental DP (Fibonacci, 0/1 Knapsack). Solve 2-3 variations of each pattern.
-- **Week 5: Integration and Bolt-Specific Practice.** Mix Easy and Medium problems randomly to simulate an interview. Use the CodeJeet Bolt question list to practice actual and similar problems. Time yourself strictly.
+- **Week 5: Integration and Bolt-Specific Practice.** Mix Easy and Medium problems randomly to simulate an interview. Use the TidyBit Bolt question list to practice actual and similar problems. Time yourself strictly.
 - **Week 6: Mock Interviews & Review.** Conduct at least 3-4 mock interviews with a peer or mentor. Revisit your most common mistake areas. Focus on clearly articulating your approach before coding.
 
 ## Key Tips
@@ -140,4 +140,4 @@ A focused, topic-driven approach is more effective than random practice.
 
 Mastering these patterns and strategies will transform Bolt's coding interview from a daunting challenge into a structured problem-solving session you are prepared to ace.
 
-[Browse all Bolt questions on CodeJeet](/company/bolt)
+[Browse all Bolt questions on TidyBit](/company/bolt)

@@ -10,7 +10,7 @@ When preparing for technical interviews, understanding company-specific patterns
 
 ## Question Volume and Difficulty
 
-The sheer volume of questions associated with each company is the most striking difference. On CodeJeet, Amazon is linked to **1,938 questions**, while TCS has **217 questions**. This disparity reflects Amazon's vast, well-documented interview history across its many technical roles and its use of a standardized, leetcode-style assessment process.
+The sheer volume of questions associated with each company is the most striking difference. On TidyBit, Amazon is linked to **1,938 questions**, while TCS has **217 questions**. This disparity reflects Amazon's vast, well-documented interview history across its many technical roles and its use of a standardized, leetcode-style assessment process.
 
 The difficulty breakdown further highlights their different hiring bars:
 

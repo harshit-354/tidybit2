@@ -132,4 +132,4 @@ All top tech companies frequently include tree problems. They are a reliable fil
 3.  **Memorize the Traversals.** Have the iterative and recursive code for pre-, in-, post-order, and BFS written from memory. This is your toolbox.
 4.  **Target Mediums.** Allocate most of your study time to Medium-difficulty problems. They build the pattern recognition needed to tackle Hards and are the most likely interview fare.
 
-[Practice all Tree questions on CodeJeet](/topic/tree)
+[Practice all Tree questions on TidyBit](/topic/tree)

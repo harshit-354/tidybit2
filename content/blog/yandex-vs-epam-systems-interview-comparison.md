@@ -99,4 +99,4 @@ Your preparation priority should be guided by your target company and timeline.
 
 In essence, EPAM preparation is a strong, focused foundation. Yandex preparation is a comprehensive, high-ceiling training regimen. Choose based on your ultimate goal and the complexity of the role you are targeting.
 
-For specific question lists and further details, visit the Yandex and EPAM Systems pages on CodeJeet: [/company/yandex](/company/yandex) and [/company/epam-systems](/company/epam-systems).
+For specific question lists and further details, visit the Yandex and EPAM Systems pages on TidyBit: [/company/yandex](/company/yandex) and [/company/epam-systems](/company/epam-systems).

@@ -157,4 +157,4 @@ public int longestPalindromicSubsequence(String s) {
 
 Mastering this blend of pattern recognition, disciplined practice, and clear communication is how you crack the Nextdoor coding interview.
 
-[Browse all Nextdoor questions on CodeJeet](/company/nextdoor)
+[Browse all Nextdoor questions on TidyBit](/company/nextdoor)

@@ -83,4 +83,4 @@ Your preparation priority should be guided by the breadth of coverage required.
 
 In essence, Capital One's profile is a robust subset of Walmart Labs'. A strategic path is to build your foundation with Capital One's core topics, then expand into the advanced DP and larger question volume characteristic of Walmart Labs to achieve full-spectrum readiness.
 
-For detailed question lists and patterns, visit the [Walmart Labs](/company/walmart-labs) and [Capital One](/company/capital-one) pages on CodeJeet.
+For detailed question lists and patterns, visit the [Walmart Labs](/company/walmart-labs) and [Capital One](/company/capital-one) pages on TidyBit.

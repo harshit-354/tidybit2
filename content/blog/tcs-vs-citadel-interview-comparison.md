@@ -6,7 +6,7 @@ category: "tips"
 tags: ["tcs", "citadel", "comparison"]
 ---
 
-When preparing for technical interviews, understanding the specific focus of each company can dramatically increase your efficiency. Tata Consultancy Services (TCS) and Citadel represent two distinct ends of the software engineering spectrum: one is a global IT services and consulting giant, while the other is a leading quantitative hedge fund. This difference in core business is directly reflected in their technical interview question banks, as seen on CodeJeet. A strategic comparison reveals how to tailor your preparation for each.
+When preparing for technical interviews, understanding the specific focus of each company can dramatically increase your efficiency. Tata Consultancy Services (TCS) and Citadel represent two distinct ends of the software engineering spectrum: one is a global IT services and consulting giant, while the other is a leading quantitative hedge fund. This difference in core business is directly reflected in their technical interview question banks, as seen on TidyBit. A strategic comparison reveals how to tailor your preparation for each.
 
 ## Question Volume and Difficulty
 
@@ -101,4 +101,4 @@ If you are **already comfortable with core algorithms and are specifically targe
 
 Ultimately, a robust preparation strategy often involves a blend: use the TCS question bank to achieve fluency in core patterns, then pressure-test and deepen that knowledge with the Citadel set.
 
-For detailed question lists and patterns, visit the TCS and Citadel question banks on CodeJeet: [/company/tcs](/company/tcs) and [/company/citadel](/company/citadel).
+For detailed question lists and patterns, visit the TCS and Citadel question banks on TidyBit: [/company/tcs](/company/tcs) and [/company/citadel](/company/citadel).

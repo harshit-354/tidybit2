@@ -86,7 +86,7 @@ Deeply study the top five topics: Array, DP, String, Binary Search, Sliding Wind
 This is the critical phase. Focus on problems that combine topics, especially Array + DP and String + DP. Start incorporating Hard problems—aim for 2-3 per day. Practice problems like "Edit Distance," "Maximum Sum Circular Subarray," and "Sliding Window Maximum."
 
 **Week 5: Company-Specific & Mock Interviews**
-Solve all available Arcesium-specific problems from platforms like CodeJeet. Time yourself. Conduct at least 5-7 mock interviews with a peer or mentor, simulating the full interview duration and pressure. Focus on clearly explaining your thought process.
+Solve all available Arcesium-specific problems from platforms like TidyBit. Time yourself. Conduct at least 5-7 mock interviews with a peer or mentor, simulating the full interview duration and pressure. Focus on clearly explaining your thought process.
 
 **Week 6: Review & System Design Polish**
 Revisit your weaknesses, especially mistakes from Hard problems. Dedicate time to system design fundamentals, as Arcesium often includes these rounds. Practice articulating high-level architecture for scalable systems.
@@ -100,4 +100,4 @@ Revisit your weaknesses, especially mistakes from Hard problems. Dedicate time t
 
 Arcesium's interview is a test of sustained, high-level algorithmic thinking. By targeting their preferred topics, embracing the high difficulty, and practicing with precision, you can significantly increase your chances of success.
 
-[Browse all Arcesium questions on CodeJeet](/company/arcesium)
+[Browse all Arcesium questions on TidyBit](/company/arcesium)

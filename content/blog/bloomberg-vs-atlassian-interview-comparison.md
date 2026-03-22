@@ -79,4 +79,4 @@ Your preparation order should be dictated by your timeline and the breadth of yo
 
 Ultimately, the core topics overlap significantly. A strong strategy is to achieve fluency in array, string, and hash table manipulations, then branch out to company-specific nuances: math and data intensity for Bloomberg, and sorting and system design for Atlassian.
 
-For detailed company-specific question lists and patterns, visit the CodeJeet pages for [Bloomberg](/company/bloomberg) and [Atlassian](/company/atlassian).
+For detailed company-specific question lists and patterns, visit the TidyBit pages for [Bloomberg](/company/bloomberg) and [Atlassian](/company/atlassian).

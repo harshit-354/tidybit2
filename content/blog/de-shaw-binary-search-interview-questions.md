@@ -86,6 +86,6 @@ Build competence progressively. Start with the basic pattern, then tackle DE Sha
 1.  **Foundation:** Standard binary search, first/last position of element.
 2.  **Search Space Transformation:** Search in rotated sorted array, find minimum in rotated array.
 3.  **Binary Search on Answer:** Practice identifying the monotonic predicate. Start with "Koko Eating Bananas" or "Capacity To Ship Packages Within D Days."
-4.  **DE Shaw Specifics:** Finally, work through the company-tagged problems on platforms like CodeJeet. This exposes you to their exact problem style and difficulty.
+4.  **DE Shaw Specifics:** Finally, work through the company-tagged problems on platforms like TidyBit. This exposes you to their exact problem style and difficulty.
 
 [Practice Binary Search at DE Shaw](/company/de-shaw/binary-search)

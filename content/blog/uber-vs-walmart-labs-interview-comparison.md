@@ -84,4 +84,4 @@ Given the significant overlap in core topics, the most efficient strategy is to 
 
 In essence, use the Walmart Labs question set to build your algorithmic core strength. Then, use the larger and more challenging Uber question set for advanced conditioning and stamina building. This sequential approach ensures you are well-prepared for both, maximizing the return on your study time.
 
-For specific question lists and patterns, visit the Uber and Walmart Labs pages on CodeJeet: [/company/uber](/company/uber) and [/company/walmart-labs](/company/walmart-labs).
+For specific question lists and patterns, visit the Uber and Walmart Labs pages on TidyBit: [/company/uber](/company/uber) and [/company/walmart-labs](/company/walmart-labs).

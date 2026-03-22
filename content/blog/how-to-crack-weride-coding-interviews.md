@@ -131,4 +131,4 @@ public class MatrixBFS {
 
 Mastering this focused blend of algorithmic patterns and applied problem-solving is your clearest path to success in Weride's challenging technical interviews.
 
-[Browse all Weride questions on CodeJeet](/company/weride)
+[Browse all Weride questions on TidyBit](/company/weride)

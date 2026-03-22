@@ -194,4 +194,4 @@ Concurrency is a staple in interviews for companies where systems scale massivel
 
 Mastering these patterns and strategies will allow you to approach concurrency questions with confidence, turning a daunting topic into a showcase of your systems thinking.
 
-[Practice all Concurrency questions on CodeJeet](/topic/concurrency)
+[Practice all Concurrency questions on TidyBit](/topic/concurrency)

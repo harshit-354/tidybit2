@@ -65,6 +65,6 @@ Do not attempt random problems. Follow a structured progression:
 1.  **Foundation:** Master 1D DP (Fibonacci, Climbing Stairs, House Robber).
 2.  **2D & Grids:** Practice problems like Unique Paths, Minimum Path Sum, and Longest Common Subsequence.
 3.  **Knapsack & Variations:** Understand 0/1 Knapsack, then subset sum, and unbounded knapsack.
-4.  **Tekion-Specific Practice:** Finally, focus on problems tagged for Tekion on platforms like CodeJeet to familiarize yourself with their style and difficulty.
+4.  **Tekion-Specific Practice:** Finally, focus on problems tagged for Tekion on platforms like TidyBit to familiarize yourself with their style and difficulty.
 
 [Practice Dynamic Programming at Tekion](/company/tekion/dynamic-programming)

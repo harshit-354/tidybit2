@@ -91,5 +91,5 @@ Prepare for **DoorDash** once you are comfortable with medium-level problems and
 
 Ultimately, your choice should align with your target role. For backend/system-heavy positions, lean into DoorDash's profile. For roles involving simulation, game logic, or engine work, Roblox's math focus is paramount. Mastering the shared core topics will benefit you for both.
 
-- Practice DoorDash questions: [CodeJeet DoorDash](/company/doordash)
-- Practice Roblox questions: [CodeJeet Roblox](/company/roblox)
+- Practice DoorDash questions: [TidyBit DoorDash](/company/doordash)
+- Practice Roblox questions: [TidyBit Roblox](/company/roblox)

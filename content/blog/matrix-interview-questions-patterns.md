@@ -150,4 +150,4 @@ Matrix problems are particularly common at top tech companies that need to evalu
 
 Matrix problems are conquerable through pattern recognition and methodical practice. Focus on the core techniques, and you'll be able to navigate any grid an interviewer puts in front of you.
 
-[Practice all Matrix questions on CodeJeet](/topic/matrix)
+[Practice all Matrix questions on TidyBit](/topic/matrix)

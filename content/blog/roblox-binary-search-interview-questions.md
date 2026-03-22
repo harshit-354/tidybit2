@@ -106,6 +106,6 @@ public class BinarySearchMin {
 1.  **Fundamentals:** Master classic binary search and its variants (first/last occurrence).
 2.  **Answer Space Search:** Practice problems like "Koko Eating Bananas" or "Capacity To Ship Packages Within D Days." These are direct analogs to Roblox's optimization questions.
 3.  **Sorted Structures:** Solve "Search a 2D Matrix II" and "Find Minimum in Rotated Sorted Array."
-4.  **Roblox-Specific:** Finally, tackle the actual tagged problems on CodeJeet. This order builds the pattern recognition you need to identify and implement the solution under interview pressure.
+4.  **Roblox-Specific:** Finally, tackle the actual tagged problems on TidyBit. This order builds the pattern recognition you need to identify and implement the solution under interview pressure.
 
 [Practice Binary Search at Roblox](/company/roblox/binary-search)

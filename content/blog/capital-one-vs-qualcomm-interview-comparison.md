@@ -129,4 +129,4 @@ Prepare for **Qualcomm first** if you are targeting embedded systems, firmware, 
 
 A practical strategy is to **master the shared core (Array, String, Math) first**. This builds a foundation applicable to both. Then, branch into Hash Table mastery for Capital One or Two Pointers fluency for Qualcomm. Given Capital One's higher difficulty curve, its question bank may also serve as more challenging general practice.
 
-For detailed company-specific question lists and patterns, visit the CodeJeet pages for [Capital One](/company/capital-one) and [Qualcomm](/company/qualcomm).
+For detailed company-specific question lists and patterns, visit the TidyBit pages for [Capital One](/company/capital-one) and [Qualcomm](/company/qualcomm).

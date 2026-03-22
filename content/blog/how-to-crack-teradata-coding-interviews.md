@@ -94,7 +94,7 @@ A structured plan is non-negotiable. Here is a focused 4-6 week roadmap:
 - **Weeks 1-2: Foundation & Core Topics.** Dedicate this phase to Arrays, Two Pointers, and Binary Search. Solve 15-20 problems per topic, starting with medium difficulty. Ensure you can implement binary search variants flawlessly.
 - **Weeks 3-4: Mastering Dynamic Programming.** This is your most intensive block. Start with fundamental 1D DP problems (Fibonacci, Climbing Stairs, House Robber). Practice both top-down (memoization) and bottom-up (tabulation) approaches. Progress to more complex DP on strings and 2D grids. Aim for 25-30 DP problems.
 - **Week 5: Integration & Hard Problems.** Practice problems that combine topics, like "Binary Search on Answer" or "DP with Two Pointers." Attempt 5-8 Hard problems to get comfortable with complexity. Focus on problem decomposition.
-- **Week 6: Mock Interviews & Review.** Conduct at least 4-5 timed mock interviews (90 minutes each) simulating the real environment. Use platforms like CodeJeet. Review your solutions, refine your communication, and revisit weak areas.
+- **Week 6: Mock Interviews & Review.** Conduct at least 4-5 timed mock interviews (90 minutes each) simulating the real environment. Use platforms like TidyBit. Review your solutions, refine your communication, and revisit weak areas.
 
 ## Key Tips
 
@@ -105,4 +105,4 @@ A structured plan is non-negotiable. Here is a focused 4-6 week roadmap:
 
 Success in a Teradata coding interview hinges on deliberate, topic-focused practice, especially in Dynamic Programming and efficient array manipulation. Build the muscle memory for these patterns through consistent application.
 
-[Browse all Teradata questions on CodeJeet](/company/teradata)
+[Browse all Teradata questions on TidyBit](/company/teradata)

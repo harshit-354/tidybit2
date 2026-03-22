@@ -128,4 +128,4 @@ public int[] twoSum(int[] nums, int target) {
 
 Mastering these fundamentals and demonstrating consistent, clean execution is how you crack the Point72 coding interview.
 
-[Browse all Point72 questions on CodeJeet](/company/point72)
+[Browse all Point72 questions on TidyBit](/company/point72)

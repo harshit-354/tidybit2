@@ -118,4 +118,4 @@ Transition to **ByteDance preparation** after solidifying the fundamentals, as i
 
 In summary, use Capital One's list to build robust core skills. Then, use ByteDance's list to push into advanced optimization problems, making you a competitive candidate for both.
 
-For detailed question lists, visit the [ByteDance](/company/bytedance) and [Capital One](/company/capital-one) pages on CodeJeet.
+For detailed question lists, visit the [ByteDance](/company/bytedance) and [Capital One](/company/capital-one) pages on TidyBit.

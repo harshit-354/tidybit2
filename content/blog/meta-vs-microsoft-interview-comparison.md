@@ -100,4 +100,4 @@ Start with the **shared foundation**. The overlap in question volume, difficulty
 
 Given the nearly identical structure, if you are interviewing at both, you can prepare in parallel very effectively. Focus on the common Medium problems first, then layer on the specific topic emphasis (Math for Meta, DP for Microsoft) in your study plan.
 
-For a deeper dive into each company's question list, visit the CodeJeet pages for [Meta](/company/meta) and [Microsoft](/company/microsoft).
+For a deeper dive into each company's question list, visit the TidyBit pages for [Meta](/company/meta) and [Microsoft](/company/microsoft).

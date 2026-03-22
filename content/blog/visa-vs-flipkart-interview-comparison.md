@@ -134,4 +134,4 @@ Once comfortable with core patterns, transition to **Flipkart's list** to deepen
 
 In summary, use Visa's profile for foundational strength and Flipkart's for advanced algorithmic mastery. This progression builds competence efficiently.
 
-For detailed question lists, visit the CodeJeet pages for [Visa](/company/visa) and [Flipkart](/company/flipkart).
+For detailed question lists, visit the TidyBit pages for [Visa](/company/visa) and [Flipkart](/company/flipkart).

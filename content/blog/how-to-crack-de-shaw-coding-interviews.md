@@ -859,4 +859,4 @@ public class TwoSumSorted {
 
 Consistent, targeted practice on the right patterns is what separates candidates who pass from those who excel. Start with the core topics, pressure-test your skills, and refine your communication.
 
-[Browse all DE Shaw questions on CodeJeet](/company/de-shaw)
+[Browse all DE Shaw questions on TidyBit](/company/de-shaw)

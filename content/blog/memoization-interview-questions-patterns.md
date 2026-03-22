@@ -127,4 +127,4 @@ Memoization is a fundamental optimization technique, so it's asked universally b
 
 Memoization is a pattern of intelligence—it's about working smarter, not harder. To master the full spectrum from Easy stair-climbing to Hard string interleaving, you need systematic practice.
 
-[Practice all Memoization questions on CodeJeet](/topic/memoization)
+[Practice all Memoization questions on TidyBit](/topic/memoization)

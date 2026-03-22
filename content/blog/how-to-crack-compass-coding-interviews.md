@@ -102,4 +102,4 @@ A focused, topic-driven plan is essential.
 
 Mastery of these core topics and patterns, combined with disciplined practice, will position you strongly for the Compass interview loop.
 
-[Browse all Compass questions on CodeJeet](/company/compass)
+[Browse all Compass questions on TidyBit](/company/compass)

@@ -82,4 +82,4 @@ Your preparation strategy should be dictated by your goals and timeline.
 
 In practice, a hybrid approach is effective: use the concentrated Atlassian list to solidify fundamentals, then expand into the broader Microsoft set to stress-test and broaden your abilities, paying special attention to Dynamic Programming.
 
-For detailed question lists and patterns, visit the CodeJeet pages for [Microsoft](/company/microsoft) and [Atlassian](/company/atlassian).
+For detailed question lists and patterns, visit the TidyBit pages for [Microsoft](/company/microsoft) and [Atlassian](/company/atlassian).

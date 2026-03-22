@@ -152,4 +152,4 @@ A structured approach is non-negotiable. Here is a focused plan.
 
 Targeted, consistent practice on Medium-difficulty problems in Array, String, Graph, Stack, and especially Union-Find will build the muscle memory needed to succeed. Start with fundamentals, integrate concepts, and simulate the real environment.
 
-[Browse all Sumologic questions on CodeJeet](/company/sumologic)
+[Browse all Sumologic questions on TidyBit](/company/sumologic)

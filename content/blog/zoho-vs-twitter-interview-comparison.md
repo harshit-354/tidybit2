@@ -143,4 +143,4 @@ Once your core DSA is strong, pivot to **Twitter**. Here, you must layer on two 
 
 In summary, use Zoho's list to build your algorithmic engine, and then refine it with Twitter's focus on high difficulty and scalable design.
 
-For targeted practice, visit the Zoho question list at [/company/zoho](https://codejeet.com/company/zoho) and the Twitter question list at [/company/twitter](https://codejeet.com/company/twitter).
+For targeted practice, visit the Zoho question list at [/company/zoho](https://tidybit.com/company/zoho) and the Twitter question list at [/company/twitter](https://tidybit.com/company/twitter).

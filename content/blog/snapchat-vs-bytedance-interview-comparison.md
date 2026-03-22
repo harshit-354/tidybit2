@@ -6,7 +6,7 @@ category: "tips"
 tags: ["snapchat", "bytedance", "comparison"]
 ---
 
-When preparing for technical interviews at major tech companies, understanding their specific question patterns and focus areas can significantly increase your efficiency. Snapchat (Snap) and ByteDance (parent company of TikTok) are both leaders in social media and technology, but their interview question profiles on platforms like CodeJeet reveal distinct differences in volume, difficulty, and topic emphasis. This comparison analyzes their question banks to help you tailor your preparation strategy.
+When preparing for technical interviews at major tech companies, understanding their specific question patterns and focus areas can significantly increase your efficiency. Snapchat (Snap) and ByteDance (parent company of TikTok) are both leaders in social media and technology, but their interview question profiles on platforms like TidyBit reveal distinct differences in volume, difficulty, and topic emphasis. This comparison analyzes their question banks to help you tailor your preparation strategy.
 
 ## Question Volume and Difficulty
 

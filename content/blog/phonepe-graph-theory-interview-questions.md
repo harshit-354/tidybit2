@@ -109,7 +109,7 @@ public class GraphBFS {
 1. **Foundation:** Begin with basic traversals (BFS/DFS) on adjacency lists. Solve problems about connected components and simple path existence.
 2. **Core Algorithms:** Move to shortest path (Dijkstra, Bellman-Ford for weighted graphs), cycle detection, and topological sort.
 3. **Advanced Patterns:** Tackle union-find applications, minimum spanning trees (Kruskal’s, Prim’s), and more complex problems like finding strongly connected components.
-4. **PhonePe-Specific:** Finally, work through all 14 Graph Theory problems on CodeJeet’s PhonePe track. Simulate interview conditions: time yourself and explain your approach aloud.
+4. **PhonePe-Specific:** Finally, work through all 14 Graph Theory problems on TidyBit’s PhonePe track. Simulate interview conditions: time yourself and explain your approach aloud.
 
 Consistency is crucial. Aim to solve at least one graph problem daily in the weeks leading to your interview.
 

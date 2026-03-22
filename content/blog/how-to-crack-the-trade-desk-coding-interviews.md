@@ -97,4 +97,4 @@ A structured approach is key to covering the necessary ground efficiently.
 
 Consistent, topic-targeted practice is what separates candidates who struggle from those who pass. Focus on the patterns, not just memorizing solutions.
 
-[Browse all The Trade Desk questions on CodeJeet](/company/the-trade-desk)
+[Browse all The Trade Desk questions on TidyBit](/company/the-trade-desk)

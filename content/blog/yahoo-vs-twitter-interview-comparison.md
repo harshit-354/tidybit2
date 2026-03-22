@@ -81,4 +81,4 @@ If you are **already comfortable with standard algorithm problems and are aiming
 A strategic approach is to begin with the foundational topics common to both—Array, Hash Table, String—using Yahoo's extensive medium-difficulty questions. Once proficient, shift focus to tackling harder problems and studying system design principles to meet Twitter's bar.
 
 For specific question lists, visit the Yahoo and Twitter company pages:  
-[CodeJeet Yahoo Questions](/company/yahoo) | [CodeJeet Twitter Questions](/company/twitter)
+[TidyBit Yahoo Questions](/company/yahoo) | [TidyBit Twitter Questions](/company/twitter)

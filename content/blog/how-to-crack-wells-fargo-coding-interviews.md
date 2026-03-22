@@ -101,4 +101,4 @@ A structured approach is non-negotiable. Follow this plan to build and reinforce
 
 Mastering these focused areas will position you strongly for the Wells Fargo interview. Consistent, pattern-based practice on the core topics is your most reliable path to success.
 
-[Browse all Wells Fargo questions on CodeJeet](/company/wells-fargo)
+[Browse all Wells Fargo questions on TidyBit](/company/wells-fargo)

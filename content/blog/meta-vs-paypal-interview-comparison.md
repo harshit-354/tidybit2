@@ -58,4 +58,4 @@ Your preparation priority should be dictated by your target role and timeline.
 
 Ultimately, preparing for Meta is a superset of preparing for PayPal. A candidate ready for Meta's rigorous loop will be well-prepared for PayPal's interviews, but the reverse is not necessarily true due to the difference in scope and depth.
 
-For targeted practice, visit the CodeJeet pages for [Meta](/company/meta) and [PayPal](/company/paypal).
+For targeted practice, visit the TidyBit pages for [Meta](/company/meta) and [PayPal](/company/paypal).

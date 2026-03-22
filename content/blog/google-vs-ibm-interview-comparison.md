@@ -160,4 +160,4 @@ Your preparation order should be dictated by your interview timeline and the fou
 
 Ultimately, IBM preparation builds a strong algorithmic core. Google preparation requires building on that core with advanced techniques and extensive practice. Start with the company you have an interview with, but use the overlap in Arrays and Strings to your advantage.
 
-For more detailed question breakdowns and company-specific guides, visit the CodeJeet pages for [Google](/company/google) and [IBM](/company/ibm).
+For more detailed question breakdowns and company-specific guides, visit the TidyBit pages for [Google](/company/google) and [IBM](/company/ibm).

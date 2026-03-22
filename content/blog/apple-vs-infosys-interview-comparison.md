@@ -114,4 +114,4 @@ Your preparation order should be guided by your timeline and the role's seniorit
 
 A strategic hybrid approach is to use the **Infosys list as your foundational curriculum**. Once you can solve most of those problems confidently, transition to the **Apple list for depth and optimization practice**. This path ensures you build a solid base before tackling the more challenging problems that Apple is known for.
 
-For detailed question lists and company-specific insights, visit the CodeJeet pages for [Apple](/company/apple) and [Infosys](/company/infosys).
+For detailed question lists and company-specific insights, visit the TidyBit pages for [Apple](/company/apple) and [Infosys](/company/infosys).

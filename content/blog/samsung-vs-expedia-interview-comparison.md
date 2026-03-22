@@ -154,4 +154,4 @@ Prepare for **Samsung first** if you are already comfortable with medium-level p
 
 In practice, a strong candidate should be proficient in all the overlapping topics (Array, Hash Table). The decision hinges on whether you need to deepen your knowledge in DP/Two Pointers (Samsung) or Greedy/Strings (Expedia) and how comfortable you are with hard problem difficulty.
 
-For detailed question lists, visit the [Samsung](/company/samsung) and [Expedia](/company/expedia) pages on CodeJeet.
+For detailed question lists, visit the [Samsung](/company/samsung) and [Expedia](/company/expedia) pages on TidyBit.

@@ -279,4 +279,4 @@ Trie questions are favored by companies building large-scale text and search sys
 3.  **Practice the Trie + Backtracking Combination.** This is a classic Hard problem pattern (e.g., "Word Search II"). Isolate this pattern and solve a few variants to build muscle memory for the DFS traversal that consults the Trie.
 4.  **Consider Space-Time Trade-offs.** A Trie often optimizes time for prefix operations at the cost of space. Be prepared to discuss this trade-off versus a hash map, especially for problems with a constrained character set (like only lowercase letters).
 
-[Practice all Trie questions on CodeJeet](/topic/trie)
+[Practice all Trie questions on TidyBit](/topic/trie)

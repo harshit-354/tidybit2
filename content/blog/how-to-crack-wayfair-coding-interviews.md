@@ -127,4 +127,4 @@ Solve all available Wayfair-specific questions. Simulate the actual interview en
 
 Success in Wayfair's interviews hinges on consistent, deliberate practice of medium-difficulty problems across these core topics. Build the muscle memory for the patterns, and the process will feel like applying known tools to new problems.
 
-[Browse all Wayfair questions on CodeJeet](/company/wayfair)
+[Browse all Wayfair questions on TidyBit](/company/wayfair)

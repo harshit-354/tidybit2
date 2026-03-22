@@ -156,4 +156,4 @@ At these companies, a monotonic stack question is rarely a standalone easy probl
 
 The most effective way to master this pattern is through targeted, progressive practice.
 
-[Practice all Monotonic Stack questions on CodeJeet](/topic/monotonic-stack)
+[Practice all Monotonic Stack questions on TidyBit](/topic/monotonic-stack)

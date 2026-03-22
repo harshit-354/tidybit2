@@ -147,4 +147,4 @@ Week 6: Mock Interviews & Review. Conduct at least 4-5 timed mock interviews wit
 
 Mastery of these patterns, combined with disciplined practice, will prepare you for the rigour of Zomato's technical interviews.
 
-[Browse all Zomato questions on CodeJeet](/company/zomato)
+[Browse all Zomato questions on TidyBit](/company/zomato)

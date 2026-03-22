@@ -93,4 +93,4 @@ Preparing for **Amazon** first, however, creates a superset of readiness. The in
 
 In summary, use JPMorgan's list for efficient, targeted practice. Use Amazon's list for comprehensive, foundational training that will serve you for any technical interview in the industry.
 
-For detailed question lists and guides, visit the Amazon and JPMorgan company pages on CodeJeet: [/company/amazon](https://codejeet.com/company/amazon) and [/company/jpmorgan](https://codejeet.com/company/jpmorgan).
+For detailed question lists and guides, visit the Amazon and JPMorgan company pages on TidyBit: [/company/amazon](https://tidybit.com/company/amazon) and [/company/jpmorgan](https://tidybit.com/company/jpmorgan).

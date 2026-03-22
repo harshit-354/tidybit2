@@ -145,4 +145,4 @@ Given the high difficulty, a focused 6-week plan is recommended.
 
 Success at Hilabs requires moving beyond standard patterns to their advanced synthesis. Focus your energy on DP and bitmask mastery, and structure your practice to match their demanding format.
 
-[Browse all Hilabs questions on CodeJeet](/company/hilabs)
+[Browse all Hilabs questions on TidyBit](/company/hilabs)

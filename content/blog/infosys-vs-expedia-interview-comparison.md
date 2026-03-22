@@ -76,4 +76,4 @@ Your preparation priority should align with your target role and the foundationa
 
 In summary, Infosys offers a comprehensive, foundational grind, while Expedia provides a focused, practical filter. Starting with Infosys builds general strength; starting with Expedia hones a specific, high-demand skillset.
 
-For detailed question lists, visit the Infosys and Expedia question banks on CodeJeet: [/company/infosys](/company/infosys) and [/company/expedia](/company/expedia).
+For detailed question lists, visit the Infosys and Expedia question banks on TidyBit: [/company/infosys](/company/infosys) and [/company/expedia](/company/expedia).

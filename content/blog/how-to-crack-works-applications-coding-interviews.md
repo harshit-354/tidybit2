@@ -83,7 +83,7 @@ public int[] twoSumSorted(int[] numbers, int target) {
 
 Given the high difficulty bar, a structured, intensive plan is required.
 
-- **Weeks 1-2: Foundation & Core Topics.** Deeply study the top five topics. For each, solve 10-15 curated Medium problems on platforms like CodeJeet. Focus on understanding the pattern, not just the solution. Implement every solution in your primary interview language.
+- **Weeks 1-2: Foundation & Core Topics.** Deeply study the top five topics. For each, solve 10-15 curated Medium problems on platforms like TidyBit. Focus on understanding the pattern, not just the solution. Implement every solution in your primary interview language.
 - **Weeks 3-4: Hard Problem Integration.** Transition to Hard problems that combine the core topics. Spend up to 45 minutes genuinely attempting a problem before reviewing solutions. Analyze why the solution works—what greedy property was used, why a heap was necessary, how two pointers reduced complexity. This builds the intuition needed for unseen problems.
 - **Weeks 5-6: Mock Interviews & Company-Specific Practice.** Simulate the real interview: solve 2 Medium and 2 Hard problems in a 90-minute block. Use a timer and no aids. Then, exhaustively practice all available **Works Applications-tagged questions**. This acclimates you to their problem style and difficulty curve.
 
@@ -97,4 +97,4 @@ Given the high difficulty bar, a structured, intensive plan is required.
 
 Success in a Works Applications interview hinges on targeted, depth-focused practice on their preferred high-difficulty topics. Start with the core patterns, pressure-test with combined Hard problems, and simulate the real environment.
 
-[Browse all Works Applications questions on CodeJeet](/company/works-applications)
+[Browse all Works Applications questions on TidyBit](/company/works-applications)

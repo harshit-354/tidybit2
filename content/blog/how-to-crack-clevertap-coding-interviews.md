@@ -99,4 +99,4 @@ A structured approach is non-negotiable. Here is a week-by-week plan.
 
 Focus your energy on these high-probability areas, practice communicating your solutions, and you'll be well-prepared for the CleverTap coding interview.
 
-[Browse all CleverTap questions on CodeJeet](/company/clevertap)
+[Browse all CleverTap questions on TidyBit](/company/clevertap)

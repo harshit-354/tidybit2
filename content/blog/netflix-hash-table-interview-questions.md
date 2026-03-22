@@ -73,6 +73,6 @@ Tackle problems in this order to build competence progressively:
 1.  **Fundamentals:** Implement a hash table from scratch. Solve basic frequency count problems (e.g., "First Unique Character in a String").
 2.  **Core Patterns:** Practice the key application patterns: Two Sum variants, grouping problems (like "Group Anagrams"), and substring problems using sliding window with a hash map.
 3.  **Advanced Data Structures:** Study how hash tables enable other structures. Implement an **LRU Cache**, which combines a hash map with a doubly-linked list. This is a frequent Netflix question.
-4.  **Netflix-Specific List:** Finally, work through all 11 hash table questions on CodeJeet's Netflix list. Simulate interview conditions by stating your reasoning aloud and discussing trade-offs.
+4.  **Netflix-Specific List:** Finally, work through all 11 hash table questions on TidyBit's Netflix list. Simulate interview conditions by stating your reasoning aloud and discussing trade-offs.
 
 [Practice Hash Table at Netflix](/company/netflix/hash-table)

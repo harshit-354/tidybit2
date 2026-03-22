@@ -10,7 +10,7 @@ When preparing for technical interviews at top-tier companies, understanding the
 
 ## Question Volume and Difficulty
 
-The sheer scale of the question banks is the most immediate difference. On platforms like CodeJeet, Google's catalog is vast, with over 2,200 documented questions (E588/M1153/H476). This reflects their rigorous, multi-round process where you might face different problem types across interviews. The difficulty distribution is heavy on **Medium** and **Hard** problems, indicating that passing requires not just correctness but optimal, well-reasoned solutions under time pressure.
+The sheer scale of the question banks is the most immediate difference. On platforms like TidyBit, Google's catalog is vast, with over 2,200 documented questions (E588/M1153/H476). This reflects their rigorous, multi-round process where you might face different problem types across interviews. The difficulty distribution is heavy on **Medium** and **Hard** problems, indicating that passing requires not just correctness but optimal, well-reasoned solutions under time pressure.
 
 In stark contrast, Goldman Sachs has a much smaller, more concentrated set of around 270 questions (E51/M171/H48). The volume is less daunting, but note the distribution: **Medium** problems dominate. This suggests their technical screen is less about solving esoteric "Hard" puzzles and more about consistently demonstrating proficiency on common patterns with clean, bug-free code. The lower volume means questions may repeat more frequently, so practicing the known set is highly effective.
 

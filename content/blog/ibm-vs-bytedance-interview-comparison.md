@@ -122,4 +122,4 @@ Prepare for **ByteDance first** only if you already have a strong grasp of funda
 
 Ultimately, IBM's list is better for building foundational breadth, while ByteDance's list is for achieving targeted depth. A robust strategy is to master the shared core (Arrays, Strings), then IBM's Two Pointers and Sorting, before finally tackling ByteDance's intense focus on Hash Tables and Dynamic Programming.
 
-For detailed question lists, visit the CodeJeet pages for [IBM](/company/ibm) and [ByteDance](/company/bytedance).
+For detailed question lists, visit the TidyBit pages for [IBM](/company/ibm) and [ByteDance](/company/bytedance).

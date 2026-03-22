@@ -71,4 +71,4 @@ If you're interviewing for a role mentioning Linux, DevOps, SRE, or backend syst
 
 The key to shell interviews is practical fluency. Understand the patterns, combine the tools, and articulate your process.
 
-[Practice all Shell questions on CodeJeet](/topic/shell)
+[Practice all Shell questions on TidyBit](/topic/shell)

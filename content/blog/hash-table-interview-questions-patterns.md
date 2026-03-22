@@ -144,4 +144,4 @@ Hash tables are universal, but some top tech companies are particularly known fo
 3.  **Know Your Language's Implementation.** Understand the time complexity guarantees and API of your language's primary hash table (`dict`, `Map`, `HashMap`). Know how to handle default values and iterations cleanly.
 4.  **Start with the Brute Force, Then Optimize.** If stuck, first describe the **O(n²)** nested loop solution. Then ask, "What am I repeatedly looking up?" The answer to that question is almost always your hash table key.
 
-[Practice all Hash Table questions on CodeJeet](/topic/hash-table)
+[Practice all Hash Table questions on TidyBit](/topic/hash-table)

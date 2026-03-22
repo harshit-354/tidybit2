@@ -117,4 +117,4 @@ Then, transition to **Airbnb**. Use its problem set to ramp up difficulty. The M
 
 **Strategic Path:** Start with Yahoo's list to build confidence and cover fundamentals. Once solid, tackle Airbnb's list to develop the advanced problem-solving stamina and depth required for top-tier company interviews. This approach efficiently layers your skills from foundation to mastery.
 
-For detailed question lists, visit the CodeJeet pages for [Airbnb](/company/airbnb) and [Yahoo](/company/yahoo).
+For detailed question lists, visit the TidyBit pages for [Airbnb](/company/airbnb) and [Yahoo](/company/yahoo).

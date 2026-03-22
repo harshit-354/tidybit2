@@ -121,4 +121,4 @@ Prepare for **Samsung first** if you are already comfortable with core algorithm
 
 Ultimately, the shared emphasis on Arrays and Hash Tables means mastering these topics serves you for both. Start with the company whose difficulty profile best matches your current skill level, then use the other to fill gaps.
 
-For more detailed question lists, visit the Samsung and Yahoo pages on CodeJeet: [Samsung Interview Questions](/company/samsung) | [Yahoo Interview Questions](/company/yahoo)
+For more detailed question lists, visit the Samsung and Yahoo pages on TidyBit: [Samsung Interview Questions](/company/samsung) | [Yahoo Interview Questions](/company/yahoo)

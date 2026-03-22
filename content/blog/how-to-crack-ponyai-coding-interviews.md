@@ -134,4 +134,4 @@ Weeks 5-6: Simulation and Gaps
 
 Consistent, focused practice on the core topics with an emphasis on optimal Medium and approachable Hard solutions is your blueprint. Start with the patterns, pressure-test with timed practice, and refine through explanation.
 
-[Browse all Pony.AI questions on CodeJeet](/company/ponyai)
+[Browse all Pony.AI questions on TidyBit](/company/ponyai)

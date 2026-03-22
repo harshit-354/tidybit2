@@ -73,5 +73,5 @@ Your priority should be dictated by your target company and timeline.
 In essence, preparing for Oracle is like training for a marathon—it builds extensive stamina. Preparing for Snowflake is like training for a targeted event—it builds specific, relevant skills efficiently. If you must choose one, let your interview schedule decide.
 
 For dedicated question lists and patterns, visit the Oracle and Snowflake company pages:  
-[CodeJeet Oracle Interview Questions](/company/oracle)  
-[CodeJeet Snowflake Interview Questions](/company/snowflake)
+[TidyBit Oracle Interview Questions](/company/oracle)  
+[TidyBit Snowflake Interview Questions](/company/snowflake)

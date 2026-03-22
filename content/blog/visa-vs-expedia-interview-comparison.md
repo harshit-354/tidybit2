@@ -87,4 +87,4 @@ Prepare for **Expedia first** only if your interview is imminent and your founda
 
 Ultimately, a strong foundation in the shared topics—Array, String, and Hash Table—is your highest priority. Build from there based on your target company's specific profile.
 
-For detailed question lists and patterns, visit the Visa and Expedia pages on CodeJeet: [/company/visa](/company/visa) and [/company/expedia](/company/expedia).
+For detailed question lists and patterns, visit the Visa and Expedia pages on TidyBit: [/company/visa](/company/visa) and [/company/expedia](/company/expedia).

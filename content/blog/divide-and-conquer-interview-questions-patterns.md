@@ -188,4 +188,4 @@ If you're targeting these companies, you cannot afford to skip D&C practice.
 3.  **Master Binary Search First.** It's the simplest and most common D&C variant. Ensure you can implement its recursive and iterative versions flawlessly and understand its application in rotated arrays and search spaces.
 4.  **Practice the "Cross-Check".** Many Medium/Hard problems fail if you only combine left and right results. Actively look for problems where the answer depends on data that straddles your division point, and practice writing that helper function.
 
-[Practice all Divide and Conquer questions on CodeJeet](/topic/divide-and-conquer)
+[Practice all Divide and Conquer questions on TidyBit](/topic/divide-and-conquer)

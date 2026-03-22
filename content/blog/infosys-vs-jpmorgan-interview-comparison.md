@@ -6,7 +6,7 @@ category: "tips"
 tags: ["infosys", "jpmorgan", "comparison"]
 ---
 
-When preparing for technical interviews, understanding the specific focus of each company can dramatically improve your efficiency. Infosys and JPMorgan Chase (JPMorgan) represent two distinct sectors—global IT services and top-tier finance—and their interview question profiles reflect this difference. A direct comparison of their tagged questions on CodeJeet reveals clear patterns in volume, difficulty, and core topics, allowing you to tailor your study plan strategically.
+When preparing for technical interviews, understanding the specific focus of each company can dramatically improve your efficiency. Infosys and JPMorgan Chase (JPMorgan) represent two distinct sectors—global IT services and top-tier finance—and their interview question profiles reflect this difference. A direct comparison of their tagged questions on TidyBit reveals clear patterns in volume, difficulty, and core topics, allowing you to tailor your study plan strategically.
 
 ## Question Volume and Difficulty
 
@@ -88,4 +88,4 @@ Your preparation priority should be dictated by your target sector and the found
 
 In practice, start with the shared core of **Array and String** problems. Then, branch based on your target: integrate **Hash Table and Sorting** practice for finance, or dive into **Dynamic Programming and Math** for IT services.
 
-For the complete question lists, visit the [Infosys](/company/infosys) and [JPMorgan](/company/jpmorgan) company pages on CodeJeet.
+For the complete question lists, visit the [Infosys](/company/infosys) and [JPMorgan](/company/jpmorgan) company pages on TidyBit.

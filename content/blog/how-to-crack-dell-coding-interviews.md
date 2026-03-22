@@ -110,4 +110,4 @@ A structured approach is essential. Here is a focused plan.
 
 Consistent, topic-focused practice is the most reliable way to build the muscle memory needed to succeed. Understand the patterns, implement them repeatedly, and learn to articulate your reasoning clearly.
 
-[Browse all Dell questions on CodeJeet](/company/dell)
+[Browse all Dell questions on TidyBit](/company/dell)

@@ -75,13 +75,13 @@ export async function generateMetadata({
       description:
         `Practice ${count} ${topicLabel} problems asked at ${displayName}. ` +
         `Filter by difficulty and frequency. Sorted by interview frequency.`,
-      alternates: { canonical: `https://codejeet.com/company/${slug}/${filter}` },
+      alternates: { canonical: `https://tidybit.com/company/${slug}/${filter}` },
       robots: { index: false, follow: true },
       openGraph: {
-        title: `${displayName} ${topicLabel} Interview Questions | CodeJeet`,
+        title: `${displayName} ${topicLabel} Interview Questions | TidyBit`,
         description: `Browse ${count} ${topicLabel} LeetCode problems asked at ${displayName}.`,
         type: "website",
-        url: `https://codejeet.com/company/${slug}/${filter}`,
+        url: `https://tidybit.com/company/${slug}/${filter}`,
       },
     };
   }
@@ -96,13 +96,13 @@ export async function generateMetadata({
       description:
         `Practice ${count} ${diffLabel.toLowerCase()} difficulty problems asked at ${displayName}. ` +
         `Sorted by interview frequency.`,
-      alternates: { canonical: `https://codejeet.com/company/${slug}/${filter}` },
+      alternates: { canonical: `https://tidybit.com/company/${slug}/${filter}` },
       robots: { index: false, follow: true },
       openGraph: {
-        title: `${displayName} ${diffLabel} Interview Questions | CodeJeet`,
+        title: `${displayName} ${diffLabel} Interview Questions | TidyBit`,
         description: `Browse ${count} ${diffLabel.toLowerCase()} LeetCode problems asked at ${displayName}.`,
         type: "website",
-        url: `https://codejeet.com/company/${slug}/${filter}`,
+        url: `https://tidybit.com/company/${slug}/${filter}`,
       },
     };
   }
@@ -116,13 +116,13 @@ export async function generateMetadata({
     description:
       `${problem.title} is a ${problem.difficulty.toLowerCase()} LeetCode problem asked at ${displayName}. ` +
       `${problem.acceptance_rate} acceptance rate. Topics: ${problem.topics.slice(0, 4).join(", ")}.`,
-    alternates: { canonical: `https://codejeet.com/problem/${filter}` },
+    alternates: { canonical: `https://tidybit.com/problem/${filter}` },
     robots: { index: false, follow: true },
     openGraph: {
-      title: `${problem.title} \u2014 ${displayName} Interview Question | CodeJeet`,
+      title: `${problem.title} \u2014 ${displayName} Interview Question | TidyBit`,
       description: `${problem.title} at ${displayName}. ${problem.difficulty}, ${problem.acceptance_rate} acceptance.`,
       type: "article",
-      url: `https://codejeet.com/company/${slug}/${filter}`,
+      url: `https://tidybit.com/company/${slug}/${filter}`,
     },
   };
 }
@@ -234,7 +234,7 @@ function TopicFilterView({
         data={collectionJsonLd({
           name: `${displayName} ${topicLabel} Interview Questions`,
           description: `${filtered.length} ${topicLabel} LeetCode problems asked at ${displayName} interviews.`,
-          url: `https://codejeet.com/company/${slug}/${filter}`,
+          url: `https://tidybit.com/company/${slug}/${filter}`,
           numberOfItems: filtered.length,
         })}
       />
@@ -343,7 +343,7 @@ function DifficultyFilterView({
         data={collectionJsonLd({
           name: `${displayName} ${diffLabel} Interview Questions`,
           description: `${filtered.length} ${diffLabel.toLowerCase()} LeetCode problems asked at ${displayName} interviews.`,
-          url: `https://codejeet.com/company/${slug}/${filter}`,
+          url: `https://tidybit.com/company/${slug}/${filter}`,
           numberOfItems: filtered.length,
         })}
       />
@@ -539,7 +539,7 @@ async function ProblemFilterView({
           description:
             `${companyQuestion.title} is a ${companyQuestion.difficulty.toLowerCase()} interview question asked at ${displayName}. ` +
             `Topics: ${companyQuestion.topics.join(", ")}.`,
-          url: `https://codejeet.com/company/${slug}/${filter}`,
+          url: `https://tidybit.com/company/${slug}/${filter}`,
           difficulty: companyQuestion.difficulty,
           topics: companyQuestion.topics,
         })}

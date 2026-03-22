@@ -96,4 +96,4 @@ Then, **specialize for Atlassian**. Conduct a targeted review of their specific 
 
 Ultimately, Meta preparation is a marathon of pattern recognition, while Atlassian preparation is a sprint of focused depth. Mastering the common core makes you competitive for both.
 
-For detailed question lists and frequency data, visit the CodeJeet pages for [Meta](/company/meta) and [Atlassian](/company/atlassian).
+For detailed question lists and frequency data, visit the TidyBit pages for [Meta](/company/meta) and [Atlassian](/company/atlassian).

@@ -101,4 +101,4 @@ A focused month is enough given the manageable difficulty spread.
 
 Squarespace’s interview is a test of practical coding skill and clear engineering thinking. Master the core patterns, communicate effectively, and you’ll be well-prepared.
 
-[Browse all Squarespace questions on CodeJeet](/company/squarespace)
+[Browse all Squarespace questions on TidyBit](/company/squarespace)

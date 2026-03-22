@@ -128,4 +128,4 @@ Your priority should be dictated by your target company and interview timeline.
 
 Ultimately, a strong candidate for either will have mastered the shared core. Start with that foundation, then branch into Two Pointers depth for Yandex or DFS/Graph mastery for DoorDash.
 
-For specific question lists and patterns, visit the CodeJeet pages for [Yandex](/company/yandex) and [DoorDash](/company/doordash).
+For specific question lists and patterns, visit the TidyBit pages for [Yandex](/company/yandex) and [DoorDash](/company/doordash).

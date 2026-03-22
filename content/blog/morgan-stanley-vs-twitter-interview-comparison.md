@@ -6,7 +6,7 @@ category: "tips"
 tags: ["morgan-stanley", "twitter", "comparison"]
 ---
 
-When preparing for technical interviews, company-specific patterns matter more than general algorithm knowledge. Morgan Stanley and Twitter both appear in the "53 questions" bracket on CodeJeet, but the distribution of difficulty and the focus of those questions differ significantly, pointing to distinct interview philosophies.
+When preparing for technical interviews, company-specific patterns matter more than general algorithm knowledge. Morgan Stanley and Twitter both appear in the "53 questions" bracket on TidyBit, but the distribution of difficulty and the focus of those questions differ significantly, pointing to distinct interview philosophies.
 
 ## Question Volume and Difficulty
 

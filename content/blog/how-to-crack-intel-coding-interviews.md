@@ -105,4 +105,4 @@ A structured approach is non-negotiable. Follow this plan, dedicating 1-2 hours 
 
 Intel’s interviews are a test of disciplined, fundamental engineering. By focusing on the high-frequency topics, practicing integrated problem-solving, and honing your communication, you can demonstrate the kind of reliable, clear-thinking engineer they seek to hire.
 
-[Browse all Intel questions on CodeJeet](/company/intel)
+[Browse all Intel questions on TidyBit](/company/intel)

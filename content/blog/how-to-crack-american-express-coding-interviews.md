@@ -92,4 +92,4 @@ Week 6: **Final Review & Weakness Targeting.** Re-solve problems you previously 
 
 Consistent, focused practice on these core areas will build the muscle memory needed to succeed. The AmEx interview is a test of reliable skill, not genius.
 
-[Browse all American Express questions on CodeJeet](/company/american-express)
+[Browse all American Express questions on TidyBit](/company/american-express)

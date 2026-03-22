@@ -185,4 +185,4 @@ Binary search is a staple across top tech companies, reflecting its importance i
 
 Master these patterns and strategies, and you'll be able to efficiently navigate one of the most common and challenging topics in coding interviews.
 
-[Practice all Binary Search questions on CodeJeet](/topic/binary-search)
+[Practice all Binary Search questions on TidyBit](/topic/binary-search)

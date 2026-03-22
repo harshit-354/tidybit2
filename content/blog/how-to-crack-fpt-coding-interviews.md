@@ -109,4 +109,4 @@ Given the topic distribution, a focused plan is effective.
 
 Success in FPT interviews is a function of disciplined practice on their favored problem types. Solidify your fundamentals, practice under time pressure, and articulate your reasoning.
 
-[Browse all Fpt questions on CodeJeet](/company/fpt)
+[Browse all Fpt questions on TidyBit](/company/fpt)

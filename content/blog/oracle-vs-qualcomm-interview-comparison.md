@@ -84,4 +84,4 @@ Your preparation priority should be dictated by your target company and timeline
 
 In essence, Qualcomm's list is a strong, focused subset of Oracle's vast landscape. Mastering Qualcomm's patterns is excellent foundational prep, but tackling Oracle's list requires a significant expansion in scope and difficulty.
 
-For targeted practice, visit the Oracle question list at [CodeJeet/company/oracle](/company/oracle) and the Qualcomm list at [CodeJeet/company/qualcomm](/company/qualcomm).
+For targeted practice, visit the Oracle question list at [TidyBit/company/oracle](/company/oracle) and the Qualcomm list at [TidyBit/company/qualcomm](/company/qualcomm).

@@ -6,7 +6,7 @@ category: "tips"
 tags: ["infosys", "intuit", "comparison"]
 ---
 
-When preparing for technical interviews, understanding company-specific patterns is crucial for efficient study. Infosys and Intuit represent two distinct segments of the tech industry—global IT services and financial software—leading to different interview focuses. This comparison analyzes their question banks on CodeJeet to guide your preparation strategy.
+When preparing for technical interviews, understanding company-specific patterns is crucial for efficient study. Infosys and Intuit represent two distinct segments of the tech industry—global IT services and financial software—leading to different interview focuses. This comparison analyzes their question banks on TidyBit to guide your preparation strategy.
 
 ## Question Volume and Difficulty
 

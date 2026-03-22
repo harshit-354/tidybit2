@@ -89,4 +89,4 @@ Your preparation priority should be dictated by your target role and timeline.
 
 Ultimately, a strong candidate will be well-prepared for both. The core skills are transferable. Start with the company that aligns with your immediate goal or offers the most efficient path to building those universal skills.
 
-For more detailed question lists and frequency data, visit the Microsoft and eBay pages on CodeJeet: [/company/microsoft](/company/microsoft) and [/company/ebay](/company/ebay).
+For more detailed question lists and frequency data, visit the Microsoft and eBay pages on TidyBit: [/company/microsoft](/company/microsoft) and [/company/ebay](/company/ebay).

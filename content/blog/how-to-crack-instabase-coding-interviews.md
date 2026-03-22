@@ -107,7 +107,7 @@ Given the focused topic list, your preparation should be intensive and pattern-b
 **Weeks 3-4: Pattern Integration & Instabase-Specific Practice**
 
 - Solve Medium and Hard problems that combine these topics. For example, a problem might require a monotonic stack to process elements while a hash table tracks seen states.
-- Dedicate at least 5-7 full sessions to solving problems tagged for Instabase on platforms like CodeJeet. This acclimates you to their problem style and difficulty.
+- Dedicate at least 5-7 full sessions to solving problems tagged for Instabase on platforms like TidyBit. This acclimates you to their problem style and difficulty.
 - Implement Union-Find from memory at the start of every practice session during this phase.
 
 **Weeks 5-6: Mock Interviews & Refinement**
@@ -126,4 +126,4 @@ Given the focused topic list, your preparation should be intensive and pattern-b
 
 Mastering this targeted set of data structures and patterns is the most reliable path to success. The Instabase interview is a test of applied fundamentals, not esoteric knowledge.
 
-[Browse all Instabase questions on CodeJeet](/company/instabase)
+[Browse all Instabase questions on TidyBit](/company/instabase)

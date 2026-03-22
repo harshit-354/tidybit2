@@ -6,7 +6,7 @@ category: "tips"
 tags: ["flipkart", "ebay", "comparison"]
 ---
 
-When preparing for technical interviews at major e-commerce platforms, understanding the specific focus areas and difficulty distribution of their coding questions is crucial for efficient study. Both Flipkart and eBay emphasize core data structures and algorithms, but their question banks on platforms like CodeJeet reveal distinct profiles in volume, difficulty, and topical emphasis. This comparison analyzes their tagged interview questions to guide your preparation strategy.
+When preparing for technical interviews at major e-commerce platforms, understanding the specific focus areas and difficulty distribution of their coding questions is crucial for efficient study. Both Flipkart and eBay emphasize core data structures and algorithms, but their question banks on platforms like TidyBit reveal distinct profiles in volume, difficulty, and topical emphasis. This comparison analyzes their tagged interview questions to guide your preparation strategy.
 
 ## Question Volume and Difficulty
 

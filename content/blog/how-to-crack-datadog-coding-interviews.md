@@ -126,4 +126,4 @@ public class GraphTraversal {
 
 Targeted, consistent practice on these core topics is your most reliable path to success.
 
-[Browse all Datadog questions on CodeJeet](/company/datadog)
+[Browse all Datadog questions on TidyBit](/company/datadog)

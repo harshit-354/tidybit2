@@ -127,4 +127,4 @@ Your priority should be dictated by your target companies and timeline.
 
 In summary, Nutanix offers a focused path to master essential data structures and graph traversal. Citadel demands broader and deeper mastery, particularly in dynamic programming. Start with the company that matches your immediate goal, but use the shared core topics as your constant study foundation.
 
-For more detailed question lists, visit the CodeJeet pages for [Citadel](/company/citadel) and [Nutanix](/company/nutanix).
+For more detailed question lists, visit the TidyBit pages for [Citadel](/company/citadel) and [Nutanix](/company/nutanix).

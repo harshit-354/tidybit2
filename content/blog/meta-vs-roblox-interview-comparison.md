@@ -83,4 +83,4 @@ Your strategy should be dictated by your goals and timeline.
 
 A hybrid approach is effective: use the core topics (Array, Hash Table, String) as your daily drill. Then, layer on company-specific lists closer to your interview dates. For Roblox, deep-dive into their curated problems. For Meta, ensure you can consistently solve Medium problems within time limits and can articulate solutions for a sampling of Hard problems.
 
-For targeted practice, visit the CodeJeet pages for [Meta](/company/meta) and [Roblox](/company/roblox).
+For targeted practice, visit the TidyBit pages for [Meta](/company/meta) and [Roblox](/company/roblox).

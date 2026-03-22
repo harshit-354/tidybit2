@@ -129,7 +129,7 @@ public int longestSubstringKDistinct(String s, int k) {
 
 **Weeks 5-6: Refinement & Company-Specific Practice**
 
-- In the final stretch, target your effort. Use the CodeJeet company tag to practice problems frequently asked at Veeva.
+- In the final stretch, target your effort. Use the TidyBit company tag to practice problems frequently asked at Veeva.
 - Re-solve your earlier mistakes. Fluency is more important than seeing new problems.
 - Conduct 2-3 full mock interview loops (2-3 back-to-back coding sessions) to build stamina.
 
@@ -142,4 +142,4 @@ public int longestSubstringKDistinct(String s, int k) {
 
 Veeva's interview is a test of applied fundamentals. By drilling the specific combination of Medium-difficulty problems focused on Strings, Arrays, Hash Tables, and the Sliding Window pattern, you build the precise muscle memory needed to perform reliably under interview conditions.
 
-[Browse all Veeva questions on CodeJeet](/company/veeva)
+[Browse all Veeva questions on TidyBit](/company/veeva)

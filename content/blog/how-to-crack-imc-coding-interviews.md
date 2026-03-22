@@ -149,4 +149,4 @@ A structured plan is critical given the difficulty level.
 
 Success in an IMC interview comes from precise, efficient, and well-communicated problem-solving. Structure your preparation around their proven patterns, and practice until both speed and accuracy are automatic.
 
-[Browse all IMC questions on CodeJeet](/company/imc)
+[Browse all IMC questions on TidyBit](/company/imc)

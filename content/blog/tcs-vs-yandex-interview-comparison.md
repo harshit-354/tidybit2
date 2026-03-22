@@ -83,4 +83,4 @@ Once comfortable with Yandex's problems, transition to **TCS**. Use the larger T
 
 In summary, prioritize depth in Array, Hash Table, String, and Two Pointers. Prepare with Yandex first to build a strong, efficient foundation, then use TCS's extensive list for reinforcement and challenge.
 
-For specific company question lists, visit the TCS and Yandex pages on CodeJeet: [/company/tcs](/company/tcs) and [/company/yandex](/company/yandex).
+For specific company question lists, visit the TCS and Yandex pages on TidyBit: [/company/tcs](/company/tcs) and [/company/yandex](/company/yandex).

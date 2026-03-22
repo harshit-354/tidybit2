@@ -167,4 +167,4 @@ If your target is **DoorDash**, after the core, shift your focus to **graph and 
 
 Ultimately, preparing for one will significantly aid you for the other due to the large overlap. The strategic difference lies in where you place your deep-dive emphasis: DP for Walmart Labs, and graph DFS for DoorDash.
 
-For specific question lists, visit the [Walmart Labs](/company/walmart-labs) and [DoorDash](/company/doordash) pages on CodeJeet.
+For specific question lists, visit the [Walmart Labs](/company/walmart-labs) and [DoorDash](/company/doordash) pages on TidyBit.

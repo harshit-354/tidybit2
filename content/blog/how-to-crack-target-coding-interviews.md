@@ -135,4 +135,4 @@ A focused, consistent plan is more effective than months of unstructured study.
 
 Success in Target's coding interviews is a function of disciplined practice on the right material. Focus on the core topics, master the Medium difficulty, and you'll be well-prepared.
 
-[Browse all Target questions on CodeJeet](/company/target)
+[Browse all Target questions on TidyBit](/company/target)

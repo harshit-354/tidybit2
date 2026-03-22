@@ -246,4 +246,4 @@ Topological sort is a favorite at companies that design large-scale systems, com
 
 Topological sort is a pattern-based weapon. Recognize the dependency graph, apply the algorithm, and layer on the extra logic. The high percentage of hard questions means your practice should focus on adaptation, not just recall.
 
-[Practice all Topological Sort questions on CodeJeet](/topic/topological-sort)
+[Practice all Topological Sort questions on TidyBit](/topic/topological-sort)

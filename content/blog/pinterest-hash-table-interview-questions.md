@@ -74,6 +74,6 @@ public int[] twoSum(int[] nums, int target) {
 2.  **Learn Common Variants:** Practice `groupAnagrams` and `containsDuplicate`.
 3.  **Tackle Advanced Structures:** Implement an `LRUCache` from scratch. This combines hash maps with linked lists and is a classic Pinterest-level question.
 4.  **Apply to Strings & Arrays:** Solve problems like `firstUniqChar` and `subarraySum` using hash maps for optimization.
-5.  **Simulate Interview Conditions:** Finally, solve Pinterest’s tagged hash table problems on CodeJeet under timed conditions.
+5.  **Simulate Interview Conditions:** Finally, solve Pinterest’s tagged hash table problems on TidyBit under timed conditions.
 
 [Practice Hash Table at Pinterest](/company/pinterest/hash-table)

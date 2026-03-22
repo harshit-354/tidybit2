@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description:
     "Browse through 17,000+ DSA questions asked in technical interviews at 660+ companies. " +
     "Filter by company, topic, and difficulty.",
-  alternates: { canonical: "https://codejeet.com/dashboard" },
+  alternates: { canonical: "https://tidybit.com/dashboard" },
 };
 
 export default async function DashboardPage() {

@@ -120,4 +120,4 @@ A structured plan is non-negotiable. Here is a focused 5-week schedule.
 
 Consistent, pattern-focused practice on Medium-difficulty problems in these core areas is your direct path to success.
 
-[Browse all VMware questions on CodeJeet](/company/vmware)
+[Browse all VMware questions on TidyBit](/company/vmware)

@@ -1,4 +1,4 @@
-## CodeJeet
+## TidyBit
 
 Browse 17,000+ company-wise LeetCode interview questions from 660+ companies. Filter by company, topic, and difficulty. Fully static, no server required.
 

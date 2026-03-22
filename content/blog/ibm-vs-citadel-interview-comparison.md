@@ -152,4 +152,4 @@ If you are already **comfortable with standard algorithm problems** and are aimi
 
 Ultimately, a strong candidate will master the patterns common to both: array/string manipulation and hash table usage. Then, specialize based on your target: two pointers and sorting for IBM, dynamic programming and advanced optimization for Citadel.
 
-For detailed question lists, visit the IBM and Citadel question banks on CodeJeet: [/company/ibm](/company/ibm) and [/company/citadel](/company/citadel).
+For detailed question lists, visit the IBM and Citadel question banks on TidyBit: [/company/ibm](/company/ibm) and [/company/citadel](/company/citadel).

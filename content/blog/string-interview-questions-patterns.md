@@ -139,4 +139,4 @@ All major tech firms emphasize string problems:
 
 Master these patterns, understand the difficulty curve, and target company-specific tendencies to turn string problems from obstacles into opportunities.
 
-[Practice all String questions on CodeJeet](/topic/string)
+[Practice all String questions on TidyBit](/topic/string)

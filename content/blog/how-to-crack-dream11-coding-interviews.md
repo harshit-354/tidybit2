@@ -89,7 +89,7 @@ public int[] nextGreaterElement(int[] nums) {
 
 Week 1-2: **Foundation & Core Patterns.** Revisit core data structures: Arrays, Strings, Hash Maps, Stacks, Queues. Solve 2-3 classic problems for each. Begin DP by mastering the fundamentals: Fibonacci, Climbing Stairs, 0/1 Knapsack, Longest Common Subsequence.
 
-Week 3-4: **Topic Deep Dive.** Focus intensely on the top five topics. For each, solve 8-10 Medium problems from LeetCode or CodeJeet. Don't just solve—categorize. For example, under "Stack," solve problems on validation, daily temperatures, and asteroid collision. For "Greedy," tackle interval scheduling and task scheduling.
+Week 3-4: **Topic Deep Dive.** Focus intensely on the top five topics. For each, solve 8-10 Medium problems from LeetCode or TidyBit. Don't just solve—categorize. For example, under "Stack," solve problems on validation, daily temperatures, and asteroid collision. For "Greedy," tackle interval scheduling and task scheduling.
 
 Week 5: **Mock Interviews & Problem Synthesis.** Simulate the real environment. Do 2-3 timed mock interviews (60-75 minutes) with a mix of Medium problems. Specifically practice problems that blend topics, like a DP problem on an array or a greedy approach validated with a stack. This builds the mental flexibility needed.
 
@@ -105,4 +105,4 @@ Week 6: **Review & Final Prep.** Revisit all problems you struggled with. System
 
 Consistent, pattern-focused practice on Medium-difficulty problems across these key topics is your most reliable path to success. Start with the fundamentals, drill the patterns, and simulate the interview pressure.
 
-[Browse all Dream11 questions on CodeJeet](/company/dream11)
+[Browse all Dream11 questions on TidyBit](/company/dream11)

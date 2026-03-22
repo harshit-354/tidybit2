@@ -123,4 +123,4 @@ Then, expand your study for **Oracle**. This phase involves tackling the additio
 
 Ultimately, a solid grasp of data structures and algorithm patterns will serve you for both. Start focused, then broaden your scope.
 
-For targeted practice, visit the Oracle and PayPal question lists on CodeJeet: [Oracle Interview Questions](/company/oracle) | [PayPal Interview Questions](/company/paypal)
+For targeted practice, visit the Oracle and PayPal question lists on TidyBit: [Oracle Interview Questions](/company/oracle) | [PayPal Interview Questions](/company/paypal)

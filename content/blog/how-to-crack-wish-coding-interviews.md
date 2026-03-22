@@ -116,4 +116,4 @@ A structured approach is non-negotiable. Here is a focused plan.
 
 Mastering these patterns and executing a disciplined study plan will position you strongly for Wish’s technical interviews. The focus is on practical, scalable solutions—so think like an engineer building for millions of users.
 
-[Browse all Wish questions on CodeJeet](/company/wish)
+[Browse all Wish questions on TidyBit](/company/wish)

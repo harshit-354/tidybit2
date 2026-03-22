@@ -92,13 +92,13 @@ public int longestSubstringWithoutRepeating(String s) {
 A focused, consistent plan is key. Assume you have a baseline knowledge of data structures.
 
 **Weeks 1-2: Core Topic Mastery**
-Dedicate each day to one of the five top topics. For each, study the fundamental data structure or pattern, then solve 5-8 curated Medium problems. Start with Hash Tables and Strings, as they are the most common. Use resources like CodeJeet’s topic-specific lists.
+Dedicate each day to one of the five top topics. For each, study the fundamental data structure or pattern, then solve 5-8 curated Medium problems. Start with Hash Tables and Strings, as they are the most common. Use resources like TidyBit’s topic-specific lists.
 
 **Weeks 3-4: Pattern Integration and Speed**
 Problems often combine topics. Practice problems that mix, for example, Hash Tables with Strings or Sliding Window with Bit Manipulation. Aim to solve 2-3 Medium problems daily under timed conditions (25 minutes per problem). Focus on writing bug-free, runnable code on the first try.
 
 **Weeks 5-6: Mock Interviews and Company-Specific Practice**
-In the final stretch, conduct at least 4-6 mock interviews simulating Gartner’s format—a 45-minute session with one or two Medium problems. Use the Gartner question list on CodeJeet for the most relevant practice. Spend time reviewing and refining your solutions for clarity and edge cases.
+In the final stretch, conduct at least 4-6 mock interviews simulating Gartner’s format—a 45-minute session with one or two Medium problems. Use the Gartner question list on TidyBit for the most relevant practice. Spend time reviewing and refining your solutions for clarity and edge cases.
 
 ## Key Tips
 
@@ -109,4 +109,4 @@ In the final stretch, conduct at least 4-6 mock interviews simulating Gartner’
 
 Mastering these core Medium-difficulty patterns will give you the confidence and skill to succeed in Gartner's technical screens.
 
-[Browse all Gartner questions on CodeJeet](/company/gartner)
+[Browse all Gartner questions on TidyBit](/company/gartner)

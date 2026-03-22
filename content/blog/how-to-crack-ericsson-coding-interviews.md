@@ -192,4 +192,4 @@ A structured plan is essential to cover the breadth and depth required.
 
 Success with Ericsson's interview hinges on dual mastery: robotic precision on fundamentals and creative, structured problem-solving for high-complexity challenges. Target your practice accordingly.
 
-[Browse all Ericsson questions on CodeJeet](/company/ericsson)
+[Browse all Ericsson questions on TidyBit](/company/ericsson)

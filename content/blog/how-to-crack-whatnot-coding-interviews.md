@@ -113,4 +113,4 @@ In the final stretch, solve only **Whatnot-tagged questions**. Review any previo
 
 Consistent, topic-focused practice is the most reliable path to success. Understand the patterns, write the code, and communicate your reasoning.
 
-[Browse all Whatnot questions on CodeJeet](/company/whatnot)
+[Browse all Whatnot questions on TidyBit](/company/whatnot)

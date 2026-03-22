@@ -107,4 +107,4 @@ A structured approach is essential to cover the breadth and depth required.
 
 Success in a Verkada interview comes from methodical preparation on high-frequency topics and demonstrating structured, communicative problem-solving under pressure.
 
-[Browse all Verkada questions on CodeJeet](/company/verkada)
+[Browse all Verkada questions on TidyBit](/company/verkada)

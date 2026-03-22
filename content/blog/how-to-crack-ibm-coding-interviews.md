@@ -13,7 +13,7 @@ The typical IBM interview process includes an online assessment (often on Hacker
 
 ## By the Numbers
 
-IBM's CodeJeet question bank contains **170 questions** with a notably approachable difficulty curve:
+IBM's TidyBit question bank contains **170 questions** with a notably approachable difficulty curve:
 
 - **Easy: 52 questions (31%)** — Almost a third of the bank, giving you plenty of warmup material.
 - **Medium: 102 questions (60%)** — The clear majority. IBM interviews are anchored in Medium-level problem solving.
@@ -489,4 +489,4 @@ public class HashTableExamples {
 
 These code examples illustrate the practical application of the key topics IBM focuses on. By practicing these patterns and understanding when to apply each technique, you'll be well-prepared for IBM's coding interviews. Remember to focus on clean, efficient code and handle edge cases properly.
 
-[Browse all IBM questions on CodeJeet](/company/ibm)
+[Browse all IBM questions on TidyBit](/company/ibm)

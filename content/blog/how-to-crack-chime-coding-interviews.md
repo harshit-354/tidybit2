@@ -154,7 +154,7 @@ public class Solution {
 
 **Weeks 3-4: Topic Deep Dive.** Dedicate blocks of 2-3 days to each of Chime's top topics: Array/Matrix, Graph Theory (traversal, shortest path), and Math. For each topic, solve 10-15 curated Medium problems. Focus on pattern recognition—identify when a problem is a variation of grid BFS or a two-pointer array scan.
 
-**Weeks 5-6: Mock Interviews and Integration.** Stop solving problems in isolation. Start doing timed, 45-minute practice sessions with 2-3 Medium problems back-to-back. Use the Chime tag on CodeJeet or LeetCode. Prioritize problems that combine topics (e.g., a Math problem that uses an array). In the final week, conduct at least 3 full mock interviews with a peer or using a platform that simulates the live coding environment.
+**Weeks 5-6: Mock Interviews and Integration.** Stop solving problems in isolation. Start doing timed, 45-minute practice sessions with 2-3 Medium problems back-to-back. Use the Chime tag on TidyBit or LeetCode. Prioritize problems that combine topics (e.g., a Math problem that uses an array). In the final week, conduct at least 3 full mock interviews with a peer or using a platform that simulates the live coding environment.
 
 ## Key Tips
 
@@ -165,4 +165,4 @@ public class Solution {
 
 Mastering these Medium-level patterns in core topics is the most direct path to success in a Chime coding interview.
 
-[Browse all Chime questions on CodeJeet](/company/chime)
+[Browse all Chime questions on TidyBit](/company/chime)

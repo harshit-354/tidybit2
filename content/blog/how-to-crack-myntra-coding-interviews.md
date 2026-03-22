@@ -111,4 +111,4 @@ A structured approach is non-negotiable. Here is a focused 4-6 week plan.
 
 Mastering these patterns and honing your communication will give you a significant edge in Myntra's technical interviews. Consistent, focused practice on the right topics is the most reliable path to success.
 
-[Browse all Myntra questions on CodeJeet](/company/myntra)
+[Browse all Myntra questions on TidyBit](/company/myntra)

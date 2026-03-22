@@ -96,4 +96,4 @@ A structured 4-6 week plan is ideal.
 
 Success in Commvault’s coding interviews hinges on methodical preparation focused on high-probability topics and consistent practice under timed conditions. Start with the fundamentals, build speed, and polish your communication.
 
-[Browse all Commvault questions on CodeJeet](/company/commvault)
+[Browse all Commvault questions on TidyBit](/company/commvault)

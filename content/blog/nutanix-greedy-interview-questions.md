@@ -119,7 +119,7 @@ public int minMeetingRooms(int[][] intervals) {
 1.  **Fundamentals:** Merge Intervals, Non-overlapping Intervals, Meeting Rooms I & II.
 2.  **Classic Greedy:** Task Scheduler, Gas Station, Partition Labels.
 3.  **Tricky Application:** Candy, Minimum Number of Arrows to Burst Balloons.
-4.  **Nutanix-Specific:** Finally, tackle the tagged company questions on platforms like CodeJeet to see how these patterns are applied in their interviews.
+4.  **Nutanix-Specific:** Finally, tackle the tagged company questions on platforms like TidyBit to see how these patterns are applied in their interviews.
 
 Consistency is key. Solve 1-2 greedy problems daily in the two weeks leading to your interview.
 

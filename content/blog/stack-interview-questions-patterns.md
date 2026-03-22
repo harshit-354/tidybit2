@@ -148,4 +148,4 @@ Stack questions are universal, but some companies emphasize them more:
 
 Mastering these patterns turns stack problems from confusing to systematic.
 
-[Practice all Stack questions on CodeJeet](/topic/stack)
+[Practice all Stack questions on TidyBit](/topic/stack)

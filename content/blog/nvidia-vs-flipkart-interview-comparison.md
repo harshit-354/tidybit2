@@ -70,4 +70,4 @@ Once this foundation is solid, pivot to **Flipkart-specific preparation**. This 
 
 In summary, NVIDIA's interview prep is about mastering core topics at a medium-advanced level, while Flipkart's requires building on that core with specialized, in-depth practice in dynamic programming and complex problem-solving.
 
-For detailed question lists, visit the [NVIDIA](/company/nvidia) and [Flipkart](/company/flipkart) company pages on CodeJeet.
+For detailed question lists, visit the [NVIDIA](/company/nvidia) and [Flipkart](/company/flipkart) company pages on TidyBit.

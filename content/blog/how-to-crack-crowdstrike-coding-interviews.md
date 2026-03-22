@@ -94,4 +94,4 @@ A structured approach is non-negotiable. Here is a focused plan.
 
 Consistent, focused practice on the right patterns is what separates candidates who pass from those who don’t. Start with the fundamentals, build up to integrated problems, and simulate the interview environment repeatedly.
 
-[Browse all CrowdStrike questions on CodeJeet](/company/crowdstrike)
+[Browse all CrowdStrike questions on TidyBit](/company/crowdstrike)

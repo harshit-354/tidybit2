@@ -107,4 +107,4 @@ A structured approach is non-negotiable. Here is a focused plan:
 
 Mastering these patterns and executing this plan will position you strongly for the Pocket Gems interview. The key is deliberate, topic-focused practice.
 
-[Browse all Pocket Gems questions on CodeJeet](/company/pocket-gems)
+[Browse all Pocket Gems questions on TidyBit](/company/pocket-gems)

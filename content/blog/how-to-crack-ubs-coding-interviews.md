@@ -105,4 +105,4 @@ For **Trie**, understand the core implementation for insertion and search, commo
 
 Success in a UBS interview is about disciplined execution of well-practiced fundamentals. Focus on the high-probability topics, develop a reliable problem-solving rhythm, and communicate your process clearly.
 
-[Browse all UBS questions on CodeJeet](/company/ubs)
+[Browse all UBS questions on TidyBit](/company/ubs)

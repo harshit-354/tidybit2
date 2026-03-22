@@ -10,7 +10,7 @@ When preparing for technical interviews at top tech companies, understanding the
 
 ## Question Volume and Difficulty
 
-The most immediate difference is the sheer scale of their respective question pools on platforms like CodeJeet.
+The most immediate difference is the sheer scale of their respective question pools on platforms like TidyBit.
 
 **Meta** presents a formidable challenge with **1387 questions**, categorized by difficulty:
 

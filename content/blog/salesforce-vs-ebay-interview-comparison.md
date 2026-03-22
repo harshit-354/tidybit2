@@ -78,6 +78,6 @@ If your target is **Salesforce**, you must commit to a longer, more rigorous stu
 
 For a generalist preparing for both or any major tech interview, a hybrid approach is effective: **Start with the eBay-focused list**. This builds a strong foundation in the universal topics. Once proficient, **expand your study to cover Salesforce's additional demands**, specifically diving deep into Dynamic Programming and practicing more complex problem variations. This method ensures you build from a solid base to advanced concepts efficiently.
 
-For detailed question lists and patterns, visit the Salesforce and eBay pages on CodeJeet:  
+For detailed question lists and patterns, visit the Salesforce and eBay pages on TidyBit:  
 [Salesforce Interview Questions](/company/salesforce)  
 [eBay Interview Questions](/company/ebay)

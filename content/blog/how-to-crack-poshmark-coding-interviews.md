@@ -170,4 +170,4 @@ Conduct at least 6-8 timed mock interviews, prioritizing Poshmark's known questi
 
 Your goal is to demonstrate not just algorithmic skill, but the ability to build the logic that powers a marketplace.
 
-[Browse all Poshmark questions on CodeJeet](/company/poshmark)
+[Browse all Poshmark questions on TidyBit](/company/poshmark)

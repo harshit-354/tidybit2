@@ -102,4 +102,4 @@ A structured, topic-focused approach beats random practice.
 
 Success in Wipro's coding interview is a test of disciplined fundamentals. By focusing on high-frequency topics, mastering core patterns like two-pointer, and emphasizing clear communication, you can demonstrate the reliable problem-solving skills they value.
 
-[Browse all Wipro questions on CodeJeet](/company/wipro)
+[Browse all Wipro questions on TidyBit](/company/wipro)

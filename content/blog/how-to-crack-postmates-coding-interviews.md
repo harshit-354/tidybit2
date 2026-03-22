@@ -104,4 +104,4 @@ A focused, topic-driven approach is optimal given the clear distribution of prob
 
 Mastering these core topics and patterns will prepare you for the vast majority of challenges you'll face. Consistent, clear, and correct coding is the key.
 
-[Browse all Postmates questions on CodeJeet](/company/postmates)
+[Browse all Postmates questions on TidyBit](/company/postmates)

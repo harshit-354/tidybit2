@@ -99,4 +99,4 @@ Conduct at least 3-5 full mock interviews with a peer or mentor. Record yourself
 
 Success in BNY Mellon’s interviews hinges on methodical preparation focused on high-probability topics and clear communication under pressure. Start with the fundamentals, integrate the patterns, and practice relentlessly.
 
-[Browse all BNY Mellon questions on CodeJeet](/company/bny-mellon)
+[Browse all BNY Mellon questions on TidyBit](/company/bny-mellon)

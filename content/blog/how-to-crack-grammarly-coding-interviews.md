@@ -134,4 +134,4 @@ public int longestSubstringKDistinct(String s, int k) {
 
 Consistent, focused practice on Medium problems across Strings, Arrays, Hash Tables, and DP will build the muscle memory you need. Start your final review with the most relevant problems.
 
-[Browse all Grammarly questions on CodeJeet](/company/grammarly)
+[Browse all Grammarly questions on TidyBit](/company/grammarly)

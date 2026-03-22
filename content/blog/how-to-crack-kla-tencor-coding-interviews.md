@@ -163,12 +163,12 @@ You need a concentrated, advanced-focused plan.
 
 **Weeks 3-4: Topic-Specific Problem Solving**
 
-- Focus exclusively on Hard-difficulty problems from LeetCode or CodeJeet, filtered by the top topics: Graph, DFS, Hash Table, Linked List.
+- Focus exclusively on Hard-difficulty problems from LeetCode or TidyBit, filtered by the top topics: Graph, DFS, Hash Table, Linked List.
 - Allocate 60-90 minutes per problem. If stuck, study the solution, then re-implement it without help the next day.
 
 **Weeks 5-6: Mock Interviews and Integration**
 
-- Complete at least 8-10 mock interviews, simulating the 45-60 minute format. Use platforms like CodeJeet that offer company-specific questions.
+- Complete at least 8-10 mock interviews, simulating the 45-60 minute format. Use platforms like TidyBit that offer company-specific questions.
 - In the final week, review all code you’ve written. Identify and drill your weak points—often graph state management or complex cycle detection.
 
 ## Key Tips
@@ -180,4 +180,4 @@ You need a concentrated, advanced-focused plan.
 
 Your goal is to demonstrate you can handle the 75% Hard problems with the same systematic approach used in semiconductor design—precision, efficiency, and robustness.
 
-[Browse all KLA Tencor questions on CodeJeet](/company/kla-tencor)
+[Browse all KLA Tencor questions on TidyBit](/company/kla-tencor)

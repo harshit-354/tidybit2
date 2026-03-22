@@ -87,4 +87,4 @@ A structured plan is non-negotiable. Here is a focused 5-week schedule.
 
 Success in Remitly's interviews hinges on consistent, deliberate practice of their favored patterns. Build the muscle memory for Arrays, Hash Tables, and DP, and you'll walk into your interview with confidence.
 
-[Browse all Remitly questions on CodeJeet](/company/remitly)
+[Browse all Remitly questions on TidyBit](/company/remitly)

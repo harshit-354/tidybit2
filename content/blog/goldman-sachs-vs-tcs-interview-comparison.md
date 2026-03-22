@@ -120,5 +120,5 @@ Your preparation order should be dictated by your target role and the foundation
 
 In summary, TCS interviews test for broad, reliable software engineering fundamentals, while Goldman Sachs tests for deeper, optimized algorithmic problem-solving. Use the TCS question set to build your foundation and the Goldman Sachs set to sharpen your advanced skills.
 
-- Practice Goldman Sachs questions: [CodeJeet Goldman Sachs](/company/goldman-sachs)
-- Practice TCS questions: [CodeJeet TCS](/company/tcs)
+- Practice Goldman Sachs questions: [TidyBit Goldman Sachs](/company/goldman-sachs)
+- Practice TCS questions: [TidyBit TCS](/company/tcs)

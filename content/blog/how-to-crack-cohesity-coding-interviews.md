@@ -137,4 +137,4 @@ Given the high difficulty, a structured, intensive plan is necessary.
 
 Success in a Cohesity interview is a function of depth over breadth. Master the core patterns that their problems are built upon, and practice applying them under time constraints.
 
-[Browse all Cohesity questions on CodeJeet](/company/cohesity)
+[Browse all Cohesity questions on TidyBit](/company/cohesity)

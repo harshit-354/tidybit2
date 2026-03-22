@@ -79,4 +79,4 @@ Your preparation priority should be dictated by your interview timeline and the 
 
 Ultimately, core proficiency in data structures and algorithms will serve you for both. Start with that universal foundation, then branch into company-specific specialties: Math for Bloomberg, Dynamic Programming for Salesforce.
 
-For detailed question lists and patterns, visit the Bloomberg and Salesforce pages on CodeJeet: [Bloomberg Interview Questions](/company/bloomberg), [Salesforce Interview Questions](/company/salesforce).
+For detailed question lists and patterns, visit the Bloomberg and Salesforce pages on TidyBit: [Bloomberg Interview Questions](/company/bloomberg), [Salesforce Interview Questions](/company/salesforce).

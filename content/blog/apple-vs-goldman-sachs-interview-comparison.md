@@ -75,4 +75,4 @@ You should **prepare for the shared core first**. A strong foundation in Array, 
 
 By mastering the common technical core, you become viable for both. The final step is adapting that core knowledge to the specific problem domains and cultural nuances of each company.
 
-For targeted practice, visit the CodeJeet pages for [Apple](/company/apple) and [Goldman Sachs](/company/goldman-sachs).
+For targeted practice, visit the TidyBit pages for [Apple](/company/apple) and [Goldman Sachs](/company/goldman-sachs).

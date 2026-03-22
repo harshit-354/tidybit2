@@ -90,4 +90,4 @@ If you are interviewing at **both companies**, prepare for **Uber first**. Its h
 
 Ultimately, your preparation should be guided by the company's domain. TikTok's focus might lean more towards string processing (for content) and array algorithms (for feed ranking), while Uber's might involve more graph-like reasoning on arrays (for locations) and optimization (for routing). Tailor your final practice sessions to these nuances.
 
-For targeted question lists, visit the CodeJeet pages for [TikTok](/company/tiktok) and [Uber](/company/uber).
+For targeted question lists, visit the TidyBit pages for [TikTok](/company/tiktok) and [Uber](/company/uber).

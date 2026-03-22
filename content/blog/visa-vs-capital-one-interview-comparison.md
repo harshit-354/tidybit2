@@ -6,7 +6,7 @@ category: "tips"
 tags: ["visa", "capital-one", "comparison"]
 ---
 
-When preparing for technical interviews at major companies, understanding their specific question patterns and focus areas is crucial for efficient study. Visa and Capital One, while both prominent in the financial technology and banking sectors, show distinct differences in their technical interview landscapes on CodeJeet. This comparison breaks down their question volume, difficulty, and core topics to help you prioritize your preparation.
+When preparing for technical interviews at major companies, understanding their specific question patterns and focus areas is crucial for efficient study. Visa and Capital One, while both prominent in the financial technology and banking sectors, show distinct differences in their technical interview landscapes on TidyBit. This comparison breaks down their question volume, difficulty, and core topics to help you prioritize your preparation.
 
 ## Question Volume and Difficulty
 
@@ -87,4 +87,4 @@ Your preparation order should be guided by your timeline and the breadth of cove
 
 In essence, Capital One's list can be seen as a concentrated subset of the skills needed for Visa. Starting with the larger challenge (Visa) offers broader preparation, while starting with the smaller one (Capital One) offers a quicker, targeted ramp-up.
 
-For detailed question lists and patterns, visit the CodeJeet pages for [Visa](/company/visa) and [Capital One](/company/capital-one).
+For detailed question lists and patterns, visit the TidyBit pages for [Visa](/company/visa) and [Capital One](/company/capital-one).

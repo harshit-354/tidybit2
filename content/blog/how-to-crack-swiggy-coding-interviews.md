@@ -102,7 +102,7 @@ A structured approach is non-negotiable. Here is a week-by-week plan.
 
 **Week 4: Mock Interviews & Weakness Targeting.** Conduct at least 3-5 full mock interviews (60-90 minutes each) with a peer or using a platform. Simulate the exact environment. Identify your weak spots—is it graph traversal, a specific DP pattern, or optimizing from O(n²) to O(n log n)? Dedicate the remaining days to drilling those areas.
 
-**Week 5-6 (If Available): Company-Specific & Hard Problems.** In the final stretch, solve all available Swiggy-specific questions from sources like CodeJeet. Attempt 1-2 Hard problems per week to stretch your thinking, but do not neglect Medium review. The goal is fluency and speed on their preferred problem types.
+**Week 5-6 (If Available): Company-Specific & Hard Problems.** In the final stretch, solve all available Swiggy-specific questions from sources like TidyBit. Attempt 1-2 Hard problems per week to stretch your thinking, but do not neglect Medium review. The goal is fluency and speed on their preferred problem types.
 
 ## Key Tips
 
@@ -113,4 +113,4 @@ A structured approach is non-negotiable. Here is a week-by-week plan.
 
 Mastering these patterns, following a disciplined study plan, and honing your interview execution will significantly increase your chances of success. The data shows the path—now you need to walk it.
 
-[Browse all Swiggy questions on CodeJeet](/company/swiggy)
+[Browse all Swiggy questions on TidyBit](/company/swiggy)

@@ -161,4 +161,4 @@ These companies favor prefix sum because it tests fundamental algorithmic thinki
 
 Prefix sum mastery requires pattern recognition more than complex implementation. Focus on identifying when a problem asks for range queries, frequency counting, or cumulative calculations—these are your cues to apply prefix sum techniques.
 
-[Practice all Prefix Sum questions on CodeJeet](/topic/prefix-sum)
+[Practice all Prefix Sum questions on TidyBit](/topic/prefix-sum)

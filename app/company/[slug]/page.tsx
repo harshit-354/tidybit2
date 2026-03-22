@@ -174,7 +174,7 @@ export default async function CompanyPage({ params }: { params: Promise<{ slug: 
         data={collectionJsonLd({
           name: `${displayName} Interview Questions`,
           description: `${questionCount} LeetCode interview questions asked at ${displayName}.`,
-          url: `https://codejeet.com/company/${slug}`,
+          url: `https://tidybit.com/company/${slug}`,
           numberOfItems: questionCount,
         })}
       />
@@ -199,7 +199,7 @@ export default async function CompanyPage({ params }: { params: Promise<{ slug: 
           },
           {
             question: `How should I prepare for a ${displayName} coding interview?`,
-            answer: `Start with the most frequently asked ${displayName} problems on CodeJeet, sorted by frequency. Focus on ${difficultyDist.medium > difficultyDist.easy ? "Medium" : "Easy"} difficulty first since ${displayName} asks ${difficultyDist.medium} Medium problems. Practice the top topics: ${topTopics
+            answer: `Start with the most frequently asked ${displayName} problems on TidyBit, sorted by frequency. Focus on ${difficultyDist.medium > difficultyDist.easy ? "Medium" : "Easy"} difficulty first since ${displayName} asks ${difficultyDist.medium} Medium problems. Practice the top topics: ${topTopics
               .slice(0, 3)
               .map((t) => t.name)
               .join(", ")}.`,

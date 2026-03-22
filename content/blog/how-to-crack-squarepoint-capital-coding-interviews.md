@@ -119,4 +119,4 @@ Simulate the real interview environment. Use a timer and solve 2-3 Medium/Hard p
 
 Success in these interviews hinges on disciplined, pattern-focused practice on high-quality problems.
 
-[Browse all Squarepoint Capital questions on CodeJeet](/company/squarepoint-capital)
+[Browse all Squarepoint Capital questions on TidyBit](/company/squarepoint-capital)

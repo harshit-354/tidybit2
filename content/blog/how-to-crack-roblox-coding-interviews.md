@@ -89,4 +89,4 @@ A structured approach is non-negotiable. Here is a focused plan.
 
 Success in a Roblox coding interview is a function of consistent, pattern-focused practice and clear communication. Build the muscle memory for core algorithms so you can focus on problem-solving during the interview.
 
-[Browse all Roblox questions on CodeJeet](/company/roblox)
+[Browse all Roblox questions on TidyBit](/company/roblox)

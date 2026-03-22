@@ -166,4 +166,4 @@ private boolean isFeasible(int threshold, int[] arr, int k) {
 
 Focus on consistent, clean execution of fundamental patterns. Syfe's interview profile rewards thorough preparation on core algorithms over niche expertise.
 
-[Browse all Syfe questions on CodeJeet](/company/syfe)
+[Browse all Syfe questions on TidyBit](/company/syfe)

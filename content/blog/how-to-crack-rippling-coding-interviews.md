@@ -114,4 +114,4 @@ public int lengthOfLongestSubstring(String s) {
 
 **Practice Articulating Trade-offs.** When using a Heap or a Hash Table, be prepared to explain its time/space complexity and why it's the right choice. For Design problems, discuss the pros and cons of your chosen data structures and APIs. This shows deeper architectural thinking.
 
-Ready to practice with questions that mirror the real challenge? [Browse all Rippling questions on CodeJeet](/company/rippling)
+Ready to practice with questions that mirror the real challenge? [Browse all Rippling questions on TidyBit](/company/rippling)

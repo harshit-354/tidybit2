@@ -89,4 +89,4 @@ Solve all available Tower Research tagged problems. Re-solve any you struggled w
 
 Success in a Tower Research interview comes from consistent, deliberate practice on their preferred problem domains. Focus on Medium-difficulty questions, master the core topics, and polish your communication.
 
-[Browse all Tower Research questions on CodeJeet](/company/tower-research)
+[Browse all Tower Research questions on TidyBit](/company/tower-research)

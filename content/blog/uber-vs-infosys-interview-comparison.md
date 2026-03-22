@@ -6,7 +6,7 @@ category: "tips"
 tags: ["uber", "infosys", "comparison"]
 ---
 
-When preparing for technical interviews, company-specific question patterns reveal what skills are prioritized. Uber and Infosys, representing a top-tier product-based company and a major global IT services firm respectively, have distinct interview landscapes. Analyzing their question banks on CodeJeet shows clear differences in volume, difficulty, and focus, which should directly inform your preparation strategy.
+When preparing for technical interviews, company-specific question patterns reveal what skills are prioritized. Uber and Infosys, representing a top-tier product-based company and a major global IT services firm respectively, have distinct interview landscapes. Analyzing their question banks on TidyBit shows clear differences in volume, difficulty, and focus, which should directly inform your preparation strategy.
 
 ## Question Volume and Difficulty
 
@@ -66,4 +66,4 @@ Your preparation order should be guided by your target role and experience level
 
 In essence, use Infosys's pattern to solidify your fundamentals. Use Uber's pattern to stress-test and advance your algorithmic problem-solving to a high level. Tailor your final practice sessions to the specific company's highlighted topics.
 
-For detailed question lists and patterns, visit the Uber and Infosys pages on CodeJeet: [/company/uber](/company/uber), [/company/infosys](/company/infosys).
+For detailed question lists and patterns, visit the Uber and Infosys pages on TidyBit: [/company/uber](/company/uber), [/company/infosys](/company/infosys).

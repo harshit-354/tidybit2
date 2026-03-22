@@ -10,7 +10,7 @@ When preparing for technical interviews, understanding company-specific patterns
 
 ## Question Volume and Difficulty
 
-The most striking difference is sheer volume. On CodeJeet, Google's tagged question bank is vastly larger (**2217 questions**) compared to eBay's (**60 questions**). This reflects Google's broader range of products, larger hiring scale, and the extensive historical data available from candidates.
+The most striking difference is sheer volume. On TidyBit, Google's tagged question bank is vastly larger (**2217 questions**) compared to eBay's (**60 questions**). This reflects Google's broader range of products, larger hiring scale, and the extensive historical data available from candidates.
 
 The difficulty distribution also highlights different hiring bars:
 

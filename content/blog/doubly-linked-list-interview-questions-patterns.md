@@ -121,4 +121,4 @@ Top companies frequently include doubly-linked list problems in their interviews
 3. **Practice Common Integrations.** Focus on problems where doubly-linked lists are part of a larger system, like a hash map in an LRU cache. Understand why the bidirectional links are necessary.
 4. **Test Edge Cases.** Always check: empty list, single node, operations at the head, operations at the tail, and null pointer access.
 
-[Practice all Doubly-Linked List questions on CodeJeet](/topic/doubly-linked-list)
+[Practice all Doubly-Linked List questions on TidyBit](/topic/doubly-linked-list)

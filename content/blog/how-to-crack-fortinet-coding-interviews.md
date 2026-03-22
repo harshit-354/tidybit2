@@ -85,7 +85,7 @@ public int[] twoSumSorted(int[] numbers, int target) {
 
 A structured approach is key. Here is a focused 4-6 week plan:
 
-- **Weeks 1-2: Foundation & Core Topics.** Dedicate the first two weeks to mastering Easy and Medium problems on the top five topics. Solve 15-20 problems per topic. Use platforms like CodeJeet to filter by company and difficulty. Ensure you can implement Two Pointers, basic String algorithms, and simple Greedy solutions without hesitation.
+- **Weeks 1-2: Foundation & Core Topics.** Dedicate the first two weeks to mastering Easy and Medium problems on the top five topics. Solve 15-20 problems per topic. Use platforms like TidyBit to filter by company and difficulty. Ensure you can implement Two Pointers, basic String algorithms, and simple Greedy solutions without hesitation.
 - **Week 3: Dynamic Programming Deep Dive.** DP is often the hardest. Spend a full week on it. Start with core patterns: Fibonacci, 0/1 Knapsack, Longest Common Subsequence, and Coin Change. Practice both memoization (top-down) and tabulation (bottom-up) approaches.
 - **Week 4: Database & System Design Brush-Up.** Allocate time for SQL. Practice writing queries for various JOINs (INNER, LEFT), GROUP BY with HAVING, and subqueries. Also, begin reviewing basic system design principles (if applicable for your role), focusing on scalability concepts.
 - **Weeks 5-6: Mock Interviews & Hard Problems.** Simulate the real interview environment. Do timed mock interviews, preferably with a peer. In the final week, tackle 1-2 Hard problems daily, focusing on understanding the solution approach rather than just the code. Revisit all previously solved problems to reinforce patterns.
@@ -100,4 +100,4 @@ A structured approach is key. Here is a focused 4-6 week plan:
 
 Success in Fortinet’s coding interviews comes from methodical preparation on high-yield topics and consistent practice under realistic conditions. Focus on the patterns, not just memorizing problems.
 
-[Browse all Fortinet questions on CodeJeet](/company/fortinet)
+[Browse all Fortinet questions on TidyBit](/company/fortinet)

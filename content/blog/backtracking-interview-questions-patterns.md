@@ -169,4 +169,4 @@ Backtracking is a favorite at companies that deeply test algorithmic reasoning a
 
 The most effective preparation is consistent, pattern-focused practice.
 
-[Practice all Backtracking questions on CodeJeet](/topic/backtracking)
+[Practice all Backtracking questions on TidyBit](/topic/backtracking)

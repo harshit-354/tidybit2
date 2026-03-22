@@ -123,4 +123,4 @@ If your primary target is **Zoho**, invest significant time in **Dynamic Program
 
 For candidates interviewing at both, the overlap is substantial. Build a strong base in the three common topics, then branch out to cover Two Pointers and Dynamic Programming. This strategy will make you competitive for the coding rounds at either company.
 
-For more detailed company-specific question lists and guides, visit the CodeJeet pages for [TCS](/company/tcs) and [Zoho](/company/zoho).
+For more detailed company-specific question lists and guides, visit the TidyBit pages for [TCS](/company/tcs) and [Zoho](/company/zoho).

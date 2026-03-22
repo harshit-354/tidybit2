@@ -6,7 +6,7 @@ category: "tips"
 tags: ["linkedin", "de-shaw", "comparison"]
 ---
 
-When preparing for technical interviews at top tech companies, understanding the specific patterns and expectations of each firm is crucial. LinkedIn and D. E. Shaw & Co. represent two distinct archetypes: a major social-tech platform and a prestigious quantitative hedge fund. While both demand strong algorithmic skills, their interview question banks on CodeJeet reveal different emphases in volume, difficulty, and core topics. A strategic candidate will tailor their preparation accordingly.
+When preparing for technical interviews at top tech companies, understanding the specific patterns and expectations of each firm is crucial. LinkedIn and D. E. Shaw & Co. represent two distinct archetypes: a major social-tech platform and a prestigious quantitative hedge fund. While both demand strong algorithmic skills, their interview question banks on TidyBit reveal different emphases in volume, difficulty, and core topics. A strategic candidate will tailor their preparation accordingly.
 
 ## Question Volume and Difficulty
 
@@ -85,4 +85,4 @@ Shift focus to **D. E. Shaw** after solidifying your fundamentals, as their ques
 
 Ultimately, your priority should align with your target companies. If aiming for both, use LinkedIn's problems to build breadth and D. E. Shaw's to develop depth in optimization.
 
-For detailed question lists and patterns, visit the [LinkedIn](/company/linkedin) and [D. E. Shaw](/company/de-shaw) company pages on CodeJeet.
+For detailed question lists and patterns, visit the [LinkedIn](/company/linkedin) and [D. E. Shaw](/company/de-shaw) company pages on TidyBit.

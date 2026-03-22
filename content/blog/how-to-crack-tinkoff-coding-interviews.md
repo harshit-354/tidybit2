@@ -92,4 +92,4 @@ Stop learning new topics. Use the final two weeks for timed practice. Simulate t
 
 Master these focused topics, practice under time pressure, and communicate your thinking clearly. This targeted approach is how you crack the Tinkoff coding interview.
 
-[Browse all Tinkoff questions on CodeJeet](/company/tinkoff)
+[Browse all Tinkoff questions on TidyBit](/company/tinkoff)

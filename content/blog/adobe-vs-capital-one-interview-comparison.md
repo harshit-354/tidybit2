@@ -10,7 +10,7 @@ When preparing for technical interviews at major tech companies, understanding t
 
 ## Question Volume and Difficulty
 
-The most immediate difference is the sheer scale of available practice material. On platforms like CodeJeet, Adobe's question bank is significantly larger, with **227 documented questions** compared to Capital One's **57**. This volume suggests Adobe's interview process is more extensively documented and potentially draws from a wider, more established set of problems.
+The most immediate difference is the sheer scale of available practice material. On platforms like TidyBit, Adobe's question bank is significantly larger, with **227 documented questions** compared to Capital One's **57**. This volume suggests Adobe's interview process is more extensively documented and potentially draws from a wider, more established set of problems.
 
 The difficulty distribution also reveals different hiring emphases:
 
@@ -133,4 +133,4 @@ Your preparation order should be guided by your goals and timeline. **Start with
 
 **Begin with Adobe if you are preparing for a longer cycle, targeting multiple top tech companies, or have already built solid fundamentals.** The large volume and Medium-difficulty focus provide rigorous, comprehensive practice that will make you competitive for a wide range of roles. Mastering Adobe's set, including Two Pointers patterns, will thoroughly prepare you for Capital One's more contained problem scope, though you should still review Capital One's specific Math-focused questions.
 
-Regardless of your starting point, ensure you practice the overlapping core topics thoroughly. For targeted practice, visit the Adobe question bank at [CodeJeet /company/adobe](/company/adobe) and the Capital One question bank at [CodeJeet /company/capital-one](/company/capital-one).
+Regardless of your starting point, ensure you practice the overlapping core topics thoroughly. For targeted practice, visit the Adobe question bank at [TidyBit /company/adobe](/company/adobe) and the Capital One question bank at [TidyBit /company/capital-one](/company/capital-one).

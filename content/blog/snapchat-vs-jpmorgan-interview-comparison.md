@@ -81,4 +81,4 @@ Your preparation priority should be dictated by your target role and timeline.
 
 A pragmatic hybrid approach is to first solidify the **common core** (Array, String, Hash Table problems at Easy/Medium level), then branch based on your target. This ensures you are prepared for the overlapping majority of questions from both companies.
 
-For focused practice, visit the Snapchat question list at [CodeJeet /company/snapchat](https://codejeet.com/company/snapchat) and the JPMorgan list at [CodeJeet /company/jpmorgan](https://codejeet.com/company/jpmorgan).
+For focused practice, visit the Snapchat question list at [TidyBit /company/snapchat](https://tidybit.com/company/snapchat) and the JPMorgan list at [TidyBit /company/jpmorgan](https://tidybit.com/company/jpmorgan).

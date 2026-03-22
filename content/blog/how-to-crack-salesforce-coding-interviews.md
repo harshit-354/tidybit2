@@ -540,4 +540,4 @@ public class Solution {
 
 5. **Do not neglect time complexity analysis.** Salesforce interviewers frequently ask you to analyze and justify your solution's complexity. Practice stating the Big-O of your approach and explaining why it is optimal or what the theoretical lower bound is. Be prepared to discuss both time and space complexity, and consider trade-offs between different approaches. For example, in the "Two Sum" problem, the hash table solution provides O(n) time complexity at the cost of O(n) space, while a brute-force approach would be O(n²) time and O(1) space.
 
-[Browse all Salesforce questions on CodeJeet](/company/salesforce)
+[Browse all Salesforce questions on TidyBit](/company/salesforce)

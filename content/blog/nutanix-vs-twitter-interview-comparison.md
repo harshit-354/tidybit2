@@ -6,7 +6,7 @@ category: "tips"
 tags: ["nutanix", "twitter", "comparison"]
 ---
 
-When preparing for technical interviews at top tech companies, understanding the specific focus areas and question patterns can significantly increase your chances of success. Comparing the interview landscapes of Nutanix, a leader in enterprise cloud computing, and Twitter (now X), a major social media platform, reveals distinct priorities despite some common ground. This analysis is based on their respective question banks on CodeJeet, which show Nutanix with 68 total questions and Twitter with 53.
+When preparing for technical interviews at top tech companies, understanding the specific focus areas and question patterns can significantly increase your chances of success. Comparing the interview landscapes of Nutanix, a leader in enterprise cloud computing, and Twitter (now X), a major social media platform, reveals distinct priorities despite some common ground. This analysis is based on their respective question banks on TidyBit, which show Nutanix with 68 total questions and Twitter with 53.
 
 ## Question Volume and Difficulty
 
@@ -89,4 +89,4 @@ If your target is **Twitter**, after the core, shift focus to **Design**. For so
 
 Ultimately, the shared foundation means preparing for one company inherently benefits you for the other. The key differentiator is the depth of graph algorithms for Nutanix versus the breadth into system design for Twitter.
 
-For more detailed company-specific questions, visit the [Nutanix question list](/company/nutanix) and [Twitter question list](/company/twitter) on CodeJeet.
+For more detailed company-specific questions, visit the [Nutanix question list](/company/nutanix) and [Twitter question list](/company/twitter) on TidyBit.

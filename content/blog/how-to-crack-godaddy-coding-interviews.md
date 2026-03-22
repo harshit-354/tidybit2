@@ -94,4 +94,4 @@ A structured approach is more effective than random practice.
 
 Consistent, focused practice on these core areas will build the fluency and confidence needed to succeed.
 
-[Browse all GoDaddy questions on CodeJeet](/company/godaddy)
+[Browse all GoDaddy questions on TidyBit](/company/godaddy)

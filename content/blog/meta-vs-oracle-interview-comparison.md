@@ -120,4 +120,4 @@ If you are interviewing for **Oracle**, prepare for depth. Master the core topic
 
 Ultimately, Meta's process tests for consistent, high-performance problem-solving across a wide range, while Oracle's often probes deeper into specific, complex algorithmic domains like DP.
 
-For targeted practice, visit the CodeJeet question lists for [Meta](/company/meta) and [Oracle](/company/oracle).
+For targeted practice, visit the TidyBit question lists for [Meta](/company/meta) and [Oracle](/company/oracle).

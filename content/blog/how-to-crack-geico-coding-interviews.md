@@ -96,4 +96,4 @@ A structured plan is non-negotiable. Here is a focused 4-week schedule; stretch 
 
 Success in Geico's interviews comes from consistent, topic-focused practice on Medium problems and clear communication. Start with the core patterns and build from there.
 
-[Browse all Geico questions on CodeJeet](/company/geico)
+[Browse all Geico questions on TidyBit](/company/geico)

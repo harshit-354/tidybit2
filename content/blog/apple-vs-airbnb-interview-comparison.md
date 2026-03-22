@@ -88,4 +88,4 @@ After mastering Airbnb's core, transition to **Apple**. Use the broad foundation
 
 In short: use Airbnb's focused, challenging list to get algorithmically sharp. Then use Apple's extensive catalog to build breadth, stamina, and systems-level depth.
 
-For targeted practice, visit the CodeJeet pages for [Apple](/company/apple) and [Airbnb](/company/airbnb).
+For targeted practice, visit the TidyBit pages for [Apple](/company/apple) and [Airbnb](/company/airbnb).

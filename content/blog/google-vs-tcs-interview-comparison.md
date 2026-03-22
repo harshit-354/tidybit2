@@ -94,4 +94,4 @@ Your preparation priority should be dictated by your target role and timeline.
 
 Ultimately, a strong candidate for Google will likely cover the TCS-relevant material through their study, but the reverse is not necessarily true. Building from the ground up is the most reliable path.
 
-For a deeper dive into each company's specific question patterns, visit the CodeJeet guides for [Google](/company/google) and [TCS](/company/tcs).
+For a deeper dive into each company's specific question patterns, visit the TidyBit guides for [Google](/company/google) and [TCS](/company/tcs).

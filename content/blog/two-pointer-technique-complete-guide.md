@@ -364,7 +364,7 @@ public int maxArea(int[] height) {
 
 </div>
 
-Find related problems organized by company on the [CodeJeet dashboard](/dashboard). Companies like [Google](/company/google) and [Amazon](/company/amazon) frequently test two pointer variations.
+Find related problems organized by company on the [TidyBit dashboard](/dashboard). Companies like [Google](/company/google) and [Amazon](/company/amazon) frequently test two pointer variations.
 
 When you see a problem involving arrays, strings, or linked lists, ask yourself: "Can I solve this with two indices instead of nested loops?" Drill the three variations until they feel automatic, and you will recognize the pattern within seconds during an interview.
 

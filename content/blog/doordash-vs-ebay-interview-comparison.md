@@ -72,4 +72,4 @@ Your preparation order should depend on your target companies and interview time
 
 Ultimately, the significant overlap in top topics means preparing for one inherently benefits you for the other. Start with the company whose difficulty profile best matches your current skill level to build momentum.
 
-For specific question lists and patterns, visit the CodeJeet pages for [DoorDash](/company/doordash) and [eBay](/company/ebay).
+For specific question lists and patterns, visit the TidyBit pages for [DoorDash](/company/doordash) and [eBay](/company/ebay).

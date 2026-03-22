@@ -77,6 +77,6 @@ To use Snapchat's Medium questions effectively:
 2. **Strict Timing:** Always use a timer. Practice the 25-minute target in a quiet environment to simulate pressure.
 3. **Verbalize Your Process:** As you practice, explain your reasoning out loud. Interviewers evaluate your communication as much as your code.
 4. **Post-Solution Analysis:** After solving, review the optimal solution. If your approach differed, note why the better solution is more efficient for next time.
-5. **Prioritize High-Frequency Questions:** Focus on problems that appear frequently in Snapchat interviews, as identified on platforms like CodeJeet.
+5. **Prioritize High-Frequency Questions:** Focus on problems that appear frequently in Snapchat interviews, as identified on platforms like TidyBit.
 
 [Practice Medium Snapchat questions](/company/snapchat/medium)

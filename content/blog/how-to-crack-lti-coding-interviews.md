@@ -96,4 +96,4 @@ A structured approach is non-negotiable. Here is a week-by-week plan.
 
 Consistent, topic-focused practice is the most reliable method to build the speed and accuracy needed to pass. Understand the patterns, internalize the code, and practice the performance.
 
-[Browse all LTI questions on CodeJeet](/company/lti)
+[Browse all LTI questions on TidyBit](/company/lti)

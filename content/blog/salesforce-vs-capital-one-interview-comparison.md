@@ -78,4 +78,4 @@ Once this core is solid, expand your preparation for Salesforce. Dedicate signif
 
 Ultimately, Capital One's list is an excellent subset of Salesforce's. Mastering it first creates an efficient stepping stone to the more demanding Salesforce preparation.
 
-For more detailed company-specific question lists and patterns, visit the CodeJeet pages for [Salesforce](/company/salesforce) and [Capital One](/company/capital-one).
+For more detailed company-specific question lists and patterns, visit the TidyBit pages for [Salesforce](/company/salesforce) and [Capital One](/company/capital-one).

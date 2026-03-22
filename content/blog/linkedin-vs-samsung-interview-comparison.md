@@ -105,4 +105,4 @@ Your choice depends on your timeline and strengths.
 
 Ultimately, a strong candidate will be comfortable with all the core topics. The strategic difference lies in where you place your deepest, most company-specific practice.
 
-For further details, explore the question lists on the CodeJeet company pages: [LinkedIn](/company/linkedin) and [Samsung](/company/samsung).
+For further details, explore the question lists on the TidyBit company pages: [LinkedIn](/company/linkedin) and [Samsung](/company/samsung).

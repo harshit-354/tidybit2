@@ -76,4 +76,4 @@ If you are interviewing at both, **start with Walmart Labs preparation**. Its la
 
 Ultimately, your strategy should be weighted. For Walmart Labs, prioritize breadth (cover more problems) and depth in DP. For Wix, prioritize mastery of fundamentals and graph traversal, ensuring clean, bug-free code for their more numerous Easy and Medium questions.
 
-For detailed question lists, visit the [Walmart Labs](/company/walmart-labs) and [Wix](/company/wix) company pages on CodeJeet.
+For detailed question lists, visit the [Walmart Labs](/company/walmart-labs) and [Wix](/company/wix) company pages on TidyBit.

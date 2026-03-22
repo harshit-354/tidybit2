@@ -67,6 +67,6 @@ The pattern is consistent: store each element as you iterate, and check for the 
 
 ## Recommended Practice Order
 
-Start with foundational problems to build intuition: Two Sum, First Unique Character, and Valid Anagram. Next, tackle frequency-count problems like Top K Frequent Elements and Subarray Sum Equals K. Then, move to advanced patterns combining hash tables with other structures: LRU Cache (hash map + doubly linked list) and sliding window problems like Longest Substring Without Repeating Characters. Finally, simulate interview conditions by solving Nutanix’s tagged problems on CodeJeet under time constraints.
+Start with foundational problems to build intuition: Two Sum, First Unique Character, and Valid Anagram. Next, tackle frequency-count problems like Top K Frequent Elements and Subarray Sum Equals K. Then, move to advanced patterns combining hash tables with other structures: LRU Cache (hash map + doubly linked list) and sliding window problems like Longest Substring Without Repeating Characters. Finally, simulate interview conditions by solving Nutanix’s tagged problems on TidyBit under time constraints.
 
 [Practice Hash Table at Nutanix](/company/nutanix/hash-table)

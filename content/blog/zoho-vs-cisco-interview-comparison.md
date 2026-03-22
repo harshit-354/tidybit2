@@ -10,7 +10,7 @@ When preparing for technical interviews, understanding company-specific patterns
 
 ## Question Volume and Difficulty
 
-The most immediate difference is the sheer number of questions. Zoho's tagged list on CodeJeet contains **179 questions**, significantly larger than Cisco's **86 questions**. This suggests Zoho's interview process may draw from a broader pool of problems or that its question bank has been more extensively documented.
+The most immediate difference is the sheer number of questions. Zoho's tagged list on TidyBit contains **179 questions**, significantly larger than Cisco's **86 questions**. This suggests Zoho's interview process may draw from a broader pool of problems or that its question bank has been more extensively documented.
 
 The difficulty distribution also reveals a strategic nuance:
 

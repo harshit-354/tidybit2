@@ -83,7 +83,7 @@ Given the 80% Medium focus, your plan should prioritize quality problem-solving 
 **Weeks 1-2: Foundation & Core Topics**
 
 - **Goal:** Achieve fluency in the top five topics.
-- **Action:** Solve 15-20 curated Medium problems for **Array, Hash Table, and String**. For **Design**, focus on canonical problems: LRU Cache, Insert Delete GetRandom O(1), Design HashMap. Use platforms like CodeJeet to filter by company and topic.
+- **Action:** Solve 15-20 curated Medium problems for **Array, Hash Table, and String**. For **Design**, focus on canonical problems: LRU Cache, Insert Delete GetRandom O(1), Design HashMap. Use platforms like TidyBit to filter by company and topic.
 - **Daily Target:** 2-3 problems with deep analysis. For each, implement the brute force, then the optimal solution. Write clean, runnable code.
 
 **Weeks 3-4: Pattern Integration & Practice**
@@ -95,7 +95,7 @@ Given the 80% Medium focus, your plan should prioritize quality problem-solving 
 **Weeks 5-6: Mock Interviews & Gaps**
 
 - **Goal:** Simulate the real interview environment and solidify weak areas.
-- **Action:** Conduct at least 5-8 full mock interviews (45-60 mins each). Use the Okta question list on CodeJeet for practice. Systematically review any problem type that causes hesitation.
+- **Action:** Conduct at least 5-8 full mock interviews (45-60 mins each). Use the Okta question list on TidyBit for practice. Systematically review any problem type that causes hesitation.
 - **Daily Target:** Mock interview or timed problem session, plus 30 minutes of active review.
 
 ## Key Tips
@@ -107,4 +107,4 @@ Given the 80% Medium focus, your plan should prioritize quality problem-solving 
 
 Success in Okta interviews hinges on consistent, deliberate practice on the right material. Focus on mastering Medium-difficulty problems across their core topics, and you'll be well-prepared for the challenge.
 
-[Browse all Okta questions on CodeJeet](/company/okta)
+[Browse all Okta questions on TidyBit](/company/okta)

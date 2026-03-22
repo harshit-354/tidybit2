@@ -85,4 +85,4 @@ Your preparation priority should be guided by your target role and the foundatio
 
 Ultimately, a robust preparation for either company starts with mastering the shared fundamentals: **Array** and **Hash Table** operations. From there, branch out based on your target: dive deep into **Dynamic Programming** for Flipkart, or refine your **String** manipulation and **DFS** for Wix.
 
-For specific question lists, visit the CodeJeet pages for [Flipkart](/company/flipkart) and [Wix](/company/wix).
+For specific question lists, visit the TidyBit pages for [Flipkart](/company/flipkart) and [Wix](/company/wix).

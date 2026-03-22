@@ -83,4 +83,4 @@ Once comfortable with ByteDance's core, expand your preparation to **Goldman Sac
 
 Ultimately, prioritize the company you are interviewing with first. But if you have the time, the ByteDance-to-Goldman Sachs progression is a logical skill-building path.
 
-For targeted practice, visit the Goldman Sachs question list and the ByteDance question list on CodeJeet.
+For targeted practice, visit the Goldman Sachs question list and the ByteDance question list on TidyBit.

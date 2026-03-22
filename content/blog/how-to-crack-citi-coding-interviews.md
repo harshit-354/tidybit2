@@ -93,4 +93,4 @@ A focused, consistent plan beats cramming.
 
 Mastering these fundamentals and demonstrating clear, reliable coding skill is the definitive path to success in Citi's technical interviews.
 
-[Browse all Citi questions on CodeJeet](/company/citi)
+[Browse all Citi questions on TidyBit](/company/citi)

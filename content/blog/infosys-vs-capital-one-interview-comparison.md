@@ -86,4 +86,4 @@ Your choice depends on your timeline and the role you're targeting.
 
 Ultimately, the core skills for both overlap significantly. Solidify your understanding of arrays, strings, and hash maps, then branch out based on your target company's specific demands.
 
-For detailed question lists, visit the [Infosys](/company/infosys) and [Capital One](/company/capital-one) pages on CodeJeet.
+For detailed question lists, visit the [Infosys](/company/infosys) and [Capital One](/company/capital-one) pages on TidyBit.

@@ -89,4 +89,4 @@ Your preparation order should be guided by your timeline and the specific compan
 
 A strategic approach is to **use Adobe's list for foundational drill** and then **layer on Twitter's specific design focus**. This ensures you have both the algorithmic muscle memory and the design thinking required for Twitter's unique blend of questions.
 
-For targeted practice, visit the Adobe question list at [CodeJeet/adobe](/company/adobe) and the Twitter question list at [CodeJeet/twitter](/company/twitter).
+For targeted practice, visit the Adobe question list at [TidyBit/adobe](/company/adobe) and the Twitter question list at [TidyBit/twitter](/company/twitter).

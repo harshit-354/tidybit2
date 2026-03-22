@@ -123,4 +123,4 @@ Prioritize Visa if you are already comfortable with fundamentals and want to tac
 
 Ultimately, the significant overlap in Arrays, Strings, and Sorting means preparation for one company directly benefits the other. Solidify those universal skills first, then drill into Two Pointers for IBM or Hash Tables for Visa based on your target.
 
-For specific question lists, visit the IBM and Visa pages on CodeJeet: [/company/ibm](/company/ibm) and [/company/visa](/company/visa).
+For specific question lists, visit the IBM and Visa pages on TidyBit: [/company/ibm](/company/ibm) and [/company/visa](/company/visa).

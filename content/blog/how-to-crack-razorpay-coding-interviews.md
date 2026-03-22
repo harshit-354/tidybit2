@@ -89,7 +89,7 @@ A structured approach is non-negotiable. Here is a focused plan.
 
 **Weeks 3-4: Advanced Patterns & Dynamic Programming.** This is the critical phase. Spend one week deeply on Binary Search patterns (search in rotated array, finding boundaries). The next week is entirely for Dynamic Programming. Start with the classics—climbing stairs, coin change, longest increasing subsequence—and understand the recurrence relation before writing code. Then move to 2D DP problems like knapsack or edit distance.
 
-**Weeks 5-6: Integration & Mock Interviews.** Stop learning new topics. Now, solve mixed-topic Medium problems under a 30-minute timer. Use the Razorpay-specific question list on CodeJeet. Complete at least 2-3 mock interviews with a peer or mentor, simulating the real environment: state the problem, explain your approach, code, and test with edge cases. This builds the mental stamina and communication skills required for the actual interview.
+**Weeks 5-6: Integration & Mock Interviews.** Stop learning new topics. Now, solve mixed-topic Medium problems under a 30-minute timer. Use the Razorpay-specific question list on TidyBit. Complete at least 2-3 mock interviews with a peer or mentor, simulating the real environment: state the problem, explain your approach, code, and test with edge cases. This builds the mental stamina and communication skills required for the actual interview.
 
 ## Key Tips
 
@@ -100,4 +100,4 @@ A structured approach is non-negotiable. Here is a focused plan.
 
 Mastering these patterns and executing this disciplined strategy will place you firmly in the cohort of candidates who can reliably solve the Medium-difficulty problems that Razorpay favors. Focus your energy there.
 
-[Browse all Razorpay questions on CodeJeet](/company/razorpay)
+[Browse all Razorpay questions on TidyBit](/company/razorpay)

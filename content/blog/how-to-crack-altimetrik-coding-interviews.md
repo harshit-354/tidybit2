@@ -100,4 +100,4 @@ A focused, consistent approach is more effective than cramming. Follow this plan
 
 Success in Altimetrik interviews comes from disciplined practice on their core topics and the ability to translate that practice into clear, communicative, and correct code under interview conditions.
 
-[Browse all Altimetrik questions on CodeJeet](/company/altimetrik)
+[Browse all Altimetrik questions on TidyBit](/company/altimetrik)

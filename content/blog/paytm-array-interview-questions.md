@@ -102,6 +102,6 @@ public int longestSubarraySumAtMostK(int[] nums, int k) {
 2.  **Core Patterns:** Deep dive into sliding window (fixed & variable size) and prefix sum techniques for subarray problems.
 3.  **Efficiency:** Practice binary search variations on sorted arrays and two-pointer techniques for sorting/merging.
 4.  **Integration:** Tackle problems combining multiple concepts, like subarray problems that also require hashing.
-5.  **Paytm-Specific:** Finally, solve all 15 Paytm-tagged array questions on CodeJeet to familiarize yourself with their exact problem style and difficulty.
+5.  **Paytm-Specific:** Finally, solve all 15 Paytm-tagged array questions on TidyBit to familiarize yourself with their exact problem style and difficulty.
 
 [Practice Array at Paytm](/company/paytm/array)

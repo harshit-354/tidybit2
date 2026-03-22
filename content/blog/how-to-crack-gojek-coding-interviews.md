@@ -108,4 +108,4 @@ Weeks 5-6: **Integration and Intensity.** Tackle 5-10 Hard problems, particularl
 3.  **Write Production-Ready Code.** Use clear variable names, avoid overly clever one-liners, include comments for complex logic, and handle edge cases (null inputs, empty trees, single-element arrays) explicitly. This shows you write maintainable code.
 4.  **Practice on a Shared Editor.** Use platforms that offer collaborative coding sessions. Get comfortable with no syntax highlighting or auto-complete, as this mirrors the interview environment.
 
-Mastering these patterns and practicing with discipline will position you strongly for Gojek's technical challenges. For a targeted list of problems, [Browse all Gojek questions on CodeJeet](/company/gojek).
+Mastering these patterns and practicing with discipline will position you strongly for Gojek's technical challenges. For a targeted list of problems, [Browse all Gojek questions on TidyBit](/company/gojek).

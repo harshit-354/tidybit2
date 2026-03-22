@@ -113,4 +113,4 @@ A focused, pattern-based plan is essential given the topic concentration.
 
 The Keeptruckin interview is a test of consistent, practical skill. By drilling the specific patterns in their question pool, you build the muscle memory to succeed under pressure.
 
-[Browse all Keeptruckin questions on CodeJeet](/company/keeptruckin)
+[Browse all Keeptruckin questions on TidyBit](/company/keeptruckin)

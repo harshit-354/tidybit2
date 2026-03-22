@@ -10,7 +10,7 @@ When preparing for technical interviews at top tech companies, understanding the
 
 ## Question Volume and Difficulty
 
-The most striking difference is the sheer scale of preparation material. On CodeJeet, Bloomberg has a tagged question bank of **1,173 questions**, dwarfing Intuit's bank of **71 questions**. This volume indicates both the breadth of problems candidates report and the intensity of Bloomberg's interview process, which often includes multiple technical rounds covering diverse problem types.
+The most striking difference is the sheer scale of preparation material. On TidyBit, Bloomberg has a tagged question bank of **1,173 questions**, dwarfing Intuit's bank of **71 questions**. This volume indicates both the breadth of problems candidates report and the intensity of Bloomberg's interview process, which often includes multiple technical rounds covering diverse problem types.
 
 The difficulty distribution also varies:
 
@@ -86,4 +86,4 @@ Your preparation strategy should be dictated by your target companies and timeli
 
 A practical hybrid approach is to **build a foundation using Intuit's core topics**, then **expand your depth and breadth using Bloomberg's extensive list**. Ensure you give special attention to Math problems for Bloomberg and Dynamic Programming for Intuit, as these are their respective differentiators.
 
-For targeted practice, visit the company pages on CodeJeet: [Bloomberg](/company/bloomberg) and [Intuit](/company/intuit).
+For targeted practice, visit the company pages on TidyBit: [Bloomberg](/company/bloomberg) and [Intuit](/company/intuit).

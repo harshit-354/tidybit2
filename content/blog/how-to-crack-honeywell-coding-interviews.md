@@ -125,4 +125,4 @@ public int slidingWindowTemplate(int[] nums, int target) {
 
 Master these patterns, build your execution speed on Medium problems, and demonstrate methodical clarity. That's the formula for cracking Honeywell's coding interview.
 
-[Browse all Honeywell questions on CodeJeet](/company/honeywell)
+[Browse all Honeywell questions on TidyBit](/company/honeywell)

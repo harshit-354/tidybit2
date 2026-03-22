@@ -104,4 +104,4 @@ A structured approach is non-negotiable.
 
 Targeted, consistent practice on the core patterns that dominate Twitter's question bank is the most reliable path to success. Understand the "why" behind every solution you study.
 
-[Browse all Twitter questions on CodeJeet](/company/twitter)
+[Browse all Twitter questions on TidyBit](/company/twitter)

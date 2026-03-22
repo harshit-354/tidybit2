@@ -115,4 +115,4 @@ A structured approach is essential to cover the breadth and depth required.
 
 Success in a Coursera interview hinges on deep understanding, not just recognition. Practice the patterns until you can derive them, not just recall them.
 
-[Browse all Coursera questions on CodeJeet](/company/coursera)
+[Browse all Coursera questions on TidyBit](/company/coursera)

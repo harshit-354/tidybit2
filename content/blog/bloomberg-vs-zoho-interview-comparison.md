@@ -124,4 +124,4 @@ Shift your focus to **Bloomberg** once your fundamentals are rock-solid. The pre
 
 Ultimately, your priority should align with your interview schedule. However, using Zoho's focus to build a foundation before tackling Bloomberg's breadth and depth is a sound technical strategy.
 
-For targeted question lists, visit the Bloomberg and Zoho pages on CodeJeet: [/company/bloomberg](/company/bloomberg) and [/company/zoho](/company/zoho).
+For targeted question lists, visit the Bloomberg and Zoho pages on TidyBit: [/company/bloomberg](/company/bloomberg) and [/company/zoho](/company/zoho).

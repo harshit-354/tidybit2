@@ -110,6 +110,6 @@ public class Main {
 1.  **Master the Built-in Sort:** Practice writing custom comparators for simple objects (e.g., sort 2D arrays by the second column).
 2.  **Solve Top K Problems:** Start with the straightforward sort-and-slice approach, then optimize with a heap.
 3.  **Tackle Hybrid Problems:** Combine sorting with two-pointer techniques (like finding a pair sum) or binary search.
-4.  **Simulate Intuit Problems:** Finally, practice the specific sorting questions tagged for Intuit on platforms like CodeJeet. This will expose you to their preferred problem domains and difficulty level.
+4.  **Simulate Intuit Problems:** Finally, practice the specific sorting questions tagged for Intuit on platforms like TidyBit. This will expose you to their preferred problem domains and difficulty level.
 
 [Practice Sorting at Intuit](/company/intuit/sorting)

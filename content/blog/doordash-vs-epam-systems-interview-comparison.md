@@ -112,4 +112,4 @@ Your preparation priority should be dictated by your interview timeline and care
 
 A strategic hybrid approach is to start with the shared core (Array, String, Hash Table) and Epam's Two Pointers focus to build a solid foundation. Then, layer in DoorDash's specific emphasis on Depth-First Search and tackle their Medium and Hard problems to elevate your problem-solving ability. This ensures you are well-prepared for both company's expectations.
 
-For detailed question lists, visit the [DoorDash interview questions](/company/doordash) and [Epam Systems interview questions](/company/epam-systems) pages on CodeJeet.
+For detailed question lists, visit the [DoorDash interview questions](/company/doordash) and [Epam Systems interview questions](/company/epam-systems) pages on TidyBit.

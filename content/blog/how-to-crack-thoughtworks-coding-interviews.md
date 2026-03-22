@@ -115,4 +115,4 @@ In the final stretch, conduct mock interviews under timed conditions. Use platfo
 
 Success in a Thoughtworks interview hinges on balancing algorithmic competence with pragmatic, communicative coding. Target their specific topic strengths, practice with an emphasis on clarity, and you'll be well-prepared.
 
-[Browse all Thoughtworks questions on CodeJeet](/company/thoughtworks)
+[Browse all Thoughtworks questions on TidyBit](/company/thoughtworks)

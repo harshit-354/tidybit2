@@ -107,4 +107,4 @@ Given the difficulty curve, a superficial review won't suffice. Follow this inte
 
 Success in a Trilogy interview hinges on targeted, deep preparation. Focus on the hard problems, master bit manipulation, and be ready to implement advanced structures like the segment tree.
 
-[Browse all Trilogy questions on CodeJeet](/company/trilogy)
+[Browse all Trilogy questions on TidyBit](/company/trilogy)

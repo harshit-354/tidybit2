@@ -196,7 +196,7 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
         data={collectionJsonLd({
           name: `${name} LeetCode Questions`,
           description: `Practice ${questionCount} ${name} LeetCode problems. Filter by difficulty and company.`,
-          url: `https://codejeet.com/topic/${slug}`,
+          url: `https://tidybit.com/topic/${slug}`,
           numberOfItems: questionCount,
         })}
       />

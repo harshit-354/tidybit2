@@ -119,4 +119,4 @@ public int lengthOfLongestSubstring(String s) {
 
 OpenText's interview curve is manageable if you focus on the fundamentals. Depth of understanding on core topics beats superficial knowledge of advanced algorithms. Practice until Easy problems feel trivial and Medium problems feel straightforward.
 
-[Browse all OpenText questions on CodeJeet](/company/opentext)
+[Browse all OpenText questions on TidyBit](/company/opentext)

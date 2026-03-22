@@ -90,4 +90,4 @@ If you are already comfortable with core topics and are specifically targeting r
 
 Ultimately, the core topics are deeply interconnected. Proficiency with Two Pointers (Yandex's focus) often requires a sorted array (NVIDIA's focus). A comprehensive preparation strategy will cover both patterns thoroughly.
 
-For detailed company-specific question lists, visit the CodeJeet pages for [NVIDIA](/company/nvidia) and [Yandex](/company/yandex).
+For detailed company-specific question lists, visit the TidyBit pages for [NVIDIA](/company/nvidia) and [Yandex](/company/yandex).

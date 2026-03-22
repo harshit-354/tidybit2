@@ -120,4 +120,4 @@ Transition to **Salesforce preparation** after you are consistently solving medi
 
 In summary, Cisco's interview tests for strong fundamentals, while Salesforce's tests for fundamentals _plus_ advanced problem-solving. A logical progression is to solidify your core skills for Cisco, then expand into more complex algorithmic territories for Salesforce.
 
-For detailed question lists, visit the CodeJeet pages for [Salesforce](/company/salesforce) and [Cisco](/company/cisco).
+For detailed question lists, visit the TidyBit pages for [Salesforce](/company/salesforce) and [Cisco](/company/cisco).

@@ -6,7 +6,7 @@ category: "dsa-patterns"
 tags: ["walmart-labs", "string", "interview prep"]
 ---
 
-String manipulation is a core skill for any software engineer, but at Walmart Labs, it's especially critical. With 39 String-specific questions out of their 152 total problems on CodeJeet, this topic represents over 25% of their technical interview focus. Why such emphasis? Walmart's platforms—from e-commerce search and product descriptions to inventory tracking and logistics systems—process massive volumes of text data. Efficiently parsing, matching, validating, and transforming strings is fundamental to building scalable retail technology. Interviewers use these problems to assess your attention to detail, ability to handle edge cases, and mastery of fundamental algorithms on a universally understood data type.
+String manipulation is a core skill for any software engineer, but at Walmart Labs, it's especially critical. With 39 String-specific questions out of their 152 total problems on TidyBit, this topic represents over 25% of their technical interview focus. Why such emphasis? Walmart's platforms—from e-commerce search and product descriptions to inventory tracking and logistics systems—process massive volumes of text data. Efficiently parsing, matching, validating, and transforming strings is fundamental to building scalable retail technology. Interviewers use these problems to assess your attention to detail, ability to handle edge cases, and mastery of fundamental algorithms on a universally understood data type.
 
 ## What to Expect — Types of Problems
 

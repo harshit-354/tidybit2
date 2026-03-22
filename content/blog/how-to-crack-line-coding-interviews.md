@@ -86,7 +86,7 @@ public int lengthOfLongestSubstring(String s) {
 With a 67% Hard problem rate, a superficial approach will fail. Follow this intensive plan.
 
 **Weeks 1-2: Foundation & Pattern Recognition.**
-Focus on the top five topics: Array, DP, Sorting, Queue, Sliding Window. Use a platform like CodeJeet to solve 15-20 problems per topic. Start with Medium difficulty to build confidence, then immediately transition to Hard problems within each topic. For DP, ensure you can derive both the recurrence relation and the state representation.
+Focus on the top five topics: Array, DP, Sorting, Queue, Sliding Window. Use a platform like TidyBit to solve 15-20 problems per topic. Start with Medium difficulty to build confidence, then immediately transition to Hard problems within each topic. For DP, ensure you can derive both the recurrence relation and the state representation.
 
 **Weeks 3-4: Depth on Hard Problems & Mock Interviews.**
 Dedicate this phase almost exclusively to solving Hard problems, especially those combining topics (e.g., DP on Arrays, Sliding Window with Deque). Solve at least 30-40 Hard problems. Begin timed mock interviews simulating Line's 45-60 minute format. Practice verbalizing your thought process clearly.
@@ -104,4 +104,4 @@ Solve every available Line-specific coding question. Analyze the problem types a
 
 Success in a Line coding interview requires targeted, high-difficulty practice. Focus on the patterns they test, drill Hard problems, and simulate the interview environment until your performance is consistent.
 
-[Browse all Line questions on CodeJeet](/company/line)
+[Browse all Line questions on TidyBit](/company/line)

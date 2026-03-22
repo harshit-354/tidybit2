@@ -81,11 +81,11 @@ public class Solution {
 
 A focused, consistent plan is more effective than sporadic cramming.
 
-**Weeks 1-2: Foundation & Core Topics.** Dedicate this phase to mastering the top three topics. Solve 15-20 problems on Arrays (focus on two-pointers, sliding window), 10-15 on Bit Manipulation, and 10-15 on Greedy algorithms. Use platforms like CodeJeet to filter problems by company and topic. Ensure you can implement patterns like the sliding window above from memory.
+**Weeks 1-2: Foundation & Core Topics.** Dedicate this phase to mastering the top three topics. Solve 15-20 problems on Arrays (focus on two-pointers, sliding window), 10-15 on Bit Manipulation, and 10-15 on Greedy algorithms. Use platforms like TidyBit to filter problems by company and topic. Ensure you can implement patterns like the sliding window above from memory.
 
 **Weeks 3-4: Difficulty Progression & Pattern Integration.** Shift to solving problems by difficulty. Aim to solve 30+ Easy problems until they feel trivial. Then, tackle 20-25 Medium problems, focusing on integrating patterns. For example, a Medium problem might combine an array traversal with a greedy choice. Finally, attempt 5-10 Hard problems weekly. Don't aim for perfection; focus on breaking them down and writing partial, logical code.
 
-**Weeks 5-6: Mock Interviews & Company-Specific Practice.** Simulate the real interview. Use CodeJeet's AON question bank and do timed mock interviews (90-120 minutes for a set of 4 questions with the given difficulty distribution). Practice verbalizing your thought process aloud as you code. Revisit any previously solved problems that were challenging.
+**Weeks 5-6: Mock Interviews & Company-Specific Practice.** Simulate the real interview. Use TidyBit's AON question bank and do timed mock interviews (90-120 minutes for a set of 4 questions with the given difficulty distribution). Practice verbalizing your thought process aloud as you code. Revisit any previously solved problems that were challenging.
 
 ## Key Tips
 
@@ -96,4 +96,4 @@ A focused, consistent plan is more effective than sporadic cramming.
 
 Consistent, topic-focused practice is the most reliable path to success. Understand the patterns, internalize the code, and practice under realistic conditions.
 
-[Browse all AON questions on CodeJeet](/company/aon)
+[Browse all AON questions on TidyBit](/company/aon)

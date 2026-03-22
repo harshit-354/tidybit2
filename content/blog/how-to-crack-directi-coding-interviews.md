@@ -131,4 +131,4 @@ Weeks 5-6: Mock Interviews and Gap Analysis. In the final stretch, take at least
 
 Success in a Directi interview is a function of depth over breadth. Master the core topics, drill the hardest problems, and practice performing under interview conditions.
 
-[Browse all Directi questions on CodeJeet](/company/directi)
+[Browse all Directi questions on TidyBit](/company/directi)

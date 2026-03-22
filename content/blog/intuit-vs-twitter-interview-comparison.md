@@ -80,4 +80,4 @@ Prioritize **Twitter's list** if you are interviewing for a backend, full-stack,
 
 In practice, a hybrid approach is effective. Begin with the common core of Array, Hash Table, and String problems. Then, integrate Intuit's DP problems to solidify a challenging topic. Finally, layer in Twitter's specific questions and dedicate separate study blocks for system design principles. This sequence ensures you build depth in algorithms first, which is the prerequisite for success in both interview loops.
 
-For the complete question lists, visit the [Intuit interview questions](/company/intuit) and [Twitter interview questions](/company/twitter) pages on CodeJeet.
+For the complete question lists, visit the [Intuit interview questions](/company/intuit) and [Twitter interview questions](/company/twitter) pages on TidyBit.

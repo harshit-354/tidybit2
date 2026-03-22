@@ -83,7 +83,7 @@ With the high difficulty bar, a structured, intensive plan is non-negotiable.
 
 **Weeks 1-2: Foundation & Core Topics.** Dedicate this phase to Dynamic Programming and Heaps. Solve 15-20 DP problems, covering all major patterns (0/1 knapsack, unbounded knapsack, LCS, LIS, DP on strings). Solve 10-15 heap problems (top K, merging K lists, scheduling). For each problem, write the solution, then analyze time/space complexity.
 
-**Weeks 3-4: Advanced Problem Integration.** Focus on Hard problems that combine your core topics. Target problems tagged "WorldQuant" on platforms like CodeJeet. Practice string problems that use DP (e.g., edit distance, wildcard matching) and recursion/backtracking problems (e.g., generating permutations under constraints). Aim for 2-3 Hard problems per day with deep analysis.
+**Weeks 3-4: Advanced Problem Integration.** Focus on Hard problems that combine your core topics. Target problems tagged "WorldQuant" on platforms like TidyBit. Practice string problems that use DP (e.g., edit distance, wildcard matching) and recursion/backtracking problems (e.g., generating permutations under constraints). Aim for 2-3 Hard problems per day with deep analysis.
 
 **Weeks 5-6: Mock Interviews & Refinement.** Simulate the actual interview environment. Use a timer (45-60 minutes) and a platform with code execution to solve 1-2 Hard problems back-to-back. Record yourself explaining your thought process. Review mistakes meticulously—was it a logic flaw, a missed edge case, or a suboptimal algorithm? Revisit weak topic areas.
 
@@ -97,4 +97,4 @@ With the high difficulty bar, a structured, intensive plan is non-negotiable.
 
 Success in a WorldQuant coding interview comes from targeted, deep practice on high-difficulty problems in their favored domains. Structure your preparation, pressure-test your skills, and focus on communicating your process.
 
-[Browse all Worldquant questions on CodeJeet](/company/worldquant)
+[Browse all Worldquant questions on TidyBit](/company/worldquant)

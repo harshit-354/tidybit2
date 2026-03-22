@@ -116,4 +116,4 @@ A structured approach is non-negotiable. Here is a focused 4-week plan (extend t
 
 Your preparation should be a balance of breadth across the top topics and depth in the patterns that turn hard problems into manageable ones. Focus on the data, practice systematically, and always communicate your process.
 
-[Browse all Fractal Analytics questions on CodeJeet](/company/fractal-analytics)
+[Browse all Fractal Analytics questions on TidyBit](/company/fractal-analytics)

@@ -84,4 +84,4 @@ Your priority depends on your target and timeline.
 
 In practice, a strong candidate for either company must have **Array and Dynamic Programming** patterns solidly internalized. The difference lies in the breadth of additional topics (like String algorithms for Uber) and the stamina needed for longer problem sets.
 
-For focused practice, see the Uber question list at [CodeJeet/company/uber](/company/uber) and the Samsung list at [CodeJeet/company/samsung](/company/samsung).
+For focused practice, see the Uber question list at [TidyBit/company/uber](/company/uber) and the Samsung list at [TidyBit/company/samsung](/company/samsung).

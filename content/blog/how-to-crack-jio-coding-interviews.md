@@ -114,4 +114,4 @@ A structured plan is non-negotiable. Here is a focused 4-6 week roadmap.
 
 Consistent, pattern-focused practice on the core topics of Arrays, Hash Tables, Trees, and Graph Search is your direct path to clearing Jio's technical screen.
 
-[Browse all Jio questions on CodeJeet](/company/jio)
+[Browse all Jio questions on TidyBit](/company/jio)

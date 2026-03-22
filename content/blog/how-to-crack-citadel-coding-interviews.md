@@ -352,7 +352,7 @@ A generic LeetCode grind won't cut it. Follow this focused 4-6 week plan.
 2.  **Afternoon (60 mins):** Review. Re-solve 1-2 Hard problems from a previous day without looking at the solution. Focus on writing bug-free code on the first try.
 3.  **Evening (30 mins):** Theory. Study one advanced concept (e.g., Segment Trees, Topological Sort, KMP Algorithm) to broaden your toolkit for novel problems.
 
-**Weeks 3-4: Citadel-Specific Practice & Hard Problems.** Now, filter LeetCode or CodeJeet's Citadel question list. Solve every Medium and Hard problem available. Simulate interview conditions: set a 30-minute timer, talk through your logic, and code. After each session, analyze your performance. Why did you get stuck? Was your optimization optimal? This is where you build the mental stamina for the actual interview.
+**Weeks 3-4: Citadel-Specific Practice & Hard Problems.** Now, filter LeetCode or TidyBit's Citadel question list. Solve every Medium and Hard problem available. Simulate interview conditions: set a 30-minute timer, talk through your logic, and code. After each session, analyze your performance. Why did you get stuck? Was your optimization optimal? This is where you build the mental stamina for the actual interview.
 
 **Creating a Mistake Log:**
 Maintain a detailed log of every problem you struggle with. For each entry, include:
@@ -384,4 +384,4 @@ Maintain a detailed log of every problem you struggle with. For each entry, incl
 
 The path to a Citadel offer is built on focused, high-difficulty practice and flawless execution. Start with their most frequent topics, pressure-test your skills with their hardest problems, and refine your communication. Remember, consistency and depth of understanding will always outperform sporadic, surface-level studying.
 
-[Browse all Citadel questions on CodeJeet](/company/citadel)
+[Browse all Citadel questions on TidyBit](/company/citadel)

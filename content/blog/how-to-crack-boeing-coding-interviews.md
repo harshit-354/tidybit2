@@ -145,4 +145,4 @@ With the high difficulty bar, a structured, intensive plan is required.
 
 Success in a Boeing coding interview hinges on a mastery of advanced patterns, particularly Tries and optimization techniques, combined with clear, methodical communication. Target your preparation on solving Hard problems efficiently, and you'll be equipped to handle their rigorous technical screen.
 
-[Browse all Boeing questions on CodeJeet](/company/boeing)
+[Browse all Boeing questions on TidyBit](/company/boeing)

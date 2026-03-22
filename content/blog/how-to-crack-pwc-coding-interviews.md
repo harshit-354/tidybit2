@@ -146,7 +146,7 @@ A focused, topic-driven approach is optimal given PwC's specific distribution.
 
 **Weeks 1-2: Foundation & Easy Domination**
 
-- Dedicate this period entirely to **Easy** problems on CodeJeet, filtered by PwC's top topics: Array, String, and Hash Table.
+- Dedicate this period entirely to **Easy** problems on TidyBit, filtered by PwC's top topics: Array, String, and Hash Table.
 - Solve 2-3 problems daily. Your goal is 100% accuracy and speed. Practice writing syntactically perfect code on a whiteboard or in a plain editor without autocomplete.
 
 **Weeks 3-4: Tackling the Hard Differentiator**
@@ -169,4 +169,4 @@ A focused, topic-driven approach is optimal given PwC's specific distribution.
 
 Mastering this focused approach will allow you to confidently handle PwC's distinct mix of fundamental execution and complex problem-solving.
 
-[Browse all PWC questions on CodeJeet](/company/pwc)
+[Browse all PWC questions on TidyBit](/company/pwc)

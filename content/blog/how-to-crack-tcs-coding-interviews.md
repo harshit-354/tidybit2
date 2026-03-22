@@ -13,7 +13,7 @@ For campus hires, the process typically includes the TCS NQT (aptitude + coding)
 
 ## By the Numbers
 
-TCS has **217 questions** in the CodeJeet database. The difficulty distribution is notably beginner-friendly:
+TCS has **217 questions** in the TidyBit database. The difficulty distribution is notably beginner-friendly:
 
 - **Easy: 94 questions (43%)** — Nearly half the bank. TCS interviews are accessible if you have strong basics.
 - **Medium: 103 questions (47%)** — The other half of the equation. Comfortable with Easy? These are your next target.
@@ -870,4 +870,4 @@ public class Fibonacci {
 
 5. **Write code in the language you know best.** TCS typically allows multiple programming languages. Choose the one you are most fluent in rather than the one you think looks most impressive. Fluency reduces bugs and saves time.
 
-[Browse all TCS questions on CodeJeet](/company/tcs)
+[Browse all TCS questions on TidyBit](/company/tcs)

@@ -132,4 +132,4 @@ Week 6: **Refinement and Mock.** Reduce new problems. Re-solve previous mistakes
 
 Mastering these patterns and executing this disciplined plan will position you strongly for the C3 AI coding interview. The goal is to make solving their preferred Medium problems a repeatable, systematic process.
 
-[Browse all C3 AI questions on CodeJeet](/company/c3-ai)
+[Browse all C3 AI questions on TidyBit](/company/c3-ai)

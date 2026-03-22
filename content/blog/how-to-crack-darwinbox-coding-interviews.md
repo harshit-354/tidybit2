@@ -102,4 +102,4 @@ A structured approach is non-negotiable given the difficulty curve.
 
 Success in a Darwinbox coding interview is a function of targeted practice and calm execution. Focus on depth in the core topics, practice articulating your logic, and simulate the real environment until it feels routine.
 
-[Browse all Darwinbox questions on CodeJeet](/company/darwinbox)
+[Browse all Darwinbox questions on TidyBit](/company/darwinbox)

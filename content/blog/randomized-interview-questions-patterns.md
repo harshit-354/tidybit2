@@ -214,4 +214,4 @@ Randomized questions are a staple at companies dealing with large-scale data, di
 3.  **Practice Integration**: Work on problems where randomization is one component of a larger solution, such as using a random pivot in a selection algorithm within a graph problem.
 4.  **Simulate the Randomness**: When practicing, manually step through your algorithm with a small, fixed set of random choices (e.g., "if the random index is 2...") to verify its logic and edge cases.
 
-[Practice all Randomized questions on CodeJeet](/topic/randomized)
+[Practice all Randomized questions on TidyBit](/topic/randomized)

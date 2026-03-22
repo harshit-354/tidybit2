@@ -112,4 +112,4 @@ A structured approach is non-negotiable.
 
 Success in Nielsen's interviews is a function of patterned practice and clear communication. Target medium-difficulty problems on the core topics, drill your DP, and simulate the interview environment until the process feels routine.
 
-[Browse all Nielsen questions on CodeJeet](/company/nielsen)
+[Browse all Nielsen questions on TidyBit](/company/nielsen)

@@ -152,4 +152,4 @@ These companies use combinatorial problems to assess structured thinking and mat
 
 Combinatorics questions are rare but high-impact. Focus on pattern recognition and translating counting logic into clean code.
 
-[Practice all Combinatorics questions on CodeJeet](/topic/combinatorics)
+[Practice all Combinatorics questions on TidyBit](/topic/combinatorics)

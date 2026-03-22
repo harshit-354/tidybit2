@@ -71,7 +71,7 @@ Build your skills progressively. Do not jump to hard problems immediately.
 1.  **Foundation:** Start with classic 1D DP: Fibonacci, Climbing Stairs, House Robber.
 2.  **Key Patterns:** Move to 0/1 Knapsack and Unbounded Knapsack (Coin Change). These are highly relevant.
 3.  **2D DP:** Practice Longest Common Subsequence and Minimum Path Sum in a grid.
-4.  **Deloitte-Specific:** Finally, focus on problems tagged for Deloitte on platforms like CodeJeet, which will reflect their exact question style and difficulty.
+4.  **Deloitte-Specific:** Finally, focus on problems tagged for Deloitte on platforms like TidyBit, which will reflect their exact question style and difficulty.
 
 Consistent, conceptual practice is more valuable than cramming. Aim to solve 1-2 DP problems daily in the weeks leading to your interview.
 

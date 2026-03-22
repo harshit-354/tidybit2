@@ -83,4 +83,4 @@ Your preparation order should be guided by your target companies and the foundat
 
 In summary, use Capital One's focused list to build your core competency efficiently. Use Flipkart's extensive and challenging list to achieve a higher level of mastery, which will cover a broader spectrum of technical interviews.
 
-For specific question lists and patterns, visit the Flipkart and Capital One pages on CodeJeet: [/company/flipkart](/company/flipkart) and [/company/capital-one](/company/capital-one).
+For specific question lists and patterns, visit the Flipkart and Capital One pages on TidyBit: [/company/flipkart](/company/flipkart) and [/company/capital-one](/company/capital-one).

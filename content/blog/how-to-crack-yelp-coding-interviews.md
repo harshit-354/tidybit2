@@ -89,4 +89,4 @@ A structured approach is more effective than random practice.
 
 Success in Yelp interviews hinges on methodical preparation focused on high-frequency topics and clear, communicative problem-solving. Start with the fundamentals, build up to integrated patterns, and practice articulating your reasoning.
 
-[Browse all Yelp questions on CodeJeet](/company/yelp)
+[Browse all Yelp questions on TidyBit](/company/yelp)

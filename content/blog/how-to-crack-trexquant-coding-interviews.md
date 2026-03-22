@@ -97,4 +97,4 @@ Conduct at least 2-3 mock interviews per week, simulating the Trexquant format. 
 
 Success in a Trexquant interview is about consistent, precise execution on core algorithmic challenges. Target your preparation, master the patterns, and practice under time constraints.
 
-[Browse all Trexquant questions on CodeJeet](/company/trexquant)
+[Browse all Trexquant questions on TidyBit](/company/trexquant)

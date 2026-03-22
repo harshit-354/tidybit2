@@ -359,7 +359,7 @@ A focused 4-6 week plan is more effective than months of unstructured study. Her
 
 **Weeks 1-2: Foundation & Frequency.** Ignore company tags initially. Use the first week to solidify the top five topics (Array, String, Hash Table, Sorting, DP). Solve 3-5 core problems per topic from a curated list of high-frequency LeetCode problems. In week two, shift to solving exclusively **Medium** difficulty problems across these topics. The goal is speed and recognition of patterns.
 
-**Weeks 3-4: Targeted Visa Practice.** Now, apply your skills to actual Visa-tagged questions on platforms like CodeJeet. Start with Easy and Medium problems to understand the company's style. In the fourth week, deliberately attempt the reported Hard problems. Even if you don't solve them immediately, analyzing the solution teaches you the level of optimization expected.
+**Weeks 3-4: Targeted Visa Practice.** Now, apply your skills to actual Visa-tagged questions on platforms like TidyBit. Start with Easy and Medium problems to understand the company's style. In the fourth week, deliberately attempt the reported Hard problems. Even if you don't solve them immediately, analyzing the solution teaches you the level of optimization expected.
 
 **Weeks 5-6: Integration & Mock Interviews.** Revisit any problem patterns you found challenging. Dedicate significant time to **mock interviews**. Simulate the 45-minute session: 5 minutes for clarification, 30 minutes for coding and explanation, 10 minutes for Q&A. Practice verbalizing your thought process. In the final days, review key problem solutions but prioritize rest.
 
@@ -447,4 +447,4 @@ public int[] findTwoSumIndices(int[] numbers, int targetSum) {
 
 Success in Visa's coding interviews is a function of focused practice on their preferred topics and difficulty level. Build a strong foundation with the core patterns and code examples shown here, apply it to their specific problems, and simulate the interview environment until you're confident. Remember, consistency and targeted practice trump sheer volume.
 
-[Browse all Visa questions on CodeJeet](/company/visa)
+[Browse all Visa questions on TidyBit](/company/visa)

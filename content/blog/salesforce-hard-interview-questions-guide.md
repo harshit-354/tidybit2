@@ -6,7 +6,7 @@ category: "tips"
 tags: ["salesforce", "hard", "interview prep"]
 ---
 
-Hard Salesforce interview questions typically involve complex algorithmic challenges that require more than just basic data structure knowledge. These problems often combine multiple concepts, demand careful edge case handling, and test your ability to optimize both time and space complexity. With 49 Hard questions out of 189 total on CodeJeet, preparing for these is essential for senior engineering roles at Salesforce, where system design and efficient problem-solving are critical.
+Hard Salesforce interview questions typically involve complex algorithmic challenges that require more than just basic data structure knowledge. These problems often combine multiple concepts, demand careful edge case handling, and test your ability to optimize both time and space complexity. With 49 Hard questions out of 189 total on TidyBit, preparing for these is essential for senior engineering roles at Salesforce, where system design and efficient problem-solving are critical.
 
 ## Common Patterns
 

@@ -883,7 +883,7 @@ public class PermutationInString {
 
 </div>
 
-Check the [CodeJeet dashboard](/dashboard) for problems by company. This pattern is heavily tested at [Amazon](/company/amazon), [Microsoft](/company/microsoft), and [Meta](/company/meta).
+Check the [TidyBit dashboard](/dashboard) for problems by company. This pattern is heavily tested at [Amazon](/company/amazon), [Microsoft](/company/microsoft), and [Meta](/company/meta).
 
 ## Common Pitfalls and Optimization Tips
 

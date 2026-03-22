@@ -152,4 +152,4 @@ Your preparation order should be dictated by your target role and current skill 
 
 In essence, TCS preparation builds a broad, strong foundation. Snapchat preparation requires building specialized depth on top of that foundation. Start with the one that aligns with your immediate career target and use it as a stepping stone.
 
-For more detailed company question lists, visit the TCS and Snapchat pages on CodeJeet: [/company/tcs](/company/tcs), [/company/snapchat](/company/snapchat).
+For more detailed company question lists, visit the TCS and Snapchat pages on TidyBit: [/company/tcs](/company/tcs), [/company/snapchat](/company/snapchat).

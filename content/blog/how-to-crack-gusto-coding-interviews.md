@@ -93,4 +93,4 @@ A structured approach is more effective than random practice.
 3.  **Test with Small Cases.** After writing your code, don't just announce you're done. Walk through a small, non-trivial example input with your code, including edge cases (empty input, single element, negative numbers). This demonstrates rigorous habits and often catches logical errors.
 4.  **Know Gusto's Domain.** While the problems are algorithmic, understanding that Gusto builds payroll, benefits, and HR software provides context. Be prepared for problems that might involve date calculations, string parsing for names/IDs, or recursive operations on hierarchical data (like an org chart).
 
-Mastering these patterns and practicing under interview conditions will build the confidence and skill needed to succeed. For a curated list of problems to practice, [Browse all Gusto questions on CodeJeet](/company/gusto).
+Mastering these patterns and practicing under interview conditions will build the confidence and skill needed to succeed. For a curated list of problems to practice, [Browse all Gusto questions on TidyBit](/company/gusto).

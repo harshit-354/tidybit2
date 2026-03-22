@@ -93,4 +93,4 @@ Your preparation strategy should be dictated by your interview timeline and the 
 
 Ultimately, the significant overlap means preparing for one directly benefits the other. Start with the company whose difficulty best matches your current skill level to build momentum.
 
-For detailed question lists, visit the Cisco and JPMorgan Chase pages on CodeJeet: [/company/cisco](/company/cisco) and [/company/jpmorgan](/company/jpmorgan).
+For detailed question lists, visit the Cisco and JPMorgan Chase pages on TidyBit: [/company/cisco](/company/cisco) and [/company/jpmorgan](/company/jpmorgan).

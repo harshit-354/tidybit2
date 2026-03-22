@@ -9,7 +9,7 @@ export default function TopBanner() {
   if (dismissed) return null;
 
   const url =
-    "https://crackr.dev/?utm_source=codejeet&utm_medium=top_banner&utm_campaign=1week_test";
+    "https://crackr.dev/?utm_source=tidybit&utm_medium=top_banner&utm_campaign=1week_test";
 
   return (
     <a

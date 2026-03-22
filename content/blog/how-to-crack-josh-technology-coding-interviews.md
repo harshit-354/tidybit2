@@ -86,4 +86,4 @@ _ Revisit all incorrect problems from previous weeks. Your goal is not to see ne
 
 Focus on systematic, medium-difficulty problem-solving over obscure algorithms. Depth in core topics beats breadth in exotic ones for this interview.
 
-[Browse all Josh Technology questions on CodeJeet](/company/josh-technology)
+[Browse all Josh Technology questions on TidyBit](/company/josh-technology)

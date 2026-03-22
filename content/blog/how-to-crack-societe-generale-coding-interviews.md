@@ -83,4 +83,4 @@ A focused, topic-driven plan is more effective than random practice.
 
 Success in Societe Generale's coding interviews hinges on methodical preparation for their specific difficulty and topic profile. Focus on clean code, core patterns, and consistent practice.
 
-[Browse all Societe Generale questions on CodeJeet](/company/societe-generale)
+[Browse all Societe Generale questions on TidyBit](/company/societe-generale)

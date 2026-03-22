@@ -100,4 +100,4 @@ A structured, topic-focused plan is more effective than random practice.
 
 Success in Reddit’s interviews comes from pattern recognition, clear communication, and deliberate practice on their favored topics. Start with the fundamentals, build speed, and simulate the real environment.
 
-[Browse all Reddit questions on CodeJeet](/company/reddit)
+[Browse all Reddit questions on TidyBit](/company/reddit)

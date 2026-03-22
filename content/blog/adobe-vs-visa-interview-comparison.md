@@ -167,4 +167,4 @@ After building that core competency, expand your preparation for **Adobe**. Adob
 
 In short, a Visa-first approach allows you to build a robust algorithmic foundation efficiently. You can then layer on the additional patterns and breadth required to tackle Adobe's interview, making your overall preparation journey more structured and effective.
 
-For targeted practice, visit the Adobe question list at [CodeJeet/adobe](/company/adobe) and the Visa question list at [CodeJeet/visa](/company/visa).
+For targeted practice, visit the Adobe question list at [TidyBit/adobe](/company/adobe) and the Visa question list at [TidyBit/visa](/company/visa).

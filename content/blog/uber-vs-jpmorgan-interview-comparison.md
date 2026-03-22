@@ -10,7 +10,7 @@ When preparing for technical interviews, understanding the specific focus and ex
 
 ## Question Volume and Difficulty
 
-The sheer number of documented questions is the most striking difference. On platforms like CodeJeet, Uber has a catalog of **381 questions**, dwarfing JPMorgan's **78 questions**. This volume reflects Uber's status as a top-tier tech company with a highly competitive, leetcode-style interview process.
+The sheer number of documented questions is the most striking difference. On platforms like TidyBit, Uber has a catalog of **381 questions**, dwarfing JPMorgan's **78 questions**. This volume reflects Uber's status as a top-tier tech company with a highly competitive, leetcode-style interview process.
 
 The difficulty distribution further highlights this contrast:
 

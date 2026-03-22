@@ -134,4 +134,4 @@ Greedy questions are frequently asked by top tech companies, especially for role
 3.  **Practice the Core Patterns.** Drill the three patterns above until you can code them from scratch. Most greedy questions are a variation of these themes.
 4.  **When in Doubt, Check Counterexamples.** If you think a greedy approach might work, test it against simple edge cases. A quick counterexample can save you from going down a wrong path.
 
-[Practice all Greedy questions on CodeJeet](/topic/greedy)
+[Practice all Greedy questions on TidyBit](/topic/greedy)

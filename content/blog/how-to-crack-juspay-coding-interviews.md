@@ -123,4 +123,4 @@ A structured approach is non-negotiable. Here is a weekly breakdown.
 
 Cracking Juspay's interview is a test of disciplined, focused preparation. By mastering the core topics—especially graphs—and following a rigorous study plan, you can confidently tackle their problem-solving rounds.
 
-[Browse all Juspay questions on CodeJeet](/company/juspay)
+[Browse all Juspay questions on TidyBit](/company/juspay)

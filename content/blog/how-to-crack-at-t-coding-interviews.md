@@ -100,4 +100,4 @@ A structured approach is key to covering the necessary ground efficiently.
 
 Success in an AT&T interview hinges on consistent, pattern-focused practice on medium-difficulty problems. Build that fluency, and you'll be prepared to handle the challenges they present.
 
-[Browse all AT&T questions on CodeJeet](/company/at-t)
+[Browse all AT&T questions on TidyBit](/company/at-t)

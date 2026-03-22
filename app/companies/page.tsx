@@ -17,12 +17,12 @@ export function generateMetadata(): Metadata {
     description:
       "Browse LeetCode interview questions from 660+ companies. " +
       "Find company-specific problems sorted by frequency to prepare for your next tech interview.",
-    alternates: { canonical: "https://codejeet.com/companies" },
+    alternates: { canonical: "https://tidybit.com/companies" },
     openGraph: {
-      title: "All Companies - LeetCode Interview Questions | CodeJeet",
+      title: "All Companies - LeetCode Interview Questions | TidyBit",
       description: "Browse LeetCode interview questions from 660+ companies.",
       type: "website",
-      url: "https://codejeet.com/companies",
+      url: "https://tidybit.com/companies",
     },
   };
 }
@@ -64,7 +64,7 @@ export default async function CompaniesPage() {
         data={collectionJsonLd({
           name: "Company Directory - LeetCode Interview Questions",
           description: `Browse LeetCode interview questions from ${totalCompanies} companies.`,
-          url: "https://codejeet.com/companies",
+          url: "https://tidybit.com/companies",
           numberOfItems: totalCompanies,
         })}
       />

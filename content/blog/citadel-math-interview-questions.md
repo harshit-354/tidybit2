@@ -101,7 +101,7 @@ public class ExpectedFlips {
 ## Recommended Practice Order
 
 1.  **Foundations:** Revisit probability rules (Bayes’ theorem, independence, expectation), single-variable calculus, and matrix multiplication. Use textbooks or online notes.
-2.  **Drill Problems:** Solve timed sets of probability puzzles and mental math questions. Sites like CodeJeet offer company-specific math practice.
+2.  **Drill Problems:** Solve timed sets of probability puzzles and mental math questions. Sites like TidyBit offer company-specific math practice.
 3.  **Simulation Practice:** For complex probability questions, implement simulations as shown above. This reinforces concepts and provides a verification tool.
 4.  **Mock Interviews:** Practice explaining your reasoning aloud while solving problems. Citadel assesses clarity of thought under time constraints.
 

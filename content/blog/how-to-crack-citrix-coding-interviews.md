@@ -95,4 +95,4 @@ A structured approach is critical. This plan assumes 15-20 hours of focused stud
 
 Mastering this blend of algorithmic depth, clear communication, and structured practice is how you crack the Citrix coding interview.
 
-[Browse all Citrix questions on CodeJeet](/company/citrix)
+[Browse all Citrix questions on TidyBit](/company/citrix)

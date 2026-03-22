@@ -107,4 +107,4 @@ Week 6: **Final Tuning.** In the final days, focus on recall and communication. 
 
 Consistent, topic-focused practice is what turns the typical NetApp question from a challenge into a routine exercise. Start with the patterns, pressure-test them under timing, and you’ll be ready.
 
-[Browse all NetApp questions on CodeJeet](/company/netapp)
+[Browse all NetApp questions on TidyBit](/company/netapp)

@@ -588,4 +588,4 @@ public int[] nextGreaterElements(int[] nums) {
    - Advanced data structures (segment trees, Fenwick trees)
    - Two-pointer and sliding window variations
 
-[Browse all TikTok questions on CodeJeet](/company/tiktok)
+[Browse all TikTok questions on TidyBit](/company/tiktok)

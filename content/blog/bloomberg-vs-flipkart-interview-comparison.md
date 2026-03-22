@@ -10,7 +10,7 @@ When preparing for technical interviews, company-specific patterns matter. Bloom
 
 ## Question Volume and Difficulty
 
-The sheer scale of preparation material differs dramatically. On CodeJeet, Bloomberg's tagged problems number **1,173**, dwarfing Flipkart's **117**. This volume indicates both the breadth of Bloomberg's historical question bank and its status as a frequent target for candidates.
+The sheer scale of preparation material differs dramatically. On TidyBit, Bloomberg's tagged problems number **1,173**, dwarfing Flipkart's **117**. This volume indicates both the breadth of Bloomberg's historical question bank and its status as a frequent target for candidates.
 
 The difficulty distribution also reveals different evaluation priorities:
 

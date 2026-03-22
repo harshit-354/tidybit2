@@ -120,4 +120,4 @@ A focused, consistent plan is more effective than cramming.
 
 Mastering these core patterns and the art of collaborative problem-solving will make you exceptionally well-prepared for the Karat interview format.
 
-[Browse all Karat questions on CodeJeet](/company/karat)
+[Browse all Karat questions on TidyBit](/company/karat)

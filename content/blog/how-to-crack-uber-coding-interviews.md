@@ -454,4 +454,4 @@ public class DijkstraAlgorithm {
 
 Uber's interview process is designed to identify engineers who can handle complex, scalable problems. Success requires a deep, practical understanding of algorithms—especially graphs and dynamic programming—and the ability to translate real-world scenarios into code. Use the preparation strategy and code examples above to build the muscle memory needed to tackle their challenging problems. Remember to always discuss the scalability implications of your solution, as this demonstrates the systems thinking Uber values.
 
-[Browse all Uber questions on CodeJeet](/company/uber)
+[Browse all Uber questions on TidyBit](/company/uber)

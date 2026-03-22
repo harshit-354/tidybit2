@@ -83,4 +83,4 @@ Your preparation priority should be guided by the **foundation-first principle**
 
 In essence, Yahoo's interview preparation serves as an excellent core module, while NVIDIA's requires an advanced extension of that same core skill set.
 
-For detailed question lists and further insights, visit the NVIDIA and Yahoo company pages on CodeJeet: [NVIDIA Interview Questions](/company/nvidia) | [Yahoo Interview Questions](/company/yahoo)
+For detailed question lists and further insights, visit the NVIDIA and Yahoo company pages on TidyBit: [NVIDIA Interview Questions](/company/nvidia) | [Yahoo Interview Questions](/company/yahoo)

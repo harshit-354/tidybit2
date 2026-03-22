@@ -82,7 +82,7 @@ Build competence sequentially. Start with foundational problems to internalize t
 1.  **Foundations:** Merge Intervals, Meeting Rooms (LeetCode 252), Assign Cookies.
 2.  **Core Patterns:** Task Scheduler, Partition Labels, Valid Parenthesis Check.
 3.  **Advanced Application:** Minimum Number of Arrows to Burst Balloons, Remove K Digits, Queue Reconstruction by Height.
-4.  **Huawei-Specific:** Finally, practice questions filtered by the Huawei tag on platforms like CodeJeet to see how these patterns are framed in their interviews.
+4.  **Huawei-Specific:** Finally, practice questions filtered by the Huawei tag on platforms like TidyBit to see how these patterns are framed in their interviews.
 
 Always code by hand or in a simple text editor to simulate the interview environment. Time yourself.
 

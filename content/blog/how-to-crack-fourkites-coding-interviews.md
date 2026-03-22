@@ -122,4 +122,4 @@ A focused, consistent plan is more effective than cramming.
 
 Success in Fourkites interviews comes from methodical preparation on their core topics and demonstrating clear, structured problem-solving. Practice the patterns, internalize the templates, and focus on clear communication.
 
-[Browse all Fourkites questions on CodeJeet](/company/fourkites)
+[Browse all Fourkites questions on TidyBit](/company/fourkites)

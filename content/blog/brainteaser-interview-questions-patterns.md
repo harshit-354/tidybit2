@@ -98,4 +98,4 @@ Always research recent interview experiences for your target company and role, a
 
 The key to brainteasers is not encyclopedic knowledge of puzzles, but flexible, analytical thinking. Practice is about training that muscle.
 
-[Practice all Brainteaser questions on CodeJeet](/topic/brainteaser)
+[Practice all Brainteaser questions on TidyBit](/topic/brainteaser)

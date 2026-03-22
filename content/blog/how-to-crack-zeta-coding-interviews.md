@@ -131,4 +131,4 @@ A structured approach is non-negotiable given the difficulty curve.
 
 Your goal is to make solving a Hard DP or array problem look methodical and calm. Target your preparation, build pattern recognition through volume, and simulate the interview environment until it feels familiar.
 
-[Browse all Zeta questions on CodeJeet](/company/zeta)
+[Browse all Zeta questions on TidyBit](/company/zeta)

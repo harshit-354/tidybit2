@@ -124,4 +124,4 @@ A structured approach is non-negotiable. Here is a focused plan:
 
 Success in Lucid interviews hinges on methodical preparation focused on Medium-difficulty problems across strings, arrays, stacks, trees, and hash tables. Internalize the patterns, practice communicating your solutions, and you'll be well-positioned to succeed.
 
-[Browse all Lucid questions on CodeJeet](/company/lucid)
+[Browse all Lucid questions on TidyBit](/company/lucid)

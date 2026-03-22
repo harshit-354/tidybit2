@@ -142,4 +142,4 @@ Top companies frequently include ordered set problems:
 
 Ordered set problems test both fundamental knowledge and practical optimization skills. The patterns remain consistent across companies and difficulty levels.
 
-[Practice all Ordered Set questions on CodeJeet](/topic/ordered-set)
+[Practice all Ordered Set questions on TidyBit](/topic/ordered-set)

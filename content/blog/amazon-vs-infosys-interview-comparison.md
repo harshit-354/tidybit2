@@ -79,4 +79,4 @@ Your preparation order should be dictated by your target role and the transferab
 
 **Strategic Recommendation:** Start with a **strong foundation** using the Infosys topic list. Ensure you are proficient in solving Easy and Medium problems on Arrays, Strings, and DP. Then, **transition to Amazon-focused practice** to ramp up difficulty, deeply integrate hash table techniques, and build the stamina for longer, more complex problem-solving sessions. This approach ensures no gaps in your fundamental knowledge while systematically raising your ceiling.
 
-For detailed company-specific question lists and guides, visit the CodeJeet pages for [Amazon](/company/amazon) and [Infosys](/company/infosys).
+For detailed company-specific question lists and guides, visit the TidyBit pages for [Amazon](/company/amazon) and [Infosys](/company/infosys).

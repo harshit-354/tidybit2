@@ -130,4 +130,4 @@ Once comfortable, pivot to **TikTok** preparation. This involves two key steps:
 
 In short, use PayPal's list to build your core skills, then use TikTok's list to test your limits on volume and advanced topics like DP.
 
-For targeted practice, visit the CodeJeet pages for [TikTok](/company/tiktok) and [PayPal](/company/paypal).
+For targeted practice, visit the TidyBit pages for [TikTok](/company/tiktok) and [PayPal](/company/paypal).

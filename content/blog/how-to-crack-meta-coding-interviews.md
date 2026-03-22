@@ -562,4 +562,4 @@ public void bfs(List<List<Integer>> graph, int start) {
 
 5.  **Practice on a plain text editor.** Meta's coding environment is minimal — no autocomplete, no syntax highlighting in some cases. Get comfortable writing code without IDE assistance.
 
-[Browse all Meta questions on CodeJeet](/company/meta)
+[Browse all Meta questions on TidyBit](/company/meta)

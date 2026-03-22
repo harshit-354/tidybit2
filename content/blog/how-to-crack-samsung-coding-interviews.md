@@ -315,4 +315,4 @@ public class ClimbingStairs {
 
 Targeted, consistent practice on the right topics is what separates candidates who pass from those who don't. Use the data to guide your effort, simulate the real environment, and focus on clear communication.
 
-[Browse all Samsung questions on CodeJeet](/company/samsung)
+[Browse all Samsung questions on TidyBit](/company/samsung)

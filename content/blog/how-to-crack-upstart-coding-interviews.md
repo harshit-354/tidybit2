@@ -118,4 +118,4 @@ A focused, topic-driven approach is optimal given the clear concentration of top
 
 Upstart’s interview is a test of consistent, practical coding skill. By targeting the specific medium-difficulty problems in their core topics, you can enter your interview with confidence and precision.
 
-[Browse all Upstart questions on CodeJeet](/company/upstart)
+[Browse all Upstart questions on TidyBit](/company/upstart)

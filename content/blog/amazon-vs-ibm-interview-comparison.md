@@ -10,7 +10,7 @@ When preparing for technical interviews at major tech companies, understanding t
 
 ## Question Volume and Difficulty
 
-The sheer volume of questions associated with each company is the most striking difference. On CodeJeet, **Amazon** is linked to **1,938 questions**, with a difficulty breakdown of Easy (530), Medium (1,057), and Hard (351). This massive pool indicates a highly standardized, data-driven interview process where questions are recycled and widely reported. Preparation must be broad, with a heavy emphasis on conquering Medium-difficulty problems, which form the core of their technical screens.
+The sheer volume of questions associated with each company is the most striking difference. On TidyBit, **Amazon** is linked to **1,938 questions**, with a difficulty breakdown of Easy (530), Medium (1,057), and Hard (351). This massive pool indicates a highly standardized, data-driven interview process where questions are recycled and widely reported. Preparation must be broad, with a heavy emphasis on conquering Medium-difficulty problems, which form the core of their technical screens.
 
 In contrast, **IBM** is linked to **170 questions**, with a breakdown of Easy (52), Medium (102), and Hard (16). The volume is an order of magnitude smaller, suggesting a less rigid question bank or a process that may rely more on interviewer discretion or fundamental problem-solving. The focus is overwhelmingly on Medium-difficulty questions, with relatively few Hard problems. This makes IBM's technical scope appear more approachable and concentrated.
 
@@ -81,4 +81,4 @@ If you are only interviewing at **IBM**, or are new to technical interviews, sta
 
 Ultimately, Amazon's process tests for scalability and depth under pressure, while IBM's seems to assess solid fundamentals and clear logic. Tailor your drill-down accordingly.
 
-For detailed question lists and patterns, visit the CodeJeet pages for [Amazon](/company/amazon) and [IBM](/company/ibm).
+For detailed question lists and patterns, visit the TidyBit pages for [Amazon](/company/amazon) and [IBM](/company/ibm).

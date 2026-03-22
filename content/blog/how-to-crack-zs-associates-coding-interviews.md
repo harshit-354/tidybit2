@@ -103,4 +103,4 @@ A structured plan is non-negotiable. Here is a focused 6-week schedule; condense
 
 The ZS Associates interview is a test of consistent, applied skill. By focusing your preparation on these high-probability topics and patterns, you build the precise toolkit needed to succeed.
 
-[Browse all ZS Associates questions on CodeJeet](/company/zs-associates)
+[Browse all ZS Associates questions on TidyBit](/company/zs-associates)

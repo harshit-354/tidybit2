@@ -146,4 +146,4 @@ A structured approach is key. Here is a focused 4-6 week plan.
 
 Targeted, consistent practice on these topics and patterns will build the competence and confidence needed to succeed. Start with the fundamentals, pressure-test with mocks, and walk in prepared for the full range of questions.
 
-[Browse all CME Group questions on CodeJeet](/company/cme-group)
+[Browse all CME Group questions on TidyBit](/company/cme-group)

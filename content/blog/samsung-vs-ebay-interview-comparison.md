@@ -90,4 +90,4 @@ If your goal is to build strong, transferable algorithmic skills that will benef
 
 If you are newer to technical interviews or are specifically targeting eBay, **starting with eBay's pattern is a practical choice**. The slightly lower volume of Hard problems allows you to solidify core competencies in Array, String, and Hash Table manipulation—skills that are universally important. Once confident with these and the included Sorting problems, you can then layer on the more advanced DP and Two Pointer patterns needed for Samsung or similar companies.
 
-Ultimately, a combined strategy is effective: use the common Array and Hash Table problems as your warm-up, then branch out based on your primary target. For dedicated question lists, visit the [Samsung](/company/samsung) and [eBay](/company/ebay) pages on CodeJeet.
+Ultimately, a combined strategy is effective: use the common Array and Hash Table problems as your warm-up, then branch out based on your primary target. For dedicated question lists, visit the [Samsung](/company/samsung) and [eBay](/company/ebay) pages on TidyBit.

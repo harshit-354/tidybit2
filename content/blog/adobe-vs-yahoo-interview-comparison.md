@@ -125,4 +125,4 @@ Your preparation strategy should be dictated by your interview timeline and the 
 
 In essence, Adobe preparation is comprehensive training, while Yahoo preparation is targeted practice. Build your core skills with Yahoo's list, then stress-test and expand them with Adobe's.
 
-For specific question lists, visit the Adobe and Yahoo pages on CodeJeet: [Adobe Interview Questions](/company/adobe) | [Yahoo Interview Questions](/company/yahoo)
+For specific question lists, visit the Adobe and Yahoo pages on TidyBit: [Adobe Interview Questions](/company/adobe) | [Yahoo Interview Questions](/company/yahoo)

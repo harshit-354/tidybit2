@@ -101,4 +101,4 @@ A structured approach is non-negotiable given the difficulty level.
 
 Targeted, disciplined practice on the right patterns at the right difficulty level is your formula for success.
 
-[Browse all MakeMyTrip questions on CodeJeet](/company/makemytrip)
+[Browse all MakeMyTrip questions on TidyBit](/company/makemytrip)

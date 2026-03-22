@@ -135,4 +135,4 @@ If you are **choosing a company to apply to**, consider your strengths. If you e
 
 Regardless, use the larger Adobe question bank for extensive Medium-difficulty practice, as it will build robust general skills. Then, tailor your final preparation using the specific Zoho DP or Adobe two-pointer focus areas.
 
-For detailed question lists, visit the Adobe and Zoho pages on CodeJeet: [/company/adobe](/company/adobe) and [/company/zoho](/company/zoho).
+For detailed question lists, visit the Adobe and Zoho pages on TidyBit: [/company/adobe](/company/adobe) and [/company/zoho](/company/zoho).

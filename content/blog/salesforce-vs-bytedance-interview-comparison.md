@@ -8,7 +8,7 @@ tags: ["salesforce", "bytedance", "comparison"]
 
 # Salesforce vs ByteDance: Interview Question Comparison
 
-Preparing for technical interviews at top tech companies requires targeted practice. Salesforce and ByteDance (the parent company of TikTok) are both major players, but their interview processes and technical focuses differ significantly. This comparison analyzes their question banks on CodeJeet to help you strategize your preparation.
+Preparing for technical interviews at top tech companies requires targeted practice. Salesforce and ByteDance (the parent company of TikTok) are both major players, but their interview processes and technical focuses differ significantly. This comparison analyzes their question banks on TidyBit to help you strategize your preparation.
 
 ## Question Volume and Difficulty
 

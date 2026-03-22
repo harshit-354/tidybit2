@@ -66,4 +66,4 @@ Then, pivot to **Uber-specific preparation**. This involves:
 
 In short, use Microsoft's breadth to build your fundamental muscle memory. Use Uber's depth and domain context to sharpen your skills for high-intensity, applied problem-solving.
 
-For targeted practice, visit the Microsoft and Uber question lists on CodeJeet: [Microsoft Interview Questions](/company/microsoft) | [Uber Interview Questions](/company/uber)
+For targeted practice, visit the Microsoft and Uber question lists on TidyBit: [Microsoft Interview Questions](/company/microsoft) | [Uber Interview Questions](/company/uber)

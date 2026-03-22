@@ -142,4 +142,4 @@ Prepare for **DoorDash first** if you are interviewing with them imminently or h
 
 In short: Use Meta to build your general muscle. Use DoorDash to sharpen a specific, practical blade.
 
-For targeted practice, visit the CodeJeet pages for [Meta](/company/meta) and [DoorDash](/company/doordash).
+For targeted practice, visit the TidyBit pages for [Meta](/company/meta) and [DoorDash](/company/doordash).

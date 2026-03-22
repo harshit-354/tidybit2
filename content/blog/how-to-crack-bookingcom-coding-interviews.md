@@ -93,4 +93,4 @@ A structured approach is essential. Here is a focused plan.
 
 Success in Booking.com interviews hinges on methodical preparation focused on high-probability topics and patterns. Structure your study, practice communication, and drill until efficient problem-solving becomes automatic.
 
-[Browse all Booking.com questions on CodeJeet](/company/bookingcom)
+[Browse all Booking.com questions on TidyBit](/company/bookingcom)

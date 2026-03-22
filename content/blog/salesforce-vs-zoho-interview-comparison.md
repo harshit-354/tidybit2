@@ -89,4 +89,4 @@ If you are targeting **Salesforce**, you should still build a foundation with co
 
 For a generalist preparing for both, **begin with Zoho's focus**. Mastering the high volume of Easy and Medium problems across the shared topics creates a robust foundation. Once you can solve these efficiently, transition to the more challenging Medium and Hard problems prevalent in Salesforce's question bank. This approach builds competency progressively and reduces the risk of being overwhelmed by advanced problems prematurely.
 
-For dedicated question lists and patterns, visit the CodeJeet pages for [Salesforce](/company/salesforce) and [Zoho](/company/zoho).
+For dedicated question lists and patterns, visit the TidyBit pages for [Salesforce](/company/salesforce) and [Zoho](/company/zoho).

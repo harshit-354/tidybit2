@@ -121,4 +121,4 @@ Often a preprocessing step to enable other algorithms (like the two-pointer exam
 
 Success in a Persistent Systems interview is a function of disciplined practice on high-yield fundamentals. Focus on the core topics, master the essential patterns, and prioritize writing clean, robust code under time constraints.
 
-[Browse all Persistent Systems questions on CodeJeet](/company/persistent-systems)
+[Browse all Persistent Systems questions on TidyBit](/company/persistent-systems)

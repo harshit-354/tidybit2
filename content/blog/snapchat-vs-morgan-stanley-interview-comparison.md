@@ -6,7 +6,7 @@ category: "tips"
 tags: ["snapchat", "morgan-stanley", "comparison"]
 ---
 
-When preparing for technical interviews, company-specific question patterns reveal what each organization prioritizes. Snapchat and Morgan Stanley, while both requiring strong algorithmic skills, present distinct profiles in their coding interview question banks on CodeJeet. Snapchat's list is larger and more heavily weighted toward hard problems, reflecting its product-driven engineering culture focused on scalable, real-time systems. Morgan Stanley's list is smaller with a greater emphasis on medium problems, aligning with the financial industry's need for robust, accurate, and often mathematically-inclined solutions. Understanding the volume, difficulty, and core topics is key to efficient preparation.
+When preparing for technical interviews, company-specific question patterns reveal what each organization prioritizes. Snapchat and Morgan Stanley, while both requiring strong algorithmic skills, present distinct profiles in their coding interview question banks on TidyBit. Snapchat's list is larger and more heavily weighted toward hard problems, reflecting its product-driven engineering culture focused on scalable, real-time systems. Morgan Stanley's list is smaller with a greater emphasis on medium problems, aligning with the financial industry's need for robust, accurate, and often mathematically-inclined solutions. Understanding the volume, difficulty, and core topics is key to efficient preparation.
 
 ## Question Volume and Difficulty
 

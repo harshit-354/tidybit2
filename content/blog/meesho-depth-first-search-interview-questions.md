@@ -72,6 +72,6 @@ public class DFSExample {
 
 ## Recommended Practice Order
 
-Build your skills progressively. Begin with basic tree traversals (pre-order, in-order, post-order) and simple graph connectivity problems. Move to path-based problems, like finding all root-to-leaf paths or checking for path sums. Then tackle more complex scenarios involving cycles, backtracking (e.g., permutation generation), or multi-state visits (like detecting bipartite graphs). Finally, practice Meesho-specific problems by reviewing common DFS questions from e-commerce or social network domains. Use platforms like CodeJeet to filter problems by company and topic. Time yourself to simulate interview conditions, and always verbalize your thought process as you code.
+Build your skills progressively. Begin with basic tree traversals (pre-order, in-order, post-order) and simple graph connectivity problems. Move to path-based problems, like finding all root-to-leaf paths or checking for path sums. Then tackle more complex scenarios involving cycles, backtracking (e.g., permutation generation), or multi-state visits (like detecting bipartite graphs). Finally, practice Meesho-specific problems by reviewing common DFS questions from e-commerce or social network domains. Use platforms like TidyBit to filter problems by company and topic. Time yourself to simulate interview conditions, and always verbalize your thought process as you code.
 
 [Practice Depth-First Search at Meesho](/company/meesho/depth-first-search)

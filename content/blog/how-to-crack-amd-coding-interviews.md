@@ -109,4 +109,4 @@ A focused, consistent plan is more effective than sporadic cramming.
 
 Mastering these core patterns and practicing under realistic conditions is the most reliable way to pass the AMD coding screen. Your goal is to demonstrate consistent, methodical skill, not flashy brilliance.
 
-[Browse all AMD questions on CodeJeet](/company/amd)
+[Browse all AMD questions on TidyBit](/company/amd)

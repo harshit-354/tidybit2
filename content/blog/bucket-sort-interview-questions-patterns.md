@@ -243,4 +243,4 @@ These companies value bucket sort questions because they test practical problem-
 
 Master these patterns and you'll recognize bucket sort opportunities even when the problem doesn't mention sorting explicitly.
 
-[Practice all Bucket Sort questions on CodeJeet](/topic/bucket-sort)
+[Practice all Bucket Sort questions on TidyBit](/topic/bucket-sort)

@@ -100,4 +100,4 @@ Interactive questions are a staple at companies that emphasize system design and
 
 Build fluency with these patterns and strategies to handle the live, collaborative nature of modern technical interviews.
 
-[Practice all Interactive questions on CodeJeet](/topic/interactive)
+[Practice all Interactive questions on TidyBit](/topic/interactive)

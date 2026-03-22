@@ -98,6 +98,6 @@ Tackle the 30 Agoda array questions in this strategic order to build competence 
 1.  **Foundation:** Start with basic in-place operations (Remove Duplicates, Move Zeroes) and simple two-pointer problems (Two Sum on a sorted array).
 2.  **Core Patterns:** Dive deep into Sliding Window (both fixed and variable size) and Prefix Sum problems. This is the bulk of your work.
 3.  **Combination & Optimization:** Practice problems that combine techniques, like using a hash map with two pointers, or that require non-trivial index manipulation.
-4.  **Agoda-Specific List:** Finally, run through all 30 Agoda-tagged problems on CodeJeet in a timed setting to simulate the interview environment.
+4.  **Agoda-Specific List:** Finally, run through all 30 Agoda-tagged problems on TidyBit in a timed setting to simulate the interview environment.
 
 [Practice Array at Agoda](/company/agoda/array)

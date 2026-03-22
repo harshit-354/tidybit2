@@ -107,6 +107,6 @@ Then, move to **NVIDIA**. Use the foundation from Morgan Stanley prep and expand
 
 This sequential approach is efficient: you build from a targeted to a broad scope, ensuring you cover all common ground while layering on each company's unique demands.
 
-For specific question lists and patterns, visit the NVIDIA and Morgan Stanley pages on CodeJeet:  
+For specific question lists and patterns, visit the NVIDIA and Morgan Stanley pages on TidyBit:  
 [/company/nvidia](/company/nvidia)  
 [/company/morgan-stanley](/company/morgan-stanley)

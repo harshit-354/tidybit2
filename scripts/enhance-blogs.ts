@@ -48,7 +48,7 @@ async function callDeepSeek(prompt: string, systemPrompt: string): Promise<strin
   return data.choices[0].message.content;
 }
 
-const SYSTEM_PROMPT = `You are enhancing existing blog posts for CodeJeet, a coding interview prep website. Your job is to ADD code examples and diagrams to make the content more practical and in-depth.
+const SYSTEM_PROMPT = `You are enhancing existing blog posts for TidyBit, a coding interview prep website. Your job is to ADD code examples and diagrams to make the content more practical and in-depth.
 
 Rules:
 1. Keep ALL existing content — do not remove or significantly rewrite existing text

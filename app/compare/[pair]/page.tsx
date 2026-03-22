@@ -39,14 +39,14 @@ export async function generateMetadata({
       `Compare ${companyA.displayName} (${companyA.questionCount} questions) and ` +
       `${companyB.displayName} (${companyB.questionCount} questions). ` +
       `${sharedCount} shared LeetCode problems.`,
-    alternates: { canonical: `https://codejeet.com/compare/${pair}` },
+    alternates: { canonical: `https://tidybit.com/compare/${pair}` },
     openGraph: {
-      title: `${companyA.displayName} vs ${companyB.displayName} | CodeJeet`,
+      title: `${companyA.displayName} vs ${companyB.displayName} | TidyBit`,
       description:
         `Side-by-side comparison of ${companyA.displayName} and ${companyB.displayName} ` +
         `interview questions. ${sharedCount} shared problems.`,
       type: "website",
-      url: `https://codejeet.com/compare/${pair}`,
+      url: `https://tidybit.com/compare/${pair}`,
     },
   };
 }
@@ -185,7 +185,7 @@ export default async function ComparePage({ params }: { params: Promise<{ pair: 
             `Compare ${companyA.questionCount} ${companyA.displayName} and ` +
             `${companyB.questionCount} ${companyB.displayName} LeetCode interview questions. ` +
             `${sharedCount} shared problems.`,
-          url: `https://codejeet.com/compare/${pair}`,
+          url: `https://tidybit.com/compare/${pair}`,
           numberOfItems: sharedCount,
         })}
       />

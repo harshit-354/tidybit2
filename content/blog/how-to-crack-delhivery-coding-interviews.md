@@ -115,7 +115,7 @@ A structured approach is key. Here is a focused 4-6 week plan.
 
 **Weeks 5-6: Mock Interviews & Weakness Repair**
 
-- Schedule at least 6-8 mock interviews. Use platforms like CodeJeet's mock interview feature or practice with peers.
+- Schedule at least 6-8 mock interviews. Use platforms like TidyBit's mock interview feature or practice with peers.
 - Identify your weak topics from the mocks. Dedicate entire days to drilling those specific areas (e.g., if recursion is weak, do 10 recursion-only problems).
 - In the final 3 days, stop learning new topics. Review your notes, re-solve key problems you've already done, and focus on rest.
 
@@ -129,4 +129,4 @@ A structured approach is key. Here is a focused 4-6 week plan.
 
 Success in Delhivery's coding interview comes from consistent, pattern-focused practice and clear communication. Build the muscle memory for core algorithms so you can focus on problem-solving during the interview.
 
-[Browse all Delhivery questions on CodeJeet](/company/delhivery)
+[Browse all Delhivery questions on TidyBit](/company/delhivery)

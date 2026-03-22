@@ -113,4 +113,4 @@ A structured approach is non-negotiable. Here’s a week-by-week plan.
 
 Success in an Arista interview hinges on methodical preparation for Medium-difficulty problems across core data structures. Build pattern recognition through volume, then refine it through timed practice and clear communication.
 
-[Browse all Arista Networks questions on CodeJeet](/company/arista-networks)
+[Browse all Arista Networks questions on TidyBit](/company/arista-networks)

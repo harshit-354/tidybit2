@@ -6,7 +6,7 @@ category: "tips"
 tags: ["goldman-sachs", "yandex", "comparison"]
 ---
 
-When preparing for technical interviews at top firms, understanding the specific focus and difficulty of their question banks can dramatically improve your efficiency. Goldman Sachs and Yandex, while both prestigious, present distinct profiles in their coding interview preparation resources on CodeJeet. This comparison analyzes their question volume, difficulty distribution, and core topics to help you strategize your study plan.
+When preparing for technical interviews at top firms, understanding the specific focus and difficulty of their question banks can dramatically improve your efficiency. Goldman Sachs and Yandex, while both prestigious, present distinct profiles in their coding interview preparation resources on TidyBit. This comparison analyzes their question volume, difficulty distribution, and core topics to help you strategize your study plan.
 
 ## Question Volume and Difficulty
 
@@ -97,4 +97,4 @@ After conquering the Yandex core, transition to **Goldman Sachs preparation**. T
 
 Effectively, preparing for Goldman Sachs encompasses the Yandex foundation and then adds a heavy layer of additional complexity and breadth. Using the Yandex topics as a starting point creates a logical and efficient progression in your interview preparation journey.
 
-For detailed question lists and practice, visit the [Goldman Sachs](/company/goldman-sachs) and [Yandex](/company/yandex) company pages on CodeJeet.
+For detailed question lists and practice, visit the [Goldman Sachs](/company/goldman-sachs) and [Yandex](/company/yandex) company pages on TidyBit.

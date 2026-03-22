@@ -103,4 +103,4 @@ A structured plan is non-negotiable. Here is a focused 4-6 week schedule.
 
 Success in Spotify’s coding interviews is a function of pattern recognition, clear communication, and deliberate practice. Target the core topics, simulate the interview environment, and always articulate your reasoning.
 
-[Browse all Spotify questions on CodeJeet](/company/spotify)
+[Browse all Spotify questions on TidyBit](/company/spotify)

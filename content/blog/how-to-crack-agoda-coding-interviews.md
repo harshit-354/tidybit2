@@ -156,4 +156,4 @@ A structured approach is non-negotiable. Here is a focused plan.
 
 Consistent, topic-focused practice is the only shortcut. Understand the patterns, communicate your process, and write clean code.
 
-[Browse all Agoda questions on CodeJeet](/company/agoda)
+[Browse all Agoda questions on TidyBit](/company/agoda)

@@ -142,4 +142,4 @@ public int knapsack(int[] values, int[] weights, int capacity) {
 
 The path to a DRW offer is built on precision, not puzzle-solving genius. Solidify your fundamentals in Arrays and Dynamic Programming, practice delivering flawless code under time constraints, and you'll be prepared for what their interviews demand.
 
-[Browse all DRW questions on CodeJeet](/company/drw)
+[Browse all DRW questions on TidyBit](/company/drw)

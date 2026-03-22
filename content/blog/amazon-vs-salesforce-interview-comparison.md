@@ -100,4 +100,4 @@ Your preparation order should be guided by the principle of **foundation first, 
 
 This approach builds a strong, versatile foundation before scaling up to the more extensive and varied challenge of Amazon's interview loop.
 
-For targeted question lists and patterns, visit the CodeJeet pages for [Amazon](/company/amazon) and [Salesforce](/company/salesforce).
+For targeted question lists and patterns, visit the TidyBit pages for [Amazon](/company/amazon) and [Salesforce](/company/salesforce).

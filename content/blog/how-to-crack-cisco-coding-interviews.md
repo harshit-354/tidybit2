@@ -395,7 +395,7 @@ public class ReverseInteger {
 
 </div>
 
-**Weeks 3-4: Pattern Mastery and Mock Interviews.** Shift to mixed-topic practice. Use the Cisco-tagged problems on CodeJeet and group them by pattern (e.g., all "Hash Table + Two Pointer" problems). Begin doing timed 45-minute sessions where you solve one Medium or one Easy + one Hard problem. Verbally explain your thought process as you code. This simulates the interview environment. A key skill is recognizing when to combine techniques. For example, the "Longest Substring Without Repeating Characters" problem combines a hash table (or set) with a sliding window.
+**Weeks 3-4: Pattern Mastery and Mock Interviews.** Shift to mixed-topic practice. Use the Cisco-tagged problems on TidyBit and group them by pattern (e.g., all "Hash Table + Two Pointer" problems). Begin doing timed 45-minute sessions where you solve one Medium or one Easy + one Hard problem. Verbally explain your thought process as you code. This simulates the interview environment. A key skill is recognizing when to combine techniques. For example, the "Longest Substring Without Repeating Characters" problem combines a hash table (or set) with a sliding window.
 
 <div class="code-group">
 
@@ -596,4 +596,4 @@ public class ProductionCode {
 
 Success with Cisco's coding interview comes from disciplined, data-driven practice on their most frequent topics and difficulty levels. Focus on pattern recognition and clear communication. By mastering the core topics with practical code examples and following a structured preparation plan, you significantly increase your chances of success.
 
-[Browse all Cisco questions on CodeJeet](/company/cisco)
+[Browse all Cisco questions on TidyBit](/company/cisco)

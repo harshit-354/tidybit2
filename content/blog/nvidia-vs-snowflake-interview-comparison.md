@@ -98,4 +98,4 @@ After establishing core proficiency, pivot to **Snowflake's** specific demands. 
 
 Ultimately, preparing for NVIDIA first creates a natural on-ramp to the more challenging Snowflake interview. Focus on clean, optimal solutions for NVIDIA's medium problems, then layer on the advanced problem-solving and graph theory needed for Snowflake.
 
-For targeted practice, visit the NVIDIA question list at [CodeJeet/nvidia](/company/nvidia) and the Snowflake list at [CodeJeet/snowflake](/company/snowflake).
+For targeted practice, visit the NVIDIA question list at [TidyBit/nvidia](/company/nvidia) and the Snowflake list at [TidyBit/snowflake](/company/snowflake).

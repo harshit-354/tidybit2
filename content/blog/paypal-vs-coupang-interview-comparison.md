@@ -119,4 +119,4 @@ Prepare for **Coupang first** if you are already comfortable with arrays, string
 
 In summary, use PayPal for broad foundational practice and Coupang for targeted, advanced depth in DP.
 
-For specific question lists, visit the [PayPal](/company/paypal) and [Coupang](/company/coupang) pages on CodeJeet.
+For specific question lists, visit the [PayPal](/company/paypal) and [Coupang](/company/coupang) pages on TidyBit.

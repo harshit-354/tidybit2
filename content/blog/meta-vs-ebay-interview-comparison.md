@@ -123,4 +123,4 @@ Your strategy depends on your timeline and goals.
 
 A pragmatic hybrid approach is to **build a foundation using eBay's focused list, then expand into Meta's vast problem set.** This ensures you have core patterns down before tackling more esoteric and difficult problems. Regardless of the order, start with the shared core topics: drill array and string manipulations and internalize hash table patterns.
 
-For targeted practice, visit the CodeJeet pages for [Meta](/company/meta) and [eBay](/company/ebay).
+For targeted practice, visit the TidyBit pages for [Meta](/company/meta) and [eBay](/company/ebay).

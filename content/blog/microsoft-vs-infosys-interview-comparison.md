@@ -157,4 +157,4 @@ public int reverse(int x) {
 
 Prepare for **Infosys first**. Its smaller, foundational question set covering core topics (Array, String, DP, Math) establishes the essential problem-solving muscle memory. Success here builds confidence and a solid base. Once this core is strong, scaling up to **Microsoft's** list is a matter of volume, depth, and increased emphasis on advanced data structures like Hash Tables and tackling more Hard problems. This progression ensures you build from a stable foundation outward, rather than being overwhelmed by breadth and complexity from the start.
 
-For detailed company-specific question lists and guides, visit the CodeJeet pages for [Microsoft](/company/microsoft) and [Infosys](/company/infosys).
+For detailed company-specific question lists and guides, visit the TidyBit pages for [Microsoft](/company/microsoft) and [Infosys](/company/infosys).

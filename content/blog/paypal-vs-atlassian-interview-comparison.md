@@ -88,4 +88,4 @@ If you are interviewing with both, or simply using one as practice for the other
 
 Ultimately, your preparation should be depth-first on the four shared topics, using the larger PayPal problem set as your primary drilling ground to build robust, transferable problem-solving skills.
 
-For detailed question lists and patterns, visit the PayPal and Atlassian pages on CodeJeet: [/company/paypal](/company/paypal) and [/company/atlassian](/company/atlassian).
+For detailed question lists and patterns, visit the PayPal and Atlassian pages on TidyBit: [/company/paypal](/company/paypal) and [/company/atlassian](/company/atlassian).

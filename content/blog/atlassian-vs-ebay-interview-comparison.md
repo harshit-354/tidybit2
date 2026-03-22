@@ -90,4 +90,4 @@ Focus your study in this order:
 
 This approach maximizes your readiness for the more challenging interview (Atlassian) while ensuring comprehensive coverage for the other (eBay).
 
-For the complete question lists, visit the [Atlassian interview questions](/company/atlassian) and [eBay interview questions](/company/ebay) pages on CodeJeet.
+For the complete question lists, visit the [Atlassian interview questions](/company/atlassian) and [eBay interview questions](/company/ebay) pages on TidyBit.

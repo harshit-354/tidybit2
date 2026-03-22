@@ -91,4 +91,4 @@ A structured approach is key to covering the necessary ground without burnout.
 
 Mastering these patterns and executing this focused plan will position you strongly for Chewy's coding interviews. The goal is consistent, clean, and communicable solutions.
 
-[Browse all Chewy questions on CodeJeet](/company/chewy)
+[Browse all Chewy questions on TidyBit](/company/chewy)

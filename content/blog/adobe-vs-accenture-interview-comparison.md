@@ -81,4 +81,4 @@ If you are aiming for a **technology analyst, consulting, or application develop
 
 In practice, a robust preparation strategy covers the union of both sets: achieve fluency in Array, String, Hash Table, and Math problems first (Accenture's core), then diligently practice Two Pointer patterns and tackle more challenging problem variations (Adobe's emphasis).
 
-For detailed question lists, visit the Adobe and Accenture pages on CodeJeet: [/company/adobe](/company/adobe) and [/company/accenture](/company/accenture).
+For detailed question lists, visit the Adobe and Accenture pages on TidyBit: [/company/adobe](/company/adobe) and [/company/accenture](/company/accenture).

@@ -105,4 +105,4 @@ A focused, consistent approach is key. This plan assumes you have basic programm
 
 Your goal is to make solving a Medium array problem with a hash table look routine. Build the muscle memory through targeted practice.
 
-[Browse all Cvent questions on CodeJeet](/company/cvent)
+[Browse all Cvent questions on TidyBit](/company/cvent)

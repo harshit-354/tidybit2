@@ -91,4 +91,4 @@ If your goal is **Samsung**, build a broader foundation. Ensure you are very com
 
 For a generalist preparing for both, **start with the common core**. Focus intensely on **Array and Dynamic Programming**. Achieving high proficiency here will build a foundation applicable to both companies. Then, branch out: practice String problems for ServiceNow and Two Pointers for Samsung. Given the high volume of Medium questions for ServiceNow, using its question bank for drill practice is excellent for building consistent competency, while practicing Samsung's question bank will better test your limits with harder problems.
 
-Explore the specific question lists for [ServiceNow](/company/servicenow) and [Samsung](/company/samsung) on CodeJeet to tailor your study plan further.
+Explore the specific question lists for [ServiceNow](/company/servicenow) and [Samsung](/company/samsung) on TidyBit to tailor your study plan further.

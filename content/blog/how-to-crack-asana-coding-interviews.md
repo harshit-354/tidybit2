@@ -144,7 +144,7 @@ A structured plan is essential to cover the high-yield topics.
 
 **Weeks 5-6: Mock Interviews & Refinement**
 
-- Days 29-35: Conduct at least 5-7 full mock interviews (70 minutes each) simulating Asana’s format. Use platforms like CodeJeet with a focus on Asana’s tagged questions.
+- Days 29-35: Conduct at least 5-7 full mock interviews (70 minutes each) simulating Asana’s format. Use platforms like TidyBit with a focus on Asana’s tagged questions.
 - Days 36-42: Review weaknesses. Revisit heap and DP problems. Practice clearly explaining your thought process out loud for every problem you solve.
 
 ## Key Tips
@@ -157,4 +157,4 @@ A structured plan is essential to cover the high-yield topics.
 
 Success in Asana’s interviews comes from structured preparation on their core topics and demonstrating clear, communicative problem-solving.
 
-[Browse all Asana questions on CodeJeet](/company/asana)
+[Browse all Asana questions on TidyBit](/company/asana)

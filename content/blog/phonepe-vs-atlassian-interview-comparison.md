@@ -87,4 +87,4 @@ Your choice depends on your immediate goals and preparation style.
 
 Ultimately, the strong overlap in Arrays, Hash Tables, and Sorting means preparation for one company significantly benefits the other. Prioritize based on which difficulty curve aligns with your current level and timeline.
 
-For more detailed company-specific question lists and patterns, visit the CodeJeet pages for [PhonePe](/company/phonepe) and [Atlassian](/company/atlassian).
+For more detailed company-specific question lists and patterns, visit the TidyBit pages for [PhonePe](/company/phonepe) and [Atlassian](/company/atlassian).

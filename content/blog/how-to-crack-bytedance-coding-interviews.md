@@ -666,7 +666,7 @@ public class PathSum {
 
 A focused 6-week plan is effective. This assumes you already have a basic grasp of data structures.
 
-**Weeks 1-2: Foundation & Core Topics.** Dedicate this phase to Arrays, Strings, and Hash Tables. Solve 15-20 problems on each topic, prioritizing Medium difficulty. Use platforms like CodeJeet to filter for ByteDance-tagged questions. Focus on understanding patterns, not memorizing solutions. For each problem, implement the solution in at least two languages to build fluency. Practice the two-pointer and sliding window patterns until you can identify them instantly. For hash tables, practice problems that require frequency counting, set operations, and complement lookups (like the two-sum problem).
+**Weeks 1-2: Foundation & Core Topics.** Dedicate this phase to Arrays, Strings, and Hash Tables. Solve 15-20 problems on each topic, prioritizing Medium difficulty. Use platforms like TidyBit to filter for ByteDance-tagged questions. Focus on understanding patterns, not memorizing solutions. For each problem, implement the solution in at least two languages to build fluency. Practice the two-pointer and sliding window patterns until you can identify them instantly. For hash tables, practice problems that require frequency counting, set operations, and complement lookups (like the two-sum problem).
 
 **Weeks 3-4: Advanced Patterns & Differentiation.** Dive into Dynamic Programming and Breadth-First Search/Graph traversal. These are harder and require more time to click. Start with standard DP problems (knapsack, LIS, coin change) and graph fundamentals (adjacency list representation, BFS/DFS traversal), then move to more complex variations. Solve at least 25-30 problems across these two categories. For DP, focus on both top-down (memoization) and bottom-up (tabulation) approaches. For BFS, practice problems on grids, word ladders, and level-order tree traversals.
 
@@ -686,4 +686,4 @@ A focused 6-week plan is effective. This assumes you already have a basic grasp 
 
 Consistent, pattern-focused practice on the core topics is what separates candidates who pass from those who don't. Start with the fundamentals, pressure-test your skills with timed practice, and walk into the interview ready to discuss not just the answer, but the engineering trade-offs behind it.
 
-[Browse all ByteDance questions on CodeJeet](/company/bytedance)
+[Browse all ByteDance questions on TidyBit](/company/bytedance)

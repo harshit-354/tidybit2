@@ -898,4 +898,4 @@ public class ReverseLinkedList {
 
 5.  **Research the specific team you are interviewing for.** Microsoft is a large company with diverse product lines. Understanding the technical challenges of the specific team you are targeting helps you connect your answers to what they actually build. For example, if interviewing for Azure Storage, be prepared for systems-level questions about distributed systems, consistency, and scalability.
 
-[Browse all Microsoft questions on CodeJeet](/company/microsoft)
+[Browse all Microsoft questions on TidyBit](/company/microsoft)

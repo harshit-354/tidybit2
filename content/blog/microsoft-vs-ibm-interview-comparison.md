@@ -10,7 +10,7 @@ When preparing for technical interviews at major tech companies, understanding t
 
 ## Question Volume and Difficulty
 
-The most immediate difference is the sheer scale of available practice material. On CodeJeet, Microsoft's question bank is substantially larger, with **1,352 questions** categorized by difficulty (Easy: 379, Medium: 762, Hard: 211). This vast pool reflects both the company's long history of technical interviews and the breadth of roles and teams. In contrast, IBM's listed bank is **170 questions** (Easy: 52, Medium: 102, Hard: 16).
+The most immediate difference is the sheer scale of available practice material. On TidyBit, Microsoft's question bank is substantially larger, with **1,352 questions** categorized by difficulty (Easy: 379, Medium: 762, Hard: 211). This vast pool reflects both the company's long history of technical interviews and the breadth of roles and teams. In contrast, IBM's listed bank is **170 questions** (Easy: 52, Medium: 102, Hard: 16).
 
 This disparity suggests two things. First, preparing for Microsoft often involves broader, more extensive practice to cover potential question variations. The higher count of Medium and Hard questions indicates a strong emphasis on problems requiring multiple steps and optimized solutions. Second, IBM's smaller, more concentrated set suggests a more predictable interview loop where mastering a core set of patterns from these questions could be highly effective. The difficulty distribution for IBM is still weighted towards Medium, but with far fewer Hard problems, potentially indicating a slightly lower ceiling for algorithmic complexity in general screenings.
 
@@ -133,4 +133,4 @@ Prepare for Microsoft after solidifying the fundamentals or if you are targeting
 
 Ultimately, your choice should be guided by your target company and timeline. A strong candidate will be comfortable with the core topics of both, as they represent the bedrock of software engineering interviews.
 
-For detailed question lists and patterns, visit the [Microsoft](/company/microsoft) and [IBM](/company/ibm) company pages on CodeJeet.
+For detailed question lists and patterns, visit the [Microsoft](/company/microsoft) and [IBM](/company/ibm) company pages on TidyBit.

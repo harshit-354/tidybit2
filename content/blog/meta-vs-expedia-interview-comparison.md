@@ -79,4 +79,4 @@ Your preparation order should be dictated by your interview timeline and the bre
 
 A strategic hybrid approach is to use the **common topics (Array, String, Hash Table) as your core study foundation**. Then, layer on Meta's Math problems or Expedia's Greedy problems based on your target company. Ultimately, preparing for Meta is the more comprehensive and demanding path, but preparing for Expedia is a more immediately achievable goal.
 
-For detailed question lists and patterns, visit the CodeJeet pages for [Meta](/company/meta) and [Expedia](/company/expedia).
+For detailed question lists and patterns, visit the TidyBit pages for [Meta](/company/meta) and [Expedia](/company/expedia).

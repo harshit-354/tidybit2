@@ -97,4 +97,4 @@ A structured, intensive plan is non-negotiable.
 
 The TuSimple interview is a test of disciplined, high-level algorithmic skill. Target your preparation on the hard patterns, practice communicating complex ideas simply, and you’ll be positioned to succeed.
 
-[Browse all TuSimple questions on CodeJeet](/company/tusimple)
+[Browse all TuSimple questions on TidyBit](/company/tusimple)

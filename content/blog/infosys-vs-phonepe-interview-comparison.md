@@ -6,7 +6,7 @@ category: "tips"
 tags: ["infosys", "phonepe", "comparison"]
 ---
 
-When preparing for technical interviews, understanding the specific focus and expectations of each company can dramatically improve your efficiency. Infosys and PhonePe represent two distinct ends of the tech interview spectrum: one is a global IT services giant with a broad hiring scope, and the other is a high-growth fintech product company. Their question banks on CodeJeet reveal clear differences in volume, difficulty, and topic emphasis, which should directly shape your preparation strategy.
+When preparing for technical interviews, understanding the specific focus and expectations of each company can dramatically improve your efficiency. Infosys and PhonePe represent two distinct ends of the tech interview spectrum: one is a global IT services giant with a broad hiring scope, and the other is a high-growth fintech product company. Their question banks on TidyBit reveal clear differences in volume, difficulty, and topic emphasis, which should directly shape your preparation strategy.
 
 ## Question Volume and Difficulty
 

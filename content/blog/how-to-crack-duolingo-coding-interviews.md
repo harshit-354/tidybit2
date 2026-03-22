@@ -146,4 +146,4 @@ A structured approach is key to covering the required depth.
 
 Your goal is to make solving a Medium problem look easy and to demonstrate systematic, resilient thinking on a Hard one. Target your practice accordingly.
 
-[Browse all Duolingo questions on CodeJeet](/company/duolingo)
+[Browse all Duolingo questions on TidyBit](/company/duolingo)

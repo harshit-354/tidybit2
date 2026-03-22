@@ -145,4 +145,4 @@ public class BFSShortestPath {
 
 Consistent, focused practice on these core algorithms and patterns is the most reliable way to build the competence and confidence needed to succeed. Start with the fundamentals, pressure-test with hard problems, and simulate the real environment.
 
-[Browse all Graviton questions on CodeJeet](/company/graviton)
+[Browse all Graviton questions on TidyBit](/company/graviton)

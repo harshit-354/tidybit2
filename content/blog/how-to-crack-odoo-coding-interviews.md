@@ -80,7 +80,7 @@ public int removeDuplicates(int[] nums) {
 A structured approach is key to covering the necessary ground without burnout.
 
 **Weeks 1-2: Core Fundamentals**
-Dedicate this phase to data structures. Each day, study one topic: Arrays & Strings, Linked Lists, Stacks & Queues, Hash Maps, and Basic Sorting. For each, solve 3-5 Easy problems on platforms like LeetCode or CodeJeet, focusing on the patterns themselves (e.g., for Stacks, solve parentheses validation and stack-based queue problems). Implement solutions in your primary interview language until the syntax is automatic.
+Dedicate this phase to data structures. Each day, study one topic: Arrays & Strings, Linked Lists, Stacks & Queues, Hash Maps, and Basic Sorting. For each, solve 3-5 Easy problems on platforms like LeetCode or TidyBit, focusing on the patterns themselves (e.g., for Stacks, solve parentheses validation and stack-based queue problems). Implement solutions in your primary interview language until the syntax is automatic.
 
 **Weeks 3-4: Pattern Mastery**
 Shift focus to algorithmic patterns. Prioritize the Two Pointers technique, Sliding Window, and basic Binary Search. Solve 2-3 Medium problems for each pattern. Simultaneously, practice 1-2 conceptual System Design exercises per week. For example, sketch the design for a hotel reservation system: identify core entities (Room, Booking), their relationships, and key operations (check availability, create booking).
@@ -97,4 +97,4 @@ In the final stretch, take full 60-90 minute practice sessions that mimic the re
 
 Success in an Odoo coding interview is less about genius and more about consistent, disciplined practice of the right fundamentals. Master the patterns they test, communicate clearly, and write solid code.
 
-[Browse all Odoo questions on CodeJeet](/company/odoo)
+[Browse all Odoo questions on TidyBit](/company/odoo)

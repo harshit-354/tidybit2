@@ -117,4 +117,4 @@ Your preparation order should be guided by your target role and current skill le
 
 Regardless of your target, a solid strategy is to master the shared **Array and String** fundamentals, then branch out into Infosys's **DP/Math** problems for algorithmic depth, followed by Snapchat's **Hash Table and BFS** problems for applied, performance-critical coding.
 
-For focused practice, visit the Infosys question list at [/company/infosys](https://codejeet.com/company/infosys) and the Snapchat question list at [/company/snapchat](https://codejeet.com/company/snapchat).
+For focused practice, visit the Infosys question list at [/company/infosys](https://tidybit.com/company/infosys) and the Snapchat question list at [/company/snapchat](https://tidybit.com/company/snapchat).

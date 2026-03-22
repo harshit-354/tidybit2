@@ -13,7 +13,7 @@ The NVIDIA interview process varies by team but generally includes a recruiter s
 
 ## By the Numbers
 
-NVIDIA's CodeJeet question bank contains **137 questions**, a focused set that reveals clear patterns:
+NVIDIA's TidyBit question bank contains **137 questions**, a focused set that reveals clear patterns:
 
 - **Easy: 34 questions (25%)** — A quarter of the pool. Enough to warm up on, but not where the interview lives.
 - **Medium: 89 questions (65%)** — Two-thirds of all questions. NVIDIA interviews are firmly centered on Medium-level problem solving.
@@ -665,4 +665,4 @@ When discussing this implementation, you should mention:
 - **Memory overhead** of linked lists vs. arrays
 - **Cache behavior** - linked lists have poor cache locality compared to arrays
 
-[Browse all NVIDIA questions on CodeJeet](/company/nvidia)
+[Browse all NVIDIA questions on TidyBit](/company/nvidia)

@@ -95,4 +95,4 @@ Follow this structured plan to build and reinforce the necessary skills.
 
 Mastering these core patterns and executing them with clear communication will make you a strong candidate for Epic Systems' technical interview.
 
-[Browse all Epic Systems questions on CodeJeet](/company/epic-systems)
+[Browse all Epic Systems questions on TidyBit](/company/epic-systems)

@@ -10,7 +10,7 @@ When preparing for technical interviews, company-specific question patterns matt
 
 ## Question Volume and Difficulty
 
-The raw numbers tell a clear story. On CodeJeet, Bloomberg has **1,173 questions** categorized as Easy (391), Medium (625), and Hard (157). This massive volume indicates a wide-ranging interview process that likely draws from a deep, established pool of problems. The high Medium count suggests the core of their technical screen is solid algorithmic competency and implementation speed across many domains.
+The raw numbers tell a clear story. On TidyBit, Bloomberg has **1,173 questions** categorized as Easy (391), Medium (625), and Hard (157). This massive volume indicates a wide-ranging interview process that likely draws from a deep, established pool of problems. The high Medium count suggests the core of their technical screen is solid algorithmic competency and implementation speed across many domains.
 
 In stark contrast, Airbnb lists only **64 questions**: 11 Easy, 34 Medium, and 19 Hard. This smaller, more intense set implies a highly curated interview process. The significant proportion of Hard questions (nearly 30%) points to a focus on complex, multi-step problems that may involve system design elements or intricate optimization.
 
@@ -78,4 +78,4 @@ Once your DSA foundation is solid, pivot to **Airbnb's list**. Treat it as a set
 
 Focus your final preparation on the target company's specific list, but build your foundation with the broader one.
 
-For targeted practice, visit the CodeJeet pages for [Bloomberg](/company/bloomberg) and [Airbnb](/company/airbnb).
+For targeted practice, visit the TidyBit pages for [Bloomberg](/company/bloomberg) and [Airbnb](/company/airbnb).

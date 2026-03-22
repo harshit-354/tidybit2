@@ -127,4 +127,4 @@ Once comfortable, pivot your focus to **Nutanix**. This requires layering on two
 
 Ultimately, your priority should be dictated by your interview schedule. However, the data clearly shows that ServiceNow's profile is more aligned with generalist software engineering interview prep, making it the logical starting point.
 
-For more detailed company-specific question lists, visit the CodeJeet pages for [ServiceNow](/company/servicenow) and [Nutanix](/company/nutanix).
+For more detailed company-specific question lists, visit the TidyBit pages for [ServiceNow](/company/servicenow) and [Nutanix](/company/nutanix).

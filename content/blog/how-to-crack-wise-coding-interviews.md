@@ -91,4 +91,4 @@ Weeks 5-6: Company-Specific Tuning and Polish. Solve all available Wise-specific
 
 Targeted, pattern-based practice on arrays, sliding windows, and prefix sums will build the muscle memory you need. Consistency on medium problems is the key to unlocking the next round.
 
-[Browse all Wise questions on CodeJeet](/company/wise)
+[Browse all Wise questions on TidyBit](/company/wise)

@@ -114,4 +114,4 @@ With the high difficulty bar, a structured, intensive plan is non-negotiable.
 
 Cracking Baidu's interview is about demonstrating deep, flexible mastery of algorithmic fundamentals under high-stakes conditions. Target the hard problems, internalize the core patterns, and practice with relentless focus on quality and communication.
 
-[Browse all Baidu questions on CodeJeet](/company/baidu)
+[Browse all Baidu questions on TidyBit](/company/baidu)

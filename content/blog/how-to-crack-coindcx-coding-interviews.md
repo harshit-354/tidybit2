@@ -93,4 +93,4 @@ public int coinChange(int[] coins, int amount) {
 
 Mastering consistent, clean solutions to medium-difficulty problems in these key areas is your direct path to success. Start with the fundamentals, drill the patterns, and simulate the interview environment.
 
-[Browse all CoinDCX questions on CodeJeet](/company/coindcx)
+[Browse all CoinDCX questions on TidyBit](/company/coindcx)

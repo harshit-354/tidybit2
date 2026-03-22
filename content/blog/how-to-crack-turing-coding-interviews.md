@@ -85,4 +85,4 @@ A structured approach is non-negotiable. Here is a focused plan.
 
 Mastering Turing's interview comes down to pattern recognition, deliberate practice on their favored topics, and flawless execution of the fundamentals. Start with the core patterns, build up to integrated problem-solving, and practice articulating your logic.
 
-[Browse all Turing questions on CodeJeet](/company/turing)
+[Browse all Turing questions on TidyBit](/company/turing)

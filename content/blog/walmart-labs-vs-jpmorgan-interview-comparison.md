@@ -84,4 +84,4 @@ Your preparation priority should be guided by your target companies and timeline
 
 A strategic hybrid approach is to **start with the shared core**. Achieve fluency with array/string manipulation and hash table patterns. Then, based on your interview schedule, branch out: add Sorting deep dives for JPMorgan or initiate a structured DP study plan for Walmart Labs.
 
-For detailed question lists and patterns, visit the [Walmart Labs](/company/walmart-labs) and [JPMorgan](/company/jpmorgan) pages on CodeJeet.
+For detailed question lists and patterns, visit the [Walmart Labs](/company/walmart-labs) and [JPMorgan](/company/jpmorgan) pages on TidyBit.

@@ -106,4 +106,4 @@ Prepare for **DoorDash first** if you are aiming for a senior-level position or 
 
 Regardless of your priority, the shared focus on arrays, strings, and hash tables means your initial study efforts should be directed there. Once comfortable, branch into Depth-First Search for DoorDash or Dynamic Programming for ServiceNow.
 
-For detailed company-specific question lists, visit the CodeJeet pages for [DoorDash](/company/doordash) and [ServiceNow](/company/servicenow).
+For detailed company-specific question lists, visit the TidyBit pages for [DoorDash](/company/doordash) and [ServiceNow](/company/servicenow).

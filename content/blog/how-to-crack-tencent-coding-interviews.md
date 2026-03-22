@@ -156,4 +156,4 @@ A systematic approach is non-negotiable.
 
 Mastering this focused set of patterns and approaching the interview with structured communication will give you a decisive edge. The path is clear: deep, deliberate practice on Medium and Hard problems in Array, String, Stack, and Dynamic Programming.
 
-[Browse all Tencent questions on CodeJeet](/company/tencent)
+[Browse all Tencent questions on TidyBit](/company/tencent)

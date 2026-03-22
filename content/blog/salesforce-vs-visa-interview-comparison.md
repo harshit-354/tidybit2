@@ -77,4 +77,4 @@ Once comfortable with Visa's scope, **transition to Salesforce preparation**. Th
 
 Ultimately, Visa tests for robust fundamental engineering, while Salesforce assesses the ability to navigate more open-ended, computationally complex problems. Tailor your study depth accordingly.
 
-For targeted question lists, visit the Salesforce and Visa pages on CodeJeet: [Salesforce Interview Questions](/company/salesforce) and [Visa Interview Questions](/company/visa).
+For targeted question lists, visit the Salesforce and Visa pages on TidyBit: [Salesforce Interview Questions](/company/salesforce) and [Visa Interview Questions](/company/visa).

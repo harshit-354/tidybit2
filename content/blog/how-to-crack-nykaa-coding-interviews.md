@@ -88,4 +88,4 @@ Stop learning new topics. Revisit all previously solved problems, focusing on wr
 
 Consistent, pattern-focused practice on core topics is the most reliable method to succeed. Start with fundamentals, pressure-test with timed sessions, and always articulate your reasoning.
 
-[Browse all Nykaa questions on CodeJeet](/company/nykaa)
+[Browse all Nykaa questions on TidyBit](/company/nykaa)

@@ -6,7 +6,7 @@ category: "tips"
 tags: ["microsoft", "yandex", "comparison"]
 ---
 
-When preparing for technical interviews, company-specific question banks provide valuable insight into what to expect. Microsoft and Yandex, as major tech players in their respective regions, have distinct interview profiles. A comparison of their question sets on CodeJeet reveals clear differences in scale, difficulty distribution, and focus, which should inform your preparation strategy.
+When preparing for technical interviews, company-specific question banks provide valuable insight into what to expect. Microsoft and Yandex, as major tech players in their respective regions, have distinct interview profiles. A comparison of their question sets on TidyBit reveals clear differences in scale, difficulty distribution, and focus, which should inform your preparation strategy.
 
 ## Question Volume and Difficulty
 
@@ -127,4 +127,4 @@ Mastering the smaller, focused Yandex bank will efficiently solidify your skills
 
 In essence, Yandex's list is an excellent concentrated curriculum. Microsoft's list is the expansive training ground that follows.
 
-For detailed question lists and further study, visit the [Microsoft](/company/microsoft) and [Yandex](/company/yandex) pages on CodeJeet.
+For detailed question lists and further study, visit the [Microsoft](/company/microsoft) and [Yandex](/company/yandex) pages on TidyBit.

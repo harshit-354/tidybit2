@@ -73,4 +73,4 @@ Your preparation priority should be dictated by the **foundational overlap**.
 
 A strategic approach is to use Wix's more focused list as an initial benchmark for core competency. If you can comfortably solve most of their Medium problems, you have a solid base. Then, scale up to NVIDIA's larger and more demanding set to build the breadth, speed, and depth they require.
 
-For detailed company-specific question lists, visit the CodeJeet pages for [NVIDIA](/company/nvidia) and [Wix](/company/wix).
+For detailed company-specific question lists, visit the TidyBit pages for [NVIDIA](/company/nvidia) and [Wix](/company/wix).

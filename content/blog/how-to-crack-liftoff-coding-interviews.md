@@ -200,4 +200,4 @@ Dedicate this phase to Liftoff-specific preparation. Solve all available Liftoff
 
 Mastering these patterns and approaching your preparation systematically will build the confidence and skill needed to handle Liftoff's challenging interview loop.
 
-[Browse all Liftoff questions on CodeJeet](/company/liftoff)
+[Browse all Liftoff questions on TidyBit](/company/liftoff)

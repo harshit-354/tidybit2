@@ -133,4 +133,4 @@ Once comfortable with these fundamentals, pivot to **Coupang-specific preparatio
 
 In summary, use Visa's profile to build your generalist skills, then use Coupang's profile to sharpen your specialist skills in advanced problem-solving.
 
-For detailed question lists, visit the [Visa](/company/visa) and [Coupang](/company/coupang) pages on CodeJeet.
+For detailed question lists, visit the [Visa](/company/visa) and [Coupang](/company/coupang) pages on TidyBit.

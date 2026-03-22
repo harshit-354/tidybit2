@@ -150,4 +150,4 @@ Revisit all previously incorrect problems. Systematically drill your weakest top
 
 Success in AppFolio interviews hinges on methodical preparation focused on their favored topics and difficulty distribution. Practice with intent, communicate clearly, and structure your approach.
 
-[Browse all AppFolio questions on CodeJeet](/company/appfolio)
+[Browse all AppFolio questions on TidyBit](/company/appfolio)

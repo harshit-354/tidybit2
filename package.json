@@ -1,5 +1,5 @@
 {
-  "name": "codejeet-frontend",
+  "name": "tidybit-frontend",
   "version": "0.6.9",
   "scripts": {
     "dev": "next dev --turbopack",

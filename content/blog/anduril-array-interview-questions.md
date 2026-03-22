@@ -70,6 +70,6 @@ public int removeElement(int[] nums, int val) {
 2.  **Sliding Window:** Move to fixed and dynamic window problems, focusing on maximum/minimum subarray and substring problems.
 3.  **Prefix Sum & Hashing:** Practice problems involving subarray sums and frequency counting.
 4.  **Simulation & Matrix Traversal:** Tackle spiral order, rotation, and other multi-dimensional array manipulations.
-5.  **Anduril-Specific Problems:** Finally, work through all 25 array problems tagged for Anduril on CodeJeet to acclimate to their style and difficulty.
+5.  **Anduril-Specific Problems:** Finally, work through all 25 array problems tagged for Anduril on TidyBit to acclimate to their style and difficulty.
 
 [Practice Array at Anduril](/company/anduril/array)

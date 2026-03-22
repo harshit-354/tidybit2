@@ -83,4 +83,4 @@ Your preparation strategy should be dictated by the scope of your goals.
 
 In essence, Bloomberg preparation is a marathon that builds universal strength, while Expedia preparation is a targeted sprint. For many candidates, starting with the depth of Bloomberg's patterns and then reviewing Expedia's specific Greedy focus is a robust hybrid approach.
 
-For dedicated question lists and further details, visit the CodeJeet pages for [Bloomberg](/company/bloomberg) and [Expedia](/company/expedia).
+For dedicated question lists and further details, visit the TidyBit pages for [Bloomberg](/company/bloomberg) and [Expedia](/company/expedia).

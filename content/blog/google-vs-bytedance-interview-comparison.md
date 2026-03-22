@@ -90,4 +90,4 @@ If you are targeting **Google**, you must prepare for breadth and depth. After m
 
 Ultimately, preparing for Google's broader and deeper question set will inherently cover the technical ground needed for ByteDance. The reverse is not true. Therefore, if you have the time, a Google-centric preparation provides the most comprehensive technical base.
 
-For more detailed company-specific guides, visit the CodeJeet pages for [Google](/company/google) and [ByteDance](/company/bytedance).
+For more detailed company-specific guides, visit the TidyBit pages for [Google](/company/google) and [ByteDance](/company/bytedance).

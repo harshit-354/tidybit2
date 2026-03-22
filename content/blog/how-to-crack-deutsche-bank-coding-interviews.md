@@ -121,4 +121,4 @@ A structured plan is essential to cover the breadth and depth required.
 
 Success in these interviews is a function of disciplined practice and clear communication. Master the patterns, internalize the process, and approach each problem methodically.
 
-[Browse all Deutsche Bank questions on CodeJeet](/company/deutsche-bank)
+[Browse all Deutsche Bank questions on TidyBit](/company/deutsche-bank)

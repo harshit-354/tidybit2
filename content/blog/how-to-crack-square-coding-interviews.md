@@ -75,7 +75,7 @@ A focused, consistent plan beats cramming. Here is a weekly breakdown:
 - **Weeks 1-2: Foundation.** Drill the top topics—Array, Hash Table, Matrix. Solve 15-20 Medium problems. For each, write the code, analyze time/space complexity, and test edge cases. Implement key patterns like the hash table complement shown above from memory.
 - **Week 3: Core Integration.** Focus on problems that combine your core topics, like Matrix traversal using Hash Table lookups, or Simulation built on Array state management. Solve another 15-20 Medium problems. Begin timing yourself (30-40 minutes per problem).
 - **Week 4: Dynamic Programming & Review.** Dedicate this week to understanding DP fundamentals (memoization, tabulation). Solve 5-7 classic DP problems (e.g., knapsack, longest increasing subsequence). Revisit your toughest problems from previous weeks.
-- **Weeks 5-6: Mock Interviews & Company-Specific Prep.** Conduct at least 4-5 mock interviews under real conditions. Use the [Square question list on CodeJeet](/company/square) to practice actual problems. For each, articulate your thought process aloud before coding.
+- **Weeks 5-6: Mock Interviews & Company-Specific Prep.** Conduct at least 4-5 mock interviews under real conditions. Use the [Square question list on TidyBit](/company/square) to practice actual problems. For each, articulate your thought process aloud before coding.
 
 ## Key Tips
 
@@ -86,4 +86,4 @@ A focused, consistent plan beats cramming. Here is a weekly breakdown:
 
 Success in Square interviews comes from methodical preparation on their favored topics and demonstrating practical, clean coding judgment. Start with the patterns that matter most.
 
-[Browse all Square questions on CodeJeet](/company/square)
+[Browse all Square questions on TidyBit](/company/square)

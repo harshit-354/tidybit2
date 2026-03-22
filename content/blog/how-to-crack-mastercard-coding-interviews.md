@@ -90,4 +90,4 @@ A structured plan is essential to cover the necessary ground efficiently.
 
 Success in Mastercard interviews comes from disciplined practice on high-frequency topics and polished communication. Focus on executing the fundamentals flawlessly.
 
-[Browse all Mastercard questions on CodeJeet](/company/mastercard)
+[Browse all Mastercard questions on TidyBit](/company/mastercard)

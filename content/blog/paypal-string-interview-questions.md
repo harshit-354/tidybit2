@@ -6,7 +6,7 @@ category: "dsa-patterns"
 tags: ["paypal", "string", "interview prep"]
 ---
 
-String manipulation is a core skill for PayPal engineers because financial transactions are fundamentally about processing and validating textual data. Payment gateways handle credit card numbers, CVV codes, expiration dates, billing addresses, and transaction descriptions—all as strings. Engineers must parse, sanitize, validate, and format this data with absolute precision to ensure security, prevent fraud, and comply with financial regulations. A single off-by-one error in a string operation could misroute a payment or expose sensitive information. With 27 out of 106 tagged questions on CodeJeet focusing on strings, PayPal’s interview process consistently tests this foundational competency.
+String manipulation is a core skill for PayPal engineers because financial transactions are fundamentally about processing and validating textual data. Payment gateways handle credit card numbers, CVV codes, expiration dates, billing addresses, and transaction descriptions—all as strings. Engineers must parse, sanitize, validate, and format this data with absolute precision to ensure security, prevent fraud, and comply with financial regulations. A single off-by-one error in a string operation could misroute a payment or expose sensitive information. With 27 out of 106 tagged questions on TidyBit focusing on strings, PayPal’s interview process consistently tests this foundational competency.
 
 ## What to Expect — Types of Problems
 

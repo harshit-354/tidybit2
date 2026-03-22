@@ -108,4 +108,4 @@ This pattern runs in O(n) time with O(1) space, a dramatic improvement over the 
 
 The LiveRamp interview is a test of practical software engineering skill. By methodically mastering their favored topics and patterns, and pairing that knowledge with clear communication, you can confidently demonstrate you're the right candidate.
 
-[Browse all LiveRamp questions on CodeJeet](/company/liveramp)
+[Browse all LiveRamp questions on TidyBit](/company/liveramp)

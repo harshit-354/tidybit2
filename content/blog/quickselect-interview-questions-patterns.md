@@ -129,4 +129,4 @@ Top tech companies frequently include Quickselect in their interview loops. It's
 
 Master these patterns and you'll be able to efficiently select your way through these interview questions.
 
-[Practice all Quickselect questions on CodeJeet](/topic/quickselect)
+[Practice all Quickselect questions on TidyBit](/topic/quickselect)

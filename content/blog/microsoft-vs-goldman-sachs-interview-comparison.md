@@ -10,7 +10,7 @@ Preparing for technical interviews requires understanding each company's specifi
 
 ## Question Volume and Difficulty
 
-The sheer volume of known questions is the most striking difference. Microsoft has approximately **1,352** tagged questions on CodeJeet, dwarfing Goldman Sachs' **270**. This doesn't mean Microsoft asks more questions per interview, but it indicates a broader, more established public question bank from decades of engineering hiring.
+The sheer volume of known questions is the most striking difference. Microsoft has approximately **1,352** tagged questions on TidyBit, dwarfing Goldman Sachs' **270**. This doesn't mean Microsoft asks more questions per interview, but it indicates a broader, more established public question bank from decades of engineering hiring.
 
 The difficulty distribution also reveals distinct philosophies:
 

@@ -104,4 +104,4 @@ Prepare for **Uber first** if you are targeting top-tier consumer tech companies
 
 Ultimately, the fundamentals are the same. Start with the core trio (Array, String, Hash Table), then branch out based on your target: drill Two Pointers for Cisco, and dive deep into Dynamic Programming for Uber.
 
-For more detailed company-specific question lists and patterns, visit the CodeJeet pages for [Uber](/company/uber) and [Cisco](/company/cisco).
+For more detailed company-specific question lists and patterns, visit the TidyBit pages for [Uber](/company/uber) and [Cisco](/company/cisco).

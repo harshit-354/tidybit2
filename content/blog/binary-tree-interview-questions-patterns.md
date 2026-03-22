@@ -147,4 +147,4 @@ Binary trees are a staple at major tech firms. The hierarchical nature of data m
 3.  **Memorize the Template, Not the Solution.** Learn the code structure for DFS, BFS, and the recursive "subtree" pattern. Then, adapt the template to the specific problem requirement.
 4.  **Time Box the Hard Problems.** Don't spend hours on a single Hard question initially. Build fluency with Easy and Medium patterns first, then circle back to tackle the complex ones.
 
-[Practice all Binary Tree questions on CodeJeet](/topic/binary-tree)
+[Practice all Binary Tree questions on TidyBit](/topic/binary-tree)

@@ -118,4 +118,4 @@ Prepare for **Expedia first** if you are earlier in your interview practice jour
 
 Ultimately, a strong candidate will be well-versed in the common core. Start with the shared foundation of Array, String, and Hash Table problems, then branch out based on your target company's profile.
 
-For detailed question lists, visit the [Snowflake interview questions](/company/snowflake) and [Expedia interview questions](/company/expedia) pages on CodeJeet.
+For detailed question lists, visit the [Snowflake interview questions](/company/snowflake) and [Expedia interview questions](/company/expedia) pages on TidyBit.

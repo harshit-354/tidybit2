@@ -155,4 +155,4 @@ A structured approach is non-negotiable. Here is a 6-week plan to build and shar
 
 Targeted, disciplined practice on the right patterns is the most reliable way to succeed. Start with the core topics, pressure-test your skills with Hard problems, and refine your communication.
 
-[Browse all Meesho questions on CodeJeet](/company/meesho)
+[Browse all Meesho questions on TidyBit](/company/meesho)

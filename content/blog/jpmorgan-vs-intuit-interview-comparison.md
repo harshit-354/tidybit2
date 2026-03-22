@@ -77,4 +77,4 @@ Start with **JPMorgan's question list**. Its higher proportion of Easy questions
 
 Once that base is solid, transition to **Intuit's list** to tackle the steeper challenge. Use the JPMorgan-prepared foundation to efficiently work through the shared Medium problems, then dedicate focused time to mastering Dynamic Programming patterns. This sequential approach prevents the discouragement of hitting complex DP problems before you've built confidence with core techniques.
 
-For targeted practice, visit the JPMorgan question list and the Intuit question list on CodeJeet.
+For targeted practice, visit the JPMorgan question list and the Intuit question list on TidyBit.

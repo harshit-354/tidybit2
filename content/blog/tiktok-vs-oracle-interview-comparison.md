@@ -122,4 +122,4 @@ A practical study plan:
 
 This approach maximizes efficiency. By focusing on the more demanding TikTok list, you inherently prepare for Oracle's slightly less intense distribution. The shared topics mean your practice is never wasted.
 
-For targeted question lists, visit the CodeJeet pages for [TikTok](/company/tiktok) and [Oracle](/company/oracle).
+For targeted question lists, visit the TidyBit pages for [TikTok](/company/tiktok) and [Oracle](/company/oracle).

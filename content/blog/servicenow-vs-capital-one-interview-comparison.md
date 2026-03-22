@@ -82,4 +82,4 @@ Your preparation priority should be guided by your target companies and timeline
 
 **Strategic Recommendation:** Given that ServiceNow's profile is wider and includes an additional, complex topic (DP), starting there creates a higher ceiling of preparedness. The overlap in core topics is significant, so this approach efficiently covers common ground while ensuring you don't miss the more advanced subject.
 
-For detailed company-specific question lists and patterns, visit the CodeJeet pages for [ServiceNow](/company/servicenow) and [Capital One](/company/capital-one).
+For detailed company-specific question lists and patterns, visit the TidyBit pages for [ServiceNow](/company/servicenow) and [Capital One](/company/capital-one).

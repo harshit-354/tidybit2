@@ -77,4 +77,4 @@ Your preparation priority depends entirely on your target and career stage.
 
 **Strategic Approach:** A logical path is to use the Infosys question bank for **breadth and foundational strength**, then hone your skills with the Citadel list for **depth and performance-oriented thinking**. Regardless of the order, ensure you can not only solve the problems but also articulate your reasoning clearly and discuss time/space complexity trade-offs—a critical skill for both companies.
 
-For a deeper dive into each company's specific question patterns, visit the CodeJeet pages for [Infosys](/company/infosys) and [Citadel](/company/citadel).
+For a deeper dive into each company's specific question patterns, visit the TidyBit pages for [Infosys](/company/infosys) and [Citadel](/company/citadel).

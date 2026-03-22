@@ -84,4 +84,4 @@ This pattern—storing what you've seen to answer future queries in O(1) time—
 
 Success in ZipRecruiter interviews hinges on consistent, patterned practice on Medium problems across their favored domains. Build the muscle memory to decompose a problem and reach for the right tool—often an array and a hash map.
 
-[Browse all ZipRecruiter questions on CodeJeet](/company/ziprecruiter)
+[Browse all ZipRecruiter questions on TidyBit](/company/ziprecruiter)

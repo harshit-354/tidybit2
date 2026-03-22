@@ -6,7 +6,7 @@ category: "tips"
 tags: ["uber", "nvidia", "comparison"]
 ---
 
-When preparing for technical interviews at top tech companies, understanding their specific question patterns and focus areas is crucial for efficient study. Uber and NVIDIA, while both leaders in their respective industries, present distinct interview landscapes due to their different core businesses—transportation/logistics versus graphics/AI hardware and software. This comparison analyzes their question profiles on CodeJeet to help you tailor your preparation strategy.
+When preparing for technical interviews at top tech companies, understanding their specific question patterns and focus areas is crucial for efficient study. Uber and NVIDIA, while both leaders in their respective industries, present distinct interview landscapes due to their different core businesses—transportation/logistics versus graphics/AI hardware and software. This comparison analyzes their question profiles on TidyBit to help you tailor your preparation strategy.
 
 ## Question Volume and Difficulty
 
@@ -150,4 +150,4 @@ If your goal is a **general software engineering role** and you are early in you
 
 In practice, a strong candidate will master the shared fundamentals first. Then, tailor deeper study based on the company: drill DP problems for Uber, and ensure you can implement and analyze efficient sorting routines for NVIDIA.
 
-For further details and company-specific question lists, visit the CodeJeet pages for [Uber](/company/uber) and [NVIDIA](/company/nvidia).
+For further details and company-specific question lists, visit the TidyBit pages for [Uber](/company/uber) and [NVIDIA](/company/nvidia).

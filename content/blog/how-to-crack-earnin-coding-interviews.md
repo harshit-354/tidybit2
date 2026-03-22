@@ -92,4 +92,4 @@ In the final stretch, exclusively practice problems tagged with Earnin or from s
 
 Mastering these core topics and strategies will make you exceptionally well-prepared for Earnin's technical screen. Consistency on Medium problems is your key metric for readiness.
 
-[Browse all Earnin questions on CodeJeet](/company/earnin)
+[Browse all Earnin questions on TidyBit](/company/earnin)

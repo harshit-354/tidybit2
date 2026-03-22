@@ -115,4 +115,4 @@ public void dfsGrid(int[][] grid, int r, int c) {
 
 Mastering these patterns and executing a disciplined study plan will position you to handle Lime's focus on medium-difficulty, graph, and array-based problems effectively.
 
-[Browse all Lime questions on CodeJeet](/company/lime)
+[Browse all Lime questions on TidyBit](/company/lime)

@@ -13,7 +13,7 @@ The Walmart Labs interview process generally consists of a recruiter screen, one
 
 ## By the Numbers
 
-Walmart Labs has **152 questions** in the CodeJeet database. The difficulty skews harder than you might expect for a retail company:
+Walmart Labs has **152 questions** in the TidyBit database. The difficulty skews harder than you might expect for a retail company:
 
 - **Easy: 22 questions (14%)** — A thin slice. Walmart Labs is not looking for candidates who can only handle the basics.
 - **Medium: 105 questions (69%)** — The dominant tier by far. Nearly seven out of ten questions are Medium. This is one of the highest Medium-question ratios among all companies.
@@ -478,4 +478,4 @@ Based on the question distribution, here are specific problem types you should m
 
 Remember that while algorithmic proficiency is crucial, Walmart Labs also values candidates who understand how their code fits into larger systems. Always be prepared to discuss the operational implications of your solutions, including memory usage, scalability, and failure scenarios.
 
-[Browse all Walmart Labs questions on CodeJeet](/company/walmart-labs)
+[Browse all Walmart Labs questions on TidyBit](/company/walmart-labs)

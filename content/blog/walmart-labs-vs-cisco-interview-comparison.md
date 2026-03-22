@@ -95,4 +95,4 @@ Transition to **Walmart Labs** preparation after you have built a strong foundat
 
 In essence, Cisco's interview profile serves as an excellent benchmark for core competency, while Walmart Labs' profile represents a more comprehensive and challenging test of algorithmic mastery.
 
-For detailed question lists, visit the [Walmart Labs](/company/walmart-labs) and [Cisco](/company/cisco) pages on CodeJeet.
+For detailed question lists, visit the [Walmart Labs](/company/walmart-labs) and [Cisco](/company/cisco) pages on TidyBit.

@@ -245,4 +245,4 @@ public class LRUCache {
 
 Your preparation should mirror the difficulty curve: build a rock-solid foundation, then aggressively tackle high-complexity problems. Consistency and targeted practice are your greatest assets.
 
-[Browse all KLA questions on CodeJeet](/company/kla)
+[Browse all KLA questions on TidyBit](/company/kla)

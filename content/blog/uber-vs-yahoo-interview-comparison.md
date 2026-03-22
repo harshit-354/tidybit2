@@ -6,7 +6,7 @@ category: "tips"
 tags: ["uber", "yahoo", "comparison"]
 ---
 
-When preparing for technical interviews, company-specific question patterns reveal what each organization prioritizes in their hiring process. A comparison between Uber and Yahoo, based on their tagged questions on CodeJeet, shows significant differences in scale, difficulty, and focus, which should directly inform your study strategy.
+When preparing for technical interviews, company-specific question patterns reveal what each organization prioritizes in their hiring process. A comparison between Uber and Yahoo, based on their tagged questions on TidyBit, shows significant differences in scale, difficulty, and focus, which should directly inform your study strategy.
 
 ## Question Volume and Difficulty
 
@@ -96,4 +96,4 @@ Then, transition to **Uber** preparation. This requires layering on advanced stu
 
 In short, Yahoo's process tests for strong fundamentals, while Uber's tests for advanced algorithmic mastery under pressure. Start with the fundamentals.
 
-For detailed question lists and patterns, visit the Uber and Yahoo pages on CodeJeet: [/company/uber](/company/uber), [/company/yahoo](/company/yahoo).
+For detailed question lists and patterns, visit the Uber and Yahoo pages on TidyBit: [/company/uber](/company/uber), [/company/yahoo](/company/yahoo).

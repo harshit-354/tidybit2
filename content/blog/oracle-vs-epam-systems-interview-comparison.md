@@ -120,6 +120,6 @@ The strategic choice depends on your timeline and target.
 
 In summary, use Epam's list to solidify your core skills efficiently. Use Oracle's list to stress-test and deepen your algorithmic mastery. The shared focus on Arrays, Strings, and Hash Tables means preparation for one directly benefits the other.
 
-For detailed question lists, visit the Oracle and Epam Systems pages on CodeJeet:  
+For detailed question lists, visit the Oracle and Epam Systems pages on TidyBit:  
 [Oracle Interview Questions](/company/oracle)  
 [Epam Systems Interview Questions](/company/epam-systems)

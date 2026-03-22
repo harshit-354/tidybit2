@@ -72,12 +72,12 @@ export async function generateMetadata({
   return {
     title: post.frontmatter.title,
     description: post.frontmatter.description,
-    alternates: { canonical: `https://codejeet.com/blog/${slug}` },
+    alternates: { canonical: `https://tidybit.com/blog/${slug}` },
     openGraph: {
-      title: `${post.frontmatter.title} | CodeJeet`,
+      title: `${post.frontmatter.title} | TidyBit`,
       description: post.frontmatter.description,
       type: "article",
-      url: `https://codejeet.com/blog/${slug}`,
+      url: `https://tidybit.com/blog/${slug}`,
     },
   };
 }
@@ -110,23 +110,23 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
           description: frontmatter.description,
           datePublished: frontmatter.date,
           dateModified: frontmatter.date,
-          url: `https://codejeet.com/blog/${slug}`,
+          url: `https://tidybit.com/blog/${slug}`,
           author: {
             "@type": "Organization",
-            name: "CodeJeet",
-            url: "https://codejeet.com",
+            name: "TidyBit",
+            url: "https://tidybit.com",
           },
           publisher: {
             "@type": "Organization",
-            name: "CodeJeet",
-            url: "https://codejeet.com",
-            logo: { "@type": "ImageObject", url: "https://codejeet.com/icon.svg" },
+            name: "TidyBit",
+            url: "https://tidybit.com",
+            logo: { "@type": "ImageObject", url: "https://tidybit.com/icon.svg" },
           },
           mainEntityOfPage: {
             "@type": "WebPage",
-            "@id": `https://codejeet.com/blog/${slug}`,
+            "@id": `https://tidybit.com/blog/${slug}`,
           },
-          isPartOf: { "@type": "WebSite", name: "CodeJeet", url: "https://codejeet.com" },
+          isPartOf: { "@type": "WebSite", name: "TidyBit", url: "https://tidybit.com" },
         }}
       />
 

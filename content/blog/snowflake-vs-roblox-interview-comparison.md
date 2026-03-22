@@ -111,5 +111,5 @@ If you are targeting both companies, **prioritize Snowflake preparation first**.
 This strategy ensures you build from a higher baseline of difficulty. The shared topics form your core study plan, while the company-specific topics (DFS for Snowflake, Math for Roblox) become your targeted final phase of preparation for each.
 
 For detailed question lists and patterns, visit the Snowflake and Roblox company pages:  
-[CodeJeet Snowflake Interview Questions](/company/snowflake)  
-[CodeJeet Roblox Interview Questions](/company/roblox)
+[TidyBit Snowflake Interview Questions](/company/snowflake)  
+[TidyBit Roblox Interview Questions](/company/roblox)

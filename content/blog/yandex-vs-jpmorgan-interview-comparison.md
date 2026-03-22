@@ -145,4 +145,4 @@ If you are targeting both types of companies, **start with JPMorgan's profile**.
 
 In short, use the JPMorgan list to build core competency efficiently, then expand your practice to include Two Pointers problems and the broader Yandex question bank to cover the tech-focused depth.
 
-For detailed question lists and further preparation, visit the Yandex and JPMorgan pages on CodeJeet: [/company/yandex](https://codejeet.com/company/yandex) and [/company/jpmorgan](https://codejeet.com/company/jpmorgan).
+For detailed question lists and further preparation, visit the Yandex and JPMorgan pages on TidyBit: [/company/yandex](https://tidybit.com/company/yandex) and [/company/jpmorgan](https://tidybit.com/company/jpmorgan).

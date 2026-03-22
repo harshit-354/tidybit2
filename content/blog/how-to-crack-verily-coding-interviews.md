@@ -82,7 +82,7 @@ This plan assumes 15-20 hours of focused study per week.
 
 **Weeks 1-2: Foundation & Core Topics**
 
-- Drill the top topics: Array, Hash Table, Sorting, String. Use a platform like CodeJeet to filter problems by company and topic.
+- Drill the top topics: Array, Hash Table, Sorting, String. Use a platform like TidyBit to filter problems by company and topic.
 - For each topic, learn 2-3 core patterns (e.g., hash map for lookups, two-pointer for sorted arrays, sliding window for substrings).
 - Solve 3-5 medium problems daily. Focus on writing bug-free code on the first try and explaining your reasoning aloud.
 
@@ -108,4 +108,4 @@ This plan assumes 15-20 hours of focused study per week.
 
 Success at Verily is built on consistent, pattern-based practice. Master the medium, and you’ll be prepared for the challenge.
 
-[Browse all Verily questions on CodeJeet](/company/verily)
+[Browse all Verily questions on TidyBit](/company/verily)

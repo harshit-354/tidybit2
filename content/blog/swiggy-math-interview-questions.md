@@ -68,6 +68,6 @@ public class Combinatorics {
 
 ## Recommended Practice Order
 
-Start with core probability concepts (independent events, conditional probability, expectation). Move to combinatorics (permutations, combinations, counting principles). Then, tackle modular arithmetic and basic number theory. Finally, practice applied optimization and logic puzzles. Integrate coding practice for each topic using platforms like CodeJeet to simulate the interview environment. Always articulate your reasoning step-by-step during practice.
+Start with core probability concepts (independent events, conditional probability, expectation). Move to combinatorics (permutations, combinations, counting principles). Then, tackle modular arithmetic and basic number theory. Finally, practice applied optimization and logic puzzles. Integrate coding practice for each topic using platforms like TidyBit to simulate the interview environment. Always articulate your reasoning step-by-step during practice.
 
 [Practice Math at Swiggy](/company/swiggy/math)

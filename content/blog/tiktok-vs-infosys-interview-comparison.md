@@ -85,4 +85,4 @@ Your preparation order should be guided by your target role and the transferabil
 
 A strategic hybrid approach is effective: Use the **common core topics (Array, String, Dynamic Programming)** as your anchor. Solve a mix of Medium problems from both lists in these areas. Then, branch out to master Hash Table patterns (for TikTok depth) and classic mathematical algorithms (for Infosys).
 
-For detailed question lists and patterns, visit the CodeJeet pages for [TikTok](/company/tiktok) and [Infosys](/company/infosys).
+For detailed question lists and patterns, visit the TidyBit pages for [TikTok](/company/tiktok) and [Infosys](/company/infosys).

@@ -96,4 +96,4 @@ public int removeDuplicates(int[] nums) {
 
 Mastering these core topics and patterns will give you the toolkit needed to handle the majority of UKG's technical interview. Consistent, focused practice on Medium-difficulty problems is the most reliable path to success.
 
-[Browse all UKG questions on CodeJeet](/company/ukg)
+[Browse all UKG questions on TidyBit](/company/ukg)

@@ -107,4 +107,4 @@ Problems will combine topics. Practice is key.
 
 Success in Fiverr interviews hinges on demonstrated fluency with Medium-level problems on their favorite topics. Structured practice on arrays, hash tables, and backtracking, combined with clear communication, will make you a strong candidate.
 
-[Browse all Fiverr questions on CodeJeet](/company/fiverr)
+[Browse all Fiverr questions on TidyBit](/company/fiverr)

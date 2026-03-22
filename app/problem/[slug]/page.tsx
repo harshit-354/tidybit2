@@ -86,7 +86,7 @@ export default async function ProblemPage({ params }: { params: Promise<{ slug: 
         data={problemJsonLd({
           name: problem.title,
           description: `${problem.title} - ${problem.difficulty} LeetCode problem. ${problem.acceptance_rate} acceptance rate. Topics: ${problem.topics.join(", ")}.`,
-          url: `https://codejeet.com/problem/${problem.slug}`,
+          url: `https://tidybit.com/problem/${problem.slug}`,
           difficulty: problem.difficulty,
           topics: problem.topics,
         })}

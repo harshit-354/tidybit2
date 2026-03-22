@@ -84,4 +84,4 @@ Your preparation order should be guided by your goals and timeline.
 
 In essence, Morgan Stanley's interview is a precise test of core algorithms, while Microsoft's is a broad assessment of algorithmic fluency and endurance. Start with the company that aligns with your immediate schedule, but leverage the significant topic overlap to make your study efficient for both.
 
-For detailed question lists and patterns, visit the [Microsoft](/company/microsoft) and [Morgan Stanley](/company/morgan-stanley) company pages on CodeJeet.
+For detailed question lists and patterns, visit the [Microsoft](/company/microsoft) and [Morgan Stanley](/company/morgan-stanley) company pages on TidyBit.

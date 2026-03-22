@@ -97,4 +97,4 @@ Given the focus on Easy problems, depth beats breadth. This plan prioritizes mas
 
 Success with Fidelity's coding interview comes from a disciplined focus on the fundamentals. Perfect your execution on standard problems, communicate your process clearly, and you'll demonstrate the reliable coding skill they value.
 
-[Browse all Fidelity questions on CodeJeet](/company/fidelity)
+[Browse all Fidelity questions on TidyBit](/company/fidelity)

@@ -99,4 +99,4 @@ A structured plan is non-negotiable. Here is a focused, four-week schedule. Exte
 
 Mastering these patterns and executing this plan will build the muscle memory needed to perform under pressure. The goal is to make solving a Medium problem feel routine.
 
-[Browse all Nike questions on CodeJeet](/company/nike)
+[Browse all Nike questions on TidyBit](/company/nike)

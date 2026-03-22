@@ -103,4 +103,4 @@ No new topics. Re-solve all previously attempted problems, focusing on writing c
 
 Mastering these core topics and executing a disciplined practice plan will make you a strong candidate. The pattern is clear: focus on fundamentals, communicate clearly, and code reliably.
 
-[Browse all Nagarro questions on CodeJeet](/company/nagarro)
+[Browse all Nagarro questions on TidyBit](/company/nagarro)

@@ -102,4 +102,4 @@ A structured approach is more effective than random practice.
 
 Success in a BlackRock interview is built on consistent, pattern-based practice of core algorithms. Focus on the fundamentals, communicate clearly, and write robust code.
 
-[Browse all BlackRock questions on CodeJeet](/company/blackrock)
+[Browse all BlackRock questions on TidyBit](/company/blackrock)

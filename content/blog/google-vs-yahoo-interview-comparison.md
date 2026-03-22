@@ -10,7 +10,7 @@ When preparing for technical interviews, understanding company-specific patterns
 
 ## Question Volume and Difficulty
 
-The sheer scale of preparation material differs vastly. On platforms like CodeJeet, Google's tagged question pool is massive (**2217 questions**), dwarfing Yahoo's (**64 questions**). This volume reflects Google's broader role range, larger applicant pool, and the extensive historical data available from its interviews.
+The sheer scale of preparation material differs vastly. On platforms like TidyBit, Google's tagged question pool is massive (**2217 questions**), dwarfing Yahoo's (**64 questions**). This volume reflects Google's broader role range, larger applicant pool, and the extensive historical data available from its interviews.
 
 More telling is the difficulty breakdown. Google's distribution is relatively balanced, though leaning challenging:
 

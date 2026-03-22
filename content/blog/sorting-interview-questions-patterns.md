@@ -153,4 +153,4 @@ All major tech companies include sorting questions in their interviews:
 
 Remember: The goal isn't to memorize 404 questions, but to internalize the patterns so you can apply them to new problems.
 
-[Practice all Sorting questions on CodeJeet](/topic/sorting)
+[Practice all Sorting questions on TidyBit](/topic/sorting)

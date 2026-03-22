@@ -144,4 +144,4 @@ A focused, topic-driven plan is your best bet.
 
 Mastering these focused areas and strategies will give you a decisive edge in Informatica's coding interviews.
 
-[Browse all Informatica questions on CodeJeet](/company/informatica)
+[Browse all Informatica questions on TidyBit](/company/informatica)

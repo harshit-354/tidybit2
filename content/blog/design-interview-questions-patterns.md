@@ -181,4 +181,4 @@ Design questions are a staple at companies building complex, scalable software. 
 
 Mastering design requires shifting your mindset from writing perfect code to architecting resilient systems. It's a skill built through deliberate practice and conceptual study.
 
-[Practice all Design questions on CodeJeet](/topic/design)
+[Practice all Design questions on TidyBit](/topic/design)

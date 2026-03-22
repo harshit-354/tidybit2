@@ -87,7 +87,7 @@ public int lengthOfLongestSubstring(String s) {
 
 **Weeks 1-2: Foundation & Pattern Recognition**
 
-- Deeply study the top five topics. For each, solve 8-10 curated Medium problems on platforms like CodeJeet.
+- Deeply study the top five topics. For each, solve 8-10 curated Medium problems on platforms like TidyBit.
 - Focus on understanding the pattern, not memorizing solutions. Implement each solution in your primary interview language.
 - Master the code templates for Sliding Window, Two-Pointer, and standard Binary Search.
 
@@ -113,4 +113,4 @@ public int lengthOfLongestSubstring(String s) {
 
 Targeted, pattern-based practice is your most reliable path to success. Understand the "why" behind each algorithm, and you'll be prepared to adapt to any problem Blinkit presents.
 
-[Browse all Blinkit questions on CodeJeet](/company/blinkit)
+[Browse all Blinkit questions on TidyBit](/company/blinkit)

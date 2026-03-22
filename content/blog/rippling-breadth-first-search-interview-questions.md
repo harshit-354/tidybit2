@@ -120,6 +120,6 @@ public class Solution {
 1.  **Fundamentals:** Binary Tree Level Order Traversal, Number of Islands.
 2.  **Shortest Path:** Rotting Oranges, Shortest Path in Binary Matrix.
 3.  **State Search:** Word Ladder, Open the Lock.
-4.  **Rippling-Style:** Practice problems tagged with "Rippling" and "BFS" on platforms like CodeJeet to acclimate to their problem framing.
+4.  **Rippling-Style:** Practice problems tagged with "Rippling" and "BFS" on platforms like TidyBit to acclimate to their problem framing.
 
 [Practice Breadth-First Search at Rippling](/company/rippling/breadth-first-search)

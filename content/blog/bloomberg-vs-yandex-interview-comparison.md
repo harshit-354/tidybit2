@@ -134,4 +134,4 @@ Prepare for **Yandex first** if you are interviewing there or need a focused, fo
 
 In essence, Bloomberg prep is about breadth and volume, while Yandex prep is about depth and precision on core algorithms. Use the focused Yandex list to build core competency, then expand to the wider Bloomberg set for comprehensive coverage.
 
-For targeted practice, visit the Bloomberg question list and Yandex question list on CodeJeet.
+For targeted practice, visit the Bloomberg question list and Yandex question list on TidyBit.

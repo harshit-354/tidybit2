@@ -91,4 +91,4 @@ A focused, topic-based plan is more effective than random practice.
 
 Success in Rakuten's interviews comes from consistent, pattern-focused practice on Medium-difficulty problems in their favorite domains. Build that muscle memory.
 
-[Browse all Rakuten questions on CodeJeet](/company/rakuten)
+[Browse all Rakuten questions on TidyBit](/company/rakuten)

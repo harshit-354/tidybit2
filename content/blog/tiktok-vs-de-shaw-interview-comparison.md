@@ -123,4 +123,4 @@ Start with **DE Shaw's list**. Its smaller, more concentrated set of 124 questio
 
 This approach ensures you build depth first, then add breadth, making you well-prepared for both the rigorous optimization expected at DE Shaw and the fast-paced, broad problem-solving common at TikTok.
 
-For specific question lists and more details, visit the CodeJeet pages for [TikTok](/company/tiktok) and [DE Shaw](/company/de-shaw).
+For specific question lists and more details, visit the TidyBit pages for [TikTok](/company/tiktok) and [DE Shaw](/company/de-shaw).

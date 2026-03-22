@@ -118,4 +118,4 @@ A structured approach is non-negotiable given the difficulty level.
 
 Mastering these patterns and adopting a systematic practice approach will position you to handle the rigorous nature of Dropbox's interview process.
 
-[Browse all Dropbox questions on CodeJeet](/company/dropbox)
+[Browse all Dropbox questions on TidyBit](/company/dropbox)

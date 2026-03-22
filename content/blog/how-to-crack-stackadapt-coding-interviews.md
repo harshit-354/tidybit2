@@ -120,4 +120,4 @@ Week 6: **Mock Interviews and Review.** Conduct at least 4-5 mock interviews foc
 
 Mastering this targeted blend of algorithmic patterns and system design principles will position you strongly for StackAdapt's rigorous interviews.
 
-[Browse all StackAdapt questions on CodeJeet](/company/stackadapt)
+[Browse all StackAdapt questions on TidyBit](/company/stackadapt)

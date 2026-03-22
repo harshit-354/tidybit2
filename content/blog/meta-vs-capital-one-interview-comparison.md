@@ -96,4 +96,4 @@ Strategically, building a foundation using Capital One's focused list can be an 
 
 Ultimately, your study should be topic-driven, not just question-driven. Drill into each overlapping category (Array, String, Hash Table, Math) with progressive difficulty. This method ensures you develop the problem-solving muscles needed for any variation, whether from Meta's extensive pool or Capital One's curated list.
 
-For targeted practice, visit the CodeJeet pages for [Meta](/company/meta) and [Capital One](/company/capital-one).
+For targeted practice, visit the TidyBit pages for [Meta](/company/meta) and [Capital One](/company/capital-one).

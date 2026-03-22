@@ -4,16 +4,16 @@ import PodcastClient from "./page.client";
 export const dynamic = "force-static";
 
 export const metadata: Metadata = {
-  title: "The Accidental CTO - Audiobook | CodeJeet",
+  title: "The Accidental CTO - Audiobook | TidyBit",
   description:
     "Listen to The Accidental CTO by Subhash Choudhary. A system design journey from startup to scale.",
-  alternates: { canonical: "https://codejeet.com/podcast" },
+  alternates: { canonical: "https://tidybit.com/podcast" },
   openGraph: {
-    title: "The Accidental CTO - Audiobook | CodeJeet",
+    title: "The Accidental CTO - Audiobook | TidyBit",
     description:
       "Listen to The Accidental CTO by Subhash Choudhary. A system design journey from startup to scale.",
     type: "website",
-    url: "https://codejeet.com/podcast",
+    url: "https://tidybit.com/podcast",
   },
 };
 

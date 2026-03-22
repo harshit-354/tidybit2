@@ -81,7 +81,7 @@ public int[] twoSum(int[] nums, int target) {
 ## Preparation Strategy — 4-6 week study plan
 
 **Weeks 1-2: Foundation**
-Focus on Easy and Medium problems for the top five topics. Solve at least 30 problems, prioritizing arrays and hash tables. Use platforms like CodeJeet to filter by company and topic.
+Focus on Easy and Medium problems for the top five topics. Solve at least 30 problems, prioritizing arrays and hash tables. Use platforms like TidyBit to filter by company and topic.
 
 **Weeks 3-4: Depth**
 Tackle Medium-Hard problems. Dedicate time to dynamic programming—start with classic problems (Fibonacci, coin change) before moving to string/array DP. Practice one object-oriented design problem every other day.
@@ -99,4 +99,4 @@ Solve complete GM question sets under timed conditions. Simulate the interview e
 
 Consistent, topic-focused practice is the most reliable path to success. Start with the patterns that appear most often, then build up to the complex problems that will set you apart.
 
-[Browse all General Motors questions on CodeJeet](/company/general-motors)
+[Browse all General Motors questions on TidyBit](/company/general-motors)

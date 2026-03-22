@@ -104,4 +104,4 @@ Dedicate this phase to Anthropic-specific preparation. Re-solve all problems you
 
 Mastering these focused topics and strategies will build the consistent, high-level proficiency Anthropic's interviews demand. Start with the fundamentals, integrate them under pressure, and practice articulating your solutions.
 
-[Browse all Anthropic questions on CodeJeet](/company/anthropic)
+[Browse all Anthropic questions on TidyBit](/company/anthropic)

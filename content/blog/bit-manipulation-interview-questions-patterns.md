@@ -166,4 +166,4 @@ If you are targeting these companies, dedicating time to this topic is non-negot
 
 Bit manipulation is a concise way to test fundamental CS understanding. By focusing on these patterns and their applications, you can approach these questions with confidence.
 
-[Practice all Bit Manipulation questions on CodeJeet](/topic/bit-manipulation)
+[Practice all Bit Manipulation questions on TidyBit](/topic/bit-manipulation)

@@ -98,4 +98,4 @@ public int[] subarraySum(int[] nums, int target) {
 
 The Airbus interview is a test of precision and practical skill. Solidify your grasp of arrays, hash tables, and the prefix sum pattern, and you'll be well-equipped to deliver the reliable, efficient solutions they look for.
 
-[Browse all Airbus questions on CodeJeet](/company/airbus)
+[Browse all Airbus questions on TidyBit](/company/airbus)

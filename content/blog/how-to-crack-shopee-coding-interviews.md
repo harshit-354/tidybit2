@@ -103,4 +103,4 @@ _ Days 36-42: Conduct at least 5-7 full mock interviews. Practice verbalizing yo
 
 Your preparation should be a drill, not an exploration. Know the patterns, write clean code fast, and communicate clearly.
 
-[Browse all Shopee questions on CodeJeet](/company/shopee)
+[Browse all Shopee questions on TidyBit](/company/shopee)

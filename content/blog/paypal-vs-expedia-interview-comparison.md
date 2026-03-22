@@ -78,4 +78,4 @@ Your preparation order should be guided by your target companies and timeline.
 
 A strategic hybrid approach is effective: **Start with the shared core.** Drill Array, String, and Hash Table problems to proficiency. Then, **branch based on your target**. If aiming for both, mastering PayPal's set is the more comprehensive strategy. Ensure you dedicate specific study to **Sorting algorithms** for PayPal and **Greedy problem patterns** for Expedia.
 
-For detailed question lists, visit the [PayPal](/company/paypal) and [Expedia](/company/expedia) pages on CodeJeet.
+For detailed question lists, visit the [PayPal](/company/paypal) and [Expedia](/company/expedia) pages on TidyBit.

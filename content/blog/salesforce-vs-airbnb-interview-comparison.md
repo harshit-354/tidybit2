@@ -81,4 +81,4 @@ Your preparation order should be guided by your interview timeline and the natur
 
 Ultimately, start with the company whose interview comes first. If timing is equal, beginning with **Salesforce** provides a more comprehensive algorithmic workout that forms a stronger overall foundation.
 
-For targeted practice, visit the Salesforce question list at [CodeJeet/company/salesforce](/company/salesforce) and the Airbnb list at [CodeJeet/company/airbnb](/company/airbnb).
+For targeted practice, visit the Salesforce question list at [TidyBit/company/salesforce](/company/salesforce) and the Airbnb list at [TidyBit/company/airbnb](/company/airbnb).

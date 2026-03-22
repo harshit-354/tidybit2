@@ -89,4 +89,4 @@ public int removeDuplicates(int[] nums) {
 
 Consistent, focused practice on the core patterns is what will build the muscle memory needed to succeed. Start with the fundamentals, integrate them under time pressure, and refine your communication.
 
-[Browse all Palantir Technologies questions on CodeJeet](/company/palantir-technologies)
+[Browse all Palantir Technologies questions on TidyBit](/company/palantir-technologies)

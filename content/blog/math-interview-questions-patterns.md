@@ -126,4 +126,4 @@ Math questions are particularly favored by companies that prioritize strong foun
 
 Build your pattern recognition and derivation skills systematically, and you'll be able to handle even the most intimidating math question.
 
-[Practice all Math questions on CodeJeet](/topic/math)
+[Practice all Math questions on TidyBit](/topic/math)

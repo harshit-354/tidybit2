@@ -107,4 +107,4 @@ Prepare for **Zoho first** if you are interviewing at both or have time. Masteri
 
 If you are short on time and only have an eBay interview, focus on their list. Drill into Sorting algorithms and their applications, while ensuring mastery of the three core data structures. You can likely defer intensive DP study.
 
-Regardless of target, always solve problems from the company’s own repository. Practice Zoho questions here: [CodeJeet Zoho](/company/zoho). Practice eBay questions here: [CodeJeet eBay](/company/ebay).
+Regardless of target, always solve problems from the company’s own repository. Practice Zoho questions here: [TidyBit Zoho](/company/zoho). Practice eBay questions here: [TidyBit eBay](/company/ebay).

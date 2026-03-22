@@ -95,4 +95,4 @@ Once fundamentals are solid, tailor your final preparation:
 
 Ultimately, a candidate well-prepared for one will be largely prepared for the other. The shared core means efficiency in study; the differences in context mean you must sharpen your skills on the specific type of problem narrative each company prefers.
 
-For detailed question lists and patterns, visit the CodeJeet pages for [Apple](/company/apple) and [Salesforce](/company/salesforce).
+For detailed question lists and patterns, visit the TidyBit pages for [Apple](/company/apple) and [Salesforce](/company/salesforce).

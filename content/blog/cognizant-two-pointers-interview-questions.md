@@ -92,6 +92,6 @@ Build your skills progressively to avoid overwhelm.
 1.  **Foundation:** Start with the most straightforward opposite-ends problems: `Valid Palindrome` and `Two Sum II`.
 2.  **In-Place Operations:** Move to problems that require modifying the array, like `Remove Duplicates from Sorted Array` (fast/slow) and `Reverse String`.
 3.  **Sliding Window Introduction:** Tackle fixed-size window problems first (e.g., `Maximum Average Subarray I`), then variable-size windows (`Longest Substring Without Repeating Characters`).
-4.  **Cognizant-Specific Practice:** Finally, solve all 8 Two Pointers problems on CodeJeet's Cognizant track. This applies your pattern recognition to their exact problem style and difficulty level.
+4.  **Cognizant-Specific Practice:** Finally, solve all 8 Two Pointers problems on TidyBit's Cognizant track. This applies your pattern recognition to their exact problem style and difficulty level.
 
 [Practice Two Pointers at Cognizant](/company/cognizant/two-pointers)

@@ -12,13 +12,13 @@ export function generateMetadata(): Metadata {
     description:
       "In-depth guides on cracking tech interviews at top companies. " +
       "DSA patterns, problem-solving strategies, and company-specific preparation tips.",
-    alternates: { canonical: "https://codejeet.com/blog" },
+    alternates: { canonical: "https://tidybit.com/blog" },
     openGraph: {
-      title: "Blog - Interview Prep Guides & Tips | CodeJeet",
+      title: "Blog - Interview Prep Guides & Tips | TidyBit",
       description:
         "In-depth guides on cracking tech interviews at top companies. DSA patterns and strategies.",
       type: "website",
-      url: "https://codejeet.com/blog",
+      url: "https://tidybit.com/blog",
     },
   };
 }
@@ -39,9 +39,9 @@ export default function BlogIndexPage() {
 
       <JsonLd
         data={collectionJsonLd({
-          name: "CodeJeet Blog",
+          name: "TidyBit Blog",
           description: "Interview prep guides and DSA tips for tech interviews.",
-          url: "https://codejeet.com/blog",
+          url: "https://tidybit.com/blog",
           numberOfItems: 0,
         })}
       />

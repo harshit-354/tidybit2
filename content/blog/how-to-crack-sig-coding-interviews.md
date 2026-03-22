@@ -85,7 +85,7 @@ public int subarraySum(int[] nums, int k) {
 ## Preparation Strategy — A 4-6 Week Study Plan
 
 **Weeks 1-2: Foundation & Core Topics**
-Focus exclusively on **Array, Hash Table, and String** problems at the Medium level. Solve 2-3 problems daily. For each, first attempt a brute-force solution, then optimize. Internalize the hash table pattern shown above. Use platforms like CodeJeet to filter problems by these tags and SIG's frequency.
+Focus exclusively on **Array, Hash Table, and String** problems at the Medium level. Solve 2-3 problems daily. For each, first attempt a brute-force solution, then optimize. Internalize the hash table pattern shown above. Use platforms like TidyBit to filter problems by these tags and SIG's frequency.
 
 **Weeks 3-4: SIG-Specific Patterns & Simulation**
 Dive into **Simulation and Matrix** problems. This is where SIG's character shines. Practice writing clean, step-by-step code. Handle edge cases meticulously (off-by-one errors are fatal). Begin mixing in Hard problems (1 every other day) to stretch your thinking. Start timing your sessions to mimic interview pressure.
@@ -102,4 +102,4 @@ Solve complete SIG question sets without topic filters. The goal is to correctly
 
 Success in a SIG interview is built on precise execution of fundamental patterns applied to clever, practical problems. Target your preparation, prioritize clean code, and practice articulating your reasoning.
 
-[Browse all SIG questions on CodeJeet](/company/sig)
+[Browse all SIG questions on TidyBit](/company/sig)

@@ -6,7 +6,7 @@ category: "tips"
 tags: ["infosys", "twitter", "comparison"]
 ---
 
-When preparing for technical interviews, company-specific question patterns reveal what each organization prioritizes. Infosys and Twitter represent two distinct ends of the spectrum: a global IT services giant and a product-focused social media company. Their interview question banks on CodeJeet—158 questions for Infosys and 53 for Twitter—highlight fundamental differences in their hiring approach, from volume and difficulty to core topics tested.
+When preparing for technical interviews, company-specific question patterns reveal what each organization prioritizes. Infosys and Twitter represent two distinct ends of the spectrum: a global IT services giant and a product-focused social media company. Their interview question banks on TidyBit—158 questions for Infosys and 53 for Twitter—highlight fundamental differences in their hiring approach, from volume and difficulty to core topics tested.
 
 ## Question Volume and Difficulty
 

@@ -77,7 +77,7 @@ private void dfs(TreeNode node, List<Integer> result) {
 A structured approach is key. Don't just solve random problems.
 
 **Weeks 1-2: Foundation & Core Topics**
-Focus exclusively on the top five topics. Solve 15-20 problems per topic, starting with Easy, then Medium. For each problem, write the code in your primary language, then verbally explain the time/space complexity. Use platforms like CodeJeet to filter by company and topic.
+Focus exclusively on the top five topics. Solve 15-20 problems per topic, starting with Easy, then Medium. For each problem, write the code in your primary language, then verbally explain the time/space complexity. Use platforms like TidyBit to filter by company and topic.
 
 **Weeks 3-4: Pattern Integration & Medium Mastery**
 Shift to solving Medium problems that combine topics (e.g., "Binary Tree Level Order Traversal" uses BFS on a Tree). Practice at least two problems daily. Begin timing yourself (45 minutes per problem). Start a notebook for patterns and common pitfalls.
@@ -95,4 +95,4 @@ In the final stretch, conduct at least 3-5 mock interviews with a peer or using 
 
 Success in a SoundHound interview hinges on deep, practical mastery of core data structures, the ability to articulate your reasoning, and disciplined, topic-focused practice.
 
-[Browse all SoundHound questions on CodeJeet](/company/soundhound)
+[Browse all SoundHound questions on TidyBit](/company/soundhound)

@@ -79,4 +79,4 @@ Your priority should be dictated by your interview timeline and the company you 
 
 Ultimately, success lies in adapting your study to the company's profile. Use LinkedIn's list for volume and graph practice, and Twitter's list for focused depth and design readiness.
 
-For specific question lists, visit the CodeJeet pages for [LinkedIn](/company/linkedin) and [Twitter](/company/twitter).
+For specific question lists, visit the TidyBit pages for [LinkedIn](/company/linkedin) and [Twitter](/company/twitter).

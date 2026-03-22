@@ -401,4 +401,4 @@ public class MinPathSum {
 
 5.  **Prepare for system design if you are mid-level or above.** Bloomberg's system design rounds often focus on real-time data systems: streaming pipelines, pub-sub architectures, and caching strategies. These are more specialized than the generic system design questions at other companies. Be prepared to discuss trade-offs between consistency, availability, and latency in the context of financial data.
 
-[Browse all Bloomberg questions on CodeJeet](/company/bloomberg)
+[Browse all Bloomberg questions on TidyBit](/company/bloomberg)

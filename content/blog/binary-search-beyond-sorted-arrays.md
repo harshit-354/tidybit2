@@ -595,4 +595,4 @@ public class SearchRange {
 
 To effectively practice, start by writing the `feasible(x)` function for problems 5, 6, and 7. Then, plug it into the binary search on answer template. The core loop structure remains largely the same; only the feasibility check changes.
 
-Explore binary search problems by company on the [CodeJeet dashboard](/dashboard). This pattern appears frequently at [Amazon](/company/amazon) and [Google](/company/google).
+Explore binary search problems by company on the [TidyBit dashboard](/dashboard). This pattern appears frequently at [Amazon](/company/amazon) and [Google](/company/google).

@@ -129,4 +129,4 @@ Then, move to **Zoho**. Use the foundation from Yahoo to tackle Zoho's extensive
 
 This progression—from the focused, foundational set to the broader, more challenging one—ensures your study time compounds effectively.
 
-For targeted practice, visit the Zoho question bank at [/company/zoho](https://codejeet.com/company/zoho) and the Yahoo question bank at [/company/yahoo](https://codejeet.com/company/yahoo).
+For targeted practice, visit the Zoho question bank at [/company/zoho](https://tidybit.com/company/zoho) and the Yahoo question bank at [/company/yahoo](https://tidybit.com/company/yahoo).

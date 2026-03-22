@@ -88,7 +88,7 @@ public int[] twoSum(int[] nums, int target) {
 
 A structured approach is non-negotiable given the difficulty curve.
 
-**Weeks 1-2: Foundation & Patterns.** Dedicate this phase to core data structures (Array, String, Hash Table, Queue, Graph) and essential algorithms. Solve 2-3 classic problems for each pattern: two-pointers, sliding window, BFS/DFS, and basic DP (Fibonacci, climbing stairs). Use platforms like CodeJeet to filter by topic and easy/medium difficulty.
+**Weeks 1-2: Foundation & Patterns.** Dedicate this phase to core data structures (Array, String, Hash Table, Queue, Graph) and essential algorithms. Solve 2-3 classic problems for each pattern: two-pointers, sliding window, BFS/DFS, and basic DP (Fibonacci, climbing stairs). Use platforms like TidyBit to filter by topic and easy/medium difficulty.
 
 **Weeks 3-4: Topic Depth & Medium Mastery.** Drill into the top UiPath topics. For each, solve 5-8 progressively harder Medium problems. For BFS, practice matrix traversal (rotting oranges, shortest path in binary matrix). For DP, move to medium challenges like coin change or longest increasing subsequence. Time your sessions.
 
@@ -104,4 +104,4 @@ A structured approach is non-negotiable given the difficulty curve.
 
 Mastering these patterns and executing this focused plan will position you strongly for the problem-solving demands of a UiPath coding interview.
 
-[Browse all UiPath questions on CodeJeet](/company/uipath)
+[Browse all UiPath questions on TidyBit](/company/uipath)

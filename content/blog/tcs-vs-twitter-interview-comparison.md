@@ -134,4 +134,4 @@ Once that foundation is solid, pivot to **Twitter**. This requires deepening you
 
 In summary, use TCS's profile for comprehensive algorithmic drill. Use Twitter's profile for focused, high-depth practice and to gate your preparation with design study.
 
-For specific question lists, visit the CodeJeet pages for [TCS](/company/tcs) and [Twitter](/company/twitter).
+For specific question lists, visit the TidyBit pages for [TCS](/company/tcs) and [Twitter](/company/twitter).

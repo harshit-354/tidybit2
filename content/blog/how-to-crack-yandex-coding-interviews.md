@@ -633,4 +633,4 @@ public class MaxSumSubarray {
 
 Success in a Yandex interview is a matter of focused, pattern-based practice. By concentrating on the high-probability topics and honing your communication, you can approach the process with confidence.
 
-[Browse all Yandex questions on CodeJeet](/company/yandex)
+[Browse all Yandex questions on TidyBit](/company/yandex)

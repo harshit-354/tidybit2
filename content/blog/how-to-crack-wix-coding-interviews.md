@@ -124,4 +124,4 @@ A structured approach is non-negotiable. Follow this plan, adjusting for your st
 
 Target the Medium-difficulty core of Array, String, and Hash Table problems with disciplined practice. Consistent, clear communication paired with robust code will get you through.
 
-[Browse all Wix questions on CodeJeet](/company/wix)
+[Browse all Wix questions on TidyBit](/company/wix)

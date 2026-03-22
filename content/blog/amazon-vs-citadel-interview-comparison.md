@@ -92,4 +92,4 @@ Once this foundation is strong, pivot to **Citadel** preparation. Treat Citadel'
 
 In summary, use Amazon's breadth to learn the rules of the game, and then use Citadel's depth to master them under championship conditions.
 
-For targeted practice, visit the CodeJeet question banks for [Amazon](/company/amazon) and [Citadel](/company/citadel).
+For targeted practice, visit the TidyBit question banks for [Amazon](/company/amazon) and [Citadel](/company/citadel).

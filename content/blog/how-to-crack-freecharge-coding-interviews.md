@@ -72,11 +72,11 @@ public int[] twoSum(int[] nums, int target) {
 
 A focused, consistent plan is essential. Here is a week-by-week breakdown.
 
-**Weeks 1-2: Core Foundation.** Dedicate this time exclusively to the top five topics: Hash Table, Array, Greedy, Linked List, and Design. For each, solve 15-20 Medium problems on a platform like CodeJeet. Don't just solve; analyze time/space complexity, identify the pattern, and write clean code on the first try.
+**Weeks 1-2: Core Foundation.** Dedicate this time exclusively to the top five topics: Hash Table, Array, Greedy, Linked List, and Design. For each, solve 15-20 Medium problems on a platform like TidyBit. Don't just solve; analyze time/space complexity, identify the pattern, and write clean code on the first try.
 
 **Weeks 3-4: Pattern Integration and Speed.** Start mixing problems from all five topics randomly. Practice solving two Medium problems within a 45-60 minute session to simulate the interview pace. Begin each problem by verbally explaining your approach before coding. This week, also tackle 5-7 common "Design" problems (e.g., Design LRU Cache, Design Parking Lot).
 
-**Week 5: Company-Specific & Mock Interviews.** Solve all available Freecharge-specific questions on CodeJeet. The patterns will feel familiar. Conduct at least 3-4 mock interviews with a peer or mentor, focusing on clear communication and handling follow-up questions (e.g., "How would you handle concurrent access?").
+**Week 5: Company-Specific & Mock Interviews.** Solve all available Freecharge-specific questions on TidyBit. The patterns will feel familiar. Conduct at least 3-4 mock interviews with a peer or mentor, focusing on clear communication and handling follow-up questions (e.g., "How would you handle concurrent access?").
 
 **Week 6: Final Review & Weakness Polish.** Revisit problems you struggled with. Systematically review each of the five core topics, ensuring you can implement key algorithms (like cycle detection in Linked List or a sliding window on an Array) from memory without hesitation. Focus on rest and mental clarity in the final days.
 
@@ -89,4 +89,4 @@ A focused, consistent plan is essential. Here is a week-by-week breakdown.
 
 By focusing your energy on Medium-difficulty problems across Hash Tables, Arrays, Greedy algorithms, Linked Lists, and Design, you build the exact skill set Freecharge assesses. Practice with intent, communicate clearly, and you'll be well-prepared to succeed.
 
-[Browse all Freecharge questions on CodeJeet](/company/freecharge)
+[Browse all Freecharge questions on TidyBit](/company/freecharge)

@@ -105,4 +105,4 @@ Week 6: **Final Review & Weakness Targeting.** Revisit all previously solved pro
 
 Targeted, intense practice on these patterns is your only path to success. Start with Dynamic Programming today.
 
-[Browse all Dunzo questions on CodeJeet](/company/dunzo)
+[Browse all Dunzo questions on TidyBit](/company/dunzo)

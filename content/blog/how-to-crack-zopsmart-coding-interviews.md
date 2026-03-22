@@ -110,4 +110,4 @@ A structured approach is non-negotiable. Follow this plan to build competence sy
 
 Mastering these patterns and executing this focused plan will position you strongly for Zopsmart's technical evaluation. Consistent, deliberate practice on their core topics is the most reliable path to success.
 
-[Browse all Zopsmart questions on CodeJeet](/company/zopsmart)
+[Browse all Zopsmart questions on TidyBit](/company/zopsmart)

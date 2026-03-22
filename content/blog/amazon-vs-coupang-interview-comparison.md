@@ -12,7 +12,7 @@ When preparing for technical interviews at major tech companies, understanding t
 
 The most striking difference is in the sheer volume of documented questions.
 
-**Amazon** has a massive, well-established repository of **1,938 questions** (as per CodeJeet data: 530 Easy, 1,057 Medium, 351 Hard). This vast pool reflects Amazon's long history of technical recruiting, its scale, and the variety of roles across countless teams (AWS, Retail, Alexa, etc.). Encountering a completely new question is a real possibility, making pattern recognition and fundamental understanding more valuable than rote memorization.
+**Amazon** has a massive, well-established repository of **1,938 questions** (as per TidyBit data: 530 Easy, 1,057 Medium, 351 Hard). This vast pool reflects Amazon's long history of technical recruiting, its scale, and the variety of roles across countless teams (AWS, Retail, Alexa, etc.). Encountering a completely new question is a real possibility, making pattern recognition and fundamental understanding more valuable than rote memorization.
 
 **Coupang**, often called "the Amazon of South Korea," has a significantly smaller public repository of **53 questions** (3 Easy, 36 Medium, 14 Hard). This smaller pool is typical for companies with a more regional focus or a less-documented interview history on public platforms. It suggests a higher chance of encountering a known problem, but preparation should not rely on this alone.
 

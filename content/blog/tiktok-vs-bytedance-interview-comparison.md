@@ -81,4 +81,4 @@ After building that foundation, use **ByteDance's smaller question set** for tar
 
 In summary, prioritize the high-volume, high-difficulty TikTok list for comprehensive skill-building, then refine your approach with the ByteDance list. The shared focus on core data structures means deep, practical mastery of Arrays, Strings, Hash Tables, and DP will be your greatest asset.
 
-For specific question lists, visit the CodeJeet pages for [TikTok](/company/tiktok) and [ByteDance](/company/bytedance).
+For specific question lists, visit the TidyBit pages for [TikTok](/company/tiktok) and [ByteDance](/company/bytedance).

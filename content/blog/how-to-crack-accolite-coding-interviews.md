@@ -101,4 +101,4 @@ In the final stretch, solve Accolite's previously asked questions. This will fam
 
 Targeted practice on these core patterns and topics will build the confidence and skill needed to pass the Accolite coding interview. Start with the fundamentals, pressure-test your knowledge, and refine your communication.
 
-[Browse all Accolite questions on CodeJeet](/company/accolite)
+[Browse all Accolite questions on TidyBit](/company/accolite)

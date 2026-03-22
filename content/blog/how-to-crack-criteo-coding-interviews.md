@@ -70,7 +70,7 @@ public int[] twoSum(int[] nums, int target) {
 
 ## Preparation Strategy — A 4-6 Week Plan
 
-**Weeks 1-2: Foundation & Core Topics.** Dedicate this phase to the top five topics. For each topic (Array, Hash Table, etc.), solve 10-15 curated problems on a platform like CodeJeet, starting with Easy and progressing to Medium. Focus on understanding the underlying pattern, not just memorizing solutions. Implement every solution in your primary interview language.
+**Weeks 1-2: Foundation & Core Topics.** Dedicate this phase to the top five topics. For each topic (Array, Hash Table, etc.), solve 10-15 curated problems on a platform like TidyBit, starting with Easy and progressing to Medium. Focus on understanding the underlying pattern, not just memorizing solutions. Implement every solution in your primary interview language.
 
 **Weeks 3-4: Pattern Integration & Mock Interviews.** Start mixing problems from different topics. Practice problems where you must combine techniques, like using Sorting + Two Pointers, or Array + Hash Table + Binary Search. Begin doing timed practice sessions. In the final days of this block, take 2-3 full mock interviews, simulating the 45-60 minute format with a friend or using a recorded session.
 
@@ -85,4 +85,4 @@ public int[] twoSum(int[] nums, int target) {
 
 Success at Criteo is about demonstrating consistent, reliable skill in the fundamentals. Target their high-frequency topics, practice communicating your solutions, and you'll be well-prepared for their interview loop.
 
-[Browse all Criteo questions on CodeJeet](/company/criteo)
+[Browse all Criteo questions on TidyBit](/company/criteo)

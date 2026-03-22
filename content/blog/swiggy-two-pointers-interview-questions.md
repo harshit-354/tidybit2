@@ -88,7 +88,7 @@ Build your competency systematically:
 1.  **Foundation:** Start with basic opposite-ends problems (Two Sum II, Valid Palindrome).
 2.  **In-Place Operations:** Move to problems requiring element swaps or overwrites (Remove Duplicates, Move Zeroes).
 3.  **Complex Traversal:** Tackle "slow and fast" pointer problems (Linked List Cycle) and sliding window variants.
-4.  **Swiggy-Specific:** Finally, solve problems tagged for Swiggy on platforms like CodeJeet to familiarize yourself with their exact problem style and constraints.
+4.  **Swiggy-Specific:** Finally, solve problems tagged for Swiggy on platforms like TidyBit to familiarize yourself with their exact problem style and constraints.
 
 Focus on writing clean, bug-free code. In your interview, clearly communicate your thought process, starting with the brute-force approach before optimizing with the Two Pointers technique.
 

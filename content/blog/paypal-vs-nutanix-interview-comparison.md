@@ -115,4 +115,4 @@ Once you are confident with PayPal's core topics, pivot to **Nutanix-specific pr
 
 In summary, use PayPal's list to build your generalist strength, then specialize with Nutanix's graph-focused problems. This approach maximizes the overlap in your study and ensures you are well-prepared for both.
 
-For detailed question lists, visit the PayPal and Nutanix pages on CodeJeet: [PayPal Interview Questions](/company/paypal) | [Nutanix Interview Questions](/company/nutanix)
+For detailed question lists, visit the PayPal and Nutanix pages on TidyBit: [PayPal Interview Questions](/company/paypal) | [Nutanix Interview Questions](/company/nutanix)

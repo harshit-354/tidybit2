@@ -121,4 +121,4 @@ Given the significant topic overlap, the most efficient strategy is to **prepare
 
 In practice, build your core competency by solving a wide variety of Medium-difficulty problems from Oracle's focus areas. Ensure you are fluent in the fundamental patterns for Arrays, Strings, and Hash Tables, and have practiced several classic DP problems. This foundation will serve as an excellent platform for both interview processes.
 
-For targeted company question lists and patterns, visit the Oracle and Salesforce pages on CodeJeet: [Oracle Interview Questions](/company/oracle) | [Salesforce Interview Questions](/company/salesforce).
+For targeted company question lists and patterns, visit the Oracle and Salesforce pages on TidyBit: [Oracle Interview Questions](/company/oracle) | [Salesforce Interview Questions](/company/salesforce).

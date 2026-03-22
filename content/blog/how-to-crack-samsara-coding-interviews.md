@@ -100,7 +100,7 @@ public int longestSubarraySumAtMostK(int[] nums, int k) {
 
 A focused, topic-driven plan is more effective than random practice.
 
-**Weeks 1-2: Foundation.** Master the top five topics. For each, solve 10-15 problems on a platform like CodeJeet, starting with Easy and progressing to Medium. Implement each solution in your primary language, then re-implement it in a second language to deepen understanding. Build your own code templates for Sliding Window and Two Pointers.
+**Weeks 1-2: Foundation.** Master the top five topics. For each, solve 10-15 problems on a platform like TidyBit, starting with Easy and progressing to Medium. Implement each solution in your primary language, then re-implement it in a second language to deepen understanding. Build your own code templates for Sliding Window and Two Pointers.
 
 **Weeks 3-4: Integration and Difficulty Ramp.** Start mixing topics. Practice problems that combine patterns, like a Simulation that uses Array manipulation. Dedicate at least two full sessions to solving 4-5 problems in 60-70 minutes to simulate the interview's pace and mental stamina required. Begin tackling Hard problems; focus on understanding the solution approach even if you can't code it fully at first.
 
@@ -115,4 +115,4 @@ A focused, topic-driven plan is more effective than random practice.
 
 Samsara’s interviews test for both algorithmic skill and practical, clean coding under constraints. Target the high-frequency topics, practice under timed conditions, and articulate your reasoning. Consistent, focused practice on the right material is the most reliable path to success.
 
-[Browse all Samsara questions on CodeJeet](/company/samsara)
+[Browse all Samsara questions on TidyBit](/company/samsara)

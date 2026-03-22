@@ -158,4 +158,4 @@ The massive question bank covering Array, String, Hash Table, and Math will forc
 
 Once comfortable with the breadth of problems typical for Bloomberg, pivot to Snapchat's list. Drill deeply into their ~99 questions, with special attention to the **Breadth-First Search** problems and the higher concentration of hard questions. This strategy ensures you build comprehensive skills first, then sharpen them for the specific, challenging profile of a Snapchat interview.
 
-For targeted practice, visit the CodeJeet pages for [Bloomberg](/company/bloomberg) and [Snapchat](/company/snapchat).
+For targeted practice, visit the TidyBit pages for [Bloomberg](/company/bloomberg) and [Snapchat](/company/snapchat).

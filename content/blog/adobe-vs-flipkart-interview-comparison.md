@@ -6,7 +6,7 @@ category: "tips"
 tags: ["adobe", "flipkart", "comparison"]
 ---
 
-When preparing for technical interviews, understanding company-specific patterns is crucial for efficient study. Adobe and Flipkart, while both major tech employers in India, demonstrate distinct profiles in their coding interview question libraries on CodeJeet. Adobe’s list is larger and more balanced, whereas Flipkart’s is more concentrated and skewed toward medium difficulty. A direct comparison reveals how to strategically allocate your preparation time.
+When preparing for technical interviews, understanding company-specific patterns is crucial for efficient study. Adobe and Flipkart, while both major tech employers in India, demonstrate distinct profiles in their coding interview question libraries on TidyBit. Adobe’s list is larger and more balanced, whereas Flipkart’s is more concentrated and skewed toward medium difficulty. A direct comparison reveals how to strategically allocate your preparation time.
 
 ## Question Volume and Difficulty
 

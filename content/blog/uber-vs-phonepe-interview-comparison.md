@@ -91,4 +91,4 @@ Your preparation order should be guided by your target companies and the foundat
 
 In practice, the optimal strategy is to **master the shared core first**. Achieve deep fluency with Arrays, Hash Tables, and Dynamic Programming problems at Medium and Hard levels. This core competency will serve you for both companies. Then, branch out based on your target: drill String problems for Uber, and ensure you can implement and apply advanced sorting logic for PhonePe.
 
-For further details, explore the specific question lists on CodeJeet: [Uber Interview Questions](/company/uber) and [PhonePe Interview Questions](/company/phonepe).
+For further details, explore the specific question lists on TidyBit: [Uber Interview Questions](/company/uber) and [PhonePe Interview Questions](/company/phonepe).

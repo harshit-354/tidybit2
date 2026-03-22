@@ -224,4 +224,4 @@ BFS is a staple at companies that emphasize core algorithms and large-scale syst
 
 Master these patterns and you'll turn a broad graph exploration into a targeted interview strategy.
 
-[Practice all Breadth-First Search questions on CodeJeet](/topic/breadth-first-search)
+[Practice all Breadth-First Search questions on TidyBit](/topic/breadth-first-search)

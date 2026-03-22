@@ -103,4 +103,4 @@ Shift focus to **Snowflake** once your fundamentals are solid and you are target
 
 Ultimately, the shared emphasis on Arrays, Strings, and Hash Tables means preparation for one company significantly benefits the other. Start with the broader fundamentals, then specialize based on your target company's unique profile.
 
-For more specific question lists, visit the Snowflake and EPAM Systems pages on CodeJeet: [/company/snowflake](/company/snowflake) and [/company/epam-systems](/company/epam-systems).
+For more specific question lists, visit the Snowflake and EPAM Systems pages on TidyBit: [/company/snowflake](/company/snowflake) and [/company/epam-systems](/company/epam-systems).

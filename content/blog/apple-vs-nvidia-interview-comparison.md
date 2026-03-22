@@ -84,5 +84,5 @@ Once comfortable with the fundamentals, expand your preparation for **Apple**. T
 In essence, NVIDIA's list is a strong subset of Apple's. Mastering NVIDIA's core will make you competitive there and prepare you for about 60-70% of Apple's focus areas. The final step for Apple is to layer on DP and advanced problem-solving depth.
 
 For targeted question lists and patterns, visit the Apple and NVIDIA company pages:  
-[CodeJeet Apple Interview Questions](/company/apple)  
-[CodeJeet NVIDIA Interview Questions](/company/nvidia)
+[TidyBit Apple Interview Questions](/company/apple)  
+[TidyBit NVIDIA Interview Questions](/company/nvidia)

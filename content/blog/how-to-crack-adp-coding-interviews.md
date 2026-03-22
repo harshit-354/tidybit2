@@ -87,7 +87,7 @@ A focused, topic-driven plan is more effective than random practice.
 - **Weeks 1-2: Foundation.** Dedicate this period to **Arrays and Strings**. Solve 15-20 problems from each topic, covering all major patterns: two-pointers, sliding window, hash maps for lookups, and basic sorting applications. Ensure you can implement these patterns in your primary language without hesitation.
 - **Week 3: Core Math.** Dive into **Math, Number Theory, and basic Combinatorics**. Practice prime number algorithms (Sieve of Eratosthenes), GCD (Euclidean algorithm), modular operations, and simple counting problems. Understand how to use loops and recursion for these calculations.
 - **Week 4: Advanced Patterns & Combinatorics.** Tackle **dynamic programming (DP)**, as it’s frequently the key to harder Combinatorics problems (e.g., "count ways to..." problems). Start with classic DP problems (Fibonacci, coin change) before moving to combinatorial DP. This is also the week to attempt Medium-Hard problems from previous topics.
-- **Weeks 5-6: Mock Interviews and Integration.** Stop learning new topics. Use this phase for timed practice. Simulate the actual interview format: solve 1 Easy, 1 Medium, and 1 Hard problem in a 60-75 minute session. Use platforms like CodeJeet to find company-tagged problems. Focus on communicating your thought process clearly while coding.
+- **Weeks 5-6: Mock Interviews and Integration.** Stop learning new topics. Use this phase for timed practice. Simulate the actual interview format: solve 1 Easy, 1 Medium, and 1 Hard problem in a 60-75 minute session. Use platforms like TidyBit to find company-tagged problems. Focus on communicating your thought process clearly while coding.
 
 ## Key Tips
 
@@ -98,4 +98,4 @@ A focused, topic-driven plan is more effective than random practice.
 
 Mastering these patterns and executing a disciplined study plan will position you strongly for the ADP coding interview. The key is to transform your problem-solving approach into a repeatable, communicable process.
 
-[Browse all ADP questions on CodeJeet](/company/adp)
+[Browse all ADP questions on TidyBit](/company/adp)

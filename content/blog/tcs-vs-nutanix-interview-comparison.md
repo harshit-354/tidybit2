@@ -6,7 +6,7 @@ category: "tips"
 tags: ["tcs", "nutanix", "comparison"]
 ---
 
-When preparing for technical interviews, understanding company-specific patterns is crucial for efficient study. TCS (Tata Consultancy Services) and Nutanix represent two distinct ends of the tech interview spectrum—one a global IT services giant and the other a focused enterprise cloud software company. Their question banks on CodeJeet reveal clear differences in volume, difficulty, and focus, which directly shape how you should prepare.
+When preparing for technical interviews, understanding company-specific patterns is crucial for efficient study. TCS (Tata Consultancy Services) and Nutanix represent two distinct ends of the tech interview spectrum—one a global IT services giant and the other a focused enterprise cloud software company. Their question banks on TidyBit reveal clear differences in volume, difficulty, and focus, which directly shape how you should prepare.
 
 ## Question Volume and Difficulty
 
@@ -121,4 +121,4 @@ Your preparation order should be guided by your target role and interview timeli
 
 In summary, use TCS's list for broad foundational drill and Nutanix's list for targeted, deep-dive algorithmic practice. Align your primary focus with the company profile that matches your career goals.
 
-For detailed question lists, visit the TCS and Nutanix company pages on CodeJeet: [/company/tcs](/company/tcs) and [/company/nutanix](/company/nutanix).
+For detailed question lists, visit the TCS and Nutanix company pages on TidyBit: [/company/tcs](/company/tcs) and [/company/nutanix](/company/nutanix).

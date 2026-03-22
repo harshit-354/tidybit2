@@ -136,4 +136,4 @@ Identify your weak spots by reviewing incorrect or slow solutions. Revisit the t
 
 Mastering these patterns and executing this focused plan will significantly increase your confidence and performance in the MAQ Software coding interview.
 
-[Browse all MAQ Software questions on CodeJeet](/company/maq-software)
+[Browse all MAQ Software questions on TidyBit](/company/maq-software)

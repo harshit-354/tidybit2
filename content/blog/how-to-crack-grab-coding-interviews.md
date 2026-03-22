@@ -97,6 +97,6 @@ Weeks 5-6: **Mock Interviews & Polish.** Conduct at least 4-5 timed mock intervi
 3.  **Test with Purpose:** Don't just run the example. Verbally walk through a small custom test case, including edge cases, before execution. Explain what you're testing for (e.g., "This checks the case where the window shrinks to size zero").
 4.  **Practice in the Interview Language:** Use one primary language (Python, JavaScript, or Java) for all your practice and the interview. Fluency with its standard library (especially for Hash Tables and Arrays) saves critical minutes.
 
-Mastering these focused patterns and executing them calmly under time pressure is the key to success. For targeted practice, browse all Grab questions on CodeJeet.
+Mastering these focused patterns and executing them calmly under time pressure is the key to success. For targeted practice, browse all Grab questions on TidyBit.
 
-[Browse all Grab questions on CodeJeet](/company/grab)
+[Browse all Grab questions on TidyBit](/company/grab)

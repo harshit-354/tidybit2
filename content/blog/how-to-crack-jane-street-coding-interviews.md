@@ -123,4 +123,4 @@ Conduct at least 2-3 mock interviews per week, preferably with someone who under
 
 Success in a Jane Street coding interview is defined by precise, communicative, and robust code. It's less about knowing the most obscure algorithm and more about applying fundamental tools perfectly to novel problems.
 
-[Browse all Jane Street questions on CodeJeet](/company/jane-street)
+[Browse all Jane Street questions on TidyBit](/company/jane-street)

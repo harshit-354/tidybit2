@@ -10,7 +10,7 @@ When preparing for technical interviews at top companies, understanding their sp
 
 ## Question Volume and Difficulty
 
-The most striking difference is the sheer scale of the question banks. On CodeJeet, **Bloomberg** is associated with **1,173 questions**, dwarfing **Walmart Labs' 152 questions**. This volume indicates Bloomberg's extensive, well-documented history of interview questions across many roles.
+The most striking difference is the sheer scale of the question banks. On TidyBit, **Bloomberg** is associated with **1,173 questions**, dwarfing **Walmart Labs' 152 questions**. This volume indicates Bloomberg's extensive, well-documented history of interview questions across many roles.
 
 The difficulty distribution also reveals different hiring profiles:
 

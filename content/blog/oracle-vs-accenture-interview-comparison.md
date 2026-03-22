@@ -73,4 +73,4 @@ Prepare for **Accenture first** if you are interviewing at both companies. Its q
 
 Then, pivot to **Oracle preparation**. Use the established core skills and systematically tackle Medium-difficulty problems across all topics, especially focusing on Dynamic Programming. Finally, practice a selection of Hard problems to build the stamina and advanced pattern recognition required for Oracle's more rigorous technical rounds. This sequential approach ensures you are broadly prepared without being overwhelmed, allowing you to solidify fundamentals before tackling higher-complexity challenges.
 
-For targeted practice, visit the CodeJeet pages for [Oracle](/company/oracle) and [Accenture](/company/accenture).
+For targeted practice, visit the TidyBit pages for [Oracle](/company/oracle) and [Accenture](/company/accenture).

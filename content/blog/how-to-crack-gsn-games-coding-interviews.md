@@ -109,7 +109,7 @@ List<Player> playersWithScores = playerRepository.findPlayersWithRecentScores(on
 
 ## Preparation Strategy — A 4-6 Week Study Plan
 
-**Weeks 1-2: Foundation.** Focus on core data structures (arrays, hash maps, sets, stacks/queues) and basic algorithms (binary search, two-pointer, sliding window). Complete 30-40 Easy and Medium problems on CodeJeet. Simultaneously, review SQL fundamentals: SELECT with complex WHERE clauses, JOINs (INNER, LEFT, RIGHT), GROUP BY with aggregate functions (COUNT, SUM, AVG), and subqueries.
+**Weeks 1-2: Foundation.** Focus on core data structures (arrays, hash maps, sets, stacks/queues) and basic algorithms (binary search, two-pointer, sliding window). Complete 30-40 Easy and Medium problems on TidyBit. Simultaneously, review SQL fundamentals: SELECT with complex WHERE clauses, JOINs (INNER, LEFT, RIGHT), GROUP BY with aggregate functions (COUNT, SUM, AVG), and subqueries.
 
 **Weeks 3-4: Core Topics & Patterns.** Dive deep into database topics. Practice writing optimized queries, designing schemas for scenarios like player profiles and game sessions, and explaining indexing decisions. Study concurrency patterns (mutexes, semaphores) and idempotency. Complete 20-30 Medium problems, focusing on topics tagged "Database" and "Concurrency." Begin OOD practice by designing 2-3 game-related systems (e.g., a virtual card deck, a reward system).
 
@@ -125,4 +125,4 @@ List<Player> playersWithScores = playerRepository.findPlayersWithRecentScores(on
 
 Mastering these areas will position you strongly for the GSN Games interview process. Consistent, focused practice on database-centric problems is your fastest path to success.
 
-[Browse all GSN Games questions on CodeJeet](/company/gsn-games)
+[Browse all GSN Games questions on TidyBit](/company/gsn-games)

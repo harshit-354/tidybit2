@@ -141,4 +141,4 @@ If you are only targeting one company, tailor your approach:
 
 Regardless of your target, always solve problems on the company's tagged list to familiarize yourself with their specific question style and difficulty curve.
 
-For further study, visit the CodeJeet question banks for [Salesforce](/company/salesforce) and [IBM](/company/ibm).
+For further study, visit the TidyBit question banks for [Salesforce](/company/salesforce) and [IBM](/company/ibm).

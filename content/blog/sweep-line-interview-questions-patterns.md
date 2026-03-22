@@ -212,4 +212,4 @@ These companies value Sweep Line because it demonstrates:
 
 Sweep Line questions are challenging but conquerable with focused practice. The pattern is consistent once recognized, and implementing it efficiently demonstrates strong algorithmic competency.
 
-[Practice all Sweep Line questions on CodeJeet](/topic/sweep-line)
+[Practice all Sweep Line questions on TidyBit](/topic/sweep-line)

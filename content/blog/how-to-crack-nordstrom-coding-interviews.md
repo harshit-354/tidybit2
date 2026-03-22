@@ -89,4 +89,4 @@ A structured approach is non-negotiable. Here is a focused plan.
 
 Consistent, topic-focused practice is the most reliable path to passing Nordstrom's technical screen. Start with the patterns shown here, build your plan, and execute.
 
-[Browse all Nordstrom questions on CodeJeet](/company/nordstrom)
+[Browse all Nordstrom questions on TidyBit](/company/nordstrom)

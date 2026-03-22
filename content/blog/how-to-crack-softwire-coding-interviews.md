@@ -106,4 +106,4 @@ public int lengthOfLongestSubstring(String s) {
 
 Mastering these core patterns and approaching the interview as a collaborative problem-solving exercise will give you a significant advantage.
 
-[Browse all Softwire questions on CodeJeet](/company/softwire)
+[Browse all Softwire questions on TidyBit](/company/softwire)

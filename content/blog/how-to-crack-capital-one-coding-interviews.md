@@ -86,4 +86,4 @@ A structured approach is non-negotiable. Here is a focused 4-6 week plan.
 
 Mastering these patterns and executing a disciplined study plan will build the muscle memory needed to succeed. The goal is to make solving a Medium problem on Arrays or Strings with a Hash Table feel routine.
 
-[Browse all Capital One questions on CodeJeet](/company/capital-one)
+[Browse all Capital One questions on TidyBit](/company/capital-one)

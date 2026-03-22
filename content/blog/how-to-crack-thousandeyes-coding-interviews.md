@@ -212,7 +212,7 @@ public class LRUCache {
 
 ## Preparation Strategy — A 4-6 Week Plan
 
-**Weeks 1-2: Foundation.** Grind the core topics: Array, Hash Table, Linked List, and Doubly-Linked List. Solve 2-3 problems daily from each category on CodeJeet, focusing on understanding, not memorization. Implement every data structure from scratch once.
+**Weeks 1-2: Foundation.** Grind the core topics: Array, Hash Table, Linked List, and Doubly-Linked List. Solve 2-3 problems daily from each category on TidyBit, focusing on understanding, not memorization. Implement every data structure from scratch once.
 
 **Weeks 3-4: Pattern Integration.** Shift to Medium problems that combine topics (e.g., arrays with hashing, linked lists with two-pointer techniques). Practice the LRU Cache pattern until you can code it flawlessly. Start timing your sessions (45-60 minutes per problem).
 
@@ -227,4 +227,4 @@ public class LRUCache {
 
 Mastering these patterns and approaching problems with a systematic, communicative mindset will give you a significant edge in the ThousandEyes interview process.
 
-[Browse all ThousandEyes questions on CodeJeet](/company/thousandeyes)
+[Browse all ThousandEyes questions on TidyBit](/company/thousandeyes)

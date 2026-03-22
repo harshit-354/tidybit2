@@ -91,4 +91,4 @@ For most candidates aiming at both, a hybrid approach is best: **Start with the 
 
 Ultimately, success at either company requires crisp coding, clear communication, and efficient problem-solving. Use the company-specific lists to guide your focus, not limit it.
 
-For detailed question lists, visit the NVIDIA and Twitter pages on CodeJeet: [NVIDIA Interview Questions](/company/nvidia) | [Twitter Interview Questions](/company/twitter)
+For detailed question lists, visit the NVIDIA and Twitter pages on TidyBit: [NVIDIA Interview Questions](/company/nvidia) | [Twitter Interview Questions](/company/twitter)

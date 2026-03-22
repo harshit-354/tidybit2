@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-CodeJeet is a fully static Next.js 16 app for browsing company-wise LeetCode DSA questions and system design chapters. It uses shadcn/ui components and reads question data from CSV files at build time. Deployed to Cloudflare Pages — no server required.
+TidyBit is a fully static Next.js 16 app for browsing company-wise LeetCode DSA questions and system design chapters. It uses shadcn/ui components and reads question data from CSV files at build time. Deployed to Cloudflare Pages — no server required.
 
 ## Commands
 

@@ -1013,6 +1013,6 @@ class TreeConstruction {
 
 </div>
 
-Check the [trees topic page](/topic/tree) on CodeJeet. Tree questions are favorites at [Google](/company/google), [Amazon](/company/amazon), and [Microsoft](/company/microsoft).
+Check the [trees topic page](/topic/tree) on TidyBit. Tree questions are favorites at [Google](/company/google), [Amazon](/company/amazon), and [Microsoft](/company/microsoft).
 
 When you see a tree problem, ask: "Do I need info from children (postorder) or from the parent (preorder)? Is order relevant (inorder for BST)? Is it level-based (BFS)?" This question points you to the right traversal within seconds.

@@ -105,4 +105,4 @@ Weeks 5-6: **Final Review & Hard Problems.** Revisit previously solved problems 
 
 Mastering these core patterns and executing them under time constraints is the most reliable path to success in a Robinhood coding interview.
 
-[Browse all Robinhood questions on CodeJeet](/company/robinhood)
+[Browse all Robinhood questions on TidyBit](/company/robinhood)

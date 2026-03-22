@@ -115,7 +115,7 @@ public int coinChange(int[] coins, int amount) {
 **Weeks 3-4: Topic Integration & Practice.**
 
 - Day 1-7: Study Heaps (Priority Queues). Combine with sorting for "Top K" and "Merge K Sorted Lists" problems.
-- Day 8-14: Start doing mixed-topic practice sessions. Use platforms like CodeJeet to filter for EA's top topics (Array, DP, Greedy, Sorting, Heap). Solve 2-3 problems daily, with at least one medium difficulty.
+- Day 8-14: Start doing mixed-topic practice sessions. Use platforms like TidyBit to filter for EA's top topics (Array, DP, Greedy, Sorting, Heap). Solve 2-3 problems daily, with at least one medium difficulty.
 
 **Weeks 5-6: Mock Interviews & Refinement.**
 
@@ -132,4 +132,4 @@ public int coinChange(int[] coins, int amount) {
 
 Success at EA is about demonstrating consistent, applied skill. Focus on the core topics, practice clear communication, and write robust code.
 
-[Browse all Electronic Arts questions on CodeJeet](/company/electronic-arts)
+[Browse all Electronic Arts questions on TidyBit](/company/electronic-arts)

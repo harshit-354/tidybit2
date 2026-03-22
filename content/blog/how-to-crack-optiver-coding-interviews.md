@@ -220,4 +220,4 @@ A focused, consistent plan is essential.
 
 Success in Optiver's interviews comes from disciplined practice on the right fundamentals. Build muscle memory for the core patterns, and you'll be able to focus on demonstrating clear, logical thinking during the interview.
 
-[Browse all Optiver questions on CodeJeet](/company/optiver)
+[Browse all Optiver questions on TidyBit](/company/optiver)

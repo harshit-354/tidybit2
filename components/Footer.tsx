@@ -51,7 +51,7 @@ const Footer = () => {
               <BsTwitterX size={24} />
             </a>
             <a
-              href="https://github.com/ayush-that/codejeet"
+              href="https://github.com/ayush-that/tidybit"
               target="_blank"
               rel="noopener noreferrer"
             >

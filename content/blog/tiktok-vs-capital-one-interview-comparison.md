@@ -6,7 +6,7 @@ category: "tips"
 tags: ["tiktok", "capital-one", "comparison"]
 ---
 
-When preparing for technical interviews, understanding company-specific patterns is crucial for efficient study. TikTok and Capital One represent two distinct ends of the tech interview spectrum: one is a high-growth social media giant with a notoriously rigorous process, and the other is a major financial institution undergoing a digital transformation. Their question banks on CodeJeet reflect this difference clearly, making a targeted approach essential.
+When preparing for technical interviews, understanding company-specific patterns is crucial for efficient study. TikTok and Capital One represent two distinct ends of the tech interview spectrum: one is a high-growth social media giant with a notoriously rigorous process, and the other is a major financial institution undergoing a digital transformation. Their question banks on TidyBit reflect this difference clearly, making a targeted approach essential.
 
 ## Question Volume and Difficulty
 

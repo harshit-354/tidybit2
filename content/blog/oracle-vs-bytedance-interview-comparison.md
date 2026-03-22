@@ -82,5 +82,5 @@ Your preparation priority should be guided by your target role and timeline.
 
 A pragmatic hybrid approach is to **master the shared core topics (Array, String, Hash Table, DP) first**, using high-frequency problems from any source. Then, if targeting both companies, use Oracle's list for breadth and depth training, and use ByteDance's list for final, targeted practice and pattern recognition specific to their style.
 
-For dedicated question lists and further details, visit the Oracle and ByteDance pages on CodeJeet: [Oracle Interview Questions](/company/oracle) | [ByteDance Interview Questions](/company/bytedance)
+For dedicated question lists and further details, visit the Oracle and ByteDance pages on TidyBit: [Oracle Interview Questions](/company/oracle) | [ByteDance Interview Questions](/company/bytedance)
 ```

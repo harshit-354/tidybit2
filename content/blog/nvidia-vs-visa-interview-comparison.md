@@ -114,4 +114,4 @@ Your preparation order should be guided by your target roles and the foundationa
 
 In summary, begin with the common algorithmic core. Then, specialize: optimize for medium-depth performance for NVIDIA, and ramp up to high-complexity problem-solving for Visa.
 
-For detailed question lists and patterns, visit the NVIDIA and Visa company pages: [CodeJeet NVIDIA](/company/nvidia) | [CodeJeet Visa](/company/visa)
+For detailed question lists and patterns, visit the NVIDIA and Visa company pages: [TidyBit NVIDIA](/company/nvidia) | [TidyBit Visa](/company/visa)

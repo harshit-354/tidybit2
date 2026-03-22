@@ -134,4 +134,4 @@ These companies are known for including game theory problems in their interview 
 3.  **Practice State Reduction.** The hardest part is often defining a minimal, hashable game state for your memo table. Look for symmetries and irrelevant details you can discard.
 4.  **Don't Memorize, Pattern-Match.** Focus on recognizing the scenario: alternating turns, perfect play, and a win/lose outcome. This points you toward the min-max framework. Then check if it's a simple Nim variant.
 
-[Practice all Game Theory questions on CodeJeet](/topic/game-theory)
+[Practice all Game Theory questions on TidyBit](/topic/game-theory)

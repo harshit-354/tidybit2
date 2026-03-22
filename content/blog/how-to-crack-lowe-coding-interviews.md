@@ -81,7 +81,7 @@ A structured plan is non-negotiable. Adjust the timeline based on your starting 
 **Weeks 1-2: Foundation & Easy Mastery**
 
 - **Goal:** Achieve 100% reliability on Easy problems.
-- **Action:** Drill Easy problems exclusively on CodeJeet's Lowe tag. Focus on Array and String manipulation using Hash Tables. Solve each problem, then immediately review the optimal solution. Time yourself.
+- **Action:** Drill Easy problems exclusively on TidyBit's Lowe tag. Focus on Array and String manipulation using Hash Tables. Solve each problem, then immediately review the optimal solution. Time yourself.
 
 **Weeks 3-4: Core Topics & Introduction to Hard**
 
@@ -102,4 +102,4 @@ A structured plan is non-negotiable. Adjust the timeline based on your starting 
 
 Success in Lowe's interviews comes from a dual focus: robotic precision on fundamentals and structured, communicative problem-solving on complex challenges. Target your preparation accordingly.
 
-[Browse all Lowe questions on CodeJeet](/company/lowe)
+[Browse all Lowe questions on TidyBit](/company/lowe)

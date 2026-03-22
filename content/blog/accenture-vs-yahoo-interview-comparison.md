@@ -92,4 +92,4 @@ Your preparation order should be guided by your timeline and the roles you're ta
 
 **Optimal Strategy:** A combined approach is most effective. First, solidify your fundamentals by working through a selection of Easy and Medium problems from **Accenture's** extensive list. This builds breadth. Then, transition to **Yahoo's** list to deepen your understanding, ensuring you can solve its core problems fluently and can handle its more challenging questions. This sequence ensures you are well-prepared for either company's interview.
 
-For targeted practice, visit the Accenture question list and the Yahoo question list on CodeJeet.
+For targeted practice, visit the Accenture question list and the Yahoo question list on TidyBit.

@@ -569,7 +569,7 @@ A focused 6-week plan is effective. Use the first week to solidify absolute fund
 
 Weeks 2-4 are your core topic sprint. Dedicate about 4-5 days to each of the top five areas: Array, String, Hash Table, Sorting, and Dynamic Programming. For each topic, solve 15-20 curated problems, mixing Easy and Medium, with at least 2-3 Hard problems per topic. Spend time analyzing patterns, not just solving. Create a cheat sheet for each pattern (e.g., for Sliding Window, note the template: initialize window, expand right, shrink left when condition is violated, update answer).
 
-Week 5 is for full integration. Stop studying by topic. Instead, take PayPal's tagged questions on platforms like CodeJeet and solve them in a timed, mock-interview setting. Mix in 2-3 system design sessions per week, focusing on scalable payment systems, idempotency, and consistency models. Practice designing a system like a fraud detection service or a distributed ledger for transactions.
+Week 5 is for full integration. Stop studying by topic. Instead, take PayPal's tagged questions on platforms like TidyBit and solve them in a timed, mock-interview setting. Mix in 2-3 system design sessions per week, focusing on scalable payment systems, idempotency, and consistency models. Practice designing a system like a fraud detection service or a distributed ledger for transactions.
 
 Week 6 is your final review and polish. Revisit problems you found difficult. Practice explaining your solutions out loud. Dedicate time to behavioral questions using the STAR method, with examples that highlight collaboration, ownership, and handling scale. For instance, prepare a story about a time you debugged a critical production issue under pressure, emphasizing your systematic approach and communication.
 
@@ -587,4 +587,4 @@ Week 6 is your final review and polish. Revisit problems you found difficult. Pr
 
 Start your targeted practice with the specific problems PayPal asks.
 
-[Browse all PayPal questions on CodeJeet](/company/paypal)
+[Browse all PayPal questions on TidyBit](/company/paypal)

@@ -165,4 +165,4 @@ Top companies frequently include Counting Sort in their interview loops because 
 3.  **Map Problems to the Pattern:** Don't just sort. Practice problems where the frequency array is the answer itself—like finding the missing number, checking anagram validity, or finding the most frequent element.
 4.  **Analyze Time/Space Trade-off:** Be prepared to explain why Counting Sort is O(n + k) and discuss when the space complexity O(k) is acceptable versus when it becomes prohibitive (e.g., if k is very large).
 
-[Practice all Counting Sort questions on CodeJeet](/topic/counting-sort)
+[Practice all Counting Sort questions on TidyBit](/topic/counting-sort)

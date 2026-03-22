@@ -77,5 +77,5 @@ If you are only preparing for one, tailor your plan accordingly. For Uber, use t
 
 **Final Strategy:** Build core algorithmic strength with Nutanix's focused list, then expand to Uber's breadth. Always solve problems on a whiteboard, articulate your reasoning, and practice the system design and behavioral rounds that are integral to both companies' processes.
 
-- Practice for Uber: [CodeJeet Uber Interview Questions](/company/uber)
-- Practice for Nutanix: [CodeJeet Nutanix Interview Questions](/company/nutanix)
+- Practice for Uber: [TidyBit Uber Interview Questions](/company/uber)
+- Practice for Nutanix: [TidyBit Nutanix Interview Questions](/company/nutanix)

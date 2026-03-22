@@ -149,4 +149,4 @@ Then, transition to **DoorDash preparation**. Use the established core skills an
 
 In summary, Intuit's list is a more focused foundation builder, while DoorDash's requires advanced application of those fundamentals to harder, often graph-based, problems. Target your study accordingly.
 
-For specific question lists, visit the CodeJeet pages for [DoorDash](/company/doordash) and [Intuit](/company/intuit).
+For specific question lists, visit the TidyBit pages for [DoorDash](/company/doordash) and [Intuit](/company/intuit).

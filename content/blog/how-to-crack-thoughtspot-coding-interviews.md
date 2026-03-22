@@ -113,4 +113,4 @@ Conduct at least 2-3 mock interviews per week under timed conditions (60-75 minu
 
 The ThoughtSpot interview is a test of depth over breadth. By targeting the high-difficulty topics with a disciplined, pattern-based approach, you can demonstrate the advanced problem-solving skills they require.
 
-[Browse all Thoughtspot questions on CodeJeet](/company/thoughtspot)
+[Browse all Thoughtspot questions on TidyBit](/company/thoughtspot)

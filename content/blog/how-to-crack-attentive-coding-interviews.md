@@ -75,7 +75,7 @@ A structured approach is more effective than random practice. Follow this plan.
 - **Week 1-2: Foundation & Core Topics.** Dedicate one day each to the top five topics: Array, String, Hash Table, Stack, and Recursion. For each, study the fundamental patterns (e.g., two-pointer for Array/String, DFS for Recursion) and solve 5-8 classic problems until the approach is automatic.
 - **Week 3-4: Pattern Integration & Medium Difficulty.** Focus on problems that combine two core topics, like "Valid Parentheses" (Stack + String) or "Group Anagrams" (Hash Table + String). Target Medium-difficulty problems exclusively. Practice explaining your thought process out loud as you code.
 - **Week 5: Mock Interviews & Hard Problems.** Simulate the real interview environment. Use a timer and a voice/video call with a peer. Attempt 1-2 Hard problems per session, focusing on breaking them down into manageable sub-problems you've already practiced.
-- **Week 6: Attentive-Specific Review & Refinement.** In the final stretch, solve problems tagged with Attentive on platforms like CodeJeet. Revisit your notes on the most frequent topics. Polish your communication: practice stating time/space complexity clearly and discussing trade-offs.
+- **Week 6: Attentive-Specific Review & Refinement.** In the final stretch, solve problems tagged with Attentive on platforms like TidyBit. Revisit your notes on the most frequent topics. Polish your communication: practice stating time/space complexity clearly and discussing trade-offs.
 
 ## Key Tips
 
@@ -86,4 +86,4 @@ A structured approach is more effective than random practice. Follow this plan.
 
 Success in an Attentive interview comes from pattern recognition, clean execution, and clear communication. Target the high-frequency topics, practice under timed conditions, and always articulate your process.
 
-[Browse all Attentive questions on CodeJeet](/company/attentive)
+[Browse all Attentive questions on TidyBit](/company/attentive)

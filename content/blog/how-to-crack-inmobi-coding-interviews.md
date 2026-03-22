@@ -107,7 +107,7 @@ Given the high proportion of Hard problems, a surface-level review won't suffice
 
 **Weeks 3-4: Secondary Topics & Integration.** Deep dive into BFS, Stack, and Binary Search. Solve another 10-15 problems per topic. Start integrating topics: solve string problems using DP, use BFS for grid-based DP, or apply monotonic stacks in array challenges. This mimics the complexity of actual InMobi questions.
 
-**Week 5: Company-Specific & Mock Interviews.** Solve all available InMobi questions from platforms like CodeJeet. Time yourself strictly. Participate in at least 3-5 mock interviews with a peer or mentor, simulating the full interview environment. Focus on explaining your approach clearly before coding.
+**Week 5: Company-Specific & Mock Interviews.** Solve all available InMobi questions from platforms like TidyBit. Time yourself strictly. Participate in at least 3-5 mock interviews with a peer or mentor, simulating the full interview environment. Focus on explaining your approach clearly before coding.
 
 **Week 6: Revision & Weakness Attack.** Revisit all problems you found difficult. Redo them without looking at the solution. Systematically review patterns, not individual problems. In the final days, focus on mental readiness and concise communication.
 
@@ -120,4 +120,4 @@ Given the high proportion of Hard problems, a surface-level review won't suffice
 
 Success in an InMobi interview is built on a foundation of deep, pattern-based practice for high-difficulty problems. Focus your energy accordingly.
 
-[Browse all InMobi questions on CodeJeet](/company/inmobi)
+[Browse all InMobi questions on TidyBit](/company/inmobi)

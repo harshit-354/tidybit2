@@ -120,7 +120,7 @@ public int slidingWindowTemplate(String s, int target) {
 
 Given the difficulty curve, a superficial review won't suffice. Follow this phased plan.
 
-**Weeks 1-2: Foundation & Pattern Recognition.** Ignore company-specific problems. Use a platform like CodeJeet to solve 80-100 problems focused exclusively on the top topics: Array, Hash Table, String, Sliding Window, and Two Pointers. For each problem, after solving, categorize it by its core pattern. The goal is to build a mental library where you see a new problem and think "this is a variation of a sliding window with a hash map counter."
+**Weeks 1-2: Foundation & Pattern Recognition.** Ignore company-specific problems. Use a platform like TidyBit to solve 80-100 problems focused exclusively on the top topics: Array, Hash Table, String, Sliding Window, and Two Pointers. For each problem, after solving, categorize it by its core pattern. The goal is to build a mental library where you see a new problem and think "this is a variation of a sliding window with a hash map counter."
 
 **Weeks 3-4: Depth on Hard Problems.** Shift your focus. Dedicate 70% of your practice time to Medium-Hard and Hard problems from the core topics. Struggle through them for up to 45 minutes before checking solutions. Then, re-implement them from scratch 24 hours later. This builds the stamina and analytical depth required for Harness's interview.
 
@@ -135,4 +135,4 @@ Given the difficulty curve, a superficial review won't suffice. Follow this phas
 
 Your goal is to demonstrate you can architect solutions to complex, ambiguous problems—a daily task for engineers at Harness. Target your preparation on depth over breadth, master the sliding window and two-pointer patterns, and practice under realistic conditions.
 
-[Browse all Harness questions on CodeJeet](/company/harness)
+[Browse all Harness questions on TidyBit](/company/harness)

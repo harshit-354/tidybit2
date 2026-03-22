@@ -121,4 +121,4 @@ Prepare for **NVIDIA first**. Its focus on a slightly smaller set of core topics
 
 Once NVIDIA's core is strong, transition to **LinkedIn** preparation by layering on the additional **graph and tree traversal** concepts, particularly DFS and its variants (like backtracking). This approach creates a logical progression from foundational data structure manipulation to more complex recursive and graph-based problem-solving.
 
-For targeted practice, visit the [LinkedIn question list](/company/linkedin) and the [NVIDIA question list](/company/nvidia) on CodeJeet.
+For targeted practice, visit the [LinkedIn question list](/company/linkedin) and the [NVIDIA question list](/company/nvidia) on TidyBit.

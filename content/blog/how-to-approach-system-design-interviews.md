@@ -22,7 +22,7 @@ Write down the agreed requirements before moving on.
 
 Rough math grounds your design in reality. For a URL shortener with 100 million URLs per month: about 40 writes/second, 4,000 reads/second at 100:1 ratio, roughly 50 GB/month storage.
 
-These numbers tell you whether a single database suffices or you need caching and sharding. For a deeper dive, check the [Back of the Envelope Estimation](/system-design/back-of-the-envelope-estimation) chapter on CodeJeet.
+These numbers tell you whether a single database suffices or you need caching and sharding. For a deeper dive, check the [Back of the Envelope Estimation](/system-design/back-of-the-envelope-estimation) chapter on TidyBit.
 
 ### Step 3: High-Level Design (10-15 minutes)
 
@@ -401,7 +401,7 @@ public class RetryUtil {
 
 ## How to Practice
 
-Study common questions: URL shortener, news feed, chat system, notification service. CodeJeet has a full [system design curriculum](/system-design) with step-by-step chapters, including the [System Design Framework](/system-design/system-design-framework) chapter that expands on this approach.
+Study common questions: URL shortener, news feed, chat system, notification service. TidyBit has a full [system design curriculum](/system-design) with step-by-step chapters, including the [System Design Framework](/system-design/system-design-framework) chapter that expands on this approach.
 
 Time yourself at 35-45 minutes. Practice with another person -- system design is interactive, and mock interviews force you to explain your thinking and handle follow-ups.
 

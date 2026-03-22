@@ -3,7 +3,7 @@ import { getSitemapUrls } from "@/lib/pseo-data";
 
 export const dynamic = "force-static";
 
-const SITE_URL = "https://codejeet.com";
+const SITE_URL = "https://tidybit.com";
 
 /** Fixed build date — update when content changes to signal freshness. */
 const BUILD_DATE = new Date("2026-03-18");

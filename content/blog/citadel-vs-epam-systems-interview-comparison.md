@@ -6,7 +6,7 @@ category: "tips"
 tags: ["citadel", "epam-systems", "comparison"]
 ---
 
-When preparing for technical interviews, understanding the specific focus areas of each company can dramatically improve your efficiency. Citadel and Epam Systems represent two distinct ends of the spectrum in finance and consulting/engineering services, respectively. Their interview question banks on CodeJeet reflect this divergence, with Citadel presenting a high-volume, high-difficulty challenge and Epam focusing on a more moderate set of foundational problems. This comparison breaks down the key differences in volume, difficulty, and topic emphasis to help you tailor your preparation.
+When preparing for technical interviews, understanding the specific focus areas of each company can dramatically improve your efficiency. Citadel and Epam Systems represent two distinct ends of the spectrum in finance and consulting/engineering services, respectively. Their interview question banks on TidyBit reflect this divergence, with Citadel presenting a high-volume, high-difficulty challenge and Epam focusing on a more moderate set of foundational problems. This comparison breaks down the key differences in volume, difficulty, and topic emphasis to help you tailor your preparation.
 
 ## Question Volume and Difficulty
 
@@ -181,4 +181,4 @@ Your preparation order should be dictated by your interview timeline and career 
 
 In summary, use Epam's profile to build your core skill floor and Citadel's profile to push your algorithmic ceiling.
 
-For detailed question lists, visit the Citadel and Epam Systems question banks on CodeJeet: [Citadel](/company/citadel), [Epam Systems](/company/epam-systems).
+For detailed question lists, visit the Citadel and Epam Systems question banks on TidyBit: [Citadel](/company/citadel), [Epam Systems](/company/epam-systems).

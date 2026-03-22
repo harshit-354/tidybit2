@@ -118,4 +118,4 @@ In the final stretch, solve Twitch’s most frequently asked questions (tagged o
 
 Success in a Twitch interview comes from patterned practice, clear communication, and a solid grasp of both algorithms and scalable design principles. Start with the high-frequency topics, build a consistent practice habit, and simulate the real interview environment as much as possible.
 
-[Browse all Twitch questions on CodeJeet](/company/twitch)
+[Browse all Twitch questions on TidyBit](/company/twitch)

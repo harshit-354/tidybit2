@@ -117,4 +117,4 @@ Prepare for **Qualcomm first** if you are targeting roles in embedded systems, d
 
 Ultimately, preparing for the more demanding profile (Uber) will cover the needs of the more focused one (Qualcomm), but not vice-versa. Allocate your study time accordingly.
 
-For detailed question lists, visit the Uber and Qualcomm pages on CodeJeet: [/company/uber](/company/uber) and [/company/qualcomm](/company/qualcomm).
+For detailed question lists, visit the Uber and Qualcomm pages on TidyBit: [/company/uber](/company/uber) and [/company/qualcomm](/company/qualcomm).

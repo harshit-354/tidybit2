@@ -96,7 +96,7 @@ Start with foundational problems to build confidence, then progress to more comp
 2.  **Parsing:** Valid parentheses, string-to-integer conversion (`atoi`), and basic tokenization.
 3.  **Sliding Window:** Longest substring without repeating characters, permutation in string.
 4.  **Dynamic Programming:** Edit distance, longest common subsequence.
-5.  **Salesforce-Specific:** Tackle problems tagged with Salesforce on platforms like CodeJeet to understand their style.
+5.  **Salesforce-Specific:** Tackle problems tagged with Salesforce on platforms like TidyBit to understand their style.
 
 Consistent, timed practice is key. Always analyze the time and space complexity of your solutions.
 

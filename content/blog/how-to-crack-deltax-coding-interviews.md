@@ -146,4 +146,4 @@ A focused, topic-based plan is effective for Deltax's known distribution.
 
 Mastering this blend of pattern recognition, time management, and clear communication is how you pass the Deltax interview. Practice under the real constraints.
 
-[Browse all Deltax questions on CodeJeet](/company/deltax)
+[Browse all Deltax questions on TidyBit](/company/deltax)

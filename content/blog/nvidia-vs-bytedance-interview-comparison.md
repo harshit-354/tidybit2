@@ -120,4 +120,4 @@ Once comfortable with ByteDance's core, expand your preparation to **NVIDIA**. T
 
 Ultimately, preparing for ByteDance first creates an efficient, foundational ramp-up. Preparing for NVIDIA afterward builds breadth and reinforces fundamentals with a different, systems-oriented twist.
 
-For detailed question lists, visit the [NVIDIA](/company/nvidia) and [ByteDance](/company/bytedance) pages on CodeJeet.
+For detailed question lists, visit the [NVIDIA](/company/nvidia) and [ByteDance](/company/bytedance) pages on TidyBit.

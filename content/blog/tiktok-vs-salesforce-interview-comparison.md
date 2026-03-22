@@ -82,4 +82,4 @@ If you are only interviewing at **Salesforce**, you can focus your preparation d
 
 Regardless of your target, start with the shared fundamental topics: Array, String, Hash Table, and Dynamic Programming. Achieve mastery here before branching out into other areas like Graphs or Trees, which may appear less frequently. This core mastery is the most efficient path to success in either interview loop.
 
-For detailed question lists and patterns, visit the CodeJeet pages for [TikTok](/company/tiktok) and [Salesforce](/company/salesforce).
+For detailed question lists and patterns, visit the TidyBit pages for [TikTok](/company/tiktok) and [Salesforce](/company/salesforce).

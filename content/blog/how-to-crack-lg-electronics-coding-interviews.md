@@ -125,4 +125,4 @@ public List<List<Integer>> twoSumPairs(int[] nums, int target) {
 
 Mastering these core topics and strategies will prepare you effectively for the LG Electronics coding interview. The focus is on demonstrating strong fundamentals, clean code, and logical problem-solving—all skills essential for a developer in their ecosystem.
 
-[Browse all LG Electronics questions on CodeJeet](/company/lg-electronics)
+[Browse all LG Electronics questions on TidyBit](/company/lg-electronics)

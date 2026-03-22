@@ -69,4 +69,4 @@ Your preparation priority should be dictated by your interview timeline and the 
 
 **Prepare for Oracle first if:** You have an interview scheduled, or you are building a comprehensive, long-term foundation. Tackling Oracle's list is a more monumental task. Starting here will force you to cover a wider range of problems, including the challenging Dynamic Programming questions. Successfully preparing for Oracle's breadth and depth will inherently make you well-prepared for Atlassian's more focused set, as you will have covered all the core topics and more.
 
-In summary, use Atlassian's list for efficient, targeted practice and Oracle's list for a rigorous, comprehensive deep dive into algorithmic problem-solving. For detailed question lists and patterns, visit the CodeJeet pages for [Oracle](/company/oracle) and [Atlassian](/company/atlassian).
+In summary, use Atlassian's list for efficient, targeted practice and Oracle's list for a rigorous, comprehensive deep dive into algorithmic problem-solving. For detailed question lists and patterns, visit the TidyBit pages for [Oracle](/company/oracle) and [Atlassian](/company/atlassian).

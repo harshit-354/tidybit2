@@ -102,4 +102,4 @@ Your priority depends on your timeline and goals.
 
 A strategic hybrid approach is effective: start by solidifying the **shared core topics** (Array, String, Hash Table). Then, if targeting LinkedIn, integrate DFS practice. If targeting Bloomberg, integrate Math problems. This builds a versatile foundation adaptable to either interview.
 
-For targeted practice, visit the Bloomberg question list and LinkedIn question list on CodeJeet.
+For targeted practice, visit the Bloomberg question list and LinkedIn question list on TidyBit.

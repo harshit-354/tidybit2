@@ -94,4 +94,4 @@ A structured approach is non-negotiable. Follow this weekly plan.
 
 Mastering these patterns and executing this disciplined strategy will build the muscle memory needed to succeed. Consistency is your greatest ally.
 
-[Browse all Deloitte questions on CodeJeet](/company/deloitte)
+[Browse all Deloitte questions on TidyBit](/company/deloitte)

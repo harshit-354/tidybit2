@@ -84,4 +84,4 @@ Your preparation priority should be guided by your timeline and the difficulty c
 
 **The most strategic approach:** Start with the common core. Drill problems involving **Arrays, Hash Tables, and Strings** until you are fluent. Then, branch based on your target: practice **Sorting-intensive** problems for Atlassian and **Greedy** scenarios for Expedia. Since Atlassian's list is broader and harder, mastering it will inherently cover most of what Expedia tests, but not perfectly the other way around.
 
-For the complete question lists, visit the [Atlassian](/company/atlassian) and [Expedia](/company/expedia) pages on CodeJeet.
+For the complete question lists, visit the [Atlassian](/company/atlassian) and [Expedia](/company/expedia) pages on TidyBit.

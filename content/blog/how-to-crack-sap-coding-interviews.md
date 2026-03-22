@@ -103,4 +103,4 @@ A focused, topic-driven approach is more effective than random practice.
 
 Success in SAP interviews is a function of disciplined practice on high-probability topics. Focus on the core, build reliable execution, and you'll be prepared to pass.
 
-[Browse all SAP questions on CodeJeet](/company/sap)
+[Browse all SAP questions on TidyBit](/company/sap)

@@ -112,4 +112,4 @@ Take full-length practice tests that mimic Capgemini's online assessment format.
 
 Success in Capgemini's coding interviews hinges on systematic preparation focused on high-probability topics and consistent execution. Build your foundation, practice under constraints, and communicate clearly.
 
-[Browse all Capgemini questions on CodeJeet](/company/capgemini)
+[Browse all Capgemini questions on TidyBit](/company/capgemini)

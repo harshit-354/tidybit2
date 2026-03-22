@@ -130,4 +130,4 @@ A structured approach is non-negotiable. Follow this plan to build and reinforce
 
 Success in a Roku interview comes from consistent, deliberate practice on the right material. Focus on the high-probability topics, internalize the patterns, and simulate the interview environment until it feels routine.
 
-[Browse all Roku questions on CodeJeet](/company/roku)
+[Browse all Roku questions on TidyBit](/company/roku)

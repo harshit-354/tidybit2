@@ -12,7 +12,7 @@ When preparing for technical interviews at top tech companies, understanding the
 
 The most immediate difference is the sheer scale of their respective question pools.
 
-**TikTok** has a massive, well-documented repository of **383 questions** on platforms like CodeJeet. The distribution (42 Easy, 260 Medium, 81 Hard) reveals a clear emphasis on **Medium-difficulty problems**. This large volume suggests that TikTok's interviews pull from a broad set of algorithmic challenges, and candidates must be prepared for a wide variety of scenarios. The high number of Medium questions indicates they test for strong, consistent fundamentals under pressure.
+**TikTok** has a massive, well-documented repository of **383 questions** on platforms like TidyBit. The distribution (42 Easy, 260 Medium, 81 Hard) reveals a clear emphasis on **Medium-difficulty problems**. This large volume suggests that TikTok's interviews pull from a broad set of algorithmic challenges, and candidates must be prepared for a wide variety of scenarios. The high number of Medium questions indicates they test for strong, consistent fundamentals under pressure.
 
 **Snapchat** has a more focused set of **99 questions** (6 Easy, 62 Medium, 31 Hard). Notably, the **proportion of Hard problems is significantly higher** (~31%) compared to TikTok (~21%). This smaller but sharper question bank implies Snapchat interviews may dive deeper into complex problem-solving, often building upon core concepts with additional constraints or optimization requirements.
 
@@ -96,4 +96,4 @@ Your preparation priority should be dictated by your interview timeline and the 
 
 Ultimately, the core topics (Array, String, Hash Table) are non-negotiable for both. Build that foundation first, then branch out into TikTok's DP depth or Snapchat's BFS and Hard-problem intensity based on your target.
 
-For focused practice, visit the TikTok and Snapchat question lists on CodeJeet: [TikTok Interview Questions](/company/tiktok) | [Snapchat Interview Questions](/company/snapchat)
+For focused practice, visit the TikTok and Snapchat question lists on TidyBit: [TikTok Interview Questions](/company/tiktok) | [Snapchat Interview Questions](/company/snapchat)

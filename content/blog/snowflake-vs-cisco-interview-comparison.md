@@ -120,4 +120,4 @@ Once comfortable with Cisco's scope, transition to **Snowflake** preparation. Th
 
 In essence, Cisco's interview can be seen as a strong subset of Snowflake's. Excelling at Cisco's questions builds the perfect foundation for tackling Snowflake's greater depth and complexity.
 
-For targeted practice, visit the CodeJeet pages for [Snowflake](/company/snowflake) and [Cisco](/company/cisco).
+For targeted practice, visit the TidyBit pages for [Snowflake](/company/snowflake) and [Cisco](/company/cisco).

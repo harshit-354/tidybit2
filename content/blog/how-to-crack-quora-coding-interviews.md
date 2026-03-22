@@ -102,4 +102,4 @@ A structured plan is non-negotiable. Here is a focused 4-6 week roadmap.
 
 Mastering Quora's interview requires a data-driven focus on core patterns, deliberate practice on Medium-difficulty integrations, and polished communication. Start with the fundamentals, pressure-test your skills, and articulate your reasoning clearly.
 
-[Browse all Quora questions on CodeJeet](/company/quora)
+[Browse all Quora questions on TidyBit](/company/quora)

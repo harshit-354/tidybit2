@@ -109,4 +109,4 @@ A structured approach is non-negotiable.
 3.  **Write Production-Ready Code.** Don't just write pseudocode. Use proper variable names, handle edge cases (empty input, single element, large values), and include brief comments for complex logic. This shows attention to detail.
 4.  **Test Your Own Code.** Before declaring "done," walk through your code with the given example and one edge case. Verbally state what the value of each variable is at key steps. This often catches off-by-one errors.
 
-Mastering this process requires focused practice on the right material. To begin, [Browse all Huawei questions on CodeJeet](/company/huawei).
+Mastering this process requires focused practice on the right material. To begin, [Browse all Huawei questions on TidyBit](/company/huawei).

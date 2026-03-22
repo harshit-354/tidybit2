@@ -127,4 +127,4 @@ If you are **already comfortable with fundamentals and aiming for high-difficult
 
 A strategic hybrid approach is to use Qualcomm's question set for foundational drill and Coupang's for intense, high-difficulty practice sessions to simulate the pressure of their actual interviews.
 
-For detailed question lists and patterns, visit the CodeJeet pages for [Qualcomm](/company/qualcomm) and [Coupang](/company/coupang).
+For detailed question lists and patterns, visit the TidyBit pages for [Qualcomm](/company/qualcomm) and [Coupang](/company/coupang).

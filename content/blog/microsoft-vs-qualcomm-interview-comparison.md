@@ -83,4 +83,4 @@ Your preparation priority should be dictated by your target role and timeline.
 
 A strategic approach is to **build a foundation using Qualcomm's focused list** (mastering Arrays, Strings, Two Pointers, and Math), then **expand to Microsoft's broader set** to incorporate Hash Tables and Dynamic Programming, ultimately preparing you for both.
 
-For dedicated question lists and further details, visit the CodeJeet pages for [Microsoft](/company/microsoft) and [Qualcomm](/company/qualcomm).
+For dedicated question lists and further details, visit the TidyBit pages for [Microsoft](/company/microsoft) and [Qualcomm](/company/qualcomm).

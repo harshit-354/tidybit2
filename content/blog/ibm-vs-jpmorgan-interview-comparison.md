@@ -120,4 +120,4 @@ Prepare for **JPMorgan first** if you are targeting finance or bank tech roles s
 
 Ultimately, the significant overlap in Arrays, Strings, and Sorting means effort spent on either company is transferable. Prioritize based on your target role, but know that mastering the combined topics from both lists will make you a strong candidate for a wide range of positions.
 
-For detailed question lists and patterns, visit the IBM and JPMorgan Chase pages on CodeJeet: [/company/ibm](/company/ibm) and [/company/jpmorgan](/company/jpmorgan).
+For detailed question lists and patterns, visit the IBM and JPMorgan Chase pages on TidyBit: [/company/ibm](/company/ibm) and [/company/jpmorgan](/company/jpmorgan).

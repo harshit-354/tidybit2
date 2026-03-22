@@ -119,4 +119,4 @@ Your strategy should be dictated by your timeline and the companies' shared fund
 
 Ultimately, Bloomberg's process is a marathon of fundamentals, and Nutanix's is a sprint of depth. Solidify your core algorithms, and you'll be well-positioned for either.
 
-For more specific question lists, visit the Bloomberg and Nutanix pages on CodeJeet: [/company/bloomberg](/company/bloomberg), [/company/nutanix](/company/nutanix).
+For more specific question lists, visit the Bloomberg and Nutanix pages on TidyBit: [/company/bloomberg](/company/bloomberg), [/company/nutanix](/company/nutanix).

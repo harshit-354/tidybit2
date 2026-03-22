@@ -88,4 +88,4 @@ If you are interviewing at both, **prioritize a deep dive into PayPal's question
 
 If you are only targeting one company, tailor your effort: for **PayPal**, emphasize pattern recognition and optimization for challenging problems; for **JPMorgan**, ensure flawless execution on fundamentals and practice clearly explaining your thought process.
 
-For detailed company-specific question lists, visit the CodeJeet pages for [PayPal](/company/paypal) and [JPMorgan Chase](/company/jpmorgan).
+For detailed company-specific question lists, visit the TidyBit pages for [PayPal](/company/paypal) and [JPMorgan Chase](/company/jpmorgan).

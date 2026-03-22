@@ -130,4 +130,4 @@ Given the high difficulty bar, a superficial one-week cram is futile. Follow thi
 
 MindTickle's interview is a test of focused depth. By concentrating your energy on mastering Dynamic Programming, advanced Binary Search, and their applications within Arrays, you build the specific muscle needed to succeed. Practice under timed, high-pressure conditions until solving Hard problems becomes a systematic process, not a stroke of luck.
 
-[Browse all MindTickle questions on CodeJeet](/company/mindtickle)
+[Browse all MindTickle questions on TidyBit](/company/mindtickle)

@@ -103,4 +103,4 @@ Your preparation strategy should be guided by your target role and timeline.
 
 A pragmatic approach is to **master the shared core first**. Achieve fluency in Array/String techniques and Dynamic Programming. Then, branch out: practice Hash Table-intensive problems for Uber, and dive into Greedy and advanced optimization problems for DE Shaw. Quality of practice—understanding the underlying pattern—matters more than simply checking off questions from a larger list.
 
-For detailed question lists and company-specific insights, visit the CodeJeet pages for [Uber](/company/uber) and [DE Shaw](/company/de-shaw).
+For detailed question lists and company-specific insights, visit the TidyBit pages for [Uber](/company/uber) and [DE Shaw](/company/de-shaw).

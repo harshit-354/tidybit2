@@ -115,4 +115,4 @@ If **Qualcomm** is your initial target, you can structure a more focused, shorte
 
 A pragmatic strategy is to **prepare for Snowflake first**. The rigorous, wide-ranging practice will make Qualcomm's focused question set feel like a subset of your prepared skills. You will have already encountered complex problems, making the generally less-difficult Qualcomm questions more manageable. If you are short on time and only targeting Qualcomm, a targeted approach is perfectly viable.
 
-For detailed company-specific question lists, visit the CodeJeet pages for [Snowflake](/company/snowflake) and [Qualcomm](/company/qualcomm).
+For detailed company-specific question lists, visit the TidyBit pages for [Snowflake](/company/snowflake) and [Qualcomm](/company/qualcomm).

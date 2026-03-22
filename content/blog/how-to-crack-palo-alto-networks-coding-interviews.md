@@ -89,4 +89,4 @@ In the final stretch, focus exclusively on Palo Alto Networks and similarly styl
 
 Mastery of Medium-difficulty problems on core data structures is the direct path to success. Build the habit of clean coding and clear communication.
 
-[Browse all Palo Alto Networks questions on CodeJeet](/company/palo-alto-networks)
+[Browse all Palo Alto Networks questions on TidyBit](/company/palo-alto-networks)

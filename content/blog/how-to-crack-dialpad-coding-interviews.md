@@ -107,11 +107,11 @@ public int lengthOfLongestSubstringKDistinct(String s, int k) {
 
 ## Preparation Strategy — A 4-6 Week Study Plan
 
-**Weeks 1-2: Foundation.** Dedicate each day to one of the five core topics. For each, study the fundamental patterns (e.g., for DP: Fibonacci, 0/1 Knapsack, LCS). Solve 5-8 Easy and Medium problems per topic on platforms like CodeJeet. Focus on understanding, not memorization.
+**Weeks 1-2: Foundation.** Dedicate each day to one of the five core topics. For each, study the fundamental patterns (e.g., for DP: Fibonacci, 0/1 Knapsack, LCS). Solve 5-8 Easy and Medium problems per topic on platforms like TidyBit. Focus on understanding, not memorization.
 
 **Weeks 3-4: Integration and Difficulty Ramp.** Start mixing topics. Solve Medium problems that combine patterns (e.g., Hash Table + Sliding Window). Introduce 1-2 Hard problems every other day. Begin timing your sessions (30 minutes for a Medium, 45 for a Hard).
 
-**Weeks 5-6: Mock Interviews and Gaps.** In the final stretch, conduct at least 5-7 full mock interviews under real conditions (camera on, no interruptions). Use the CodeJeet Dialpad question list for company-specific practice. Analyze every mistake—was it a pattern miss, a bug, or a time issue? Spend your last days reviewing weak areas and re-solving your most challenging problems from scratch.
+**Weeks 5-6: Mock Interviews and Gaps.** In the final stretch, conduct at least 5-7 full mock interviews under real conditions (camera on, no interruptions). Use the TidyBit Dialpad question list for company-specific practice. Analyze every mistake—was it a pattern miss, a bug, or a time issue? Spend your last days reviewing weak areas and re-solving your most challenging problems from scratch.
 
 ## Key Tips
 
@@ -122,4 +122,4 @@ public int lengthOfLongestSubstringKDistinct(String s, int k) {
 
 Success in a Dialpad interview hinges on methodical preparation for their favored topics and the ability to articulate your problem-solving under pressure.
 
-[Browse all Dialpad questions on CodeJeet](/company/dialpad)
+[Browse all Dialpad questions on TidyBit](/company/dialpad)

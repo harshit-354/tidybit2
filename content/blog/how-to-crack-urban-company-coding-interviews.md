@@ -144,4 +144,4 @@ Weeks 5-6: **Integration and Mock Interviews.** Focus on solving Hard problems t
 
 Success hinges on deep, practical mastery of graph-based problem-solving. Focus your energy there.
 
-[Browse all Urban Company questions on CodeJeet](/company/urban-company)
+[Browse all Urban Company questions on TidyBit](/company/urban-company)

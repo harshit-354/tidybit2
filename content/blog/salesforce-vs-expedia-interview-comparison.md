@@ -135,4 +135,4 @@ If you are only preparing for **Expedia**, your path is more focused. Drill deep
 
 Ultimately, a strong grasp of fundamental data structures is the universal key. Prioritize Salesforce's list for its broader, deeper challenge, or focus narrowly on Expedia's fundamentals-and-greedy combo for a targeted approach.
 
-For detailed question lists, visit the Salesforce and Expedia pages on CodeJeet: [/company/salesforce](/company/salesforce) and [/company/expedia](/company/expedia).
+For detailed question lists, visit the Salesforce and Expedia pages on TidyBit: [/company/salesforce](/company/salesforce) and [/company/expedia](/company/expedia).

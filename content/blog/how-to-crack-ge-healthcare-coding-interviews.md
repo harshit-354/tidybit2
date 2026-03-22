@@ -86,7 +86,7 @@ public boolean isValid(String s) {
 
 **Weeks 3-4: Integration and Difficulty.** Shift to solving mixed-topic problem sets and full Medium-difficulty questions. Simulate 60-minute interview sessions with 2-3 problems. Begin analyzing GE Healthcare’s past questions. Practice articulating your reasoning out loud as you code. This is when you solidify the connection between pattern recognition and clean implementation.
 
-**Weeks 5-6: Mock Interviews and Gaps.** Conduct at least 4-5 mock interviews with a peer or mentor using platforms like CodeJeet. Target Hard problems from the relevant topics, focusing on getting a working solution first, then optimizing. In the final days, review your error log and re-solve problems you previously found challenging. Ensure you can walk through your code line-by-line.
+**Weeks 5-6: Mock Interviews and Gaps.** Conduct at least 4-5 mock interviews with a peer or mentor using platforms like TidyBit. Target Hard problems from the relevant topics, focusing on getting a working solution first, then optimizing. In the final days, review your error log and re-solve problems you previously found challenging. Ensure you can walk through your code line-by-line.
 
 ## Key Tips
 
@@ -97,4 +97,4 @@ public boolean isValid(String s) {
 
 Consistent, topic-focused practice is what will build the reflex needed to succeed. Start with the fundamentals, integrate them under time pressure, and polish your communication.
 
-[Browse all GE Healthcare questions on CodeJeet](/company/ge-healthcare)
+[Browse all GE Healthcare questions on TidyBit](/company/ge-healthcare)

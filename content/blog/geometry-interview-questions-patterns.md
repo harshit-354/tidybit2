@@ -157,4 +157,4 @@ Geometry questions are a hallmark of companies that deal with spatial data, grap
 3.  **Visualize and Simplify**: Draw the problem. Can you reduce it to a sorting problem? A hash map lookup? A sweep line? The geometric context is often a wrapper for a classic algorithm.
 4.  **Practice the Hard Ones**: Don't shy away from Hard problems. The pattern of difficulty suggests you will likely encounter at least one challenging geometry question in an interview loop that includes this topic.
 
-[Practice all Geometry questions on CodeJeet](/topic/geometry)
+[Practice all Geometry questions on TidyBit](/topic/geometry)

@@ -130,4 +130,4 @@ A structured approach is key. Here is a focused 4-6 week plan.
 
 Consistent, topic-focused practice is the most reliable way to succeed. Target Medium-difficulty problems in Arrays, Stacks, and Matrices.
 
-[Browse all Verizon questions on CodeJeet](/company/verizon)
+[Browse all Verizon questions on TidyBit](/company/verizon)

@@ -139,4 +139,4 @@ A focused, consistent approach is key. Follow this plan, dedicating 1-2 hours da
 
 Targeted, consistent practice on these core topics will make you exceptionally well-prepared for HTC's coding interview. Start with the fundamentals, drill the patterns, and simulate the real environment.
 
-[Browse all HTC questions on CodeJeet](/company/htc)
+[Browse all HTC questions on TidyBit](/company/htc)

@@ -149,4 +149,4 @@ public class Solution {
 
 Mastering Medium problems on Greedy, Array, String, and Sorting through consistent, timed practice is the most direct path to success in a Zalando coding interview.
 
-[Browse all Zalando questions on CodeJeet](/company/zalando)
+[Browse all Zalando questions on TidyBit](/company/zalando)

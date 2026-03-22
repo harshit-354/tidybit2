@@ -133,4 +133,4 @@ The strategic choice depends on your timeline and interview schedule.
 
 In essence, Oracle preparation is a superset of Yandex preparation in terms of difficulty and topic depth. Conquering Oracle's list is a more comprehensive, albeit more demanding, training regimen.
 
-For targeted practice, visit the Oracle question list at [/company/oracle](https://codejeet.com/company/oracle) and the Yandex question list at [/company/yandex](https://codejeet.com/company/yandex).
+For targeted practice, visit the Oracle question list at [/company/oracle](https://tidybit.com/company/oracle) and the Yandex question list at [/company/yandex](https://tidybit.com/company/yandex).

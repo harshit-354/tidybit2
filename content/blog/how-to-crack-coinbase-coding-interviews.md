@@ -85,4 +85,4 @@ A structured approach is non-negotiable. Here’s a weekly breakdown.
 
 Success in a Coinbase interview is a function of patterned preparation. By focusing your energy on high-probability mediums and core data structures, you build the muscle memory needed to perform under interview conditions.
 
-[Browse all Coinbase questions on CodeJeet](/company/coinbase)
+[Browse all Coinbase questions on TidyBit](/company/coinbase)

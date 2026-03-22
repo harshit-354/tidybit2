@@ -75,7 +75,7 @@ public int minCoins(int[] coins, int amount) {
 1.  **Foundations:** Start with classic problems like "Activity Selection" and "Fractional Knapsack."
 2.  **PhonePe-Focused:** Move to interval problems ("Non-overlapping Intervals," "Merge Intervals") and assignment problems ("Minimum Number of Platforms," "Task Scheduler").
 3.  **Advanced Patterns:** Tackle problems involving "Greedy + Heap" (like meeting rooms II) and "Greedy + Sorting" with complex comparators.
-4.  **Company-Specific:** Finally, solve all 15 PhonePe-tagged greedy questions on CodeJeet in one sitting to simulate interview pressure.
+4.  **Company-Specific:** Finally, solve all 15 PhonePe-tagged greedy questions on TidyBit in one sitting to simulate interview pressure.
 
 Consistently ask yourself: "Is the greedy choice always safe here?" If you can justify it, you're ready.
 

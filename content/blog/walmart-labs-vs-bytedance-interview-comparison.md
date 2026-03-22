@@ -100,4 +100,4 @@ If you are interviewing at both companies, or are using one as practice for the 
 
 In summary, use ByteDance's focused question set to build core competency, then use Walmart Labs' extensive and challenging bank to stress-test and broaden your skills. This approach maximizes the utility of your study time for both interview loops.
 
-For detailed question lists, visit the [Walmart Labs](/company/walmart-labs) and [ByteDance](/company/bytedance) pages on CodeJeet.
+For detailed question lists, visit the [Walmart Labs](/company/walmart-labs) and [ByteDance](/company/bytedance) pages on TidyBit.

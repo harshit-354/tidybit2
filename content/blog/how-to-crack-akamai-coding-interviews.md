@@ -86,4 +86,4 @@ A focused, consistent plan is more effective than cramming. Follow this timeline
 
 The data shows the path: master the fundamentals, execute them flawlessly, and communicate your process. This is how you crack the Akamai coding interview.
 
-[Browse all Akamai questions on CodeJeet](/company/akamai)
+[Browse all Akamai questions on TidyBit](/company/akamai)

@@ -145,4 +145,4 @@ public class GridBFS {
 
 By focusing your practice on these high-probability topics and patterns, you build the specific muscle memory needed to succeed in Grubhub's interviews. Consistency with Medium problems is your greatest asset.
 
-[Browse all Grubhub questions on CodeJeet](/company/grubhub)
+[Browse all Grubhub questions on TidyBit](/company/grubhub)

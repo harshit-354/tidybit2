@@ -85,4 +85,4 @@ A focused, topic-driven approach will yield the best results given Toast's quest
 
 Success in Toast interviews hinges on consistent, precise execution of standard algorithms. Build fluency in the core topics, and you'll be able to handle the majority of their technical screeners.
 
-[Browse all Toast questions on CodeJeet](/company/toast)
+[Browse all Toast questions on TidyBit](/company/toast)

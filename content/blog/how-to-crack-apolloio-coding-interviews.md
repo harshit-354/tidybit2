@@ -102,4 +102,4 @@ Dedicate this phase to Hard problems. Since 25% of questions are Hard, you must 
 
 Your goal is to make solving a Medium problem that combines a Hash Table and Sliding Window look routine. Target your practice relentlessly on these patterns.
 
-[Browse all Apolloio questions on CodeJeet](/company/apolloio)
+[Browse all Apolloio questions on TidyBit](/company/apolloio)

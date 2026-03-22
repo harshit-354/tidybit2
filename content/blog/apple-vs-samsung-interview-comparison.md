@@ -94,4 +94,4 @@ Your preparation order should be guided by the breadth of topics and your target
 
 A strategic approach is to prepare for Samsung first if you have interviews at both. Its focused list allows you to build deep competency in a smaller set of patterns, which you can then expand upon with Apple's broader, String-heavy question bank.
 
-For dedicated question lists and deeper insights, visit the Apple and Samsung company pages on CodeJeet: [Apple Interview Questions](/company/apple) | [Samsung Interview Questions](/company/samsung)
+For dedicated question lists and deeper insights, visit the Apple and Samsung company pages on TidyBit: [Apple Interview Questions](/company/apple) | [Samsung Interview Questions](/company/samsung)

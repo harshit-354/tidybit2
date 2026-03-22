@@ -82,4 +82,4 @@ If your goal is **Bloomberg**, ensure your **mathematical reasoning** is sharp. 
 
 Ultimately, preparing for the broader and slightly more difficult Microsoft question set will make you well-equipped for Bloomberg's technical screen. The reverse is less true due to Microsoft's emphasis on advanced DP. A strategic approach is to master the common core, then deep-dive into DP for Microsoft or math-focused problems for Bloomberg.
 
-For detailed question lists and patterns, visit the [Microsoft](/company/microsoft) and [Bloomberg](/company/bloomberg) company pages on CodeJeet.
+For detailed question lists and patterns, visit the [Microsoft](/company/microsoft) and [Bloomberg](/company/bloomberg) company pages on TidyBit.

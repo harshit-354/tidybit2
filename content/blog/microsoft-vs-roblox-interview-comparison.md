@@ -159,4 +159,4 @@ Once comfortable with these fundamentals, pivot to Roblox-specific preparation. 
 
 In short, Microsoft preparation is a comprehensive foundation. Roblox preparation is a strategic specialization on top of that foundation.
 
-For focused practice, visit the Microsoft and Roblox question lists on CodeJeet: [Microsoft Interview Questions](/company/microsoft) | [Roblox Interview Questions](/company/roblox)
+For focused practice, visit the Microsoft and Roblox question lists on TidyBit: [Microsoft Interview Questions](/company/microsoft) | [Roblox Interview Questions](/company/roblox)

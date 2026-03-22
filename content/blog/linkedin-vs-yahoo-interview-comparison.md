@@ -10,7 +10,7 @@ When preparing for technical interviews, understanding a company's specific focu
 
 ## Question Volume and Difficulty
 
-The most striking difference is the sheer number of questions associated with each company. On CodeJeet, **LinkedIn** has a massive bank of **180 questions**, dwarfing **Yahoo's 64 questions**. This volume reflects LinkedIn's broader engineering scope and its reputation for a rigorous, multi-round interview process.
+The most striking difference is the sheer number of questions associated with each company. On TidyBit, **LinkedIn** has a massive bank of **180 questions**, dwarfing **Yahoo's 64 questions**. This volume reflects LinkedIn's broader engineering scope and its reputation for a rigorous, multi-round interview process.
 
 The difficulty distribution further highlights their different approaches:
 
@@ -156,4 +156,4 @@ Once that base is solid, transition to **LinkedIn preparation**. This involves:
 
 This sequential approach ensures you build a broad, strong foundation before tackling the greater depth and breadth required for LinkedIn's process.
 
-For detailed question lists, visit the [LinkedIn](/company/linkedin) and [Yahoo](/company/yahoo) pages on CodeJeet.
+For detailed question lists, visit the [LinkedIn](/company/linkedin) and [Yahoo](/company/yahoo) pages on TidyBit.

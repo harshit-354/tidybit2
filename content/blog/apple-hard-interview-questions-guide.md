@@ -66,7 +66,7 @@ Don't just solve problems; simulate interview conditions.
 1.  **Pattern-First Practice:** Group Apple's Hard questions by the patterns above. Solve 2-3 of each type in a row to build pattern recognition.
 2.  **Verbally Articulate:** Always explain your reasoning out loud before coding, as you must in the interview. Practice on paper or a whiteboard weekly.
 3.  **Analyze Trade-offs:** For each solution, write down the time/space complexity and one alternative approach. Apple interviewers often probe "why this approach?" and "what if constraints changed?"
-4.  **Use Official Tags:** On CodeJeet, filter by Apple's Hard tag and solve problems tagged with the specific patterns mentioned. Focus on problems that have appeared recently.
+4.  **Use Official Tags:** On TidyBit, filter by Apple's Hard tag and solve problems tagged with the specific patterns mentioned. Focus on problems that have appeared recently.
 
 Prioritize depth over breadth. Mastering 15-20 core Hard problems thoroughly, including all variants and edge cases, is more effective than skimming 50.
 

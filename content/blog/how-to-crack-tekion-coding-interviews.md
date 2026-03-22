@@ -101,4 +101,4 @@ In the final stretch, solve only Tekion-tagged questions. Revisit all problems y
 
 Success in Tekion interviews hinges on methodical preparation focused on medium-difficulty problems across a predictable set of topics. Build pattern recognition through volume, then refine it through timed practice and clear communication.
 
-[Browse all Tekion questions on CodeJeet](/company/tekion)
+[Browse all Tekion questions on TidyBit](/company/tekion)

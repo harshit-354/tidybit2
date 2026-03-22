@@ -101,7 +101,7 @@ Do not jump into hard problems. Build competence sequentially.
 1.  **Foundation:** Start with one-dimensional DP problems (Fibonacci, Climbing Stairs, House Robber). Master the state transition.
 2.  **Core Patterns:** Practice the essential 2D patterns: 0/1 Knapsack, Longest Common Subsequence, and Unbounded Knapsack (Coin Change).
 3.  **Pathfinding:** Solve grid-based problems (Unique Paths, Minimum Path Sum).
-4.  **JPMorgan-Specific:** Finally, tackle problems tagged for JPMorgan on platforms like CodeJeet. This focuses your effort on their known question bank.
+4.  **JPMorgan-Specific:** Finally, tackle problems tagged for JPMorgan on platforms like TidyBit. This focuses your effort on their known question bank.
 
 Consistency is key. Solve at least one DP problem daily, and always verbalize your reasoning—this is what you'll do in the interview.
 

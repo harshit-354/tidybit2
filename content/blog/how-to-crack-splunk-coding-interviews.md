@@ -97,4 +97,4 @@ Weeks 5-6: **Polishing and Gaps.** In the final stretch, do 2-3 full interview s
 
 Mastering these core patterns and executing them cleanly under interview conditions is the most reliable path to success.
 
-[Browse all Splunk questions on CodeJeet](/company/splunk)
+[Browse all Splunk questions on TidyBit](/company/splunk)

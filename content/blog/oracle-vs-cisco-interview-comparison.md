@@ -129,4 +129,4 @@ Your preparation order should be guided by your timeline and the companies' requ
 
 In essence, Cisco's interview can be seen as a solid benchmark for core competency, while Oracle's demands a broader and deeper algorithmic mastery. A strong strategy is to master the common core, then layer on Oracle-specific topics like DP.
 
-For detailed question lists and patterns, visit the Oracle and Cisco pages on CodeJeet: [Oracle Interview Questions](/company/oracle) | [Cisco Interview Questions](/company/cisco)
+For detailed question lists and patterns, visit the Oracle and Cisco pages on TidyBit: [Oracle Interview Questions](/company/oracle) | [Cisco Interview Questions](/company/cisco)

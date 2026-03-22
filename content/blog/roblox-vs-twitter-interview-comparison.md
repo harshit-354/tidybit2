@@ -10,7 +10,7 @@ When preparing for technical interviews at major tech companies, understanding t
 
 ## Question Volume and Difficulty
 
-Both companies maintain a similar total number of tagged questions on CodeJeet, with Roblox at 56 and Twitter at 53. Their difficulty distributions are nearly identical, heavily weighted toward medium problems.
+Both companies maintain a similar total number of tagged questions on TidyBit, with Roblox at 56 and Twitter at 53. Their difficulty distributions are nearly identical, heavily weighted toward medium problems.
 
 - **Roblox:** 56 questions (Easy: 8, Medium: 36, Hard: 12)
 - **Twitter:** 53 questions (Easy: 8, Medium: 33, Hard: 12)
@@ -97,4 +97,4 @@ Start with the shared foundation. The overlap in Array, Hash Table, and String q
 
 By mastering the common algorithmic core, you create a versatile base. You can then layer on the specialized knowledge—system design for Twitter or mathematical algorithms for Roblox—to become target-ready.
 
-For specific question lists, visit the [Roblox interview questions](/company/roblox) and [Twitter interview questions](/company/twitter) pages on CodeJeet.
+For specific question lists, visit the [Roblox interview questions](/company/roblox) and [Twitter interview questions](/company/twitter) pages on TidyBit.

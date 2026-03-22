@@ -90,4 +90,4 @@ Simulate the real interview environment. Do timed 45-60 minute sessions with a m
 
 The path to cracking Spinny's coding interviews is one of focused depth on Medium-difficulty problems that blend Array, Hash Table, and other core algorithms. Master the patterns, not just the problems.
 
-[Browse all Spinny questions on CodeJeet](/company/spinny)
+[Browse all Spinny questions on TidyBit](/company/spinny)

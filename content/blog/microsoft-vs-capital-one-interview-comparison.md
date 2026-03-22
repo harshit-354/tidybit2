@@ -10,7 +10,7 @@ When preparing for technical interviews, understanding the specific focus and ex
 
 ## Question Volume and Difficulty
 
-The most striking difference is the sheer volume of documented questions. On CodeJeet, Microsoft's pool is **1,352 questions**, dwarfing Capital One's **57 questions**. This doesn't mean you'll see more unique questions at Microsoft, but it indicates a vast, well-established interview tradition with a huge variety of potential problems. The difficulty distribution further clarifies their focus.
+The most striking difference is the sheer volume of documented questions. On TidyBit, Microsoft's pool is **1,352 questions**, dwarfing Capital One's **57 questions**. This doesn't mean you'll see more unique questions at Microsoft, but it indicates a vast, well-established interview tradition with a huge variety of potential problems. The difficulty distribution further clarifies their focus.
 
 **Microsoft** (`E:379 M:762 H:211`): The distribution is centered on **Medium** difficulty. This is the classic profile of a top-tier tech company: they heavily test your ability to handle non-trivial algorithmic challenges under pressure. The significant number of Hard questions signals that for senior or specialized roles, you must be prepared for complex optimization problems.
 
@@ -135,5 +135,5 @@ Prepare for **Microsoft first** if you are targeting core software engineering r
 
 **Resources:**
 
-- Practice Microsoft questions: [CodeJeet Microsoft Interview Guide](/company/microsoft)
-- Practice Capital One questions: [CodeJeet Capital One Interview Guide](/company/capital-one)
+- Practice Microsoft questions: [TidyBit Microsoft Interview Guide](/company/microsoft)
+- Practice Capital One questions: [TidyBit Capital One Interview Guide](/company/capital-one)

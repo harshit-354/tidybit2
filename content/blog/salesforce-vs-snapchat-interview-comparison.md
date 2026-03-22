@@ -10,7 +10,7 @@ When preparing for technical interviews at major tech companies, understanding t
 
 ## Question Volume and Difficulty
 
-The sheer volume of tagged questions is the most immediate difference. On CodeJeet, Salesforce has **189 questions**, nearly double Snapchat's **99 questions**. This larger pool suggests a broader range of potential problems you might encounter, requiring more extensive practice to cover the spread.
+The sheer volume of tagged questions is the most immediate difference. On TidyBit, Salesforce has **189 questions**, nearly double Snapchat's **99 questions**. This larger pool suggests a broader range of potential problems you might encounter, requiring more extensive practice to cover the spread.
 
 The difficulty distribution also reveals different hiring emphases:
 
@@ -152,4 +152,4 @@ Your preparation priority should be guided by your target company and your found
 
 A practical strategy is to **build a foundation with Salesforce's pattern (high-volume Mediums, focus on DP) and then intensify with Snapchat's pattern (higher proportion of Hards, focus on BFS)**. This approach ensures you are robust on fundamentals before tackling the most challenging problems.
 
-For detailed question lists and patterns, visit the Salesforce and Snapchat pages on CodeJeet: [/company/salesforce](/company/salesforce) and [/company/snapchat](/company/snapchat).
+For detailed question lists and patterns, visit the Salesforce and Snapchat pages on TidyBit: [/company/salesforce](/company/salesforce) and [/company/snapchat](/company/snapchat).

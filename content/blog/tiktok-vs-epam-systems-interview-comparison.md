@@ -82,4 +82,4 @@ Your preparation priority should be dictated by your target role and timeline.
 
 In summary, use Epam's list to solidify your fundamentals and TikTok's list to push your algorithmic problem-solving to a competitive level. Master the shared core topics first, then branch into each company's specialties.
 
-For more detailed question lists, visit the TikTok and Epam Systems pages on CodeJeet: [/company/tiktok](/company/tiktok), [/company/epam-systems](/company/epam-systems).
+For more detailed question lists, visit the TikTok and Epam Systems pages on TidyBit: [/company/tiktok](/company/tiktok), [/company/epam-systems](/company/epam-systems).

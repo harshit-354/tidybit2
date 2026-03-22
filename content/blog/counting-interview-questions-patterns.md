@@ -182,4 +182,4 @@ Counting problems are universal, but some top tech companies feature them promin
 
 Build fluency with these patterns and you’ll find that a significant class of interview problems becomes manageable and predictable.
 
-[Practice all Counting questions on CodeJeet](/topic/counting)
+[Practice all Counting questions on TidyBit](/topic/counting)

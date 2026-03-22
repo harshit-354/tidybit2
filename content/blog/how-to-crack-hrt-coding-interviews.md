@@ -118,7 +118,7 @@ public class Dijkstra {
 ## Preparation Strategy — A 4-6 Week Study Plan
 
 **Weeks 1-2: Foundation & Core Topics**
-Grind Array, Hash Table, and Math problems tagged "Easy" and "Medium" on platforms like CodeJeet. Aim for speed and 100% correctness. Implement all basic data structures from scratch (Linked List, Hash Map, Priority Queue). Dedicate time to Graph Theory fundamentals: write BFS, DFS, and Dijkstra from memory daily.
+Grind Array, Hash Table, and Math problems tagged "Easy" and "Medium" on platforms like TidyBit. Aim for speed and 100% correctness. Implement all basic data structures from scratch (Linked List, Hash Map, Priority Queue). Dedicate time to Graph Theory fundamentals: write BFS, DFS, and Dijkstra from memory daily.
 
 **Weeks 3-4: Advanced Depth**
 Focus exclusively on Graph Theory (Hard problems) and Greedy algorithms. Solve at least 2-3 Hard problems per day. Understand the derivation and proof of key algorithms. Practice adapting Dijkstra and Union-Find to non-standard problems (e.g., on a 2D grid with movement costs).
@@ -135,4 +135,4 @@ Conduct daily mock interviews under strict timing (45 minutes). Prioritize HRT-s
 
 Cracking HRT's coding interview is a test of precision, speed, and depth. Focus on the fundamentals until they are automatic, then drill into graph and optimization problems until you can see the solution path within seconds. The margin for error is virtually zero.
 
-[Browse all HRT questions on CodeJeet](/company/hrt)
+[Browse all HRT questions on TidyBit](/company/hrt)

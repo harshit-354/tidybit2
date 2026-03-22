@@ -88,4 +88,4 @@ A focused, consistent plan is more effective than cramming. Here is a week-by-we
 
 Success in the Virtusa coding interview is a function of disciplined practice on the right material. By focusing on the high-frequency topics, internalizing key patterns like the hash table lookup, and practicing under timed conditions, you can approach the interview with confidence.
 
-[Browse all Virtusa questions on CodeJeet](/company/virtusa)
+[Browse all Virtusa questions on TidyBit](/company/virtusa)

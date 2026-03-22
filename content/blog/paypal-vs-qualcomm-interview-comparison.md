@@ -82,4 +82,4 @@ Your choice depends on your timeline, strengths, and target.
 
 In practice, mastering the core topics of `Array`, `String`, and problem-solving patterns will benefit you for both. Start with the company whose profile best matches your current skill level or immediate interview schedule.
 
-For detailed question lists, visit the [PayPal](/company/paypal) and [Qualcomm](/company/qualcomm) pages on CodeJeet.
+For detailed question lists, visit the [PayPal](/company/paypal) and [Qualcomm](/company/qualcomm) pages on TidyBit.

@@ -102,4 +102,4 @@ Once that foundation is strong, you can scale up to Uber preparation. This invol
 
 In essence, Intuit prep builds the core engine; Uber prep adds a turbocharger and tests it on a more demanding track.
 
-For targeted practice, visit the CodeJeet pages for [Uber](/company/uber) and [Intuit](/company/intuit).
+For targeted practice, visit the TidyBit pages for [Uber](/company/uber) and [Intuit](/company/intuit).

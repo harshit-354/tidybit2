@@ -151,4 +151,4 @@ This topic is particularly prevalent at companies where systems-level optimizati
 
 Mastering these patterns turns abstract number properties into a toolkit for writing efficient, elegant code under pressure.
 
-[Practice all Number Theory questions on CodeJeet](/topic/number-theory)
+[Practice all Number Theory questions on TidyBit](/topic/number-theory)

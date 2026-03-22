@@ -83,7 +83,7 @@ public int lengthOfLongestSubstring(String s) {
 
 A focused, topic-driven plan is more effective than random practice.
 
-**Weeks 1-2: Foundation.** Dedicate this time exclusively to **Array, String, and Hash Table**. Solve 15-20 Easy problems for each topic on CodeJeet. Focus on writing bug-free code on the first try. Practice common operations: iterating, splitting, mapping characters to counts.
+**Weeks 1-2: Foundation.** Dedicate this time exclusively to **Array, String, and Hash Table**. Solve 15-20 Easy problems for each topic on TidyBit. Focus on writing bug-free code on the first try. Practice common operations: iterating, splitting, mapping characters to counts.
 
 **Weeks 3-4: Core Patterns.** Deep dive into **Sliding Window** and **Depth-First Search**. For Sliding Window, solve 10-15 problems, from fixed-size windows to dynamic ones with hash maps. For DFS, solve 10-15 tree traversal and simple grid (island count) problems. Understand recursion and backtracking basics.
 
@@ -98,4 +98,4 @@ A focused, topic-driven plan is more effective than random practice.
 
 Success in Comcast's interviews hinges on demonstrated proficiency, not theoretical genius. Solidify these core topics, practice writing executable code under mild time pressure, and communicate your reasoning effectively.
 
-[Browse all Comcast questions on CodeJeet](/company/comcast)
+[Browse all Comcast questions on TidyBit](/company/comcast)

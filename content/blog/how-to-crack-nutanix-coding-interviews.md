@@ -385,4 +385,4 @@ public class LongestSubstring {
 
 Mastering the blend of Medium and Hard problems on these core topics is your formula for success. Consistent, topic-focused practice builds the muscle memory you need to perform under interview pressure. Remember to practice writing syntactically correct code on a whiteboard or in a plain text editor without auto-completion. The code examples provided here are a starting point; adapt them to solve variations of the problems you encounter.
 
-[Browse all Nutanix questions on CodeJeet](/company/nutanix)
+[Browse all Nutanix questions on TidyBit](/company/nutanix)

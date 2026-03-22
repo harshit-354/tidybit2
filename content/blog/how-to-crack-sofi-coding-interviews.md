@@ -115,4 +115,4 @@ A structured approach is non-negotiable. Here’s a focused plan.
 
 Consistent, topic-focused practice on medium-difficulty problems is the most reliable path to passing SoFi's technical screen. Start with the core patterns, build speed, and simulate the real environment.
 
-[Browse all Sofi questions on CodeJeet](/company/sofi)
+[Browse all Sofi questions on TidyBit](/company/sofi)

@@ -121,4 +121,4 @@ Preparing for PhonePe requires a dedicated deep dive into **Dynamic Programming*
 
 In summary, PayPal's list is the better training ground for fundamental competency, while PhonePe's list demands advanced, specialized study, particularly in DP.
 
-For detailed question lists, visit the PayPal and PhonePe pages on CodeJeet: [/company/paypal](/company/paypal) and [/company/phonepe](/company/phonepe).
+For detailed question lists, visit the PayPal and PhonePe pages on TidyBit: [/company/paypal](/company/paypal) and [/company/phonepe](/company/phonepe).

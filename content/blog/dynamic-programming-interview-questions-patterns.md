@@ -146,4 +146,4 @@ Top companies frequently include DP in their interviews due to its effectiveness
 
 Consistent, pattern-focused practice is the only way to build proficiency in Dynamic Programming.
 
-[Practice all Dynamic Programming questions on CodeJeet](/topic/dynamic-programming)
+[Practice all Dynamic Programming questions on TidyBit](/topic/dynamic-programming)

@@ -126,4 +126,4 @@ public int coinChange(int[] coins, int amount) {
 
 Prepare for **Expedia first**. Its focus on a high volume of Medium problems with a clear emphasis on Greedy algorithms provides a strong, manageable foundation. Mastering this core will build fluency with Arrays, Strings, and Hash Tables—skills that are 100% transferable to Airbnb's list. Once comfortable with Expedia's profile, transition to Airbnb preparation by layering on dedicated practice for Dynamic Programming and tackling a greater number of challenging Hard problems. This progression builds competence efficiently.
 
-For the complete and updated question lists, visit the CodeJeet pages for [Airbnb](/company/airbnb) and [Expedia](/company/expedia).
+For the complete and updated question lists, visit the TidyBit pages for [Airbnb](/company/airbnb) and [Expedia](/company/expedia).

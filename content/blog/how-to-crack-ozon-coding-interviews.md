@@ -82,7 +82,7 @@ public boolean isPalindrome(String s) {
 
 ## Preparation Strategy — A 4-6 Week Study Plan
 
-Weeks 1-2: **Foundation.** Drill Easy problems on the core topics (Array, String, Hash Table). Aim for speed and accuracy. Use platforms like CodeJeet to filter by Ozon and 'Easy' difficulty. Implement every solution from scratch.
+Weeks 1-2: **Foundation.** Drill Easy problems on the core topics (Array, String, Hash Table). Aim for speed and accuracy. Use platforms like TidyBit to filter by Ozon and 'Easy' difficulty. Implement every solution from scratch.
 
 Weeks 3-4: **Core Competency.** Shift entirely to Medium problems on the same topics. This is where you build pattern recognition. For each problem, first identify the topic and potential data structures. If stuck after 20 minutes, study the solution, then re-implement it the next day without help.
 
@@ -97,4 +97,4 @@ Weeks 5-6: **Integration and Mock Interviews.** Practice a mix of Easy and Mediu
 
 Your goal is to demonstrate consistent, reliable skill, not flashes of genius. Target the Medium problems, solidify the fundamentals, and communicate clearly.
 
-[Browse all Ozon questions on CodeJeet](/company/ozon)
+[Browse all Ozon questions on TidyBit](/company/ozon)

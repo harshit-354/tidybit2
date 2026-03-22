@@ -373,7 +373,7 @@ public class CourseSchedule {
 
 ## Balancing Mock and Solo Practice
 
-A balanced weekly schedule during active prep: 5 days solo practice (2-3 problems/day), 2 mock sessions, 1 rest day. Use the [CodeJeet dashboard](/dashboard) to select problems -- company-specific for mocks, topic-based for solo. For a structured study plan, see [how to practice LeetCode effectively](/blog/how-to-practice-leetcode-effectively).
+A balanced weekly schedule during active prep: 5 days solo practice (2-3 problems/day), 2 mock sessions, 1 rest day. Use the [TidyBit dashboard](/dashboard) to select problems -- company-specific for mocks, topic-based for solo. For a structured study plan, see [how to practice LeetCode effectively](/blog/how-to-practice-leetcode-effectively).
 
 ### Sample Weekly Schedule
 

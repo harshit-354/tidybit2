@@ -698,4 +698,4 @@ class Solution {
 
 5. **Demonstrate passion for the product.** Apple is a product company, and interviewers like to see that candidates care about what they build. Being able to articulate why you want to work on a specific Apple product or technology can be a differentiator in close decisions.
 
-[Browse all Apple questions on CodeJeet](/company/apple)
+[Browse all Apple questions on TidyBit](/company/apple)

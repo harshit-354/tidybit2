@@ -158,4 +158,4 @@ Once fundamentals are automatic, pivot to **Airbnb's profile**. This involves in
 
 Effectively, preparing for NVIDIA builds the robust foundation, and preparing for Airbnb adds the advanced layer on top of it. A candidate solid on Airbnb-style questions will likely find NVIDIA's emphasis on fundamentals manageable, while the reverse might not be true due to the gap in required depth for complex algorithms.
 
-For targeted practice, visit the NVIDIA question list at [CodeJeet /company/nvidia](/company/nvidia) and the Airbnb list at [CodeJeet /company/airbnb](/company/airbnb).
+For targeted practice, visit the NVIDIA question list at [TidyBit /company/nvidia](/company/nvidia) and the Airbnb list at [TidyBit /company/airbnb](/company/airbnb).

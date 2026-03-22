@@ -10,7 +10,7 @@ When preparing for technical interviews at major tech companies, understanding t
 
 ## Question Volume and Difficulty
 
-The most immediate difference is the sheer number of questions associated with each company. On CodeJeet, Snapchat has a catalog of **99 questions**, while Twitter has **53**. This volume often correlates with how frequently a company's problems are reported by candidates and can indicate a broader or more established interview question bank.
+The most immediate difference is the sheer number of questions associated with each company. On TidyBit, Snapchat has a catalog of **99 questions**, while Twitter has **53**. This volume often correlates with how frequently a company's problems are reported by candidates and can indicate a broader or more established interview question bank.
 
 The difficulty distribution is also telling:
 
@@ -125,5 +125,5 @@ For a generalist preparing for both, start with the **shared foundation**: solve
 
 Focus your practice using the company-specific question lists:
 
-- [CodeJeet Snapchat Questions](/company/snapchat)
-- [CodeJeet Twitter Questions](/company/twitter)
+- [TidyBit Snapchat Questions](/company/snapchat)
+- [TidyBit Twitter Questions](/company/twitter)

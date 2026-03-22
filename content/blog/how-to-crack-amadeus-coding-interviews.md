@@ -97,4 +97,4 @@ public int firstUniqChar(String s) {
 
 Focus on these fundamentals, practice with consistency in mind, and you'll be well-prepared for the practical challenges of an Amadeus coding interview.
 
-[Browse all Amadeus questions on CodeJeet](/company/amadeus)
+[Browse all Amadeus questions on TidyBit](/company/amadeus)

@@ -85,4 +85,4 @@ A structured approach is non-negotiable. Here is a week-by-week plan.
 
 Mastering these patterns and executing this plan will build the muscle memory needed to perform under interview conditions. Your goal is to make solving a Medium problem on arrays and hash tables feel routine.
 
-[Browse all Instacart questions on CodeJeet](/company/instacart)
+[Browse all Instacart questions on TidyBit](/company/instacart)

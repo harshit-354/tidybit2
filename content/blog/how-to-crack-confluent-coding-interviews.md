@@ -144,7 +144,7 @@ public List<Integer> findAnagrams(String s, String p) {
 
 **Weeks 1-2: Foundation & Core Topics.** Dedicate this phase to mastering the top five topics. Solve 15-20 problems per topic, focusing on Medium difficulty. For each problem, implement the solution in your primary language, then analyze time/space complexity. Practice explaining your reasoning out loud as you solve.
 
-**Weeks 3-4: Pattern Integration & Hard Problems.** Shift to solving problems that combine patterns (e.g., hash map + sliding window on a string). Start tackling 1-2 Hard problems every other day. Simultaneously, begin practicing Object-Oriented Design problems. Use a platform like CodeJeet to filter for "Design" and "Confluent" tagged questions.
+**Weeks 3-4: Pattern Integration & Hard Problems.** Shift to solving problems that combine patterns (e.g., hash map + sliding window on a string). Start tackling 1-2 Hard problems every other day. Simultaneously, begin practicing Object-Oriented Design problems. Use a platform like TidyBit to filter for "Design" and "Confluent" tagged questions.
 
 **Weeks 5-6: Mock Interviews & Confluent-Specific Practice.** In the final stretch, conduct at least 3-5 timed mock interviews (50-60 minutes) with a peer or using a platform. Simulate the real environment: clarify requirements, discuss approaches, code, and test. Spend the last week exclusively on problems tagged for Confluent to internalize their style and difficulty.
 
@@ -157,4 +157,4 @@ public List<Integer> findAnagrams(String s, String p) {
 
 Mastering Confluent's interview requires a blend of deep algorithmic practice and clear, systematic communication. Focus on the high-percentage topics, drill the combination patterns, and practice articulating your thought process under time pressure.
 
-[Browse all Confluent questions on CodeJeet](/company/confluent)
+[Browse all Confluent questions on TidyBit](/company/confluent)

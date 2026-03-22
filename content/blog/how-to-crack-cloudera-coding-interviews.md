@@ -179,4 +179,4 @@ Conduct at least 2-3 full mock interviews per week, simulating the actual enviro
 
 Focus your energy on these high-probability areas, practice deliberately, and you'll be well-prepared to demonstrate the skills Cloudera is looking for.
 
-[Browse all Cloudera questions on CodeJeet](/company/cloudera)
+[Browse all Cloudera questions on TidyBit](/company/cloudera)

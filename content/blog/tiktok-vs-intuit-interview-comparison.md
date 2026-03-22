@@ -84,4 +84,4 @@ Then, pivot to **TikTok**. Use the broader, deeper foundation from Intuit prep t
 
 In summary, prepare for Intuit first to build a robust core efficiently. Then, use that foundation to scale your skills for the greater volume and difficulty of TikTok's interviews. Master the shared fundamentals—Array, String, Hash Table, and Dynamic Programming—as they are the currency of both technical screens.
 
-For specific question lists, visit the CodeJeet pages for [TikTok](/company/tiktok) and [Intuit](/company/intuit).
+For specific question lists, visit the TidyBit pages for [TikTok](/company/tiktok) and [Intuit](/company/intuit).

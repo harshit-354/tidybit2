@@ -91,7 +91,7 @@ public boolean isAnagram(String s, String t) {
 A structured approach is key to covering the necessary ground without burnout.
 
 **Weeks 1-2: Foundation & Core Topics**
-Dedicate one day to each of the top five topics (Array, String, Hash Table, Linked List, Math). For each day, study the fundamental patterns (e.g., two-pointers for arrays, sliding window for strings) and solve 5-8 curated Easy and Medium problems. Use platforms like CodeJeet to filter problems by company and topic.
+Dedicate one day to each of the top five topics (Array, String, Hash Table, Linked List, Math). For each day, study the fundamental patterns (e.g., two-pointers for arrays, sliding window for strings) and solve 5-8 curated Easy and Medium problems. Use platforms like TidyBit to filter problems by company and topic.
 
 **Weeks 3-4: Pattern Integration & Mock Interviews**
 Stop studying by topic. Start solving mixed problem sets that combine patterns. Focus exclusively on Medium difficulty. Begin doing timed practice sessions (45-60 minutes) to simulate the interview pressure. Write your code in a plain editor without auto-complete.
@@ -108,4 +108,4 @@ Solve every available Revolut-specific question you can find. This acclimates yo
 
 Success in Revolut's interviews comes from consistent, focused practice on the fundamentals. Master the core patterns, practice communicating your reasoning, and ensure your code is always executable.
 
-[Browse all Revolut questions on CodeJeet](/company/revolut)
+[Browse all Revolut questions on TidyBit](/company/revolut)

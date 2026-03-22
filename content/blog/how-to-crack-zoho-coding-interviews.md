@@ -13,7 +13,7 @@ The typical Zoho interview process for freshers includes an aptitude test, a pro
 
 ## By the Numbers
 
-Zoho's CodeJeet question bank includes **179 questions** with a balanced difficulty profile:
+Zoho's TidyBit question bank includes **179 questions** with a balanced difficulty profile:
 
 - **Easy: 62 questions (35%)** — A solid base. Zoho's emphasis on fundamentals means Easy problems are not filler — they reflect what you will actually encounter.
 - **Medium: 97 questions (54%)** — The majority. Medium problems form the backbone of Zoho's coding rounds.
@@ -868,4 +868,4 @@ Simulate Zoho's actual test format. Set a timer for 60 to 90 minutes and solve 3
 
     </div>
 
-[Browse all Zoho questions on CodeJeet](/company/zoho)
+[Browse all Zoho questions on TidyBit](/company/zoho)

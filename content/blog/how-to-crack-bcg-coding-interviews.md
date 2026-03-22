@@ -110,4 +110,4 @@ public int removeDuplicates(int[] nums) {
 
 Mastering these patterns and executing this focused plan will transform the BCG coding interview from a challenge into a demonstration of your structured problem-solving ability.
 
-[Browse all BCG questions on CodeJeet](/company/bcg)
+[Browse all BCG questions on TidyBit](/company/bcg)

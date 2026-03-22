@@ -6,7 +6,7 @@ category: "tips"
 tags: ["cisco", "hard", "interview prep"]
 ---
 
-Hard Cisco interview questions are not just about solving problems—they’re about solving complex, scalable, real-world systems and algorithm challenges under pressure. Out of 86 total questions on CodeJeet, Cisco tags 15 as Hard. These typically involve advanced data structures, concurrency, distributed system design, or intricate optimization problems that mirror the large-scale networking and infrastructure domains Cisco operates in. Success here means demonstrating not only technical mastery but also clarity in reasoning and communication.
+Hard Cisco interview questions are not just about solving problems—they’re about solving complex, scalable, real-world systems and algorithm challenges under pressure. Out of 86 total questions on TidyBit, Cisco tags 15 as Hard. These typically involve advanced data structures, concurrency, distributed system design, or intricate optimization problems that mirror the large-scale networking and infrastructure domains Cisco operates in. Success here means demonstrating not only technical mastery but also clarity in reasoning and communication.
 
 ## Common Patterns
 

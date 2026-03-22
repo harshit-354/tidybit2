@@ -98,4 +98,4 @@ A structured plan is essential to cover the breadth and depth required.
 
 Success in a Peloton interview comes from demonstrating fluent problem-solving on core algorithms and the systems thinking to apply them at scale. Target your practice on their favored topics, and ensure your code is as clean and robust as the platforms they build.
 
-[Browse all Peloton questions on CodeJeet](/company/peloton)
+[Browse all Peloton questions on TidyBit](/company/peloton)

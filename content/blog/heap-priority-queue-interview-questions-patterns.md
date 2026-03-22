@@ -162,4 +162,4 @@ Heaps are a staple at top tech companies, especially for roles involving systems
 3.  **Practice Time Complexity Analysis:** Be ready to explain why your heap solution is O(n log k) instead of O(n log n). This shows deeper understanding.
 4.  **Combine with Other Structures:** Hard problems often combine heaps with hash maps (for frequency) or graphs. Practice these hybrids.
 
-[Practice all Heap (Priority Queue) questions on CodeJeet](/topic/heap-priority-queue)
+[Practice all Heap (Priority Queue) questions on TidyBit](/topic/heap-priority-queue)

@@ -121,4 +121,4 @@ A structured approach is non-negotiable. Here is a focused 5-week plan.
 
 Your goal is to demonstrate consistent, reliable skill on Medium-difficulty problems across these five core areas. Focus your practice there, and you'll be well-prepared for the TomTom interview.
 
-[Browse all Tomtom questions on CodeJeet](/company/tomtom)
+[Browse all Tomtom questions on TidyBit](/company/tomtom)

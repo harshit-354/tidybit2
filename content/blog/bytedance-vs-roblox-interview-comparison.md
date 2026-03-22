@@ -134,4 +134,4 @@ If your goal is to interview at both, **prepare for ByteDance first**. Its large
 
 If targeting only one company, specialize: drill DP patterns for ByteDance, and practice mathematical/geometric algorithms and complex system simulation for Roblox.
 
-For targeted practice, visit the CodeJeet question banks for [ByteDance](/company/bytedance) and [Roblox](/company/roblox).
+For targeted practice, visit the TidyBit question banks for [ByteDance](/company/bytedance) and [Roblox](/company/roblox).

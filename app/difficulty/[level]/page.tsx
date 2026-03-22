@@ -63,12 +63,12 @@ export async function generateMetadata({
     description:
       `Browse all ${label.toLowerCase()} difficulty LeetCode interview questions. ` +
       `Sorted by company popularity. Filter and practice for your next tech interview.`,
-    alternates: { canonical: `https://codejeet.com/difficulty/${level}` },
+    alternates: { canonical: `https://tidybit.com/difficulty/${level}` },
     openGraph: {
-      title: `${label} LeetCode Questions | CodeJeet`,
+      title: `${label} LeetCode Questions | TidyBit`,
       description: `Browse all ${label.toLowerCase()} difficulty LeetCode problems sorted by company frequency.`,
       type: "website",
-      url: `https://codejeet.com/difficulty/${level}`,
+      url: `https://tidybit.com/difficulty/${level}`,
     },
   };
 }
@@ -234,7 +234,7 @@ export default async function DifficultyPage({ params }: { params: Promise<{ lev
         data={collectionJsonLd({
           name: `${label} LeetCode Questions`,
           description: `Browse ${questions.length} ${label.toLowerCase()} difficulty LeetCode problems sorted by company frequency.`,
-          url: `https://codejeet.com/difficulty/${level}`,
+          url: `https://tidybit.com/difficulty/${level}`,
           numberOfItems: questions.length,
         })}
       />

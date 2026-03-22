@@ -146,4 +146,4 @@ These companies prioritize efficient algorithms, making O(n) Two Pointers soluti
 
 The key to mastering Two Pointers is pattern recognition through deliberate practice.
 
-[Practice all Two Pointers questions on CodeJeet](/topic/two-pointers)
+[Practice all Two Pointers questions on TidyBit](/topic/two-pointers)

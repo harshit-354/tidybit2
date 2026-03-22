@@ -108,5 +108,5 @@ If your primary target is **JPMorgan or similar finance tech roles**, you can fo
 
 In essence, Google preparation is a marathon that covers JPMorgan's sprint. The reverse is not true. Prioritize based on your highest-priority, highest-difficulty target.
 
-- Prepare for Google: [CodeJeet Google Interview Guide](/company/google)
-- Prepare for JPMorgan: [CodeJeet JPMorgan Interview Guide](/company/jpmorgan)
+- Prepare for Google: [TidyBit Google Interview Guide](/company/google)
+- Prepare for JPMorgan: [TidyBit JPMorgan Interview Guide](/company/jpmorgan)

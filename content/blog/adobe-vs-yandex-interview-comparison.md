@@ -121,4 +121,4 @@ Once comfortable, transition to Adobe's larger and more difficult set. This prog
 
 In summary, use Yandex's list to build core competency and Adobe's list to reach advanced proficiency. The shared topical focus makes this a highly efficient study plan.
 
-For targeted practice, visit the Adobe question list and Yandex question list on CodeJeet.
+For targeted practice, visit the Adobe question list and Yandex question list on TidyBit.

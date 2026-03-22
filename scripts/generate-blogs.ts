@@ -72,7 +72,7 @@ interface BlogTask {
   prompt: string;
 }
 
-const SYSTEM_PROMPT = `You are an expert technical writer for CodeJeet, a coding interview prep website. Write in a direct, practical style. No fluff, no emojis. Every sentence should be useful. Use markdown formatting with ## headings.
+const SYSTEM_PROMPT = `You are an expert technical writer for TidyBit, a coding interview prep website. Write in a direct, practical style. No fluff, no emojis. Every sentence should be useful. Use markdown formatting with ## headings.
 
 IMPORTANT: Include code examples in Python, JavaScript, and Java wherever you discuss algorithms or patterns. Wrap multi-language code examples in <div class="code-group"> tags like this:
 
@@ -188,7 +188,7 @@ Structure:
 3. ## Top Topics to Focus On — each topic with 1-2 sentences + a code example for the most important pattern
 4. ## Preparation Strategy — 4-6 week study plan
 5. ## Key Tips — 3-5 actionable tips
-6. End with: [Browse all ${c.displayName} questions on CodeJeet](/company/${c.slug})
+6. End with: [Browse all ${c.displayName} questions on TidyBit](/company/${c.slug})
 
 Include at least one <div class="code-group"> with Python/JavaScript/Java showing a key pattern for this company's top topic.`,
     });
@@ -232,7 +232,7 @@ Structure:
 3. ## Difficulty Breakdown — what the split means
 4. ## Which Companies Ask ${t.name} — top companies with links (/company/[slug])
 5. ## Study Tips — 3-4 practical tips
-6. End with: [Practice all ${t.name} questions on CodeJeet](/topic/${t.slug})
+6. End with: [Practice all ${t.name} questions on TidyBit](/topic/${t.slug})
 
 Include at least 2 <div class="code-group"> blocks showing key patterns in Python/JavaScript/Java.`,
     });

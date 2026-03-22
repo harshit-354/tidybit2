@@ -96,7 +96,7 @@ public class SlidingWindow {
 
 A structured approach is non-negotiable. Here is a week-by-week plan.
 
-**Weeks 1-2: Foundation & Core Topics.** Dedicate this phase to Arrays, Hash Tables, and Sliding Window. Solve 15-20 problems per topic, focusing on pattern recognition. Use platforms like CodeJeet to filter problems by company and topic.
+**Weeks 1-2: Foundation & Core Topics.** Dedicate this phase to Arrays, Hash Tables, and Sliding Window. Solve 15-20 problems per topic, focusing on pattern recognition. Use platforms like TidyBit to filter problems by company and topic.
 **Week 3: Advanced Patterns.** Tackle Dynamic Programming and Binary Search. Start with classic DP problems (Fibonacci, Knapsack, LCS) before moving to variations. For Binary Search, practice both standard and answer-predicate (monotonic) forms.
 **Week 4: Integration & Mock Interviews.** Solve mixed-topic Medium problems under timed conditions. Simulate the interview environment. Complete 2-3 mock interviews weekly, focusing on clear communication of your thought process.
 **Week 5-6 (if available): Depth & Review.** Revisit incorrect problems. Study the one Hard topic area (often DP or a complex graph). Systematically review all patterns and write clean, production-ready code for your most frequent mistakes.
@@ -110,4 +110,4 @@ A structured approach is non-negotiable. Here is a week-by-week plan.
 
 Mastering these patterns and executing this plan will build the muscle memory needed to succeed. Consistency beats last-minute cramming.
 
-[Browse all Cashfree questions on CodeJeet](/company/cashfree)
+[Browse all Cashfree questions on TidyBit](/company/cashfree)

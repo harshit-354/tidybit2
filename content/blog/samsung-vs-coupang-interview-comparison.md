@@ -6,7 +6,7 @@ category: "tips"
 tags: ["samsung", "coupang", "comparison"]
 ---
 
-When preparing for technical interviews at major Korean tech companies, understanding the specific patterns and expectations of each can significantly streamline your study. Samsung and Coupang, while both demanding strong algorithmic skills, present distinct profiles in their question libraries on CodeJeet. This comparison breaks down their question volume, difficulty distribution, and core topics to help you prioritize your preparation effectively.
+When preparing for technical interviews at major Korean tech companies, understanding the specific patterns and expectations of each can significantly streamline your study. Samsung and Coupang, while both demanding strong algorithmic skills, present distinct profiles in their question libraries on TidyBit. This comparison breaks down their question volume, difficulty distribution, and core topics to help you prioritize your preparation effectively.
 
 ## Question Volume and Difficulty
 
@@ -129,4 +129,4 @@ Your preparation order should be guided by your timeline and the breadth of your
 
 A strategic hybrid approach is to **build a core foundation** using the shared topics (Array, Hash Table, DP), then **branch out** based on your target: practice String problems heavily for Coupang, and Two Pointers for Samsung. Regardless of the order, solving a significant portion of the Medium and Hard problems from either company's list is non-negotiable for success.
 
-For detailed question lists and patterns, visit the [Samsung](/company/samsung) and [Coupang](/company/coupang) company pages on CodeJeet.
+For detailed question lists and patterns, visit the [Samsung](/company/samsung) and [Coupang](/company/coupang) company pages on TidyBit.

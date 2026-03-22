@@ -103,4 +103,4 @@ A structured plan is essential to cover the breadth and depth required.
 
 Mastering these topics and executing this strategy will systematically prepare you for the balanced challenge of a Rokt interview.
 
-[Browse all Rokt questions on CodeJeet](/company/rokt)
+[Browse all Rokt questions on TidyBit](/company/rokt)

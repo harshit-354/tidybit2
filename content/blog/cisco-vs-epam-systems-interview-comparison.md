@@ -84,4 +84,4 @@ Prepare for **EPAM Systems first**. Its smaller question bank and concentration 
 
 In short, use EPAM Systems to build a strong foundation in the shared core topics. Use Cisco to scale your skills upward in complexity and endurance. Mastering the EPAM question set will directly contribute to solving a significant portion of Cisco's easier problems, allowing you to then focus your efforts on Cisco's greater number of challenging questions.
 
-For detailed question lists, visit the Cisco and EPAM Systems pages on CodeJeet: [Cisco Interview Questions](/company/cisco) | [EPAM Systems Interview Questions](/company/epam-systems)
+For detailed question lists, visit the Cisco and EPAM Systems pages on TidyBit: [Cisco Interview Questions](/company/cisco) | [EPAM Systems Interview Questions](/company/epam-systems)

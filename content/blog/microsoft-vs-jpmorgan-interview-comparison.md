@@ -71,4 +71,4 @@ Your preparation strategy should be dictated by your target company and timeline
 
 In essence, treat JPMorgan preparation as a focused subset of Microsoft preparation. Starting with the broader Microsoft curriculum builds a stronger overall foundation, which can then be refined for a more specific target like JPMorgan.
 
-For detailed question lists and patterns, visit the Microsoft and JPMorgan Chase pages on CodeJeet: [/company/microsoft](/company/microsoft) and [/company/jpmorgan](/company/jpmorgan).
+For detailed question lists and patterns, visit the Microsoft and JPMorgan Chase pages on TidyBit: [/company/microsoft](/company/microsoft) and [/company/jpmorgan](/company/jpmorgan).

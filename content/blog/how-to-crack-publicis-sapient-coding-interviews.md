@@ -121,4 +121,4 @@ public int longestSubstringKDistinct(String s, int k) {
 
 Mastering these patterns and this disciplined approach will turn the interview from a question-answering test into a demonstration of your engineering skills.
 
-[Browse all Publicis Sapient questions on CodeJeet](/company/publicis-sapient)
+[Browse all Publicis Sapient questions on TidyBit](/company/publicis-sapient)

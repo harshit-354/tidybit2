@@ -96,4 +96,4 @@ Dedicate this period to Zoox-specific questions. Solve every available past prob
 
 Success in a Zoox interview comes from methodical preparation focused on their specific profile of Medium-difficulty problems with a mathematical and optimization slant. Practice the patterns, then practice communicating them.
 
-[Browse all Zoox questions on CodeJeet](/company/zoox)
+[Browse all Zoox questions on TidyBit](/company/zoox)

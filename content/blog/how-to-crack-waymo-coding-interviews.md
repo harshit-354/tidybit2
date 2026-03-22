@@ -154,4 +154,4 @@ With the high proportion of Hard problems, a superficial approach will fail. Fol
 
 The Waymo interview is a marathon of difficult problems. Your preparation must match its intensity. Focus on depth over breadth, master the core patterns, and practice articulating complex solutions under time pressure.
 
-[Browse all Waymo questions on CodeJeet](/company/waymo)
+[Browse all Waymo questions on TidyBit](/company/waymo)

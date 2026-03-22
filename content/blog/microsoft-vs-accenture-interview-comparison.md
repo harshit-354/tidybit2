@@ -167,4 +167,4 @@ Starting with Accenture's question bank is less efficient. While it builds a sol
 
 In short, use Microsoft's question bank as your primary training ground for technical depth. Use Accenture's list for targeted practice on math-based problems and as a confidence-boosting final review.
 
-For more detailed company-specific guides, visit the CodeJeet pages for [Microsoft](/company/microsoft) and [Accenture](/company/accenture).
+For more detailed company-specific guides, visit the TidyBit pages for [Microsoft](/company/microsoft) and [Accenture](/company/accenture).

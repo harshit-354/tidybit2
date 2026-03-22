@@ -10,7 +10,7 @@ When preparing for technical interviews at top tech companies, understanding the
 
 ## Question Volume and Difficulty
 
-The sheer volume of questions is the most striking difference. Bloomberg's tagged question bank on CodeJeet is extensive, with **1,173 questions** categorized by difficulty (391 Easy, 625 Medium, 157 Hard). This massive repository reflects Bloomberg's long-standing, algorithm-intensive interview process, which is known for its breadth and depth. You should expect a strong emphasis on problem-solving fundamentals across a wide range of scenarios.
+The sheer volume of questions is the most striking difference. Bloomberg's tagged question bank on TidyBit is extensive, with **1,173 questions** categorized by difficulty (391 Easy, 625 Medium, 157 Hard). This massive repository reflects Bloomberg's long-standing, algorithm-intensive interview process, which is known for its breadth and depth. You should expect a strong emphasis on problem-solving fundamentals across a wide range of scenarios.
 
 In contrast, ServiceNow's tagged question bank is significantly smaller, with **78 questions** (8 Easy, 58 Medium, 12 Hard). The distribution here is telling: the vast majority are Medium difficulty. This suggests that while ServiceNow's technical screen may be less about encountering a vast array of obscure problems, it demands consistent, proficient problem-solving on standard algorithmic challenges. The lower volume does not necessarily mean it's easier; it means the focus is narrower and more predictable.
 

@@ -10,7 +10,7 @@ When preparing for technical interviews at top tech companies, understanding the
 
 ## Question Volume and Difficulty
 
-The most immediate difference is the sheer number of questions associated with each company on platforms like CodeJeet. LinkedIn's list comprises **180 questions**, significantly larger than PayPal's **106 questions**. This suggests that LinkedIn's interview process is more extensively documented by candidates, possibly reflecting a broader range of problems or a longer-standing focus on algorithmic interviews.
+The most immediate difference is the sheer number of questions associated with each company on platforms like TidyBit. LinkedIn's list comprises **180 questions**, significantly larger than PayPal's **106 questions**. This suggests that LinkedIn's interview process is more extensively documented by candidates, possibly reflecting a broader range of problems or a longer-standing focus on algorithmic interviews.
 
 The difficulty breakdown further highlights their different screening philosophies:
 
@@ -96,4 +96,4 @@ Then, pivot to **LinkedIn**. Use the established core skills and layer on the ad
 
 In summary, PayPal's profile is an excellent benchmark for core algorithmic proficiency. LinkedIn's profile represents a broader, deeper challenge that requires additional, specialized graph knowledge. Master the foundation first, then expand your scope.
 
-For targeted practice, visit the [LinkedIn question list](/company/linkedin) and the [PayPal question list](/company/paypal) on CodeJeet.
+For targeted practice, visit the [LinkedIn question list](/company/linkedin) and the [PayPal question list](/company/paypal) on TidyBit.

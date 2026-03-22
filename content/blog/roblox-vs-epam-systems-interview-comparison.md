@@ -130,4 +130,4 @@ Your preparation order should be dictated by your interview timeline and the dif
 
 Ultimately, the core topics overlap significantly. A robust preparation plan focusing on Arrays, Strings, and Hash Tables, with dedicated practice on Two Pointers for EPAM and Math for Roblox, will cover the majority of questions from both companies.
 
-For detailed question lists, visit the [Roblox interview questions](/company/roblox) and [EPAM Systems interview questions](/company/epam-systems) pages on CodeJeet.
+For detailed question lists, visit the [Roblox interview questions](/company/roblox) and [EPAM Systems interview questions](/company/epam-systems) pages on TidyBit.

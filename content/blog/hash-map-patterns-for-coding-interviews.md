@@ -878,4 +878,4 @@ class RandomizedSet {
 
 **Data structure design:** 10. LRU Cache 11. Insert Delete GetRandom O(1)
 
-Explore hash map problems by company on the [CodeJeet dashboard](/dashboard). Especially frequent at [Amazon](/company/amazon) and [Meta](/company/meta).
+Explore hash map problems by company on the [TidyBit dashboard](/dashboard). Especially frequent at [Amazon](/company/amazon) and [Meta](/company/meta).

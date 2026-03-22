@@ -124,4 +124,4 @@ If your primary target is **Airbnb**, you should still begin with the core array
 
 For generalists preparing for both, a hybrid approach works best: build a rock-solid foundation using Adobe's extensive Medium problem set, then layer on advanced DP and problem-solving skills needed for Airbnb's Hard questions. This sequence ensures breadth before depth.
 
-For dedicated question lists, visit the Adobe and Airbnb pages on CodeJeet: [/company/adobe](/company/adobe) and [/company/airbnb](/company/airbnb).
+For dedicated question lists, visit the Adobe and Airbnb pages on TidyBit: [/company/adobe](/company/adobe) and [/company/airbnb](/company/airbnb).

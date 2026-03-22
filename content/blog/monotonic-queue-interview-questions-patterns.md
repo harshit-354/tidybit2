@@ -165,4 +165,4 @@ This pattern is a favorite at companies that emphasize algorithmic rigor and lar
 
 Mastering monotonic queues requires recognizing the pattern and executing the maintenance steps flawlessly. The investment pays off disproportionately in tackling high-difficulty array and dynamic programming questions.
 
-[Practice all Monotonic Queue questions on CodeJeet](/topic/monotonic-queue)
+[Practice all Monotonic Queue questions on TidyBit](/topic/monotonic-queue)

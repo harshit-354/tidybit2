@@ -78,4 +78,4 @@ Once comfortable with that broad base, pivot to **Twitter-specific preparation**
 
 In essence, Amazon prep builds your general algorithmic muscle; Twitter prep requires you to apply that muscle to more product-aware problems.
 
-For targeted practice, visit the [Amazon question list](/company/amazon) and the [Twitter question list](/company/twitter) on CodeJeet.
+For targeted practice, visit the [Amazon question list](/company/amazon) and the [Twitter question list](/company/twitter) on TidyBit.

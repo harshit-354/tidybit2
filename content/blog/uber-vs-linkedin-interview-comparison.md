@@ -115,5 +115,5 @@ For generalists preparing for both, **begin with the common core**. Achieve flue
 
 Ultimately, success at either company requires rigorous practice. Use the company-specific question lists to tailor your final weeks of preparation.
 
-- Practice Uber questions: [CodeJeet Uber Prep](/company/uber)
-- Practice LinkedIn questions: [CodeJeet LinkedIn Prep](/company/linkedin)
+- Practice Uber questions: [TidyBit Uber Prep](/company/uber)
+- Practice LinkedIn questions: [TidyBit LinkedIn Prep](/company/linkedin)

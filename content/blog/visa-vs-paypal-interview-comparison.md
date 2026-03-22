@@ -96,4 +96,4 @@ Your study plan should be:
 
 Focus on the pattern, not just the company tag. A well-optimized solution for a hash table problem will be correct whether it's asked at Visa or PayPal.
 
-For targeted practice, visit the Visa and PayPal question lists on CodeJeet: [Visa Interview Questions](/company/visa) | [PayPal Interview Questions](/company/paypal)
+For targeted practice, visit the Visa and PayPal question lists on TidyBit: [Visa Interview Questions](/company/visa) | [PayPal Interview Questions](/company/paypal)

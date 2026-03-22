@@ -667,7 +667,7 @@ A targeted 6-week plan is effective. Assume you have a baseline knowledge of dat
 
 - **Weeks 1-2: Foundation & Core Topics.** Dedicate this phase to Arrays, Hash Tables, and Strings. Solve 15-20 problems for each topic, mixing Easy and Medium. Focus on writing bug-free, efficient code. Understand every variant of the two-pointer and sliding window patterns.
 - **Weeks 3-4: Advanced Algorithms.** Dive deep into Dynamic Programming and Breadth-First Search/Graph traversal. For DP, start with top-down memoization before moving to bottom-up tabulation. For BFS, practice on matrix grids and implicit graphs. This is where you tackle most Hard problems.
-- **Week 5: Company-Specific Practice.** Solve all available Airbnb-tagged questions on platforms like CodeJeet. Time yourself. The goal is not to memorize answers, but to recognize the company's problem style—often involving real-world scenarios like booking systems, matching, or scheduling.
+- **Week 5: Company-Specific Practice.** Solve all available Airbnb-tagged questions on platforms like TidyBit. Time yourself. The goal is not to memorize answers, but to recognize the company's problem style—often involving real-world scenarios like booking systems, matching, or scheduling.
 - **Week 6: Mock Interviews & Review.** Conduct at least 3-5 mock interviews with peers or using online platforms. Simulate the real environment: state your approach aloud, code, and test. Revisit your weakest topics and re-solve problems you initially struggled with.
 
 ## Key Tips
@@ -679,4 +679,4 @@ A targeted 6-week plan is effective. Assume you have a baseline knowledge of dat
 
 Success in Airbnb's coding interview comes from targeted practice on their preferred topics and honing your ability to solve challenging problems clearly and collaboratively. Start with the fundamentals, pressure-test your skills with their specific question set, and practice articulating your reasoning.
 
-[Browse all Airbnb questions on CodeJeet](/company/airbnb)
+[Browse all Airbnb questions on TidyBit](/company/airbnb)

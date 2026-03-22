@@ -86,4 +86,4 @@ Your preparation order should be guided by your target companies and timeline.
 
 For a generalist strategy, begin with the common core topics. Once proficient, if you have interviews at both, the rigorous preparation for LinkedIn will more than cover the technical depth needed for Wix. The reverse is not necessarily true.
 
-For detailed company-specific question lists and patterns, visit the CodeJeet pages for [LinkedIn](/company/linkedin) and [Wix](/company/wix).
+For detailed company-specific question lists and patterns, visit the TidyBit pages for [LinkedIn](/company/linkedin) and [Wix](/company/wix).

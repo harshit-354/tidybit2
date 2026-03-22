@@ -90,7 +90,7 @@ A structured approach is non-negotiable. Here is a focused plan.
 
 **Weeks 3-4: Core Patterns.** Move to Medium problems. Deeply study Dynamic Programming and Trie. For DP, start with the classic 5-10 problems (e.g., Climbing Stairs, Coin Change, Longest Increasing Subsequence). For Trie, implement the data structure from memory several times and solve 3-5 related problems. Revisit Sliding Window and Two Pointer patterns on more complex Array/String problems.
 
-**Weeks 5-6: Integration and Mock Interviews.** In the final stretch, focus exclusively on HSBC's tagged questions on platforms like CodeJeet. Simulate the real interview environment: solve 2-3 problems back-to-back with a 45-minute timer. Record yourself explaining your thought process out loud. This builds the muscle memory for clear communication under pressure.
+**Weeks 5-6: Integration and Mock Interviews.** In the final stretch, focus exclusively on HSBC's tagged questions on platforms like TidyBit. Simulate the real interview environment: solve 2-3 problems back-to-back with a 45-minute timer. Record yourself explaining your thought process out loud. This builds the muscle memory for clear communication under pressure.
 
 ## Key Tips
 
@@ -101,4 +101,4 @@ A structured approach is non-negotiable. Here is a focused plan.
 
 Your success in an HSBC interview is a function of disciplined practice on the right material. Focus on the high-probability topics, master the fundamental patterns, and train for clarity under time constraints.
 
-[Browse all HSBC questions on CodeJeet](/company/hsbc)
+[Browse all HSBC questions on TidyBit](/company/hsbc)

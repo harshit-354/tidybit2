@@ -92,4 +92,4 @@ public boolean isValid(String s) {
 3.  **Test Your Code.** After writing, walk through a small test case. Check edge cases like empty strings, single characters, or deeply nested input.
 4.  **Manage Your Time.** Allocate ~10 minutes for the easy problem, ~20 minutes each for the mediums. If stuck, state your next logical step rather than staying silent.
 
-[Browse all Activision questions on CodeJeet](/company/activision)
+[Browse all Activision questions on TidyBit](/company/activision)

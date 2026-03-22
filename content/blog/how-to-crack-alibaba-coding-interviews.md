@@ -104,4 +104,4 @@ A structured approach is essential to cover the breadth and depth required.
 
 Success in an Alibaba interview is a function of disciplined preparation on high-yield topics and the clear communication of skilled problem-solving. Focus your energy where it matters most.
 
-[Browse all Alibaba questions on CodeJeet](/company/alibaba)
+[Browse all Alibaba questions on TidyBit](/company/alibaba)

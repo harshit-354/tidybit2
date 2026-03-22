@@ -146,4 +146,4 @@ Graph problems are a staple at companies that design large-scale, interconnected
 
 Success in graph interviews comes from pattern recognition and precise implementation. Focus on the core algorithms, practice their combinations, and you'll be able to navigate even the most complex web of nodes and edges.
 
-[Practice all Graph Theory questions on CodeJeet](/topic/graph-theory)
+[Practice all Graph Theory questions on TidyBit](/topic/graph-theory)

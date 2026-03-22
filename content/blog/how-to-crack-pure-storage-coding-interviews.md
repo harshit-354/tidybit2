@@ -112,7 +112,7 @@ Shift to solving mixed Medium problems that combine topics, like a String proble
 Dedicate time to 5-8 Hard problems, particularly focusing on DP and complex graph or design challenges. Also, practice designing standard systems (e.g., a key-value store) and data structures (e.g., Trie, LRU Cache). Understand the trade-offs.
 
 **Week 6: Mock Interviews & Pure-Specific Practice**
-Conduct 2-3 mock interviews per week, ideally with someone who knows the process. Actively seek out and solve problems tagged with "Pure Storage" on platforms like CodeJeet. Review your solutions for bugs, edge cases, and code clarity.
+Conduct 2-3 mock interviews per week, ideally with someone who knows the process. Actively seek out and solve problems tagged with "Pure Storage" on platforms like TidyBit. Review your solutions for bugs, edge cases, and code clarity.
 
 ## Key Tips
 
@@ -124,4 +124,4 @@ Conduct 2-3 mock interviews per week, ideally with someone who knows the process
 
 Mastering these patterns and executing this plan will position you strongly for the Pure Storage interview. The key is consistent, deliberate practice on the right material.
 
-[Browse all Pure Storage questions on CodeJeet](/company/pure-storage)
+[Browse all Pure Storage questions on TidyBit](/company/pure-storage)

@@ -126,4 +126,4 @@ public boolean hasPathSum(TreeNode root, int targetSum) {
 
 Ultimately, the shared emphasis on fundamental data structures means a strong core preparation serves you for both. Prioritize the company you are interviewing with first, using its unique focus (Sorting for PayPal, DFS for Wix) to guide your deep-dive topics.
 
-For detailed question lists, visit the PayPal and Wix pages on CodeJeet: [PayPal Interview Questions](/company/paypal) | [Wix Interview Questions](/company/wix)
+For detailed question lists, visit the PayPal and Wix pages on TidyBit: [PayPal Interview Questions](/company/paypal) | [Wix Interview Questions](/company/wix)

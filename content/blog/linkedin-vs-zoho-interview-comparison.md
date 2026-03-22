@@ -124,4 +124,4 @@ Prioritize **LinkedIn** if you are already comfortable with core data structures
 
 Ultimately, the shared focus on Arrays, Strings, and Hash Tables means a strong foundation in these areas serves you for both. Then, branch into Depth-First Search for LinkedIn or Dynamic Programming for Zoho to complete your targeted preparation.
 
-For specific question lists, visit the CodeJeet pages for [LinkedIn](/company/linkedin) and [Zoho](/company/zoho).
+For specific question lists, visit the TidyBit pages for [LinkedIn](/company/linkedin) and [Zoho](/company/zoho).

@@ -107,4 +107,4 @@ A structured approach is necessary to cover the breadth and depth required.
 
 The MongoDB coding interview is a test of disciplined problem-solving and scalable design thinking. Focus on patterns, prioritize depth in high-frequency topics, and practice under pressure.
 
-[Browse all MongoDB questions on CodeJeet](/company/mongodb)
+[Browse all MongoDB questions on TidyBit](/company/mongodb)

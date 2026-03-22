@@ -6,7 +6,7 @@ category: "tips"
 tags: ["salesforce", "easy", "interview prep"]
 ---
 
-Easy Salesforce interview questions are straightforward coding problems that test fundamental programming skills. These 27 questions (out of 189 total on CodeJeet) typically involve basic string manipulation, array operations, simple data structures, and elementary logic. They are designed to assess your comfort with core syntax, your ability to write clean, working code under minimal pressure, and your foundational problem-solving approach. While not complex, they are a critical filter; failing to solve an Easy question efficiently is often an immediate rejection.
+Easy Salesforce interview questions are straightforward coding problems that test fundamental programming skills. These 27 questions (out of 189 total on TidyBit) typically involve basic string manipulation, array operations, simple data structures, and elementary logic. They are designed to assess your comfort with core syntax, your ability to write clean, working code under minimal pressure, and your foundational problem-solving approach. While not complex, they are a critical filter; failing to solve an Easy question efficiently is often an immediate rejection.
 
 ## Common Patterns
 

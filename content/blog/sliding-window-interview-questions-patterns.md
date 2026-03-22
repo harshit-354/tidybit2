@@ -150,4 +150,4 @@ Top companies frequently test this pattern because it mirrors real-world scenari
 
 Master these patterns, trace through the pointers, and you’ll handle the majority of sliding window problems efficiently.
 
-[Practice all Sliding Window questions on CodeJeet](/topic/sliding-window)
+[Practice all Sliding Window questions on TidyBit](/topic/sliding-window)

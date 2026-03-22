@@ -235,4 +235,4 @@ class LRUCache {
 
 Focus your preparation on consistent, clear execution of Medium-difficulty problems centered on Strings, Hash Tables, and Linked Lists. This targeted approach will give you the highest chance of success.
 
-[Browse all Niantic questions on CodeJeet](/company/niantic)
+[Browse all Niantic questions on TidyBit](/company/niantic)

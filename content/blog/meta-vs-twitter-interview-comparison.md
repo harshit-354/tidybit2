@@ -80,4 +80,4 @@ Your strategy should be dictated by the company's interview timeline and the tra
 
 A hybrid approach is effective: use Meta's large pool for broad algorithmic practice, then switch to Twitter's specific list for targeted refinement if you have an interview there. The core skills from one directly apply to the other.
 
-For targeted practice, visit the CodeJeet pages for [Meta](/company/meta) and [Twitter](/company/twitter).
+For targeted practice, visit the TidyBit pages for [Meta](/company/meta) and [Twitter](/company/twitter).

@@ -111,4 +111,4 @@ Once comfortable with the Adobe profile, you can efficiently transition to IBM-s
 
 This approach ensures you build from a more challenging foundation downward, making the subsequent preparation feel more manageable.
 
-For focused practice, visit the Adobe question list at [CodeJeet: Adobe](/company/adobe) and the IBM question list at [CodeJeet: IBM](/company/ibm).
+For focused practice, visit the Adobe question list at [TidyBit: Adobe](/company/adobe) and the IBM question list at [TidyBit: IBM](/company/ibm).

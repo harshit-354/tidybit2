@@ -121,7 +121,7 @@ public class Solution {
 
 **Week 5: Integration & Difficulty Spike.** Start mixing topics. Practice solving Medium problems within 25 minutes. Attempt 5-10 Hard problems, particularly those involving BIT or complex array/string manipulation. Focus on deriving the solution, not just memorizing.
 
-**Week 6: Mock Interviews & Review.** Simulate the real interview: 45-60 minutes, camera on, explaining your thought process aloud. Use platforms like CodeJeet to find company-tagged problems. Revisit your mistakes and ensure you can implement a BIT without hesitation.
+**Week 6: Mock Interviews & Review.** Simulate the real interview: 45-60 minutes, camera on, explaining your thought process aloud. Use platforms like TidyBit to find company-tagged problems. Revisit your mistakes and ensure you can implement a BIT without hesitation.
 
 ## Key Tips
 
@@ -132,4 +132,4 @@ public class Solution {
 
 PayPay's interview is a test of practical, optimized problem-solving. By focusing on medium-difficulty problems, mastering core patterns like binary search on answer, and dedicating time to specialized data structures like the Binary Indexed Tree, you can approach your interview with confidence.
 
-[Browse all PayPay questions on CodeJeet](/company/paypay)
+[Browse all PayPay questions on TidyBit](/company/paypay)

@@ -527,4 +527,4 @@ A targeted 6-week plan is effective. Adjust based on your starting point.
 
 Success in Snapchat's coding interviews comes from targeted, depth-oriented practice on their preferred topics and mastering the performance of solving hard problems aloud. Start with the fundamentals, pressure-test your skills, and communicate clearly.
 
-[Browse all Snapchat questions on CodeJeet](/company/snapchat)
+[Browse all Snapchat questions on TidyBit](/company/snapchat)

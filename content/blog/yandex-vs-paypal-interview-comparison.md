@@ -106,4 +106,4 @@ Your preparation priority should depend on your interview timeline and strengths
 
 For a comprehensive strategy, start with the shared core: **Array, String, and Hash Table** problems. Achieve fluency in these before specializing. If targeting both companies, Yandex's list offers excellent medium-difficulty practice, while PayPal's list provides the challenging problems to push your limits.
 
-For detailed question lists and frequency analysis, visit the Yandex and PayPal question pages: [CodeJeet Yandex Questions](/company/yandex) | [CodeJeet PayPal Questions](/company/paypal).
+For detailed question lists and frequency analysis, visit the Yandex and PayPal question pages: [TidyBit Yandex Questions](/company/yandex) | [TidyBit PayPal Questions](/company/paypal).

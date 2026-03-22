@@ -125,4 +125,4 @@ Weeks 5-6: **Simulation & Review.** In the final stretch, conduct mock interview
 
 The Lyft interview is a hurdle you can clear with targeted, disciplined practice. Focus on the patterns they love, simulate the pressure, and communicate your reasoning. You’ve got this.
 
-[Browse all Lyft questions on CodeJeet](/company/lyft)
+[Browse all Lyft questions on TidyBit](/company/lyft)

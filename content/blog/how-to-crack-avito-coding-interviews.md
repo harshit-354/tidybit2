@@ -120,4 +120,4 @@ A focused, consistent approach is essential.
 
 Mastering these focused topics and strategies will position you strongly for Avito's coding interviews. The key is consistent, deliberate practice on the patterns they actually test.
 
-[Browse all Avito questions on CodeJeet](/company/avito)
+[Browse all Avito questions on TidyBit](/company/avito)

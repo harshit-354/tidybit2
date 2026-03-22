@@ -120,4 +120,4 @@ Start with **Adobe**. Its smaller, highly focused question bank allows you to bu
 
 Then, transition to **Microsoft**. Use the established foundation and expand into the larger question pool. The critical addition here is deep practice with **Dynamic Programming**. Tackle Microsoft's Medium questions, which form the bulk of their list, and then selectively practice Hard problems, especially DP variants, to reach the required depth. This sequential approach—foundations first, then scale and specialization—is efficient.
 
-For dedicated practice, visit the CodeJeet pages for [Microsoft](/company/microsoft) and [Adobe](/company/adobe).
+For dedicated practice, visit the TidyBit pages for [Microsoft](/company/microsoft) and [Adobe](/company/adobe).

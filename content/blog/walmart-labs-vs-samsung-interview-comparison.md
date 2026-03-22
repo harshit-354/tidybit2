@@ -120,4 +120,4 @@ Your priority should be dictated by your interview timeline and the desire for e
 
 The most strategic path is to **master the shared core topics (Array, DP, Hash Table)**, then branch out: deep dive into **Two Pointers** for Samsung, and **String** manipulation for Walmart Labs. This approach ensures you are well-prepared for either company's technical screen.
 
-For detailed question lists, visit the [Walmart Labs](/company/walmart-labs) and [Samsung](/company/samsung) pages on CodeJeet.
+For detailed question lists, visit the [Walmart Labs](/company/walmart-labs) and [Samsung](/company/samsung) pages on TidyBit.

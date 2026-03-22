@@ -6,7 +6,7 @@ category: "tips"
 tags: ["samsung", "qualcomm", "comparison"]
 ---
 
-When preparing for technical interviews at major tech companies, understanding their specific question patterns and focus areas can significantly increase your efficiency. Samsung and Qualcomm, as leaders in hardware and semiconductor technology, have distinct interview profiles on CodeJeet. This comparison breaks down their question volume, difficulty, and core topics to help you prioritize your study.
+When preparing for technical interviews at major tech companies, understanding their specific question patterns and focus areas can significantly increase your efficiency. Samsung and Qualcomm, as leaders in hardware and semiconductor technology, have distinct interview profiles on TidyBit. This comparison breaks down their question volume, difficulty, and core topics to help you prioritize your study.
 
 ## Question Volume and Difficulty
 

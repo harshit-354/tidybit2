@@ -85,4 +85,4 @@ Weeks 5-6: **Simulation and Gaps.** In the final stretch, take full 60-90 minute
 
 The interview is a sprint. Your preparation must be systematic, deep, and timed. Master the core patterns, then learn to combine them under pressure.
 
-[Browse all Jump Trading questions on CodeJeet](/company/jump-trading)
+[Browse all Jump Trading questions on TidyBit](/company/jump-trading)

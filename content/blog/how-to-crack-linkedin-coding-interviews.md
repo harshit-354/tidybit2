@@ -13,7 +13,7 @@ The interview process typically includes a recruiter screen, a phone screen with
 
 ## By the Numbers
 
-LinkedIn's CodeJeet question bank has **180 questions**. The difficulty distribution is demanding:
+LinkedIn's TidyBit question bank has **180 questions**. The difficulty distribution is demanding:
 
 - **Easy: 26 questions (14%)** — A thin layer. LinkedIn does not spend much interview time on easy problems.
 - **Medium: 117 questions (65%)** — Two-thirds of the pool. This is where you will spend most of your time, both in prep and in the actual interview.
@@ -515,4 +515,4 @@ Conduct three to four mock interviews. Structure each with one Medium and one Me
 
 5.  **Study LinkedIn's engineering blog.** The company publishes detailed technical posts about their infrastructure, data pipelines, and ML systems. Familiarity with their tech stack (Kafka, Samza, Venice, Espresso) shows genuine interest and helps in system design rounds. For example, knowing that they use Kafka for real-time data streaming can inform your design for a notification system.
 
-[Browse all LinkedIn questions on CodeJeet](/company/linkedin)
+[Browse all LinkedIn questions on TidyBit](/company/linkedin)

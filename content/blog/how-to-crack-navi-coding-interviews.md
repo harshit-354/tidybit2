@@ -118,4 +118,4 @@ Simulate the real environment. Do 2-3 timed mock interviews per week, each with 
 
 Your preparation should be relentless and focused on depth over breadth. Internalize the patterns, practice under exam conditions, and communicate your reasoning with clarity.
 
-[Browse all Navi questions on CodeJeet](/company/navi)
+[Browse all Navi questions on TidyBit](/company/navi)

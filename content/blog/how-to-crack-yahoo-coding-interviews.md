@@ -393,11 +393,11 @@ A focused 4-6 week plan is effective. Prioritize depth over breadth.
     - **Example:** Instead of `i` and `j`, use `left` and `right` for pointers. Instead of a complex one-liner, break it down: `# Step 1: Sort the array to enable two-pointer technique`.
 
 3.  **Practice with Constraints.** In an interview, you write code in a plain text editor without an IDE. Practice writing syntactically correct code for your chosen language under this condition. Missing a semicolon or a bracket due to auto-complete reliance is an easily avoided mistake.
-    - **Drill:** Regularly solve problems on a platform like CodeJeet using their "plain text" mode or in a simple notepad application. Get used to manually typing out `import` statements, loop structures, and method signatures without auto-complete.
+    - **Drill:** Regularly solve problems on a platform like TidyBit using their "plain text" mode or in a simple notepad application. Get used to manually typing out `import` statements, loop structures, and method signatures without auto-complete.
 
 4.  **Don't Ignore the Follow-up.** Many Medium questions have a natural follow-up to improve time or space complexity. After arriving at a working solution, proactively ask, "Can we explore optimizing this further?" This shows the depth of thinking they're looking for.
     - **Common Follow-ups:** "Can we do it in O(1) extra space?" (often using input array for output). "What if the input is too large to fit in memory?" (streaming approach). "Can we handle this in a single pass?" (often using a more sophisticated data structure like a monotonic stack or heap).
 
 Success in Yahoo's coding interviews hinges on a strong, communicative command of core data structures and algorithms. A focused preparation plan that prioritizes high-frequency topics and clear problem-solving will position you well.
 
-[Browse all Yahoo questions on CodeJeet](/company/yahoo)
+[Browse all Yahoo questions on TidyBit](/company/yahoo)

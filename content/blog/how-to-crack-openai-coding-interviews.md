@@ -211,4 +211,4 @@ class LRUCache {
 
 Success in an OpenAI coding interview is built on a foundation of mastered Medium patterns, clear communication, and thoughtful design. Target your preparation on the high-frequency areas, and practice articulating your reasoning every step of the way.
 
-[Browse all OpenAI questions on CodeJeet](/company/openai)
+[Browse all OpenAI questions on TidyBit](/company/openai)

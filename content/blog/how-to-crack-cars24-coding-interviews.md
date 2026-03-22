@@ -123,4 +123,4 @@ Follow this structured plan to build and solidify the required skills.
 
 Success at Cars24 is about demonstrating consistent, structured, and practical software engineering skill. Focus on Medium problems, master the core patterns, and practice articulating your solutions.
 
-[Browse all Cars24 questions on CodeJeet](/company/cars24)
+[Browse all Cars24 questions on TidyBit](/company/cars24)

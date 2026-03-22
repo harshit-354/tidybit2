@@ -87,4 +87,4 @@ A focused, consistent plan is essential. Here is a week-by-week breakdown:
 
 Consistent, targeted practice on these core patterns is the most reliable path to success. Start with the fundamentals, build up to timed Medium problems, and familiarize yourself with Indeed's question style.
 
-[Browse all Indeed questions on CodeJeet](/company/indeed)
+[Browse all Indeed questions on TidyBit](/company/indeed)

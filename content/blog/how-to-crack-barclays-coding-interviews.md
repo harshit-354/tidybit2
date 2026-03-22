@@ -90,7 +90,7 @@ public void rotate(int[][] matrix) {
 
 A structured approach is non-negotiable.
 
-**Weeks 1-2: Foundation.** Drill the top topics in order: Array, String, Matrix, Math, Simulation. For each, solve 15-20 problems on a platform like CodeJeet, starting with Easy and moving to Medium. Focus on understanding patterns, not memorizing solutions. Implement every solution in your primary interview language.
+**Weeks 1-2: Foundation.** Drill the top topics in order: Array, String, Matrix, Math, Simulation. For each, solve 15-20 problems on a platform like TidyBit, starting with Easy and moving to Medium. Focus on understanding patterns, not memorizing solutions. Implement every solution in your primary interview language.
 
 **Weeks 3-4: Pattern Integration.** Move to mixed-topic problem sets. This is where you learn to identify which pattern applies to a new problem. Time yourself. Aim for 20-25 minutes per Medium problem. Begin reviewing core data structures (Hash Maps, Sets, Queues) as they are the tools used within the main topics.
 
@@ -106,4 +106,4 @@ A structured approach is non-negotiable.
 
 Master these patterns, execute the plan, and approach the interview as a problem-solving demonstration.
 
-[Browse all Barclays questions on CodeJeet](/company/barclays)
+[Browse all Barclays questions on TidyBit](/company/barclays)

@@ -10,7 +10,7 @@ When preparing for technical interviews at major tech companies, understanding t
 
 ## Question Volume and Difficulty
 
-The sheer volume of reported questions is the most striking difference. On CodeJeet, Oracle's repository contains **340 questions**, dwarfing Roblox's **56 questions**. This volume makes Oracle's question bank more predictable in terms of known patterns but also more extensive to review.
+The sheer volume of reported questions is the most striking difference. On TidyBit, Oracle's repository contains **340 questions**, dwarfing Roblox's **56 questions**. This volume makes Oracle's question bank more predictable in terms of known patterns but also more extensive to review.
 
 The difficulty distribution further highlights their different hiring bars:
 

@@ -139,4 +139,4 @@ If your goal is to pass **Capital One**, your core algorithmic preparation can b
 
 For a generalist preparing for both, **start with Capital One's profile**. Achieving strong competency in Array, String, Hash Table, and Math will build an excellent foundation. You can then layer on the more advanced Dynamic Programming practice required for Oracle, effectively expanding your skills from a solid core outward. This approach avoids the initial overwhelm of Oracle's vast DP-heavy question set.
 
-For detailed question lists and patterns, visit the Oracle and Capital One question banks on CodeJeet: [Oracle Interview Questions](/company/oracle) | [Capital One Interview Questions](/company/capital-one)
+For detailed question lists and patterns, visit the Oracle and Capital One question banks on TidyBit: [Oracle Interview Questions](/company/oracle) | [Capital One Interview Questions](/company/capital-one)

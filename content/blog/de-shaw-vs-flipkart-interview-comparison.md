@@ -81,4 +81,4 @@ Start with the **shared core: Array and Dynamic Programming**. Mastering these w
 
 Ultimately, the overlap makes dual preparation feasible. A strong candidate for one is largely prepared for the other's coding rounds, needing only a slight topic shift. Focus on depth of understanding and clean, communicative code, which is valued universally.
 
-For specific company question lists and patterns, visit the CodeJeet pages for [DE Shaw](/company/de-shaw) and [Flipkart](/company/flipkart).
+For specific company question lists and patterns, visit the TidyBit pages for [DE Shaw](/company/de-shaw) and [Flipkart](/company/flipkart).

@@ -42,7 +42,7 @@ export default async function OGImage({ params }: { params: Promise<{ slug: stri
         }}
       >
         <span style={{ fontSize: "24px", color: "#888", letterSpacing: "0.05em" }}>
-          codejeet.com
+          tidybit.com
         </span>
       </div>
       <div

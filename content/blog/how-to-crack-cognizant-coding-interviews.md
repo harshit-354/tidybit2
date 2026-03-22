@@ -91,4 +91,4 @@ A focused, topic-by-topic approach is the most effective way to prepare.
 
 Success in Cognizant interviews is about consistent, disciplined practice on the right material. Master the fundamentals, practice communicating your logic, and you’ll be well-prepared.
 
-[Browse all Cognizant questions on CodeJeet](/company/cognizant)
+[Browse all Cognizant questions on TidyBit](/company/cognizant)

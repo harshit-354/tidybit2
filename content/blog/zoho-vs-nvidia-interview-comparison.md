@@ -128,4 +128,4 @@ Switch to **NVIDIA-specific preparation** after you have a strong command of the
 
 In summary, use Zoho's list to build a wide foundation, then use NVIDIA's list to sharpen that knowledge with a focus on performance and systems thinking.
 
-For targeted practice, visit the Zoho question list at [/company/zoho](https://codejeet.com/company/zoho) and the NVIDIA question list at [/company/nvidia](https://codejeet.com/company/nvidia).
+For targeted practice, visit the Zoho question list at [/company/zoho](https://tidybit.com/company/zoho) and the NVIDIA question list at [/company/nvidia](https://tidybit.com/company/nvidia).

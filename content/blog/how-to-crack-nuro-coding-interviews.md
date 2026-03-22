@@ -147,4 +147,4 @@ Week 6: **Final Review & System Design.** Revisit your problem notes and weak sp
 4.  **Test with a Small Example.** Before coding, walk through a 2x2 or 3x3 example. This catches logical errors in your traversal logic or state management before you write a line of code.
 5.  **Discuss Time/Space Complexity Clearly.** For each solution, explicitly state the Big O. For BFS on an _n x n_ grid, it's O(n^2) for time and space in the worst case.
 
-Master these patterns, and you'll be equipped to navigate Nuro's technical challenges. For targeted practice, [Browse all Nuro questions on CodeJeet](/company/nuro).
+Master these patterns, and you'll be equipped to navigate Nuro's technical challenges. For targeted practice, [Browse all Nuro questions on TidyBit](/company/nuro).

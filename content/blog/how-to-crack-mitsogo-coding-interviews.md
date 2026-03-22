@@ -82,7 +82,7 @@ A structured approach is non-negotiable. Follow this plan, adjusting for your st
 
 **Weeks 3-4: Advanced Patterns & DP.** Tackle Dynamic Programming. Start with classic problems (Fibonacci, Climbing Stairs, 0/1 Knapsack) to grasp memoization and tabulation. Then move to string-based DP (LCS, Edit Distance). Concurrently, practice Bit Manipulation and revisit other topics with mixed problem sets.
 
-**Weeks 5-6: Integration & Mock Interviews.** Stop learning new patterns. Focus exclusively on solving timed Medium-difficulty problems from a curated list (like CodeJeet's company-specific questions). Simulate the interview environment: 30-45 minutes per problem, verbalizing your thought process, writing clean code, and testing edge cases. Complete at least 2-3 full mock interviews with a peer.
+**Weeks 5-6: Integration & Mock Interviews.** Stop learning new patterns. Focus exclusively on solving timed Medium-difficulty problems from a curated list (like TidyBit's company-specific questions). Simulate the interview environment: 30-45 minutes per problem, verbalizing your thought process, writing clean code, and testing edge cases. Complete at least 2-3 full mock interviews with a peer.
 
 ## Key Tips
 
@@ -91,4 +91,4 @@ A structured approach is non-negotiable. Follow this plan, adjusting for your st
 3.  **Write Production-Ready Code.** Don't just scribble pseudocode. Use proper variable names, handle edge cases (empty input, single element, large values), and include brief comments if the logic is complex. Show you care about code quality.
 4.  **Test Your Own Code.** Before declaring "done," walk through your code with a small sample input and a few edge cases. This demonstrates thoroughness and often catches logical errors you can fix yourself.
 
-Mastering these patterns and executing this disciplined strategy will dramatically increase your confidence and performance. For a targeted list of problems to practice, [browse all Mitsogo questions on CodeJeet](/company/mitsogo).
+Mastering these patterns and executing this disciplined strategy will dramatically increase your confidence and performance. For a targeted list of problems to practice, [browse all Mitsogo questions on TidyBit](/company/mitsogo).

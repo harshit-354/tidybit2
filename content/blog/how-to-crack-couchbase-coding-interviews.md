@@ -99,4 +99,4 @@ A focused plan is critical. Don't just solve random problems.
 
 Your preparation should make the common patterns—checking for existence with a hash table, traversing a list with two pointers—feel automatic. This frees your mental energy to tackle the system design aspects where Couchbase truly differentiates its interviews.
 
-[Browse all Couchbase questions on CodeJeet](/company/couchbase)
+[Browse all Couchbase questions on TidyBit](/company/couchbase)

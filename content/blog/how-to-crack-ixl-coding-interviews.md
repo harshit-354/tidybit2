@@ -99,4 +99,4 @@ A structured approach is key to covering the necessary ground.
 
 Consistent, topic-focused practice on these core areas is the most reliable path to success in an Ixl coding interview.
 
-[Browse all Ixl questions on CodeJeet](/company/ixl)
+[Browse all Ixl questions on TidyBit](/company/ixl)

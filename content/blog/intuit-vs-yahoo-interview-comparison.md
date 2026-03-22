@@ -6,7 +6,7 @@ category: "tips"
 tags: ["intuit", "yahoo", "comparison"]
 ---
 
-When preparing for technical interviews at major tech companies, understanding their specific question patterns and focus areas can significantly improve your efficiency. Intuit and Yahoo, while both established in the tech landscape, present distinct profiles in their coding interview question banks on CodeJeet. Intuit's list is slightly larger and features a more challenging difficulty spread, whereas Yahoo's list is more accessible, especially for higher-level questions. This comparison breaks down the key differences in volume, difficulty, and topic focus to help you prioritize your study plan.
+When preparing for technical interviews at major tech companies, understanding their specific question patterns and focus areas can significantly improve your efficiency. Intuit and Yahoo, while both established in the tech landscape, present distinct profiles in their coding interview question banks on TidyBit. Intuit's list is slightly larger and features a more challenging difficulty spread, whereas Yahoo's list is more accessible, especially for higher-level questions. This comparison breaks down the key differences in volume, difficulty, and topic focus to help you prioritize your study plan.
 
 ## Question Volume and Difficulty
 
@@ -94,4 +94,4 @@ Your preparation priority should be guided by your interview timeline and the co
 
 A strategic approach is to use Yahoo's list for foundational drill and Intuit's list for advanced practice and depth, particularly in DP. Since the core topics (Array, Hash Table, String) overlap heavily, studying for one company inherently benefits preparation for the other.
 
-For the complete and updated question lists, visit the company pages on CodeJeet: [Intuit Interview Questions](/company/intuit) and [Yahoo Interview Questions](/company/yahoo).
+For the complete and updated question lists, visit the company pages on TidyBit: [Intuit Interview Questions](/company/intuit) and [Yahoo Interview Questions](/company/yahoo).

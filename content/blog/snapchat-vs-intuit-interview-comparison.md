@@ -6,7 +6,7 @@ category: "tips"
 tags: ["snapchat", "intuit", "comparison"]
 ---
 
-When preparing for technical interviews, company-specific question patterns and focus areas can significantly impact your study strategy. Snapchat (Snap) and Intuit represent two distinct tech profiles: a consumer social media platform and a financial software/productivity company. Their interview question banks on CodeJeet—99 questions for Snapchat and 71 for Intuit—reveal clear differences in volume, difficulty, and emphasis, despite some common ground.
+When preparing for technical interviews, company-specific question patterns and focus areas can significantly impact your study strategy. Snapchat (Snap) and Intuit represent two distinct tech profiles: a consumer social media platform and a financial software/productivity company. Their interview question banks on TidyBit—99 questions for Snapchat and 71 for Intuit—reveal clear differences in volume, difficulty, and emphasis, despite some common ground.
 
 ## Question Volume and Difficulty
 

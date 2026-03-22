@@ -10,7 +10,7 @@ When preparing for technical interviews, company-specific patterns matter. Samsu
 
 ## Question Volume and Difficulty
 
-Samsung's tagged question pool on CodeJeet is slightly larger at 69 questions, compared to Airbnb's 64. The difficulty distribution reveals different priorities.
+Samsung's tagged question pool on TidyBit is slightly larger at 69 questions, compared to Airbnb's 64. The difficulty distribution reveals different priorities.
 
 Samsung (69 total):
 

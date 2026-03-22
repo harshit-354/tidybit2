@@ -155,4 +155,4 @@ At these companies, array problems frequently serve as the vehicle to test algor
 
 Build fluency with these patterns and strategies to turn array problems from challenges into opportunities to demonstrate fundamental mastery.
 
-[Practice all Array questions on CodeJeet](/topic/array)
+[Practice all Array questions on TidyBit](/topic/array)

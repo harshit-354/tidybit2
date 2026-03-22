@@ -121,4 +121,4 @@ Your preparation order should be guided by foundational strength.
 
 In short: use **Bloomberg's list to build your algorithmic foundation** and **Snowflake's list to sharpen your advanced problem-solving**. This progression ensures you are well-prepared for the high-volume fundamentals of one and the complex, in-depth challenges of the other.
 
-For targeted practice, visit the CodeJeet pages for [Bloomberg](/company/bloomberg) and [Snowflake](/company/snowflake).
+For targeted practice, visit the TidyBit pages for [Bloomberg](/company/bloomberg) and [Snowflake](/company/snowflake).

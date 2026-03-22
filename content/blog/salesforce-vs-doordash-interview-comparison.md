@@ -78,4 +78,4 @@ Prepare for **DoorDash first** if you are comfortable with fundamentals and need
 
 Ultimately, the shared core of Array, String, and Hash Table problems means starting with either will yield benefits. Prioritize based on whether you need to strengthen your overall problem-solving muscle (Salesforce) or drill into advanced graph traversal and complex scenarios (DoorDash).
 
-For more detailed question lists, visit the [Salesforce](/company/salesforce) and [DoorDash](/company/doordash) pages on CodeJeet.
+For more detailed question lists, visit the [Salesforce](/company/salesforce) and [DoorDash](/company/doordash) pages on TidyBit.

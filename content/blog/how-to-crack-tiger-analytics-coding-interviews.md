@@ -95,7 +95,7 @@ public int singleNumber(int[] nums) {
 
 A focused, consistent plan is more effective than cramming. Here is a 5-week schedule.
 
-**Week 1-2: Foundation.** Solidify core data structures. Practice 10-15 Easy problems each on Arrays and Hash Tables. Focus on writing complete, runnable solutions. Use platforms like CodeJeet to filter by company and difficulty.
+**Week 1-2: Foundation.** Solidify core data structures. Practice 10-15 Easy problems each on Arrays and Hash Tables. Focus on writing complete, runnable solutions. Use platforms like TidyBit to filter by company and difficulty.
 
 **Week 3: Core Algorithms.** Introduce basic Dynamic Programming. Solve foundational problems like Fibonacci, Climbing Stairs, and Best Time to Buy and Sell Stock. Understand the memoization and tabulation approaches.
 
@@ -115,4 +115,4 @@ A focused, consistent plan is more effective than cramming. Here is a 5-week sch
 
 Success in Tiger Analytics coding interviews comes from demonstrating reliable, fundamental skills. Master the core topics, practice clean coding habits, and communicate clearly.
 
-[Browse all Tiger Analytics questions on CodeJeet](/company/tiger-analytics)
+[Browse all Tiger Analytics questions on TidyBit](/company/tiger-analytics)

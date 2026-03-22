@@ -13,7 +13,7 @@ The Accenture hiring process for technology roles typically includes a cognitive
 
 ## By the Numbers
 
-Accenture has **144 questions** in the CodeJeet database with the most beginner-friendly difficulty distribution among all companies tracked:
+Accenture has **144 questions** in the TidyBit database with the most beginner-friendly difficulty distribution among all companies tracked:
 
 - **Easy: 65 questions (45%)** — Nearly half. Accenture interviews lean heavily on fundamental problem-solving.
 - **Medium: 68 questions (47%)** — Almost exactly the other half. Together, Easy and Medium account for 92% of all questions.
@@ -548,4 +548,4 @@ Accenture's technical interview goes beyond coding. Review fundamental CS concep
 
 5. **Prepare domain knowledge for experienced roles.** If you are a lateral hire, expect questions specific to your domain: cloud services, data engineering, full-stack development, or whatever role you are applying for. Accenture values practical experience and domain expertise alongside coding ability.
 
-[Browse all Accenture questions on CodeJeet](/company/accenture)
+[Browse all Accenture questions on TidyBit](/company/accenture)

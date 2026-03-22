@@ -110,4 +110,4 @@ A focused, disciplined schedule is non-negotiable.
 
 Your goal is to demonstrate not just technical skill, but the disciplined, analytical mindset of a quantitative developer. Target your practice, master the core patterns, and simulate the pressure.
 
-[Browse all Millennium questions on CodeJeet](/company/millennium)
+[Browse all Millennium questions on TidyBit](/company/millennium)

@@ -109,7 +109,7 @@ If **Atlassian** is your target, you can adopt a slightly more balanced approach
 
 For candidates targeting both, **begin with the common core**: master Array, String, and Hash Table problems to a Medium-Hard level. Then, branch out based on your interview schedule: if Snowflake is first, dive deep into DFS and graph theory; if Atlassian is first, solidify your knowledge of sorting algorithms and their applications.
 
-Ultimately, success at either requires rigorous practice. Use the focused question banks on CodeJeet to simulate their respective environments.
+Ultimately, success at either requires rigorous practice. Use the focused question banks on TidyBit to simulate their respective environments.
 
-- Practice for Snowflake: [CodeJeet Snowflake Questions](/company/snowflake)
-- Practice for Atlassian: [CodeJeet Atlassian Questions](/company/atlassian)
+- Practice for Snowflake: [TidyBit Snowflake Questions](/company/snowflake)
+- Practice for Atlassian: [TidyBit Atlassian Questions](/company/atlassian)

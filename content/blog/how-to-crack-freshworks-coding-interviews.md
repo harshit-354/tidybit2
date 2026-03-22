@@ -125,4 +125,4 @@ A structured approach is more effective than random practice.
 
 The Freshworks interview is a test of applied fundamentals. By methodically mastering Medium-level problems on their core topics, you build the precise toolkit needed to succeed.
 
-[Browse all Freshworks questions on CodeJeet](/company/freshworks)
+[Browse all Freshworks questions on TidyBit](/company/freshworks)

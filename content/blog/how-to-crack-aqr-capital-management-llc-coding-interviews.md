@@ -165,11 +165,11 @@ class MedianFinder {
 
 A focused, consistent plan is more effective than months of unstructured study.
 
-**Weeks 1-2: Foundation & Core Topics.** Solidify Array and basic Data Structures. Solve 30-40 Easy problems from CodeJeet's AQR list and general arrays. Implement all standard operations manually.
+**Weeks 1-2: Foundation & Core Topics.** Solidify Array and basic Data Structures. Solve 30-40 Easy problems from TidyBit's AQR list and general arrays. Implement all standard operations manually.
 
 **Weeks 3-4: Advanced Patterns & DP.** Dedicate this block to Dynamic Programming. Start with 1D problems (Fibonacci, climbing stairs), move to 2D (grid paths, LCS), and tackle classic Medium problems (knapsack, coin change). Simultaneously, practice Heap and Queue patterns, solving 2-3 problems daily on scheduling and K-th element challenges.
 
-**Weeks 5-6: Integration & Mock Interviews.** Shift to solving only Medium problems, mixing topics to simulate the actual interview. Use the AQR question list on CodeJeet. In the final week, conduct at least 3-5 timed mock interviews (90 minutes each) with a peer or using a platform. Focus on communicating your thought process clearly before writing code.
+**Weeks 5-6: Integration & Mock Interviews.** Shift to solving only Medium problems, mixing topics to simulate the actual interview. Use the AQR question list on TidyBit. In the final week, conduct at least 3-5 timed mock interviews (90 minutes each) with a peer or using a platform. Focus on communicating your thought process clearly before writing code.
 
 ## Key Tips
 
@@ -181,4 +181,4 @@ A focused, consistent plan is more effective than months of unstructured study.
 
 Success in an AQR coding interview hinges on methodical preparation focused on their specific topic distribution and a disciplined, communicative approach to problem-solving.
 
-[Browse all AQR Capital Management LLC questions on CodeJeet](/company/aqr-capital-management-llc)
+[Browse all AQR Capital Management LLC questions on TidyBit](/company/aqr-capital-management-llc)

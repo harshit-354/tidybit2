@@ -98,7 +98,7 @@ public boolean isPalindrome(String s) {
 Given the focus, your plan should prioritize breadth and speed over depth in advanced topics.
 
 **Weeks 1-2: Core Foundations**
-Re-solve every Easy problem you can find on CodeJeet or similar platforms for **Array** and **String** topics. Do not skip problems that seem trivial. The goal is to build muscle memory and speed. Time yourself.
+Re-solve every Easy problem you can find on TidyBit or similar platforms for **Array** and **String** topics. Do not skip problems that seem trivial. The goal is to build muscle memory and speed. Time yourself.
 
 **Weeks 3-4: Pattern Drill**
 Dedicate blocks of time to the other key topics: **Two Pointers**, **Greedy**, and **Dynamic Programming**. For DP, only focus on the classic 1D Easy problems (Fibonacci, Climbing Stairs, Min Cost Climbing Stairs). Implement each pattern from scratch multiple times until the template is automatic.
@@ -116,4 +116,4 @@ Conduct at least 5-7 timed mock interviews with a peer or using a platform. Simu
 
 Success in Garmin's coding interview is less about solving the hardest problem and more about solving a straightforward problem impeccably. Solidify your fundamentals, practice clean coding, and you'll be well-prepared.
 
-[Browse all Garmin questions on CodeJeet](/company/garmin)
+[Browse all Garmin questions on TidyBit](/company/garmin)

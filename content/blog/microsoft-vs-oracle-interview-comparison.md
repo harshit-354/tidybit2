@@ -39,4 +39,4 @@ Once comfortable, you can then expand your preparation to **Microsoft's larger b
 
 In essence, use Oracle's list to build your foundation and Microsoft's list to test your breadth, speed, and adaptability. Prioritizing in this order creates a structured learning path from core competency to comprehensive readiness.
 
-For targeted practice, explore the company-specific question lists at [CodeJeet Microsoft Questions](/company/microsoft) and [CodeJeet Oracle Questions](/company/oracle).
+For targeted practice, explore the company-specific question lists at [TidyBit Microsoft Questions](/company/microsoft) and [TidyBit Oracle Questions](/company/oracle).

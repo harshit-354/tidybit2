@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import type { CompanyProfile } from "./pseo-data";
 
-const SITE_URL = "https://codejeet.com";
-const SITE_NAME = "CodeJeet";
+const SITE_URL = "https://tidybit.com";
+const SITE_NAME = "TidyBit";
 
 export function websiteJsonLd() {
   return {

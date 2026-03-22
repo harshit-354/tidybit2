@@ -108,4 +108,4 @@ Revisit your problem notes and any patterns you struggled with. Do a final light
 
 The Siemens coding interview is a test of practiced skill, not genius. A structured approach targeting their preferred topics will significantly increase your confidence and performance.
 
-[Browse all Siemens questions on CodeJeet](/company/siemens)
+[Browse all Siemens questions on TidyBit](/company/siemens)

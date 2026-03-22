@@ -83,4 +83,4 @@ Your preparation strategy should be goal-oriented.
 
 Ultimately, a strong candidate will be well-versed in the overlapping core topics. Starting with the company whose profile best matches your current skill level is a practical approach, allowing you to build up or specialize as needed.
 
-For a deeper dive into each company's specific question patterns, visit the CodeJeet pages for [Infosys](/company/infosys) and [Airbnb](/company/airbnb).
+For a deeper dive into each company's specific question patterns, visit the TidyBit pages for [Infosys](/company/infosys) and [Airbnb](/company/airbnb).

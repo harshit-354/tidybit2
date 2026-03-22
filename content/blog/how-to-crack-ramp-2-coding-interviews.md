@@ -97,4 +97,4 @@ A structured approach is non-negotiable given the difficulty curve.
 
 Mastering this blend of algorithmic depth and practical design is the key to succeeding in Ramp 2’s interviews. Focus on the patterns, practice under constraints, and communicate your reasoning at every step.
 
-[Browse all Ramp 2 questions on CodeJeet](/company/ramp-2)
+[Browse all Ramp 2 questions on TidyBit](/company/ramp-2)

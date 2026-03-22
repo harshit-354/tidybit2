@@ -108,4 +108,4 @@ A structured approach is non-negotiable. This plan assumes 2-3 hours of focused 
 
 Mastery of these core patterns and a disciplined, communicative approach will define your success. Start with the fundamentals, pressure-test your skills, and drill down on the problems that matter most.
 
-[Browse all Expedia questions on CodeJeet](/company/expedia)
+[Browse all Expedia questions on TidyBit](/company/expedia)

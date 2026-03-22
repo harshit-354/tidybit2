@@ -218,4 +218,4 @@ These questions are favorites at companies building large-scale, real-time data 
 
 To build the necessary intuition, you need focused repetition.
 
-[Practice all Data Stream questions on CodeJeet](/topic/data-stream)
+[Practice all Data Stream questions on TidyBit](/topic/data-stream)

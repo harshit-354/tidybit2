@@ -87,4 +87,4 @@ Prepare for **Samsung first** if your interview is imminent or you need a focuse
 
 Ultimately, Bloomberg's list serves as excellent general preparation, while Samsung's requires targeted depth in specific algorithmic paradigms.
 
-For more detailed company-specific question lists, visit the [Bloomberg](/company/bloomberg) and [Samsung](/company/samsung) pages on CodeJeet.
+For more detailed company-specific question lists, visit the [Bloomberg](/company/bloomberg) and [Samsung](/company/samsung) pages on TidyBit.

@@ -112,4 +112,4 @@ Your priority depends on your target and timeline.
 
 In essence, Bloomberg preparation is a superset of the skills needed for Infosys. Conquering the larger, more diverse list provides wider coverage, but targeted practice on the smaller list is the faster route to success for a specific interview.
 
-For more detailed company-specific question lists, visit the CodeJeet pages for [Bloomberg](/company/bloomberg) and [Infosys](/company/infosys).
+For more detailed company-specific question lists, visit the TidyBit pages for [Bloomberg](/company/bloomberg) and [Infosys](/company/infosys).

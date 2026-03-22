@@ -109,4 +109,4 @@ Given the high density of hard problems, a superficial review won't work. Follow
 
 Mastering these patterns and approaching the interview with a structured, communicative mindset will give you the best chance to succeed in DevRev's challenging technical screen.
 
-[Browse all DevRev questions on CodeJeet](/company/devrev)
+[Browse all DevRev questions on TidyBit](/company/devrev)

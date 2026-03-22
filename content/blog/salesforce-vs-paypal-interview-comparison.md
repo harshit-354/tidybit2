@@ -146,4 +146,4 @@ Your preparation priority should be guided by your target companies and timeline
 
 **Strategic Approach:** A practical strategy is to **start with the PayPal-focused core topics**. This builds a strong, versatile foundation in the most common interview problems. Once you are confident with arrays, strings, hash maps, and sorting, you can then **layer on the advanced Dynamic Programming study** required for Salesforce. This sequential method ensures you are never starting from zero for either company and maximizes the efficiency of your study time.
 
-For detailed company-specific question lists and patterns, visit the CodeJeet pages for [Salesforce](/company/salesforce) and [PayPal](/company/paypal).
+For detailed company-specific question lists and patterns, visit the TidyBit pages for [Salesforce](/company/salesforce) and [PayPal](/company/paypal).

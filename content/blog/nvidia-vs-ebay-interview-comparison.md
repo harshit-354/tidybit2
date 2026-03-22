@@ -84,5 +84,5 @@ Once comfortable with eBay's pattern, transition to **NVIDIA** preparation. This
 In short, use eBay's profile to build core competency efficiently, then use NVIDIA's to stress-test and expand your depth within the same algorithmic areas.
 
 For detailed question lists and patterns, visit the NVIDIA and eBay company pages:  
-[CodeJeet NVIDIA Company Page](/company/nvidia)  
-[CodeJeet eBay Company Page](/company/ebay)
+[TidyBit NVIDIA Company Page](/company/nvidia)  
+[TidyBit eBay Company Page](/company/ebay)

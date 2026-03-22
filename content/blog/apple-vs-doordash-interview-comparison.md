@@ -98,4 +98,4 @@ Prepare for **Apple first** if you are aiming for a broad senior engineering rol
 
 Regardless of order, master the shared trifecta of Array, String, and Hash Table problems. Then, branch out: drill DFS and graph problems for DoorDash, and dedicate significant time to Dynamic Programming patterns for Apple.
 
-For targeted practice, visit the CodeJeet pages for [Apple](/company/apple) and [DoorDash](/company/doordash).
+For targeted practice, visit the TidyBit pages for [Apple](/company/apple) and [DoorDash](/company/doordash).

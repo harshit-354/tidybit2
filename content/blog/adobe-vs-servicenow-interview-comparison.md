@@ -124,4 +124,4 @@ Your preparation priority should be dictated by your interview timeline and the 
 
 Ultimately, a strong candidate for either company will be proficient with Arrays, Strings, Hash Tables, and common algorithms. The difference lies in Adobe's greater breadth and emphasis on Two Pointers versus ServiceNow's sharper focus on Medium problems and the specific need for DP readiness.
 
-For detailed question lists, visit the Adobe and ServiceNow pages on CodeJeet: [/company/adobe](/company/adobe) and [/company/servicenow](/company/servicenow).
+For detailed question lists, visit the Adobe and ServiceNow pages on TidyBit: [/company/adobe](/company/adobe) and [/company/servicenow](/company/servicenow).

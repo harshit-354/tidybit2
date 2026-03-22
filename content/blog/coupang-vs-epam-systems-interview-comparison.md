@@ -116,4 +116,4 @@ Your preparation priority should be dictated by the company's difficulty curve.
 
 In summary, Epam's interview tests for strong coding fundamentals and clarity, while Coupang's tests for advanced algorithmic prowess and optimization. Build your foundation with Epam's pattern, then specialize for Coupang's depth.
 
-For specific question lists, visit the Coupang and Epam Systems pages on CodeJeet: [/company/coupang](/company/coupang), [/company/epam-systems](/company/epam-systems).
+For specific question lists, visit the Coupang and Epam Systems pages on TidyBit: [/company/coupang](/company/coupang), [/company/epam-systems](/company/epam-systems).

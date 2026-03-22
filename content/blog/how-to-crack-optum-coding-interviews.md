@@ -87,4 +87,4 @@ A structured approach is key. Here is a week-by-week plan:
 
 Success in Optum's interview comes from methodical preparation on their high-probability topics and demonstrating consistent, clean coding under pressure.
 
-[Browse all Optum questions on CodeJeet](/company/optum)
+[Browse all Optum questions on TidyBit](/company/optum)

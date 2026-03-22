@@ -87,4 +87,4 @@ A strategic plan is:
 
 This approach maximizes efficiency, using the broader Amazon preparation as a comprehensive training ground that makes subsequent, more focused preparation easier.
 
-For targeted practice, visit the CodeJeet pages for [Amazon](/company/amazon) and [TikTok](/company/tiktok).
+For targeted practice, visit the TidyBit pages for [Amazon](/company/amazon) and [TikTok](/company/tiktok).

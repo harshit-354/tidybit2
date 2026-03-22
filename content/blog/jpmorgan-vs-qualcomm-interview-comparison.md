@@ -85,4 +85,4 @@ If you are interviewing for both, **start with JPMorgan's list**. Its larger vol
 
 Ultimately, JPMorgan's interview seems to test for consistent, reliable application of common data structures, while Qualcomm's delves deeper into efficient in-place algorithms and mathematical reasoning. Tailor your depth accordingly.
 
-For detailed question lists, visit the JPMorgan and Qualcomm pages on CodeJeet: [/company/jpmorgan](/company/jpmorgan) and [/company/qualcomm](/company/qualcomm).
+For detailed question lists, visit the JPMorgan and Qualcomm pages on TidyBit: [/company/jpmorgan](/company/jpmorgan) and [/company/qualcomm](/company/qualcomm).

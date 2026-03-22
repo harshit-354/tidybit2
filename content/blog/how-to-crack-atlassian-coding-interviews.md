@@ -493,4 +493,4 @@ public class FinalExample {
 
 Targeted, consistent practice on these core areas will build the proficiency and confidence needed to succeed. Start with the fundamentals, pressure-test your skills, and refine your communication.
 
-[Browse all Atlassian questions on CodeJeet](/company/atlassian)
+[Browse all Atlassian questions on TidyBit](/company/atlassian)

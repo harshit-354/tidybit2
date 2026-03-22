@@ -95,7 +95,7 @@ public class Main {
 
 **Weeks 3-4: Secondary Topics & Integration.** Week 3: Master binary search applications, both standard and on answer spaces (like "capacity to ship packages"). Week 4: Focus on greedy algorithms, often involving sorting intervals or using heaps. In this phase, start mixing topics. Solve problems that combine arrays with DP or binary search with greedy.
 
-**Weeks 5-6: Mock Interviews & Company-Specific Practice.** In the final stretch, conduct at least 8-10 timed mock interviews (50-60 minutes each). Simulate the actual environment. Use the last 3-4 days to solve only 6sense-tagged problems on platforms like CodeJeet. This acclimatizes you to their specific problem style and difficulty curve.
+**Weeks 5-6: Mock Interviews & Company-Specific Practice.** In the final stretch, conduct at least 8-10 timed mock interviews (50-60 minutes each). Simulate the actual environment. Use the last 3-4 days to solve only 6sense-tagged problems on platforms like TidyBit. This acclimatizes you to their specific problem style and difficulty curve.
 
 ## Key Tips
 
@@ -106,4 +106,4 @@ public class Main {
 
 Master these patterns, follow the focused plan, and you'll be prepared to handle their problem distribution effectively.
 
-[Browse all 6sense questions on CodeJeet](/company/6sense)
+[Browse all 6sense questions on TidyBit](/company/6sense)

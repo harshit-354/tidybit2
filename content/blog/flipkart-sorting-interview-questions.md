@@ -95,7 +95,7 @@ Build your skills progressively:
 2. **Basic Applications**: Solve problems involving custom comparators (sort colors, largest number).
 3. **Intermediate Patterns**: Tackle interval merging, non-overlapping intervals, and greedy problems (meeting rooms, minimum platforms).
 4. **Advanced Hybrids**: Combine sorting with two-pointers (4Sum), heaps (meeting rooms II), or binary search.
-5. **Flipkart-specific Practice**: Work through all 21 tagged problems on CodeJeet, focusing on clarity and optimization.
+5. **Flipkart-specific Practice**: Work through all 21 tagged problems on TidyBit, focusing on clarity and optimization.
 
 Consistency is key. Solve at least one sorting problem daily in the weeks leading to your interview.
 

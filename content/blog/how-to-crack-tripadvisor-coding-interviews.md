@@ -75,7 +75,7 @@ public int firstUniqChar(String s) {
 
 ## Preparation Strategy — A 4-6 Week Study Plan
 
-Weeks 1-2: **Core Fundamentals.** Drill Easy and Medium problems on Hash Tables, Strings, and Arrays. Use platforms like CodeJeet to filter by company and difficulty. Aim for 2-3 problems daily, focusing on bug-free implementation and optimal time/space complexity. Write code by hand or in a simple text editor to simulate the interview environment.
+Weeks 1-2: **Core Fundamentals.** Drill Easy and Medium problems on Hash Tables, Strings, and Arrays. Use platforms like TidyBit to filter by company and difficulty. Aim for 2-3 problems daily, focusing on bug-free implementation and optimal time/space complexity. Write code by hand or in a simple text editor to simulate the interview environment.
 
 Weeks 3-4: **Pattern Integration and Linked List.** Move to more integrated problems that combine topics (e.g., String + Hash Table). Practice all common Linked List operations. Begin studying system design fundamentals—review concepts like load balancing, caching (Redis), databases (SQL vs. NoSQL), and microservices. Design a system like "Design a Hotel Booking System" or "Design Nearby Attractions Feed."
 
@@ -91,4 +91,4 @@ Weeks 5-6: **Mock Interviews and Refinement.** Conduct at least 2-3 mock intervi
 
 Success in TripAdvisor interviews hinges on demonstrating solid, practical software engineering skills. Master the fundamentals, communicate clearly, and show you can build reliable systems.
 
-[Browse all TripAdvisor questions on CodeJeet](/company/tripadvisor)
+[Browse all TripAdvisor questions on TidyBit](/company/tripadvisor)

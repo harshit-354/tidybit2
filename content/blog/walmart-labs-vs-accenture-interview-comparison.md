@@ -141,4 +141,4 @@ Shift your focus to **Walmart Labs** once your fundamentals are strong and you n
 
 In short, Accenture's pattern is an excellent benchmark for foundational readiness, while Walmart Labs' pattern represents a target for high-level, competitive performance.
 
-For specific question lists, visit the [Walmart Labs](/company/walmart-labs) and [Accenture](/company/accenture) pages on CodeJeet.
+For specific question lists, visit the [Walmart Labs](/company/walmart-labs) and [Accenture](/company/accenture) pages on TidyBit.

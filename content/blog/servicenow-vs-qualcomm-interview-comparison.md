@@ -134,4 +134,4 @@ After solidifying that base, pivot to **ServiceNow** preparation. This involves 
 
 In essence, Qualcomm's list is a strong subset of ServiceNow's. Mastering the former provides an excellent foundation for tackling the latter's broader and slightly more advanced challenges.
 
-For further company-specific question practice, visit the CodeJeet pages for [ServiceNow](/company/servicenow) and [Qualcomm](/company/qualcomm).
+For further company-specific question practice, visit the TidyBit pages for [ServiceNow](/company/servicenow) and [Qualcomm](/company/qualcomm).

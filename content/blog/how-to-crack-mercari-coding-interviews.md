@@ -74,11 +74,11 @@ public int[] twoSum(int[] nums, int target) {
 
 A focused, topic-driven plan is more effective than random practice.
 
-**Weeks 1-2: Foundation.** Drill the top five topics (Array, String, Hash Table, Math, Greedy). For each, solve 10-15 classic problems on CodeJeet, starting with Easy and moving to Medium. Focus on writing syntactically perfect code on the first try. Implement key patterns like two-pointers (Array), sliding window (String), and the hash map complement lookup multiple times.
+**Weeks 1-2: Foundation.** Drill the top five topics (Array, String, Hash Table, Math, Greedy). For each, solve 10-15 classic problems on TidyBit, starting with Easy and moving to Medium. Focus on writing syntactically perfect code on the first try. Implement key patterns like two-pointers (Array), sliding window (String), and the hash map complement lookup multiple times.
 
 **Weeks 3-4: Integration and Speed.** Start solving mixed-topic Medium problems. Time yourself. The goal is to identify the correct pattern (e.g., "this is a Greedy sorting problem with an Array") within 2-3 minutes. Practice explaining your reasoning out loud as you solve, mimicking the interview. Complete at least 30 Medium problems in this phase.
 
-**Weeks 5-6: Mock Interviews and Mercari-Specific Prep.** Conduct 2-3 mock interviews focusing on the Mercari difficulty profile (no Hard problems). Use the CodeJeet Mercari question list. Prioritize clarity and communication. In the final days, review and re-solve any problems you previously found challenging from the top topics.
+**Weeks 5-6: Mock Interviews and Mercari-Specific Prep.** Conduct 2-3 mock interviews focusing on the Mercari difficulty profile (no Hard problems). Use the TidyBit Mercari question list. Prioritize clarity and communication. In the final days, review and re-solve any problems you previously found challenging from the top topics.
 
 ## Key Tips
 
@@ -90,4 +90,4 @@ A focused, topic-driven plan is more effective than random practice.
 
 Success in Mercari's interviews comes from a solid grasp of fundamentals, clean coding habits, and clear communication. Target the high-frequency topics, practice under timed conditions, and you'll be well-prepared.
 
-[Browse all Mercari questions on CodeJeet](/company/mercari)
+[Browse all Mercari questions on TidyBit](/company/mercari)

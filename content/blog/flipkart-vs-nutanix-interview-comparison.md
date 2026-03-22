@@ -87,5 +87,5 @@ Your choice depends on your timeline and target.
 
 In essence, Nutanix preparation is a strong, focused foundation. Flipkart preparation is a comprehensive, advanced training regimen. Start with the one that aligns with your target job and current skill level.
 
-- Practice Flipkart questions: [CodeJeet /company/flipkart](/company/flipkart)
-- Practice Nutanix questions: [CodeJeet /company/nutanix](/company/nutanix)
+- Practice Flipkart questions: [TidyBit /company/flipkart](/company/flipkart)
+- Practice Nutanix questions: [TidyBit /company/nutanix](/company/nutanix)

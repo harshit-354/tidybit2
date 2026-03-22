@@ -85,7 +85,7 @@ Weeks 3-4: **Pattern Immersion.** This is the core of your preparation. Dedicate
 - Dynamic Programming (for 1D and 2D problems)
   Solve 3-5 Medium problems for each pattern. Do not memorize solutions—memorize the approach.
 
-Weeks 5-6: **Integration and Simulation.** Start mixing topics. Practice solving 2-3 Medium problems in a 45-minute block to simulate interview timing. In the final week, complete several full mock interviews (use platforms like CodeJeet or with a peer). Revisit your mistakes from previous weeks.
+Weeks 5-6: **Integration and Simulation.** Start mixing topics. Practice solving 2-3 Medium problems in a 45-minute block to simulate interview timing. In the final week, complete several full mock interviews (use platforms like TidyBit or with a peer). Revisit your mistakes from previous weeks.
 
 Allocate 1-2 hours daily for consistent, focused practice. Quality of practice—where you deeply analyze your solution's time/space complexity and edge cases—beats sheer volume.
 
@@ -99,4 +99,4 @@ Allocate 1-2 hours daily for consistent, focused practice. Quality of practice�
 
 The path to cracking Autodesk's interview is a focused grind on Medium-difficulty problems involving arrays, hash tables, and strings. Build your pattern recognition, communicate your logic, and practice under time constraints.
 
-[Browse all Autodesk questions on CodeJeet](/company/autodesk)
+[Browse all Autodesk questions on TidyBit](/company/autodesk)

@@ -92,7 +92,7 @@ A focused, topic-driven plan is more effective than random practice.
 
 **Week 5: Consolidation & Hard Problems.** Target the **Hard** difficulty problems from the top topics, especially arrays combined with binary search or prefix sum. Also, briefly review **Randomized** algorithms—understand the concept of Reservoir Sampling and how to use a random pivot in Quickselect. The goal here isn't to solve every Hard problem perfectly, but to develop a process for breaking them down.
 
-**Week 6: Mock Interviews & Sony-Specific Practice.** Conduct at least 4-5 timed mock interviews, ideally with a partner. Simulate the Sony distribution: one Easy, one Medium, and attempt one Hard problem in a 60-minute session. Use the CodeJeet company tag to find and solve problems previously asked at Sony.
+**Week 6: Mock Interviews & Sony-Specific Practice.** Conduct at least 4-5 timed mock interviews, ideally with a partner. Simulate the Sony distribution: one Easy, one Medium, and attempt one Hard problem in a 60-minute session. Use the TidyBit company tag to find and solve problems previously asked at Sony.
 
 ## Key Tips
 
@@ -104,4 +104,4 @@ A focused, topic-driven plan is more effective than random practice.
 
 Consistent, targeted practice on these core topics will build the muscle memory needed to perform under interview conditions. Start with the fundamentals, layer on the key patterns, and simulate the real environment.
 
-[Browse all Sony questions on CodeJeet](/company/sony)
+[Browse all Sony questions on TidyBit](/company/sony)

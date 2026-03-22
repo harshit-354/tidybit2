@@ -10,7 +10,7 @@ When preparing for technical interviews, understanding the specific focus and ex
 
 ## Question Volume and Difficulty
 
-The most immediate difference is the sheer scale of their question banks on platforms like CodeJeet.
+The most immediate difference is the sheer scale of their question banks on platforms like TidyBit.
 
 **LinkedIn** presents a formidable **180 questions**, categorized by difficulty as Easy (26), Medium (117), and Hard (37). This large volume, with nearly two-thirds of questions at the Medium level, indicates a deep and well-established interview process. Preparing for LinkedIn requires a significant time investment to cover a broad range of problem variations and complexities. The high number of Medium questions suggests they heavily test the application of core algorithms to non-trivial scenarios.
 
@@ -137,4 +137,4 @@ Your priority should be dictated by your timeline and the depth of preparation r
 
 Ultimately, the shared foundation in Array, String, and Hash Table problems means preparation for one company is beneficial for the other. Start with the company whose timeline is sooner, or choose Expedia to build a quick, strong base before diving into LinkedIn's greater depth and breadth.
 
-For focused practice, visit the [LinkedIn question list](/company/linkedin) and the [Expedia question list](/company/expedia) on CodeJeet.
+For focused practice, visit the [LinkedIn question list](/company/linkedin) and the [Expedia question list](/company/expedia) on TidyBit.

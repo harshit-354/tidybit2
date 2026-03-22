@@ -133,4 +133,4 @@ A strategic plan is:
 
 This approach builds a maximum-coverage skill set efficiently.
 
-For targeted practice, visit the Uber and Yandex question lists: [CodeJeet Uber Questions](/company/uber) | [CodeJeet Yandex Questions](/company/yandex)
+For targeted practice, visit the Uber and Yandex question lists: [TidyBit Uber Questions](/company/uber) | [TidyBit Yandex Questions](/company/yandex)

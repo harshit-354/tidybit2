@@ -63,6 +63,6 @@ public int sumToN(int n) {
 2.  **Probability Basics:** Review counting principles, expected value, and simple probability calculations.
 3.  **Pattern Recognition:** Practice sequence problems (Fibonacci, look-and-say) and pattern identification in matrices or grids.
 4.  **Optimization:** Seek out problems where a brute-force solution exists, but a mathematical insight (like the sum formula) provides a dramatic performance gain.
-5.  **PayPal-Specific Practice:** Finally, work through all 9 math questions tagged for PayPal on CodeJeet to acclimate to their style and difficulty.
+5.  **PayPal-Specific Practice:** Finally, work through all 9 math questions tagged for PayPal on TidyBit to acclimate to their style and difficulty.
 
 [Practice Math at PayPal](/company/paypal/math)

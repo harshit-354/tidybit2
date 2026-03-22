@@ -69,7 +69,7 @@ interface BlogTask {
   prompt: string;
 }
 
-const SYSTEM_PROMPT = `You are an expert technical writer for CodeJeet, a coding interview prep website. Write solution guides that are direct and practical. No fluff, no emojis. Every sentence should be useful. Use markdown formatting with ## headings.
+const SYSTEM_PROMPT = `You are an expert technical writer for TidyBit, a coding interview prep website. Write solution guides that are direct and practical. No fluff, no emojis. Every sentence should be useful. Use markdown formatting with ## headings.
 
 IMPORTANT: Include complete, working code solutions in Python, JavaScript, and Java. Wrap multi-language code examples in <div class="code-group"> tags like this:
 
@@ -189,7 +189,7 @@ ${
         .slice(0, 3)
         .map((s) => `[${s.title}](/problem/${s.slug})`)
         .join(", ")}`
-    : `6. End with: [Practice this problem on CodeJeet](/problem/${p.slug})`
+    : `6. End with: [Practice this problem on TidyBit](/problem/${p.slug})`
 }
 
 Include the complete solution code in a <div class="code-group"> with Python/JavaScript/Java.`,

@@ -6,7 +6,7 @@ category: "tips"
 tags: ["tiktok", "zoho", "comparison"]
 ---
 
-When preparing for technical interviews, understanding company-specific question patterns is crucial for efficient study. TikTok and Zoho represent two distinct ends of the tech industry spectrum—a global social media giant and a major enterprise software provider—yet their technical interviews reveal significant overlap in core computer science fundamentals. This comparison analyzes their question banks on CodeJeet to guide your preparation strategy.
+When preparing for technical interviews, understanding company-specific question patterns is crucial for efficient study. TikTok and Zoho represent two distinct ends of the tech industry spectrum—a global social media giant and a major enterprise software provider—yet their technical interviews reveal significant overlap in core computer science fundamentals. This comparison analyzes their question banks on TidyBit to guide your preparation strategy.
 
 ## Question Volume and Difficulty
 

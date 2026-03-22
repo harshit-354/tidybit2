@@ -99,4 +99,4 @@ This pattern extends to problems like removing duplicates, container with most w
 
 Success in a Workday coding interview comes from targeted, deliberate practice on their preferred problem set. Master the core topics, internalize the two-pointer and greedy patterns, and practice articulating your logic.
 
-[Browse all Workday questions on CodeJeet](/company/workday)
+[Browse all Workday questions on TidyBit](/company/workday)

@@ -97,4 +97,4 @@ Conduct at least 2-3 timed mock interviews per week, mimicking the Innovaccer pa
 
 Success in Innovaccer's interviews hinges on robotic precision for fundamentals and adaptive problem-solving for the complex challenge. Structure your preparation to mirror this reality.
 
-[Browse all Innovaccer questions on CodeJeet](/company/innovaccer)
+[Browse all Innovaccer questions on TidyBit](/company/innovaccer)

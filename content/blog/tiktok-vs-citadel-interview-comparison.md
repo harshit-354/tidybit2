@@ -83,4 +83,4 @@ Your strategy should be:
 
 This approach ensures you are competitively prepared for the more demanding interview (Citadel) while efficiently covering the broader one (TikTok).
 
-For detailed question lists and frequency analysis, visit the CodeJeet pages for [TikTok](/company/tiktok) and [Citadel](/company/citadel).
+For detailed question lists and frequency analysis, visit the TidyBit pages for [TikTok](/company/tiktok) and [Citadel](/company/citadel).

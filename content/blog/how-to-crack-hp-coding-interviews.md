@@ -117,4 +117,4 @@ Given the topic focus, a targeted plan is effective.
 
 The HP interview is a test of fundamental proficiency. Master the core topics, practice clear communication, and write robust code. You don't need to know every algorithm—you need to execute the common ones perfectly.
 
-[Browse all HP questions on CodeJeet](/company/hp)
+[Browse all HP questions on TidyBit](/company/hp)

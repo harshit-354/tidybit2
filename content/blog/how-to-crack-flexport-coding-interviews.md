@@ -108,4 +108,4 @@ In the final stretch, focus exclusively on Flexport’s known question list and 
 
 Success in a Flexport interview hinges on disciplined practice of Medium-difficulty problems across their core topics. Build fluency in the patterns, and you’ll be able to structure efficient solutions for their data-centric challenges.
 
-[Browse all Flexport questions on CodeJeet](/company/flexport)
+[Browse all Flexport questions on TidyBit](/company/flexport)

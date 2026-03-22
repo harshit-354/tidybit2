@@ -86,6 +86,6 @@ Do not attempt random DP problems. Follow a structured progression:
 1.  **Foundation:** Solve "Climbing Stairs" and "Fibonacci" to understand state and recurrence.
 2.  **1D DP:** Master "House Robber," "Coin Change," and "Longest Increasing Subsequence." This builds intuition for single-array state.
 3.  **2D DP:** Tackle "Longest Common Subsequence," "Edit Distance," and "0/1 Knapsack." This is critical for Salesforce's string and optimization problems.
-4.  **Salesforce-Specific:** Finally, practice the 38 tagged problems on CodeJeet. Focus on identifying which classic pattern each problem maps to.
+4.  **Salesforce-Specific:** Finally, practice the 38 tagged problems on TidyBit. Focus on identifying which classic pattern each problem maps to.
 
 [Practice Dynamic Programming at Salesforce](/company/salesforce/dynamic-programming)

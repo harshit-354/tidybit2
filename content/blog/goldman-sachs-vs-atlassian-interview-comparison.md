@@ -87,4 +87,4 @@ Your preparation order should be guided by the breadth and depth of the question
 
 In short, Atlassian's profile offers a focused starting point. Achieving fluency there will cover a significant portion of the foundational material for Goldman Sachs, which then requires expanding into more advanced topics and volume practice.
 
-For detailed question lists, visit the [Goldman Sachs](/company/goldman-sachs) and [Atlassian](/company/atlassian) pages on CodeJeet.
+For detailed question lists, visit the [Goldman Sachs](/company/goldman-sachs) and [Atlassian](/company/atlassian) pages on TidyBit.

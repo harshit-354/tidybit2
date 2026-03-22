@@ -151,4 +151,4 @@ Top tech companies favor Union-Find for its algorithmic elegance and utility in 
 3.  **Focus on Modeling.** The hardest part is recognizing the sets and the union condition. Ask: "What defines two elements as belonging to the same group?" Practice translating problem constraints into `union` operations.
 4.  **Start with Classic Problems.** Build intuition by solving "Number of Islands," "Friend Circles," and "Redundant Connection" before tackling harder variants that add layers of complexity.
 
-[Practice all Union-Find questions on CodeJeet](/topic/union-find)
+[Practice all Union-Find questions on TidyBit](/topic/union-find)

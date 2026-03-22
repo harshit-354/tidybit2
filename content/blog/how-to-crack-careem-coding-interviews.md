@@ -97,11 +97,11 @@ public class Main {
 
 A focused, consistent plan is more effective than cramming. Here is a week-by-week guide.
 
-**Weeks 1-2: Foundation.** Dedicate this time exclusively to the top five topics. For each topic (Array, Sorting, Heap, Simulation, Prefix Sum), solve 10-15 problems on a platform like CodeJeet. Start with Easy problems to build syntax fluency, then move to Medium. Implement every solution in your primary interview language. The goal is to internalize the patterns.
+**Weeks 1-2: Foundation.** Dedicate this time exclusively to the top five topics. For each topic (Array, Sorting, Heap, Simulation, Prefix Sum), solve 10-15 problems on a platform like TidyBit. Start with Easy problems to build syntax fluency, then move to Medium. Implement every solution in your primary interview language. The goal is to internalize the patterns.
 
 **Weeks 3-4: Pattern Integration and Speed.** Shift to solving mixed-topic Medium problems. Practice identifying which pattern to apply within the first 2-3 minutes of reading a problem. Is it a two-pointer array problem? Does it need a heap? Time yourself. Aim to solve a typical Medium problem in 25 minutes, including explaining your approach.
 
-**Weeks 5-6: Mock Interviews and Company-Specific Practice.** Simulate the real interview environment. Do at least 3-5 live coding sessions with a friend or using a mock interview platform. In the final week, focus on Careem’s tagged questions on CodeJeet. This will familiarize you with their problem style and difficulty level, building confidence.
+**Weeks 5-6: Mock Interviews and Company-Specific Practice.** Simulate the real interview environment. Do at least 3-5 live coding sessions with a friend or using a mock interview platform. In the final week, focus on Careem’s tagged questions on TidyBit. This will familiarize you with their problem style and difficulty level, building confidence.
 
 ## Key Tips
 
@@ -112,4 +112,4 @@ A focused, consistent plan is more effective than cramming. Here is a week-by-we
 
 Success in Careem’s interviews hinges on systematic preparation focused on their specific problem profile. Master the core topics, practice under timed conditions, and polish your communication.
 
-[Browse all Careem questions on CodeJeet](/company/careem)
+[Browse all Careem questions on TidyBit](/company/careem)

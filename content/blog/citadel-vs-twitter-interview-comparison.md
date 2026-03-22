@@ -79,4 +79,4 @@ If your primary goal is Twitter, you can focus directly on its question bank, en
 
 Ultimately, Citadel demands peak algorithmic performance, while Twitter requires a balanced mix of coding and architectural thinking. Tailor your depth accordingly.
 
-For specific company question lists and patterns, visit the CodeJeet pages for [Citadel](/company/citadel) and [Twitter](/company/twitter).
+For specific company question lists and patterns, visit the TidyBit pages for [Citadel](/company/citadel) and [Twitter](/company/twitter).

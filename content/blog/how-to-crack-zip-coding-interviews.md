@@ -88,7 +88,7 @@ Deeply study the top five topics: Array, Hash Table, String, BFS, and Greedy. Fo
 Start solving mixed-topic Medium problems without knowing the category in advance. This simulates the real interview. Focus on problems that combine topics, like "String manipulation using a Hash Table." Begin doing timed mock interviews (45-60 minutes) focusing solely on Medium questions. Practice verbalizing your thought process aloud.
 
 **Weeks 5-6: Company-Specific Practice & Refinement**
-Dedicate this period almost exclusively to practicing Zip’s past interview questions. Platforms like CodeJeet categorize these by company. Simulate the exact interview environment. Review your solutions: is your code clean? Did you handle edge cases? Could you explain the time/space complexity clearly? Fill any last gaps in your knowledge.
+Dedicate this period almost exclusively to practicing Zip’s past interview questions. Platforms like TidyBit categorize these by company. Simulate the exact interview environment. Review your solutions: is your code clean? Did you handle edge cases? Could you explain the time/space complexity clearly? Fill any last gaps in your knowledge.
 
 ## Key Tips
 
@@ -99,4 +99,4 @@ Dedicate this period almost exclusively to practicing Zip’s past interview que
 
 Success with Zip comes from consistent, focused practice on Medium-difficulty problems that blend core data structures. Master the patterns, communicate your logic, and write precise code.
 
-[Browse all Zip questions on CodeJeet](/company/zip)
+[Browse all Zip questions on TidyBit](/company/zip)

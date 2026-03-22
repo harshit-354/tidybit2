@@ -10,7 +10,7 @@ When preparing for technical interviews at top companies, understanding their sp
 
 ## Question Volume and Difficulty
 
-The sheer volume of questions associated with each company is the most striking difference. Amazon's tagged question pool is massive, with **1,938 questions** categorized on CodeJeet. The difficulty distribution (530 Easy, 1057 Medium, 351 Hard) reveals a clear emphasis on **Medium-difficulty problems**. This vast pool reflects Amazon's standardized, process-heavy hiring for a huge number of technical roles. You must be prepared for a wide array of algorithmic scenarios, with a strong command of fundamentals to handle the volume.
+The sheer volume of questions associated with each company is the most striking difference. Amazon's tagged question pool is massive, with **1,938 questions** categorized on TidyBit. The difficulty distribution (530 Easy, 1057 Medium, 351 Hard) reveals a clear emphasis on **Medium-difficulty problems**. This vast pool reflects Amazon's standardized, process-heavy hiring for a huge number of technical roles. You must be prepared for a wide array of algorithmic scenarios, with a strong command of fundamentals to handle the volume.
 
 In stark contrast, Morgan Stanley's tagged pool is **53 questions** (13 Easy, 34 Medium, 6 Hard). This smaller, more curated set suggests their interviews, while still technical, may place a greater relative weight on financial domain knowledge, system design for certain roles, or behavioral fit. The focus is overwhelmingly on **Medium-difficulty** problems, but the limited number means questions can be more predictable or focused on specific problem patterns.
 

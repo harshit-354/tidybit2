@@ -10,7 +10,7 @@ When preparing for technical interviews, understanding the specific focus and ex
 
 ## Question Volume and Difficulty
 
-The sheer volume of questions is the most striking difference. Meta's tagged question bank on CodeJeet is **1387 questions**, dwarfing JPMorgan's **78 questions**. This reflects Meta's vast, well-documented interview history and its status as a primary target for competitive software engineers globally.
+The sheer volume of questions is the most striking difference. Meta's tagged question bank on TidyBit is **1387 questions**, dwarfing JPMorgan's **78 questions**. This reflects Meta's vast, well-documented interview history and its status as a primary target for competitive software engineers globally.
 
 The difficulty distribution further highlights their different bars:
 

@@ -95,4 +95,4 @@ Re-solve the most challenging problems from your first attempts. Create a one-pa
 
 Success in a DP World interview comes from methodical preparation on their high-probability topics and demonstrating structured, efficient problem-solving. Focus your energy where it counts.
 
-[Browse all DP World questions on CodeJeet](/company/dp-world)
+[Browse all DP World questions on TidyBit](/company/dp-world)

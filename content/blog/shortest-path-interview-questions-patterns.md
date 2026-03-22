@@ -131,4 +131,4 @@ Shortest path questions are particularly favored by companies dealing with large
 
 Shortest path questions are a test of applied algorithmic fundamentals. Success comes from recognizing the pattern, selecting the right tool, and executing a clean implementation.
 
-[Practice all Shortest Path questions on CodeJeet](/topic/shortest-path)
+[Practice all Shortest Path questions on TidyBit](/topic/shortest-path)

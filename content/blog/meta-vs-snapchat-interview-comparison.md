@@ -146,4 +146,4 @@ Once this foundation is solid, pivot to **Snapchat-specific preparation**. This 
 
 In essence, use Meta's curriculum for breadth and foundational strength, then sharpen your skills with Snapchat's deeper, more graph-focused challenges.
 
-For targeted practice, visit the CodeJeet pages for [Meta](/company/meta) and [Snapchat](/company/snapchat).
+For targeted practice, visit the TidyBit pages for [Meta](/company/meta) and [Snapchat](/company/snapchat).

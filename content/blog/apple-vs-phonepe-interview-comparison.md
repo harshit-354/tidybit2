@@ -46,4 +46,4 @@ Your preparation order should be guided by your target companies and the foundat
 
 Ultimately, success in either interview will depend on a deep understanding of these core patterns and the ability to apply them to novel problems, not just memorizing specific questions.
 
-For detailed question lists and company-specific insights, visit the CodeJeet pages for [Apple](/company/apple) and [PhonePe](/company/phonepe).
+For detailed question lists and company-specific insights, visit the TidyBit pages for [Apple](/company/apple) and [PhonePe](/company/phonepe).

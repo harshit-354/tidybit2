@@ -121,4 +121,4 @@ public class TopKFrequent {
 
 Target your preparation on these high-yield areas, and you'll be equipped to handle the complexity of Otter.AI's technical interviews.
 
-[Browse all Otter.AI questions on CodeJeet](/company/otterai)
+[Browse all Otter.AI questions on TidyBit](/company/otterai)

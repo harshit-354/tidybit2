@@ -10,7 +10,7 @@ When preparing for technical interviews, understanding company-specific patterns
 
 ## Question Volume and Difficulty
 
-Capital One's tagged question list on CodeJeet shows **57 questions**, with a difficulty breakdown of 57% Easy, 36% Medium, and 10% Hard. This distribution suggests a strong focus on assessing fundamental coding proficiency and problem-solving clarity. The high volume of Easy questions often revolves around straightforward manipulations of strings, arrays, and hash tables, testing a candidate's ability to write clean, correct code under minimal pressure.
+Capital One's tagged question list on TidyBit shows **57 questions**, with a difficulty breakdown of 57% Easy, 36% Medium, and 10% Hard. This distribution suggests a strong focus on assessing fundamental coding proficiency and problem-solving clarity. The high volume of Easy questions often revolves around straightforward manipulations of strings, arrays, and hash tables, testing a candidate's ability to write clean, correct code under minimal pressure.
 
 Twitter's profile lists **53 questions**, with a more challenging spread: 15% Easy, 62% Medium, and 23% Hard. This skew toward Medium and Hard problems indicates an interview process designed to probe deeper into algorithmic optimization, edge-case handling, and system-level thinking. The lower total volume but higher average difficulty implies each question may be more complex or multi-part.
 

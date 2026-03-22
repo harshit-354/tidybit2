@@ -83,4 +83,4 @@ Prepare for **Yahoo first** if you are earlier in your interview practice cycle 
 
 In short, use Snowflake's profile for a challenging, comprehensive workout. Use Yahoo's for a focused, foundational review. The strong topic overlap makes studying for one beneficial for the other.
 
-For detailed question lists, visit the [Snowflake interview questions](/company/snowflake) and [Yahoo interview questions](/company/yahoo) pages on CodeJeet.
+For detailed question lists, visit the [Snowflake interview questions](/company/snowflake) and [Yahoo interview questions](/company/yahoo) pages on TidyBit.

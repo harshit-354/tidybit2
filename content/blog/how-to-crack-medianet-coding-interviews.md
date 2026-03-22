@@ -128,4 +128,4 @@ A structured approach is key to covering the breadth and depth required.
 
 Your goal is to demonstrate not just coding skill, but analytical rigor. Target these topics, follow the plan, and practice under pressure.
 
-[Browse all Media.net questions on CodeJeet](/company/medianet)
+[Browse all Media.net questions on TidyBit](/company/medianet)

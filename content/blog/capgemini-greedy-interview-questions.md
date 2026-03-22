@@ -95,7 +95,7 @@ Build your competency sequentially:
 1.  **Foundations:** Start with "Fractional Knapsack" and "Activity Selection." These teach the core sorting and iteration pattern.
 2.  **Classic Optimization:** Move to "Minimum Coin Change" (with standard denominations) and "Huffman Coding" to understand greedy tree building.
 3.  **Interval Problems:** Practice variants like "Meeting Rooms II" which uses a min-heap alongside greedy selection.
-4.  **Capgemini-Specific Practice:** Finally, solve problems tagged for Capgemini on platforms like CodeJeet to familiarize yourself with their exact format and difficulty.
+4.  **Capgemini-Specific Practice:** Finally, solve problems tagged for Capgemini on platforms like TidyBit to familiarize yourself with their exact format and difficulty.
 
 Focus on writing clean, correct code for these patterns. In the interview, clearly explain your reasoning: why sorting by a particular attribute is optimal.
 

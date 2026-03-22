@@ -119,4 +119,4 @@ Your preparation order should be dictated by your target companies and timeline.
 
 A universal strategy is to **master the shared foundation first**: Arrays, Strings, Hash Tables, and common algorithms (sorting, searching, two-pointer). Then, branch into company-specific deep dives: DP for TikTok, and DFS/Graph for DoorDash. Regardless of the order, practice articulating your thought process clearly, as both companies evaluate communication and problem-solving approach alongside raw coding skill.
 
-For targeted practice, visit the CodeJeet pages for [TikTok](/company/tiktok) and [DoorDash](/company/doordash).
+For targeted practice, visit the TidyBit pages for [TikTok](/company/tiktok) and [DoorDash](/company/doordash).

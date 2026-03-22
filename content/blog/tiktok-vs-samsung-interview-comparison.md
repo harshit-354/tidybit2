@@ -122,4 +122,4 @@ TikTok's vast question bank requires a long-term, generalist strategy. Preparing
 
 Ultimately, Samsung is a tactical target; TikTok is a marathon.
 
-For specific question lists, visit the CodeJeet pages for [TikTok](/company/tiktok) and [Samsung](/company/samsung).
+For specific question lists, visit the TidyBit pages for [TikTok](/company/tiktok) and [Samsung](/company/samsung).

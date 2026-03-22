@@ -6,7 +6,7 @@ category: "tips"
 tags: ["walmart-labs", "de-shaw", "comparison"]
 ---
 
-When preparing for technical interviews at top tech companies, understanding the specific patterns and expectations of each organization can significantly increase your chances of success. Walmart Labs and DE Shaw are two prominent names, but their interview processes and question focus areas differ. This comparison analyzes their question banks from CodeJeet's data to help you strategize your preparation.
+When preparing for technical interviews at top tech companies, understanding the specific patterns and expectations of each organization can significantly increase your chances of success. Walmart Labs and DE Shaw are two prominent names, but their interview processes and question focus areas differ. This comparison analyzes their question banks from TidyBit's data to help you strategize your preparation.
 
 ## Question Volume and Difficulty
 
@@ -128,4 +128,4 @@ Start with **Walmart Labs**. Its larger bank of Medium-difficulty questions on f
 
 If your goal is to pass the Walmart Labs interview, focus on achieving speed and accuracy on Medium problems. For DE Shaw, depth is critical; you must be prepared to derive and optimize solutions for challenging problems under pressure, often involving multiple algorithmic concepts in a single question.
 
-For targeted practice, visit the company pages on CodeJeet: [Walmart Labs](/company/walmart-labs) and [DE Shaw](/company/de-shaw).
+For targeted practice, visit the company pages on TidyBit: [Walmart Labs](/company/walmart-labs) and [DE Shaw](/company/de-shaw).

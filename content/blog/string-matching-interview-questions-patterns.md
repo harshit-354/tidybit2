@@ -120,4 +120,4 @@ String problems are a staple at top tech firms because they correlate with real-
 3.  **Memorize One Advanced Algorithm.** You don't need to know all of them in depth. Have a solid, implementable understanding of **KMP** for substring search. Be able to explain its LPS (Longest Prefix Suffix) array.
 4.  **Simulate the Interview.** For Hard problems, talk through the brute-force solution first, then optimize. Interviewers want to see your thought process as much as your final code.
 
-[Practice all String Matching questions on CodeJeet](/topic/string-matching)
+[Practice all String Matching questions on TidyBit](/topic/string-matching)

@@ -76,4 +76,4 @@ This foundation then makes tackling **TikTok's** vast question bank more managea
 
 Ultimately, your priority should be dictated by your interview timeline. But as a general strategy, building from a focused core (Flipkart) out to a broad set (TikTok) is an effective way to structure your study plan.
 
-For detailed question lists, visit the CodeJeet pages for [TikTok](/company/tiktok) and [Flipkart](/company/flipkart).
+For detailed question lists, visit the TidyBit pages for [TikTok](/company/tiktok) and [Flipkart](/company/flipkart).

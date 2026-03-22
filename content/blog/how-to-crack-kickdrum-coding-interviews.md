@@ -95,4 +95,4 @@ Given the 100% Medium difficulty focus, your plan should build fluency, not just
 
 Success in a Kickdrum interview hinges on consistent, clean application of core patterns to Medium-difficulty problems. Focus your efforts, practice communicating your process, and you'll be well-prepared.
 
-[Browse all Kickdrum questions on CodeJeet](/company/kickdrum)
+[Browse all Kickdrum questions on TidyBit](/company/kickdrum)

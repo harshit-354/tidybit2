@@ -82,7 +82,7 @@ A focused, topic-based plan is optimal for VK's profile.
 
 **Weeks 3-4: Essential Patterns.** Tackle Sliding Window and Dynamic Programming. For DP, start with foundational 1D problems (Fibonacci, climbing stairs) before moving to classic Medium problems like "Longest Increasing Subsequence." Solve 5-7 problems for each pattern.
 
-**Week 5: Mixed Practice & Mock Interviews.** Use the VK-tagged question list on CodeJeet. Simulate the 45-60 minute interview environment: solve one Easy and one Medium problem back-to-back. Practice verbalizing your thought process.
+**Week 5: Mixed Practice & Mock Interviews.** Use the VK-tagged question list on TidyBit. Simulate the 45-60 minute interview environment: solve one Easy and one Medium problem back-to-back. Practice verbalizing your thought process.
 
 **Week 6: Final Review & Weakness Targeting.** Revisit mistakes from your practice log. Redo 2-3 problems from each core topic without looking at solutions to ensure mastery. Focus on maintaining speed and accuracy.
 
@@ -95,4 +95,4 @@ A focused, topic-based plan is optimal for VK's profile.
 
 Cracking the VK interview is a test of disciplined preparation. By mastering the core topics of Array, String, Two Pointers, and Sliding Window, and by building fluency through timed practice, you can approach your interview with confidence. The pattern is clear—now it's your turn to execute.
 
-[Browse all VK questions on CodeJeet](/company/vk)
+[Browse all VK questions on TidyBit](/company/vk)

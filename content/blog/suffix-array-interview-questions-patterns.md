@@ -151,4 +151,4 @@ These companies test suffix arrays because they operate at scales where naive st
 
 Suffix array questions are challenging but predictable. Focus on the patterns, implement the core algorithms repeatedly, and you'll be prepared when they appear in your interview.
 
-[Practice all Suffix Array questions on CodeJeet](/topic/suffix-array)
+[Practice all Suffix Array questions on TidyBit](/topic/suffix-array)

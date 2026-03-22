@@ -70,6 +70,6 @@ public class DFSExample {
 
 ## Recommended Practice Order
 
-Follow this sequence to build proficiency efficiently. Begin with **basic tree DFS** (e.g., inorder traversal, maximum depth). Move to **graph DFS fundamentals** (e.g., connected components, cycle detection). Then tackle **backtracking applications** (e.g., subsets, permutations). Finally, solve **eBay-specific problems** from platforms like CodeJeet to simulate interview conditions. Prioritize quality over quantity—analyze each solution's time and space complexity, and practice verbalizing your thought process. This order ensures you develop a solid foundation before handling complex scenarios.
+Follow this sequence to build proficiency efficiently. Begin with **basic tree DFS** (e.g., inorder traversal, maximum depth). Move to **graph DFS fundamentals** (e.g., connected components, cycle detection). Then tackle **backtracking applications** (e.g., subsets, permutations). Finally, solve **eBay-specific problems** from platforms like TidyBit to simulate interview conditions. Prioritize quality over quantity—analyze each solution's time and space complexity, and practice verbalizing your thought process. This order ensures you develop a solid foundation before handling complex scenarios.
 
 [Practice Depth-First Search at eBay](/company/ebay/depth-first-search)

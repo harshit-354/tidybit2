@@ -131,4 +131,4 @@ BST questions are a staple at major tech firms that emphasize algorithmic proble
 
 Consistent practice with these patterns will make BST problems feel systematic rather than puzzling.
 
-[Practice all Binary Search Tree questions on CodeJeet](/topic/binary-search-tree)
+[Practice all Binary Search Tree questions on TidyBit](/topic/binary-search-tree)

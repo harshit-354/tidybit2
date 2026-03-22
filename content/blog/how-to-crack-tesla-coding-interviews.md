@@ -78,7 +78,7 @@ A structured approach is non-negotiable. Here is a focused plan:
 
 **Weeks 1-2: Foundation & Core Patterns.** Dedicate this phase to the top five topics. For each topic (Array, Hash Table, etc.), study its core patterns (e.g., Sliding Window for Arrays, DFS for Trees). Solve 10-15 curated Medium problems per topic. Do not just solve; analyze time/space complexity and identify the pattern's signature.
 
-**Weeks 3-4: Mixed Practice & Speed.** Stop topic-specific practice. Use platforms like CodeJeet to solve random Medium problems under a 25-minute timer. This simulates the interview environment. Begin integrating a few Hard problems weekly to stretch your thinking. Focus heavily on problems tagged for Tesla or other top tech firms.
+**Weeks 3-4: Mixed Practice & Speed.** Stop topic-specific practice. Use platforms like TidyBit to solve random Medium problems under a 25-minute timer. This simulates the interview environment. Begin integrating a few Hard problems weekly to stretch your thinking. Focus heavily on problems tagged for Tesla or other top tech firms.
 
 **Weeks 5-6: Mock Interviews & Refinement.** Conduct at least 2-3 mock interviews per week with a peer or using interview simulation services. Practice verbalizing your thought process clearly before coding. Revisit your problem log and re-solve any questions you struggled with. In the final days, review key patterns and data structure implementations, but avoid learning new material.
 
@@ -91,4 +91,4 @@ A structured approach is non-negotiable. Here is a focused plan:
 
 Mastering these patterns and executing this disciplined strategy will position you strongly for Tesla's practical and challenging interviews.
 
-[Browse all Tesla questions on CodeJeet](/company/tesla)
+[Browse all Tesla questions on TidyBit](/company/tesla)

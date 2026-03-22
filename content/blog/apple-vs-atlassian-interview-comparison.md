@@ -79,4 +79,4 @@ Then, transition to **Apple**. Use the breadth of Apple's question bank to stres
 
 In summary, treat Atlassian's list as your targeted core syllabus and Apple's as your comprehensive final review. This approach ensures you are well-prepared for the focused practicality of an Atlassian interview and the algorithmic rigor of an Apple interview.
 
-For specific question lists and patterns, visit the CodeJeet pages for [Apple](/company/apple) and [Atlassian](/company/atlassian).
+For specific question lists and patterns, visit the TidyBit pages for [Apple](/company/apple) and [Atlassian](/company/atlassian).

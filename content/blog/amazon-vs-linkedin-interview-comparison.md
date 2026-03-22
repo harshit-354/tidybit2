@@ -12,7 +12,7 @@ When preparing for technical interviews at major tech companies, understanding t
 
 The most striking difference is the sheer scale of the question pools.
 
-**Amazon** maintains a massive, well-documented repository of **1,938 questions**, as tracked on platforms like CodeJeet. This volume reflects Amazon's vast engineering organization and standardized, process-driven interview loop. The difficulty distribution is heavily weighted towards medium-level problems: approximately 55% Medium (M1057), 27% Easy (E530), and 18% Hard (H351). This suggests a strong focus on assessing a candidate's ability to reliably solve complex, real-world problems under pressure, with a solid foundation in fundamentals.
+**Amazon** maintains a massive, well-documented repository of **1,938 questions**, as tracked on platforms like TidyBit. This volume reflects Amazon's vast engineering organization and standardized, process-driven interview loop. The difficulty distribution is heavily weighted towards medium-level problems: approximately 55% Medium (M1057), 27% Easy (E530), and 18% Hard (H351). This suggests a strong focus on assessing a candidate's ability to reliably solve complex, real-world problems under pressure, with a solid foundation in fundamentals.
 
 **LinkedIn's** question pool is significantly more concentrated, with around **180 questions**. The difficulty distribution is radically different: a massive 65% are Medium difficulty (M117), with only about 14% Easy (E26) and 21% Hard (H37). This indicates a laser focus on core, practical problem-solving. The smaller pool means questions are more likely to be repeated, making deep, mastery-level practice on these specific problems highly valuable.
 
@@ -145,5 +145,5 @@ Then, move to **Amazon**. Use the broader foundation from LinkedIn prep to tackl
 
 In summary, LinkedIn's interview is a sprint focused on core algorithmic execution, while Amazon's is a marathon testing breadth, depth (especially in DP), and behavioral fit. Master the focused list first, then expand to cover the extensive one.
 
-- Practice Amazon questions: [CodeJeet Amazon Interview Questions](/company/amazon)
-- Practice LinkedIn questions: [CodeJeet LinkedIn Interview Questions](/company/linkedin)
+- Practice Amazon questions: [TidyBit Amazon Interview Questions](/company/amazon)
+- Practice LinkedIn questions: [TidyBit LinkedIn Interview Questions](/company/linkedin)

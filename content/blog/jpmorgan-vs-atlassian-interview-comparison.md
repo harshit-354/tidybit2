@@ -145,4 +145,4 @@ Start with **JPMorgan**. Its larger bank of predominantly Easy and Medium proble
 
 In summary, use JPMorgan's questions for breadth and foundational mastery, then use Atlassian's to test and deepen that knowledge under more demanding conditions. The shared focus on core data structures makes this a highly efficient preparation strategy for both.
 
-For targeted practice, visit the JPMorgan question list at [/company/jpmorgan](https://codejeet.com/company/jpmorgan) and the Atlassian question list at [/company/atlassian](https://codejeet.com/company/atlassian).
+For targeted practice, visit the JPMorgan question list at [/company/jpmorgan](https://tidybit.com/company/jpmorgan) and the Atlassian question list at [/company/atlassian](https://tidybit.com/company/atlassian).

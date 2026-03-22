@@ -126,4 +126,4 @@ Prepare for **Morgan Stanley first** only if you already have a strong command o
 
 In practice, a solid strategy is to master the shared fundamental topics (Array, String, Hash Table) thoroughly. Then, branch out based on your target: practice a wide variety of problems for TCS, and drill deeply into Dynamic Programming and optimized solutions for Morgan Stanley.
 
-For more detailed company-specific question lists and guides, visit the CodeJeet pages for [TCS](/company/tcs) and [Morgan Stanley](/company/morgan-stanley).
+For more detailed company-specific question lists and guides, visit the TidyBit pages for [TCS](/company/tcs) and [Morgan Stanley](/company/morgan-stanley).

@@ -105,4 +105,4 @@ A structured approach is non-negotiable.
 
 Success in these interviews comes from methodical practice on the right patterns and clear communication under pressure.
 
-[Browse all Athenahealth questions on CodeJeet](/company/athenahealth)
+[Browse all Athenahealth questions on TidyBit](/company/athenahealth)

@@ -124,4 +124,4 @@ public int lengthOfLongestSubstring(String s) {
 
 Coupang's interview tests for strong fundamentals, applied problem-solving, and clear communication under pressure. Target the high-frequency topics, master the patterns, and simulate the real environment.
 
-[Browse all Coupang questions on CodeJeet](/company/coupang)
+[Browse all Coupang questions on TidyBit](/company/coupang)

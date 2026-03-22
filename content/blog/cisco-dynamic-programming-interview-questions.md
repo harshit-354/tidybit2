@@ -86,7 +86,7 @@ Build your skills progressively. Do not jump into hard problems immediately.
 1.  **Foundation:** Start with classical 1D problems: Fibonacci, Climbing Stairs, House Robber.
 2.  **String & Grids:** Move to 2D DP: Longest Common Subsequence, Unique Paths, Minimum Path Sum.
 3.  **Knapsack Variants:** Practice 0/1 Knapsack, Partition Equal Subset Sum.
-4.  **Cisco-Specific & Advanced:** Finally, tackle problems tagged for Cisco on platforms like CodeJeet, and harder general DP problems (e.g., "Coin Change," "Word Break").
+4.  **Cisco-Specific & Advanced:** Finally, tackle problems tagged for Cisco on platforms like TidyBit, and harder general DP problems (e.g., "Coin Change," "Word Break").
 
 Consistent, pattern-focused practice is more valuable than volume. Solve each problem, then revisit it a day later to reinforce the recurrence relation in your mind.
 

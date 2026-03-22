@@ -81,4 +81,4 @@ A focused, topic-by-topic approach is more effective than random practice.
 
 Success in the Tech Mahindra coding round is a matter of focused preparation on high-probability topics and disciplined execution during the test. Master the fundamentals, practice under timed conditions, and you'll be well-positioned to pass.
 
-[Browse all Tech Mahindra questions on CodeJeet](/company/tech-mahindra)
+[Browse all Tech Mahindra questions on TidyBit](/company/tech-mahindra)

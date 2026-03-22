@@ -123,4 +123,4 @@ public int longestSubstringKDistinct(String s, int k) {
 
 Targeted, consistent practice on the right patterns is what separates candidates who pass from those who excel. Start with the core, build your stamina, and simulate the real environment.
 
-[Browse all Hashedin questions on CodeJeet](/company/hashedin)
+[Browse all Hashedin questions on TidyBit](/company/hashedin)

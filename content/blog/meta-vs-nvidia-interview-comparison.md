@@ -93,5 +93,5 @@ A pragmatic hybrid approach is to **build a foundation using the common core top
 
 Ultimately, preparation for either will strengthen your skills for both, but calibrating your effort to the company's profile is the key to efficient study.
 
-- Practice Meta questions: [CodeJeet Meta Interview Questions](/company/meta)
-- Practice NVIDIA questions: [CodeJeet NVIDIA Interview Questions](/company/nvidia)
+- Practice Meta questions: [TidyBit Meta Interview Questions](/company/meta)
+- Practice NVIDIA questions: [TidyBit NVIDIA Interview Questions](/company/nvidia)

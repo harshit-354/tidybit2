@@ -113,7 +113,7 @@ With the high proportion of Medium and Hard problems, a superficial approach wil
 
 **Weeks 3-4: Depth on High-Yield Topics.** This is your DP and advanced algorithms block. Spend at least 5-7 days solely on Dynamic Programming. Start with classic problems (Fibonacci, Knapsack, Longest Common Subsequence) to understand memoization and tabulation, then move to harder string/array DP problems. Follow this with deep dives into Graphs (BFS/DFS) and advanced Tree traversals.
 
-**Weeks 5-6: Simulation & Integration.** This phase is about performance under interview conditions. Use the [Pornhub question list on CodeJeet](/company/pornhub) as your primary source. Conduct daily 60-90 minute mock interviews where you solve 2-3 problems back-to-back: one Medium and one Hard, or two Mediums. Verbalize your thought process out loud. In the final week, review all your mistakes and re-solve the problems you found most challenging.
+**Weeks 5-6: Simulation & Integration.** This phase is about performance under interview conditions. Use the [Pornhub question list on TidyBit](/company/pornhub) as your primary source. Conduct daily 60-90 minute mock interviews where you solve 2-3 problems back-to-back: one Medium and one Hard, or two Mediums. Verbalize your thought process out loud. In the final week, review all your mistakes and re-solve the problems you found most challenging.
 
 ## Key Tips
 
@@ -124,4 +124,4 @@ With the high proportion of Medium and Hard problems, a superficial approach wil
 
 The Pornhub coding interview is a significant challenge, but it's crackable with data-driven, focused preparation. Understand the patterns, drill the high-frequency topics, and simulate the real environment relentlessly.
 
-[Browse all Pornhub questions on CodeJeet](/company/pornhub)
+[Browse all Pornhub questions on TidyBit](/company/pornhub)

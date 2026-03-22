@@ -103,4 +103,4 @@ With the high difficulty bar, a superficial pass through topics won't work. Foll
 
 Sprinklr's interview is a test of advanced, applied problem-solving. Target your preparation on Dynamic Programming and the other high-frequency topics, and simulate the pressure you'll face. Consistent, focused practice on hard problems is the only path to success.
 
-[Browse all Sprinklr questions on CodeJeet](/company/sprinklr)
+[Browse all Sprinklr questions on TidyBit](/company/sprinklr)

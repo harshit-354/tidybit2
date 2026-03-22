@@ -78,4 +78,4 @@ Your preparation order should be guided by your goals and timeline.
 
 In practice, a blended approach is effective. Start by mastering the common core topics. Then, if targeting Uber, dive deep into DP and graph traversal. If targeting Adobe, drill down on Two Pointers and string manipulation problems. Ultimately, the strong foundational overlap means preparation for one company significantly benefits the other.
 
-For detailed question lists, visit the Uber and Adobe pages on CodeJeet: [/company/uber](/company/uber), [/company/adobe](/company/adobe).
+For detailed question lists, visit the Uber and Adobe pages on TidyBit: [/company/uber](/company/uber), [/company/adobe](/company/adobe).

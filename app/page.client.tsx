@@ -75,7 +75,7 @@ export default function HomeClient() {
             <div className="-mt-16 w-full">
               <Image
                 src={focusLabel === "DSA" ? "/image1.webp" : "/image2.webp"}
-                alt="CodeJeet dashboard showing company-wise LeetCode questions filtered by difficulty and topic"
+                alt="TidyBit dashboard showing company-wise LeetCode questions filtered by difficulty and topic"
                 width={2000}
                 height={1500}
                 priority

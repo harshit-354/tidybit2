@@ -83,4 +83,4 @@ Your preparation priority should be dictated by your interview timeline and the 
 
 **Strategic Approach:** The high topic overlap means you are not choosing between two separate syllabi. Start with a solid pass through the common topics using Medium-difficulty problems. Then, based on your target company, branch out: for Morgan Stanley, ensure flawless execution on fundamentals; for Coupang, drill deeply into Hard problem variations of those same topics.
 
-For specific question lists and patterns, visit the CodeJeet pages for [Coupang](/company/coupang) and [Morgan Stanley](/company/morgan-stanley).
+For specific question lists and patterns, visit the TidyBit pages for [Coupang](/company/coupang) and [Morgan Stanley](/company/morgan-stanley).

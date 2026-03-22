@@ -103,4 +103,4 @@ Prepare for Airbnb after building a solid foundation and when you are ready to t
 
 Ultimately, a strong core preparation covering Arrays, Hash Tables, and Strings benefits you for both. Then, branch your deep-dive topics based on your target company: DFS/Graphs for Nutanix, and Dynamic Programming for Airbnb.
 
-For specific question lists, visit the Nutanix and Airbnb pages on CodeJeet: [/company/nutanix](/company/nutanix) and [/company/airbnb](/company/airbnb).
+For specific question lists, visit the Nutanix and Airbnb pages on TidyBit: [/company/nutanix](/company/nutanix) and [/company/airbnb](/company/airbnb).
