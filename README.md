@@ -49,11 +49,18 @@ pnpm format
 
 ### Deployment
 
+#### Cloudflare Pages
 ```bash
 pnpm run build:worker   # build for Cloudflare
 pnpm run preview        # local preview with Wrangler
 pnpm run deploy         # deploy to Cloudflare Pages
 ```
+
+#### Vercel
+1. Connect your GitHub repository to Vercel.
+2. Vercel will automatically detect the `vercel.json` configuration.
+3. The build command will run `pnpm run prebuild` followed by `next build`.
+4. Ensure you use `pnpm` if possible, though `npm` or `yarn` will also work with the provided config.
 
 ### Project Structure
 
